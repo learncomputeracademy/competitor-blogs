@@ -1,0 +1,382 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=385070",
+          "author": "Daniel Schwarz",
+          "description": "Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.\nCase Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/",
+          "publishedOn": "2025-03-25T12:47:18.000Z",
+          "wordCount": 4308,
+          "title": "Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/course-navigation-ui.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=385389",
+          "author": "Geoff Graham",
+          "description": "There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.\nSupport Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/support-logical-shorthands-in-css/",
+          "publishedOn": "2025-03-24T14:06:19.000Z",
+          "wordCount": 2075,
+          "title": "Support Logical Shorthands in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=385158",
+          "author": "Andy Clarke",
+          "description": "I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.\nRevisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/revisiting-css-border-image/",
+          "publishedOn": "2025-03-21T13:24:11.000Z",
+          "wordCount": 4278,
+          "title": "Revisiting CSS border-image",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/border-image-menu.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=385336",
+          "author": "Geoff Graham",
+          "description": "I’ve seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot more readable.\n:is(section, article, aside, \n…\nQuick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/",
+          "publishedOn": "2025-03-20T13:51:29.000Z",
+          "wordCount": 2234,
+          "title": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/is-where-funnels.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384529",
+          "author": "Juan Diego Rodríguez",
+          "description": "Going from the most basic ways to style lists directly in HTML to advanced customization techniques that are even capable of making things that aren't lists look like lists.\nStyling Counters in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/styling-counters-in-css/",
+          "publishedOn": "2025-03-17T16:25:04.000Z",
+          "wordCount": 7612,
+          "title": "Styling Counters in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/guide-styling-counters-2.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=383422",
+          "author": "Geoff Graham",
+          "description": "Scott Jehl released a course called Web Components Demystified. This is my full set of notes from Scott's course. You'll still want to take the course on your own, and I encourage you to because Scott is an excellent teacher who makes all of this stuff extremely accessible, even to noobs like me.\nWeb Components Demystified originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-components-demystified/",
+          "publishedOn": "2025-03-14T12:51:59.000Z",
+          "wordCount": 9171,
+          "title": "Web Components Demystified",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/web-components-demystified.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384941",
+          "author": "Bryan Robinson",
+          "description": "With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.\nPowering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/",
+          "publishedOn": "2025-03-11T15:26:10.000Z",
+          "wordCount": 5281,
+          "title": "Powering Search With Astro Actions and Fuse.js",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/astro-search.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=385112",
+          "author": "Geoff Graham",
+          "description": "The videos from Smashing Magazine's recent event on accessibility were just posted the other day. I was invited to host the panel discussion with the speakers, including a couple of personal heroes of mine, Stéphanie Walter and Sarah Fossheim. But I was just as stoked to meet Kardo Ayoub who shared his deeply personal story as a designer with a major visual impairment.\nSmashing Meets Accessibility originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smashing-meets-accessibility/",
+          "publishedOn": "2025-03-10T15:08:47.000Z",
+          "wordCount": 1837,
+          "title": "Smashing Meets Accessibility",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/smashing-meets-a11y.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384919",
+          "author": "Temani Afif",
+          "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.\nA CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/",
+          "publishedOn": "2025-03-07T13:14:12.000Z",
+          "wordCount": 4155,
+          "title": "A CSS-Only Star Rating Component and More! (Part 2)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=385117",
+          "author": "Geoff Graham",
+          "description": "This easily qualifies as a \"gotcha\" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.\nMaybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/",
+          "publishedOn": "2025-03-06T16:33:55.000Z",
+          "wordCount": 1928,
+          "title": "Maybe don’t use custom properties in shorthand properties",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384971",
+          "author": "Preethi",
+          "description": "Preethi demonstrates how to make a user interface to group selected items using CSS Grid using two different methods: the auto-fill keyword for stable layouts and the span keyword for flexible arrangements.\nGrouping Selection List Items Together With CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/grouping-selection-list-items-together-with-css-grid/",
+          "publishedOn": "2025-03-05T13:16:32.000Z",
+          "wordCount": 2730,
+          "title": "Grouping Selection List Items Together With CSS Grid",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/selection-list.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384685",
+          "author": "Juan Diego Rodríguez",
+          "description": "Arguments?! Return values?! What's crazier, you can use functions right now in Chrome Canary! So, after reading and playing around, here are my key insights on what you need to know about CSS Functions.\nFunctions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/functions-in-css/",
+          "publishedOn": "2025-03-03T13:34:22.000Z",
+          "wordCount": 3999,
+          "title": "Functions in CSS?!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384906",
+          "author": "Temani Afif",
+          "description": "In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.\nA CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/",
+          "publishedOn": "2025-02-28T14:03:32.000Z",
+          "wordCount": 4261,
+          "title": "A CSS-Only Star Rating Component and More! (Part 1)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+          "author": "hello@smashingmagazine.com (Teng Wei Herr)",
+          "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
+          "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+          "publishedOn": "2025-03-27T13:00:00.000Z",
+          "wordCount": 4488,
+          "title": "Adaptive Video Streaming With Dash.js In React",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
+          "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
+          "publishedOn": "2025-03-21T08:00:00.000Z",
+          "wordCount": 3954,
+          "title": "Previewing Content Changes In Your Work With document.designMode",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
+          "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
+          "publishedOn": "2025-03-17T10:00:00.000Z",
+          "wordCount": 4562,
+          "title": "Web Components Vs. Framework Components: What’s The Difference?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
+          "author": "hello@smashingmagazine.com (Anders Johansson)",
+          "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
+          "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
+          "publishedOn": "2025-03-13T08:00:00.000Z",
+          "wordCount": 5248,
+          "title": "How To Prevent WordPress SQL Injection Attacks",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "UX initiatives are often seen as a disruption rather than a means to solving existing problems in an organization. In this post, we’ll explore how you can build trust for your UX work, gain support, and make a noticeable impact. Part of [Measure UX and Design Impact](https://measure-ux.com/) by yours truly.",
+          "link": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
+          "publishedOn": "2025-03-11T15:00:00.000Z",
+          "wordCount": 3834,
+          "title": "How To Build Confidence In Your UX Work",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.",
+          "link": "https://smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/",
+          "publishedOn": "2025-03-06T10:00:00.000Z",
+          "wordCount": 3969,
+          "title": "How To Fix Largest Contentful Paint Issues With Subpart Analysis",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
+          "author": "hello@smashingmagazine.com (Kevin Leary)",
+          "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
+          "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
+          "publishedOn": "2025-03-03T08:00:00.000Z",
+          "wordCount": 5348,
+          "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
+          "publishedOn": "2025-02-28T13:00:00.000Z",
+          "wordCount": 4676,
+          "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "67e5643f0a2aebb29e2c2264",
+          "author": "Beau Carnes",
+          "description": "Excel is one of the most powerful tools for data analysis, organization, and automation. Whether you're a student, business professional, or data analyst, mastering Excel formulas and functions can significantly boost your productivity. However, with...",
+          "link": "https://www.freecodecamp.org/news/learn-the-top-excel-formulas-and-functions/",
+          "publishedOn": "2025-03-27T14:44:15.000Z",
+          "wordCount": 1220,
+          "title": "Learn the top Excel formulas and functions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743086651754/1f008643-281a-452a-bc45-c8247f23ddb9.png"
+        },
+        {
+          "id": "67e48bff04e3150220f40379",
+          "author": "Mark Mahoney",
+          "description": "In this tutorial, I’ll give you a comprehensive introduction to programming in C++. You don't need to have any previous programming experience in order to begin. Along the way, you will learn about the flow of control, variables, conditional statemen...",
+          "link": "https://www.freecodecamp.org/news/learn-programming-in-cpp/",
+          "publishedOn": "2025-03-26T23:21:35.000Z",
+          "wordCount": 6750,
+          "title": "An Animated Introduction to Programming in C++",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743028744653/12f33ee5-4ef4-47da-b50d-060a9ee327ce.png"
+        },
+        {
+          "id": "67e48bc10d600bc3806ccf54",
+          "author": "Fatuma Abdullahi",
+          "description": "Penpot is an open-source design tool for creating complete design systems. It is free, self-hostable, and allows multiple projects. Penpot supports reusable components and assets and allows files and libraries to be shared across projects. Penpot fil...",
+          "link": "https://www.freecodecamp.org/news/how-to-recreate-figma-components-in-penpot/",
+          "publishedOn": "2025-03-26T23:20:33.000Z",
+          "wordCount": 2463,
+          "title": "How to Move Figma Components to Penpot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743028701920/ef200f8f-888d-4658-a5b0-ffa483edbdcf.png"
+        },
+        {
+          "id": "67e434766d7e1561ea4bf0e6",
+          "author": "Beau Carnes",
+          "description": "Microservices architecture has become a popular approach for building scalable and maintainable applications. By breaking down large applications into smaller, independent services, developers can improve performance, maintainability, and scalability...",
+          "link": "https://www.freecodecamp.org/news/create-microservices-with-nestjs/",
+          "publishedOn": "2025-03-26T17:08:06.000Z",
+          "wordCount": 1143,
+          "title": "Create Microservices with NestJS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743008871537/ad2be682-1c63-4d10-9cd3-7b33a7451b9b.png"
+        },
+        {
+          "id": "67e42705cb510eea06095d36",
+          "author": "Shrijal Acharya",
+          "description": "Have you ever run into a situation where you want to test some local AI models, but your computer doesn't have enough specs to run them? Or maybe you just don't like bloating your computer with a ton of AI models? You're not alone in this. I’ve faced...",
+          "link": "https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/",
+          "publishedOn": "2025-03-26T16:10:45.000Z",
+          "wordCount": 4208,
+          "title": "How to Host Local LLMs in a Docker Container on Azure",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005422195/56c65ac2-7a0d-4bd6-b969-a4c02eb3c42e.png"
+        },
+        {
+          "id": "67e4265f7281ac30028843e1",
+          "author": "Omolade Ekpeni",
+          "description": "In today’s digital age, we expect our online experiences to be fast, reliable, and always available. But what happens behind the scenes to make our expectations a reality? The answer is Site Reliability Engineering (SRE). SRE is a discipline that ens...",
+          "link": "https://www.freecodecamp.org/news/what-is-site-reliability-engineering/",
+          "publishedOn": "2025-03-26T16:07:59.000Z",
+          "wordCount": 3329,
+          "title": "What is SRE? A Beginner's Guide to Site Reliability Engineering",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005263079/95dfe528-a274-4172-8a06-46187c1668eb.png"
+        },
+        {
+          "id": "67e425c92a171465d4fb4cce",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "If you’re a YouTube content creator, you’ll make data-driven decisions when posting content. This helps you target the right audience when creating your videos. YouTube Studio provides YouTube Analytics, where you can get comprehensive data about you...",
+          "link": "https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/",
+          "publishedOn": "2025-03-26T16:05:29.000Z",
+          "wordCount": 2822,
+          "title": "How to Extract  YouTube Analytics Data and Analyze in Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005089726/39e2323d-8f7b-4bf4-94cb-288aeb9cea4f.png"
+        },
+        {
+          "id": "67e2ec52cd467794ee79d63e",
+          "author": "Ijeoma Igboagu",
+          "description": "As a DevOps engineer, it is crucial to master at least one cloud provider. Cloud services simplify storage, data migration, and CI/CD workflows and help make these tasks easier and more efficient. If you need a basic introduction to cloud computing, ...",
+          "link": "https://www.freecodecamp.org/news/how-to-connect-your-aws-ec2-instance-to-vs-code/",
+          "publishedOn": "2025-03-25T17:48:02.000Z",
+          "wordCount": 2575,
+          "title": "How to Connect Your AWS EC2 Instance to VS Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397603245/c1ca0496-dbab-4570-8b6b-cb4bac5f72c1.png"
+        },
+        {
+          "id": "67e2d66c64d44185d5a6d406",
+          "author": "Victoria Nduka",
+          "description": "If you're new to cloud native technologies, you may have heard the term 'observability' before. But what exactly does it mean? Is it simply the ability to observe? And if so, what are we observing and why? I had the same questions when I started lear...",
+          "link": "https://www.freecodecamp.org/news/observability-in-cloud-native-applications/",
+          "publishedOn": "2025-03-25T16:14:36.000Z",
+          "wordCount": 2846,
+          "title": "A Beginner's Guide to Observability in Cloud Native Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917070693/fa372981-fb20-4230-bd9f-43b7255b8ced.png"
+        },
+        {
+          "id": "67e2d5e080e11112e050be00",
+          "author": "Rob Walters",
+          "description": "AWS Lambda is a computing service that enables you to run arbitrary code functions without needing to provision, manage, or scale servers. It’s often used in the logic tier of a multi-tier architecture to handle tasks such as processing files in S3 o...",
+          "link": "https://www.freecodecamp.org/news/how-to-orchestrate-aws-lambda-with-graphql-and-apollo-connectors/",
+          "publishedOn": "2025-03-25T16:12:16.000Z",
+          "wordCount": 3864,
+          "title": "Orchestrating AWS Lambda with GraphQL and Apollo Connectors",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917115054/07184be6-5384-4861-a676-b72c06ff7c65.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
