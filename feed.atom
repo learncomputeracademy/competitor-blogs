@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-28T07:19:54.532Z</id>
+    <id>urn:2025-03-28T08:26:18.961Z</id>
     <title>Blogs</title>
-    <updated>2025-03-28T07:19:54.532Z</updated>
+    <updated>2025-03-28T08:26:18.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Improve Web Design Skills- A Complete Guide]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3365</id>
+        <link href="https://www.karmickinstitute.com/resources/how-to-improve-web-design-skills/"/>
+        <updated>2025-03-28T07:01:07.000Z</updated>
+        <summary type="html"><![CDATA[How do you convert your passion for design into a rewarding career in this ferociously competitive digital landscape? The foundation for success is developing comprehensive web design skills, specifically in UI and UX. Learn actionable strategies to thrive in the ever-evolving world of web design and build a sustainable career. Let’s dive in! Great user […]
+The post How To Improve Web Design Skills- A Complete Guide appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MeitY Received Over 187 Proposals for Developing Large Language Models Under the IndiaAI Mission]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3366</id>
+        <link href="https://www.karmickinstitute.com/resources/meity-received-over-187-proposals-for-developing-large-language-models-under-the-indiaai-mission/"/>
+        <updated>2025-03-28T06:12:53.000Z</updated>
+        <summary type="html"><![CDATA[The Ministry of Electronics and Information Technology (MietY) disclosed that researchers, entrepreneurs, and startups have responded enthusiastically to the IndiaAI mission. It has received around 187 proposals focused on creating homegrown large language models (LLMs). Abhishek Singh, additional secretary at MietY, revealed that 187 proposals were submitted following a Call for Proposals launched on January […]
+The post MeitY Received Over 187 Proposals for Developing Large Language Models Under the IndiaAI Mission appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Prasenjit Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Investment Banking Courses in Fiji With Placements]]></title>
+        <id>https://iimskills.com/?p=110657</id>
+        <link href="https://iimskills.com/investment-banking-courses-in-fiji/"/>
+        <updated>2025-03-27T12:13:27.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Investment Banking Courses in Fiji With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Ananya Rao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 Exclusive Advantages of CSS a Programmer Should Know]]></title>
         <id>https://www.w3webschool.com/blog/?p=18569</id>
@@ -14,6 +46,37 @@
 The post 15 Exclusive Advantages of CSS a Programmer Should Know appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Investment Banking Courses in Ethiopia With Placements]]></title>
+        <id>https://iimskills.com/?p=110636</id>
+        <link href="https://iimskills.com/investment-banking-courses-in-ethiopia/"/>
+        <updated>2025-03-27T10:41:31.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Investment Banking Courses in Ethiopia With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Ananya Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Medical Coding Courses in Luxembourg With Placements]]></title>
+        <id>https://iimskills.com/?p=110605</id>
+        <link href="https://iimskills.com/medical-coding-courses-in-luxembourg/"/>
+        <updated>2025-03-27T07:20:17.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Medical Coding Courses in Luxembourg With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Dr Surya S</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[According to Bill Gates, AI Will Replace Most Jobs, Except These Three]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3362</id>
+        <link href="https://www.karmickinstitute.com/resources/according-to-bill-gates-ai-will-replace-most-jobs-except-these-three/"/>
+        <updated>2025-03-27T06:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Since OpenAI introduced ChatGPT in 2022, AI has remarkably impacted our thinking and daily practices. Despite AI chatbots currently serving as helping hands in many workplaces, professionals are anxious about potential job losses across different fields. Microsoft co-founder Bill Gates, who last month predicted that AI would take over most tasks, has now shared his […]
+The post According to Bill Gates, AI Will Replace Most Jobs, Except These Three appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Prasenjit Das</name>
         </author>
     </entry>
     <entry>
@@ -28,6 +91,16 @@ The post Top 8 Advantages of Python Programming Language appeared first on W3web
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top 10 Medical Coding Courses in Liechtenstein With Placements]]></title>
+        <id>https://iimskills.com/?p=110569</id>
+        <link href="https://iimskills.com/medical-coding-courses-in-liechtenstein/"/>
+        <updated>2025-03-26T11:27:28.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Medical Coding Courses in Liechtenstein With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Dr Surya S</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introduction to Web Development: Beginner’s Syllabus in 2025]]></title>
         <id>https://www.moople.in/blog/?p=15102</id>
         <link href="https://www.moople.in/blog/introduction-to-web-development-beginners-guide-2025/"/>
@@ -39,6 +112,17 @@ The post Introduction to Web Development: Beginner’s Syllabus in 2025 appeared
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Indian Police Will Leverage AI Technology to Track Released Criminals]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3358</id>
+        <link href="https://www.karmickinstitute.com/resources/indian-police-will-leverage-ai-technology-to-track-released-criminals/"/>
+        <updated>2025-03-26T06:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Indian police are using AI (artificial intelligence) and cutting-edge technology to track released criminals. Andhra Pradesh police in Vijaywada have already started leveraging AI for jail monitoring to prevent anti-social behaviour. The police state that AI monitoring will serve as an early warning system. If any suspicious behaviour is detected, local teams will be alerted […]
+The post Indian Police Will Leverage AI Technology to Track Released Criminals appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Prasenjit Das</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PostgreSQL vs MySQL: Comparing the Key Differences]]></title>
         <id>https://www.w3webschool.com/blog/?p=18524</id>
         <link href="https://www.w3webschool.com/blog/postgresql-vs-mysql/"/>
@@ -47,6 +131,29 @@ The post Introduction to Web Development: Beginner’s Syllabus in 2025 appeared
 The post PostgreSQL vs MySQL: Comparing the Key Differences appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rising Need For Upskilling Is Fueling AI Growth in India’s Edtech Sector]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3348</id>
+        <link href="https://www.karmickinstitute.com/resources/the-rising-need-for-upskilling-is-fueling-ai-growth-in-indias-edtech-sector/"/>
+        <updated>2025-03-25T06:40:42.000Z</updated>
+        <summary type="html"><![CDATA[The Indian Edtech sector is experiencing a momentous transformation driven by rising demand for upskilling and the increasing implementation of AI (artificial intelligence). An increasing number of learners, from experienced to students, want to explore this cutting-edge technology. BrightCHAMPS, an edtech firm providing educational courses for K-12 students, found that 58% of students worldwide have […]
+The post The Rising Need For Upskilling Is Fueling AI Growth in India’s Edtech Sector appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Prasenjit Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Digital Marketing Courses in Dumdum]]></title>
+        <id>https://99eedu.com/?p=3695</id>
+        <link href="https://99eedu.com/top-10-digital-marketing-courses-in-dumdum/"/>
+        <updated>2025-03-24T11:08:46.000Z</updated>
+        <summary type="html"><![CDATA[With the rise of the Internet, businesses of all types are turning to online marketing for a wider reach in today’s fast-paced digital world. “Join the best Digital Marketing Courses in Dumdum at 99eedu Institute. Learn SEO, SMM, PPC & more with expert training and job assistance.  job seekers and professionals looking to upskill can take … 
+Continue reading "Top 10 Digital Marketing Courses in Dumdum"
+The post Top 10 Digital Marketing Courses in Dumdum appeared first on 99institute.]]></summary>
+        <author>
+            <name>99institute</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +201,40 @@ The post An Essential Guide to Different Types of APIs appeared first on W3websc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top 10 Data Science Programming Languages in 2025]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3314</id>
+        <link href="https://www.karmickinstitute.com/resources/top-10-data-science-programming-languages-2025/"/>
+        <updated>2025-03-21T10:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Considering a career in data science but don’t know which data science programming language will be your winning hand in 2025? We are here to illuminate your path by revealing top data Science languages that will propel your career forward. Let’s dive in! “Data is the new oil.” — Clive Humby. Undoubtedly, data science is […]
+The post Top 10 Data Science Programming Languages in 2025 appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Core Updates 2025: Latest Changes & SEO Impact]]></title>
+        <id>https://99eedu.com/?p=3687</id>
+        <link href="https://99eedu.com/google-core-updates-2025-latest-changes-seo-impact/"/>
+        <updated>2025-03-21T09:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Google Core Updates have had a substantial historical impact on website ranking and how search results matched user intent over the years, since 2011. They are breakthrough changes in the Google algorithm updates affecting businesses, marketers, and SEO professionals all over the world. It is important to understand these updates to maintain and improve website rankings, adapt to … 
+Continue reading "Google Core Updates 2025: Latest Changes & SEO Impact"
+The post Google Core Updates 2025: Latest Changes & SEO Impact appeared first on 99institute.]]></summary>
+        <author>
+            <name>99institute</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government Officials Are in Discussions With Elon Musk’s X Over Grok AI’s Use of Offensive Language]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3312</id>
+        <link href="https://www.karmickinstitute.com/resources/government-officials-are-in-discussions-with-elon-musks-x-over-grok-ais-use-of-offensive-language/"/>
+        <updated>2025-03-21T05:53:23.000Z</updated>
+        <summary type="html"><![CDATA[The Ministry of Electronics and Information Technology (MeitY) is in discussion with Elon Musk’s X regarding instances of Grok AI producing responses containing Hindi slang and foul language. The IT ministry is examining the issue and taking steps to understand the reasons behind the chatbot’s inappropriate language. Ministry sources are saying, “We are in touch, […]
+The post Government Officials Are in Discussions With Elon Musk’s X Over Grok AI’s Use of Offensive Language appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Role of Project-Based Learning in Web Development Courses]]></title>
         <id>https://www.moople.in/blog/?p=15086</id>
         <link href="https://www.moople.in/blog/the-role-of-project-based-learning-in-web-development-courses/"/>
@@ -105,6 +246,29 @@ The post The Role of Project-Based Learning in Web Development Courses appeared 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[India’s AI Leadership Will Drive Global Innovation, Says Bill Gates]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3301</id>
+        <link href="https://www.karmickinstitute.com/resources/indias-ai-leadership-will-drive-global-innovation-says-bill-gates/"/>
+        <updated>2025-03-20T06:21:29.000Z</updated>
+        <summary type="html"><![CDATA[New Delhi, 20 March 2025: Microsoft’s former CEO, Bill Gates highlighted India’s accomplishments in AI, expressing his belief that the nation’s leadership will propel global innovation. While addressing the ‘Future Forward’ forum, a gathering of global leaders and changemakers, Gates said, “Similar to how DPI (Digital Public Infrastructure) has garnered global attention, India’s leadership in […]
+The post India’s AI Leadership Will Drive Global Innovation, Says Bill Gates appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Digital Marketing Courses in Hyderabad]]></title>
+        <id>https://99eedu.com/?p=3681</id>
+        <link href="https://99eedu.com/top-10-digital-marketing-courses-in-hyderabad/"/>
+        <updated>2025-03-19T12:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Digital marketing is the lifeblood of businesses in this fast-paced era. No matter what you do, be it a student, entrepreneur, or working professional, pursuing a digital marketing course in Hyderabad will help you gain access to several fruitful career opportunities. As more and more companies look for skilled marketers, various training institutes have developed courses that enable … 
+Continue reading "Top 10 Digital Marketing Courses in Hyderabad"
+The post Top 10 Digital Marketing Courses in Hyderabad appeared first on 99institute.]]></summary>
+        <author>
+            <name>99institute</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What is the Difference Between SEO and SEM?]]></title>
         <id>https://www.w3webschool.com/blog/?p=18440</id>
         <link href="https://www.w3webschool.com/blog/difference-between-seo-and-sem/"/>
@@ -113,6 +277,28 @@ The post The Role of Project-Based Learning in Web Development Courses appeared 
 The post What is the Difference Between SEO and SEM? appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok, Elon Musk’s AI, is Causing Unease Among Indian Right-wing Propagandists]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3293</id>
+        <link href="https://www.karmickinstitute.com/resources/grok-elon-musks-ai-is-causing-unease-among-indian-right-wing-propagandists/"/>
+        <updated>2025-03-19T06:19:18.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s AI tool, Grok has left conservative media figures and media worried with its blunt statements about Prime Minister Narendra Modi, Home Minister Amit Shah, and other renowned BJP leaders. Additionally, it gives unfiltered remarks on caste and other sensitive subjects in an environment where criticism is unwelcome.  Called the ‘world’s most powerful AI […]
+The post Grok, Elon Musk’s AI, is Causing Unease Among Indian Right-wing Propagandists appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Career In Full-Stack Web Development (2025 Guide)]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3280</id>
+        <link href="https://www.karmickinstitute.com/resources/how-to-make-a-career-in-full-stack-web-development-2025-guide/"/>
+        <updated>2025-03-19T05:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Thinking of becoming a full-stack web developer? You’ve made an excellent career choice. Mastering full-stack development skills can greatly boost your earning potential. But where do you start? This 2025 guide serves as your full stack development roadmap, providing a clear path on how to make a career In full-stack web development!  Let’s dive in! […]
+The post How to Make a Career In Full-Stack Web Development (2025 Guide) appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
         </author>
     </entry>
     <entry>
@@ -157,6 +343,16 @@ The post 7 Amazing Meta Description Generator Tools For Higher CTR appeared firs
 The post What is the Difference Between HTML and XML? appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Investment Banking Courses in Eswatini With Placements]]></title>
+        <id>https://iimskills.com/?p=110455</id>
+        <link href="https://iimskills.com/investment-banking-courses-in-eswatini/"/>
+        <updated>2025-03-12T12:54:41.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Investment Banking Courses in Eswatini With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Ananya Rao</name>
         </author>
     </entry>
     <entry>
@@ -215,6 +411,18 @@ The post Comparison between Animation Courses Taught by Institutions appeared fi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top 10 Digital Marketing Courses in SaltLake Kolkata]]></title>
+        <id>https://99eedu.com/?p=3672</id>
+        <link href="https://99eedu.com/top-10-digital-marketing-courses-in-saltlake-kolkata/"/>
+        <updated>2025-03-06T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Digital Marketing Courses in Saltlake Kolkata have turned from an option into a necessity in the fast-growing digital world. The world of marketing has moved towards the digital age, and people, irrespective of any business, have utilized their sales, reach, and brand awareness through the digital world. Hence, there is an ever-increasing need for competent digital marketers. So … 
+Continue reading "Top 10 Digital Marketing Courses in SaltLake Kolkata"
+The post Top 10 Digital Marketing Courses in SaltLake Kolkata appeared first on 99institute.]]></summary>
+        <author>
+            <name>99institute</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Balancing Challenge and Enjoyment in Game Design]]></title>
         <id>https://www.moople.in/blog/?p=15057</id>
         <link href="https://www.moople.in/blog/balancing-challenge-and-enjoyment-in-game-design/"/>
@@ -223,6 +431,56 @@ The post Comparison between Animation Courses Taught by Institutions appeared fi
 The post Balancing Challenge and Enjoyment in Game Design  appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Financial Modeling Courses In Panama With Placements]]></title>
+        <id>https://iimskills.com/?p=103641</id>
+        <link href="https://iimskills.com/financial-modeling-courses-in-panama/"/>
+        <updated>2025-03-04T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Financial Modeling Courses In Panama With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Anuradha Akella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Investment Banking Courses In Montenegro With Placements]]></title>
+        <id>https://iimskills.com/?p=105198</id>
+        <link href="https://iimskills.com/investment-banking-courses-in-montenegro/"/>
+        <updated>2025-03-04T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Investment Banking Courses In Montenegro With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Pritisha Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Investment Banking Courses in Guatemala With Placement]]></title>
+        <id>https://iimskills.com/?p=105833</id>
+        <link href="https://iimskills.com/investment-banking-courses-in-guatemala/"/>
+        <updated>2025-03-04T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Investment Banking Courses in Guatemala With Placement appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Joseph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Investment Banking Courses In Morocco With Placements]]></title>
+        <id>https://iimskills.com/?p=106128</id>
+        <link href="https://iimskills.com/investment-banking-courses-in-morocco/"/>
+        <updated>2025-03-04T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Investment Banking Courses In Morocco With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Pritisha Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Investment Banking Courses In Solomon Island With Placements]]></title>
+        <id>https://iimskills.com/?p=106360</id>
+        <link href="https://iimskills.com/investment-banking-courses-in-solomon-island/"/>
+        <updated>2025-03-04T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[The post Top 10 Investment Banking Courses In Solomon Island With Placements appeared first on IIM SKILLS.]]></summary>
+        <author>
+            <name>Debarati Das</name>
         </author>
     </entry>
     <entry>
@@ -245,6 +503,18 @@ The post Why Are Pixar Animation Studio’s Movies So Good? appeared first on Mo
 The post What Are the Best Fonts for Logo Design? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Digital Marketing Training Institutes in Bangalore]]></title>
+        <id>https://99eedu.com/?p=3663</id>
+        <link href="https://99eedu.com/top-10-digital-marketing-training-institutes-in-bangalore/"/>
+        <updated>2025-02-27T12:31:58.000Z</updated>
+        <summary type="html"><![CDATA[As businesses are gradually adopting online channels for their growth, there is a growing demand for digital marketing professionals. Bangalore, the Silicon Valley of India, provides aspiring marketers with some of the best digital marketing training institutes in Bangalore equipped with the latest skills. With their extensive course offerings, these institutes would prepare students for all the … 
+Continue reading "Top 10 Digital Marketing Training Institutes in Bangalore"
+The post Top 10 Digital Marketing Training Institutes in Bangalore appeared first on 99institute.]]></summary>
+        <author>
+            <name>99institute</name>
         </author>
     </entry>
     <entry>
