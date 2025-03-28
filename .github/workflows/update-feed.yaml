@@ -24,6 +24,12 @@ jobs:
         run: npm i
       - name: Build the feed
         run: npm run build
+      - name: Copy custom CSS
+        run: cp custom.css public/custom.css
+      - name: Inject custom CSS into HTML
+        run: node inject-css.js
+      - name: Inject custom HTML
+        run: node inject-html.js
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
