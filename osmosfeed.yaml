@@ -8,7 +8,7 @@
 siteTitle: "Blogs"
 # cacheUrl: https://learncomputeracademy.github.io/competitor-blogs/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.webskittersacademy.in/feed/ # Get new feature announcement via this feed
+  - href: https://www.w3webschool.com/blog/feed/
+  - href: https://www.moople.in/blog/feed/
+  - href: https://www.blog.creativeitinstitute.com/feed/

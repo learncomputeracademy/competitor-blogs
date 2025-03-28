@@ -4,7 +4,7 @@ const htmlPath = "public/index.html";
 let html = fs.readFileSync(htmlPath, "utf8");
 
 const customHtml = `
-  <footer style="text-align: center; padding: 10px; background-color: #16a085; color: white;">
+  <footer style="text-align: center;">
     <p>Blogs - Powered by Computer Center © 2025</p>
   </footer>
   <script>

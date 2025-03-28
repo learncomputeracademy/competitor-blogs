@@ -16,3 +16,53 @@
     --base0E: #b16286;
     --base0F: #8f3f71;
   }
+
+
+  /* Grid layout for cards */
+  main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    padding: 20px;
+  }
+
+  /* Card styling for each article */
+  article {
+    background-color: var(--base01);
+    border: 1px solid var(--base02);
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+  }
+
+  /* Hover effect for cards */
+  article:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Title styling */
+  article h2 {
+    font-size: 16px;
+    margin: 0 0 10px 0;
+    color: var(--base05);
+  }
+
+  /* Description styling */
+  article p {
+    font-size: 14px;
+    color: var(--base04);
+    margin: 0 0 10px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+
+  /* Date styling */
+  article time {
+    font-size: 12px;
+    color: var(--base03);
+  }
