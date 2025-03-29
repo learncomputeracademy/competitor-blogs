@@ -12,6 +12,16 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=18606",
+          "author": "Poulami Dalal",
+          "description": "8 Best Shopify Alternatives for Your eCommerce Business Are you seeking some effective Shopify alternatives? Do you think the pricing of Shopify, the limited features for customization, and transaction fees are overhyped and do not resonate anymore with your online store? Some business owners are looking for better choices that resonate with their business budget ... Read more\nThe post 8 Best Shopify Alternatives for Your eCommerce Business appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/shopify-alternatives/",
+          "publishedOn": "2025-03-29T11:56:45.000Z",
+          "wordCount": 4913,
+          "title": "8 Best Shopify Alternatives for Your eCommerce Business",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Shopify-Alternatives-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=18569",
           "author": "Poulami Dalal",
           "description": "15 Exclusive Advantages of CSS a Programmer Should Know Are you facing difficulties in styling your web pages properly? Is your code challenging to manage and messy? Without CSS usage, making a captivating and responsive website is a nightmare! With only HTML, the styling becomes challenging. It needs continuous coding, which makes your website slow ... Read more\nThe post 15 Exclusive Advantages of CSS a Programmer Should Know appeared first on W3webschool Blog.",
@@ -100,16 +110,6 @@
           "wordCount": 4987,
           "title": "What is the Difference Between HTML and XML?",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Difference-Between-HTML-and-XML-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18238",
-          "author": "Poulami Dalal",
-          "description": "10+ Amazing Features of MySQL to Learn in 2025 Do you want to master the advanced techniques of MySQL in 2025? Are you looking to learn the most dynamic features of MySQL to manage databases? This constantly evolving relational database management system keeps itself updated with new algorithms and becomes highly secure and easy to ... Read more\nThe post 10+ Amazing Features of MySQL to Learn in 2025 appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/features-of-mysql/",
-          "publishedOn": "2025-03-12T12:00:18.000Z",
-          "wordCount": 4971,
-          "title": "10+ Amazing Features of MySQL to Learn in 2025",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Features-of-MySQL-1-1-1100x619.png"
         }
       ]
     },
@@ -245,113 +245,6 @@
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
       "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": []
-    },
-    {
-      "title": "IIM SKILLS",
-      "feedUrl": "https://iimskills.com/feed/",
-      "siteUrl": "https://iimskills.com/",
-      "articles": [
-        {
-          "id": "https://iimskills.com/?p=110777",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Sri Lanka With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-sri-lanka/",
-          "publishedOn": "2025-03-28T12:50:34.000Z",
-          "wordCount": 144204,
-          "title": "Top 10 Medical Coding Courses in Sri Lanka With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/Medical-Coding-Courses-in-Sri-Lanka.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110746",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Nicaragua With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-nicaragua/",
-          "publishedOn": "2025-03-28T11:04:00.000Z",
-          "wordCount": 144034,
-          "title": "Top 10 Medical Coding Courses in Nicaragua With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/Medical-Coding-Courses-in-Nicaragua.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110705",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in the Netherlands With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-the-netherlands/",
-          "publishedOn": "2025-03-28T08:48:51.000Z",
-          "wordCount": 144273,
-          "title": "Top 10 Medical Coding Courses in the Netherlands With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/Medical-Coding-Courses-in-the-Netherlands.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110657",
-          "author": "Ananya Rao",
-          "description": "The post Top 10 Investment Banking Courses in Fiji With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-fiji/",
-          "publishedOn": "2025-03-27T12:13:27.000Z",
-          "wordCount": 145271,
-          "title": "Top 10 Investment Banking Courses in Fiji With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=110636",
-          "author": "Ananya Rao",
-          "description": "The post Top 10 Investment Banking Courses in Ethiopia With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-ethiopia/",
-          "publishedOn": "2025-03-27T10:41:31.000Z",
-          "wordCount": 145207,
-          "title": "Top 10 Investment Banking Courses in Ethiopia With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=110605",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Luxembourg With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-luxembourg/",
-          "publishedOn": "2025-03-27T07:20:17.000Z",
-          "wordCount": 144685,
-          "title": "Top 10 Medical Coding Courses in Luxembourg With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/IIM-SKILLS-Transorze-MKodakco-National-University-AAPCUdemy-Medical-Coding-Courses-in-Luxembourg.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110569",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Liechtenstein With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-liechtenstein/",
-          "publishedOn": "2025-03-26T11:27:28.000Z",
-          "wordCount": 144841,
-          "title": "Top 10 Medical Coding Courses in Liechtenstein With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/IIM-SKILLS-UMA-Kodakco-Kodakco-National-University-AAPC-Medical-Coding-Courses-in-Liechtenstein.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110455",
-          "author": "Ananya Rao",
-          "description": "The post Top 10 Investment Banking Courses in Eswatini With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-eswatini/",
-          "publishedOn": "2025-03-12T12:54:41.000Z",
-          "wordCount": 145957,
-          "title": "Top 10 Investment Banking Courses in Eswatini With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=103641",
-          "author": "Anuradha Akella",
-          "description": "The post Top 10 Financial Modeling Courses In Panama With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/financial-modeling-courses-in-panama/",
-          "publishedOn": "2025-03-04T12:04:45.000Z",
-          "wordCount": 145281,
-          "title": "Top 10 Financial Modeling Courses In Panama With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=105198",
-          "author": "Pritisha Roy",
-          "description": "The post Top 10 Investment Banking Courses In Montenegro With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-montenegro/",
-          "publishedOn": "2025-03-04T12:04:45.000Z",
-          "wordCount": 144846,
-          "title": "Top 10 Investment Banking Courses In Montenegro With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        }
-      ]
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
