@@ -12,6 +12,16 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=18649",
+          "author": "Poulami Dalal",
+          "description": "8 Best Photoshop Alternatives that Designers Must Know! Do you wish to edit images like a Pro but take a step back due to the expensive pricing of Photoshop? Most of the designers are facing this issue. They require stunning tools without the higher pricing. Photoshop is excellent, and plenty of options are available there. ... Read more\nThe post 8 Best Photoshop Alternatives that Designers Must Know! appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/photoshop-alternative/",
+          "publishedOn": "2025-04-01T11:44:44.000Z",
+          "wordCount": 4943,
+          "title": "8 Best Photoshop Alternatives that Designers Must Know!",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Photoshop-Alternatives-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=18606",
           "author": "Poulami Dalal",
           "description": "8 Best Shopify Alternatives for Your eCommerce Business Are you seeking some effective Shopify alternatives? Do you think the pricing of Shopify, the limited features for customization, and transaction fees are overhyped and do not resonate anymore with your online store? Some business owners are looking for better choices that resonate with their business budget ... Read more\nThe post 8 Best Shopify Alternatives for Your eCommerce Business appeared first on W3webschool Blog.",
@@ -74,7 +84,7 @@
         {
           "id": "https://www.w3webschool.com/blog/?p=18440",
           "author": "Poulami Dalal",
-          "description": "What is the Difference Between SEO and SEM? Are you feeling overwhelmed between SEO and SEM? One of the most common misconceptions that many people have about SEO and SEM is they are both interchangeable terms. They sound pretty similar, and people might get confused. But this is not correct, they both serve different purposes ... Read more\nThe post What is the Difference Between SEO and SEM? appeared first on W3webschool Blog.",
+          "description": "What is the Difference Between SEO and SEM? Are you feeling overwhelmed between SEO and SEM? One of the most common misconceptions that many people have about SEO and SEM is they are both interchangeable terms. They sound pretty similar, and people might get confused.  But this is not correct, they both serve different purposes ... Read more\nThe post What is the Difference Between SEO and SEM? appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/difference-between-seo-and-sem/",
           "publishedOn": "2025-03-19T12:22:52.000Z",
           "wordCount": 5157,
@@ -100,16 +110,6 @@
           "wordCount": 4898,
           "title": "7 Amazing Meta Description Generator Tools For Higher CTR",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/META-DESCRIPTION-GENERATOR--1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18273",
-          "author": "Poulami Dalal",
-          "description": "What is the Difference Between HTML and XML? Do you feel confused between the two popular concepts of programming, HTML and XML? Most of the individuals are facing the same issue! They are markup languages but offer different functionality and serve distinct purposes. If you aim to design stunning web pages, then HTML is perfect ... Read more\nThe post What is the Difference Between HTML and XML? appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/difference-between-html-and-xml/",
-          "publishedOn": "2025-03-13T11:40:31.000Z",
-          "wordCount": 4987,
-          "title": "What is the Difference Between HTML and XML?",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Difference-Between-HTML-and-XML-1100x619.png"
         }
       ]
     },
@@ -223,121 +223,24 @@
     {
       "title": "Blog – Creative IT Institute",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://3.7.156.149/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": []
-    },
-    {
-      "title": "IIM SKILLS",
-      "feedUrl": "https://iimskills.com/feed/",
-      "siteUrl": "https://iimskills.com/",
-      "articles": [
-        {
-          "id": "https://iimskills.com/?p=110777",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Sri Lanka With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-sri-lanka/",
-          "publishedOn": "2025-03-28T12:50:34.000Z",
-          "wordCount": 144204,
-          "title": "Top 10 Medical Coding Courses in Sri Lanka With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/Medical-Coding-Courses-in-Sri-Lanka.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110746",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Nicaragua With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-nicaragua/",
-          "publishedOn": "2025-03-28T11:04:00.000Z",
-          "wordCount": 144034,
-          "title": "Top 10 Medical Coding Courses in Nicaragua With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/Medical-Coding-Courses-in-Nicaragua.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110705",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in the Netherlands With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-the-netherlands/",
-          "publishedOn": "2025-03-28T08:48:51.000Z",
-          "wordCount": 144273,
-          "title": "Top 10 Medical Coding Courses in the Netherlands With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/Medical-Coding-Courses-in-the-Netherlands.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110657",
-          "author": "Ananya Rao",
-          "description": "The post Top 10 Investment Banking Courses in Fiji With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-fiji/",
-          "publishedOn": "2025-03-27T12:13:27.000Z",
-          "wordCount": 145271,
-          "title": "Top 10 Investment Banking Courses in Fiji With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=110636",
-          "author": "Ananya Rao",
-          "description": "The post Top 10 Investment Banking Courses in Ethiopia With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-ethiopia/",
-          "publishedOn": "2025-03-27T10:41:31.000Z",
-          "wordCount": 145207,
-          "title": "Top 10 Investment Banking Courses in Ethiopia With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=110605",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Luxembourg With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-luxembourg/",
-          "publishedOn": "2025-03-27T07:20:17.000Z",
-          "wordCount": 144685,
-          "title": "Top 10 Medical Coding Courses in Luxembourg With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/IIM-SKILLS-Transorze-MKodakco-National-University-AAPCUdemy-Medical-Coding-Courses-in-Luxembourg.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110569",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Liechtenstein With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-liechtenstein/",
-          "publishedOn": "2025-03-26T11:27:28.000Z",
-          "wordCount": 144841,
-          "title": "Top 10 Medical Coding Courses in Liechtenstein With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/03/IIM-SKILLS-UMA-Kodakco-Kodakco-National-University-AAPC-Medical-Coding-Courses-in-Liechtenstein.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=110455",
-          "author": "Ananya Rao",
-          "description": "The post Top 10 Investment Banking Courses in Eswatini With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-eswatini/",
-          "publishedOn": "2025-03-12T12:54:41.000Z",
-          "wordCount": 146099,
-          "title": "Top 10 Investment Banking Courses in Eswatini With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=103641",
-          "author": "Anuradha Akella",
-          "description": "The post Top 10 Financial Modeling Courses In Panama With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/financial-modeling-courses-in-panama/",
-          "publishedOn": "2025-03-04T12:04:45.000Z",
-          "wordCount": 145139,
-          "title": "Top 10 Financial Modeling Courses In Panama With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=105198",
-          "author": "Pritisha Roy",
-          "description": "The post Top 10 Investment Banking Courses In Montenegro With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-montenegro/",
-          "publishedOn": "2025-03-04T12:04:45.000Z",
-          "wordCount": 144704,
-          "title": "Top 10 Investment Banking Courses In Montenegro With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        }
-      ]
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3372",
+          "author": "Prasenjit Das",
+          "description": "Amid the job-loss fear arising from increasing implementation of AI (artificial intelligence), a Reddit post went viral about a Class 10 student in India, nicknamed “Musk” on the platform, making money with AI. This kid used an AI website builder, spent just ₹2,500 and made over ₹1.5 lakh in two months by building and selling […]\nThe post A class 10 Student Made Over ₹1.5 lakh in 2 Months Building AI Websites, Claims Redditor appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/a-class-10-student-made-over-%e2%82%b91-5-lakh-in-2-months-building-ai-websites-claims-redditor/",
+          "publishedOn": "2025-04-01T06:08:34.000Z",
+          "wordCount": 3683,
+          "title": "A class 10 Student Made Over ₹1.5 lakh in 2 Months Building AI Websites, Claims Redditor",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/A-Class-10-Student-Made-Over-₹1.5-lakh-in-2-Months-Building-AI-Websites-1.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3365",
           "author": "Tanmay Das",
@@ -427,16 +330,6 @@
           "wordCount": 3881,
           "title": "Grok, Elon Musk’s AI, is Causing Unease Among Indian Right-wing Propagandists",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Gork-AI-SMO-Post.jpg"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3280",
-          "author": "Tanmay Das",
-          "description": "Thinking of becoming a full-stack web developer? You’ve made an excellent career choice. Mastering full-stack development skills can greatly boost your earning potential. But where do you start? This 2025 guide serves as your full stack development roadmap, providing a clear path on how to make a career In full-stack web development!  Let’s dive in! […]\nThe post How to Make a Career In Full-Stack Web Development (2025 Guide) appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/how-to-make-a-career-in-full-stack-web-development-2025-guide/",
-          "publishedOn": "2025-03-19T05:48:06.000Z",
-          "wordCount": 6356,
-          "title": "How to Make a Career In Full-Stack Web Development (2025 Guide)",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/How-to-Make-a-Career-In-Full-Stack-Web-Development-2025-Guide.webp"
         }
       ]
     },
@@ -451,7 +344,7 @@
           "description": "With the rise of the Internet, businesses of all types are turning to online marketing for a wider reach in today’s fast-paced digital world. “Join the best Digital Marketing Courses in Dumdum at 99eedu Institute. Learn SEO, SMM, PPC & more with expert training and job assistance.  job seekers and professionals looking to upskill can take … \nContinue reading \"Top 10 Digital Marketing Courses in Dumdum\"\nThe post Top 10 Digital Marketing Courses in Dumdum appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-dumdum/",
           "publishedOn": "2025-03-24T11:08:46.000Z",
-          "wordCount": 3876,
+          "wordCount": 5073,
           "title": "Top 10 Digital Marketing Courses in Dumdum",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Digital-Marketing-Courses-in-Dumdum.png"
         },
@@ -461,7 +354,7 @@
           "description": "Google Core Updates have had a substantial historical impact on website ranking and how search results matched user intent over the years, since 2011. They are breakthrough changes in the Google algorithm updates affecting businesses, marketers, and SEO professionals all over the world. It is important to understand these updates to maintain and improve website rankings, adapt to … \nContinue reading \"Google Core Updates 2025: Latest Changes & SEO Impact\"\nThe post Google Core Updates 2025: Latest Changes & SEO Impact appeared first on 99institute.",
           "link": "https://99eedu.com/google-core-updates-2025-latest-changes-seo-impact/",
           "publishedOn": "2025-03-21T09:31:47.000Z",
-          "wordCount": 3366,
+          "wordCount": 4563,
           "title": "Google Core Updates 2025: Latest Changes & SEO Impact",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Google-Core-Updates.jpg"
         },
@@ -471,7 +364,7 @@
           "description": "Digital marketing is the lifeblood of businesses in this fast-paced era. No matter what you do, be it a student, entrepreneur, or working professional, pursuing a digital marketing course in Hyderabad will help you gain access to several fruitful career opportunities. As more and more companies look for skilled marketers, various training institutes have developed courses that enable … \nContinue reading \"Top 10 Digital Marketing Courses in Hyderabad\"\nThe post Top 10 Digital Marketing Courses in Hyderabad appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-hyderabad/",
           "publishedOn": "2025-03-19T12:32:46.000Z",
-          "wordCount": 3464,
+          "wordCount": 4661,
           "title": "Top 10 Digital Marketing Courses in Hyderabad",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/top-10-digital-marketing-courses-in-hyderabad-1.png"
         },
