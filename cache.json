@@ -4,13 +4,34 @@
       "title": "Webskitters Academy",
       "feedUrl": "https://www.webskittersacademy.in/feed/",
       "siteUrl": "https://www.webskittersacademy.in",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.webskittersacademy.in/?p=16726",
+          "author": "Ayan Sarkar",
+          "description": "Can a non-IT student like you thrive in the IT field? The answer is a resounding yes! Do you need to learn coding to flourish in the IT domain? Well, to your surprise, the answer is a big NO. We understand that not everyone comes from an engineering background and isn’t interested in technical job… Continue reading 5 Future Proof Courses for Non-IT Students\nThe post 5 Future Proof Courses for Non-IT Students first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/5-future-proof-courses-for-non-it-students/",
+          "publishedOn": "2025-03-08T14:38:39.000Z",
+          "wordCount": 12448,
+          "title": "5 Future Proof Courses for Non-IT Students",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "W3webschool Blog",
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=18742",
+          "author": "Poulami Dalal",
+          "description": "Top 10 Canva Alternatives to Boost Your Design Projects! Do you have a passion for designing, but Canva’s limited features are stopping you from making a stunning design? Are you seeking new and dynamic design alternatives? While Canva is an excellent one, it has some limitations. Some platforms provide unlimited templates, more custom options and ... Read more\nThe post Top 10 Canva Alternatives to Boost Your Design Projects! appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/canva-alternatives/",
+          "publishedOn": "2025-04-02T12:07:49.000Z",
+          "wordCount": 4879,
+          "title": "Top 10 Canva Alternatives to Boost Your Design Projects!",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Canva-Alternatives-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=18649",
           "author": "Poulami Dalal",
@@ -77,7 +98,7 @@
           "description": "An Essential Guide to Different Types of APIs Do you ever think of how websites and web applications share vital data? How does your favorite social media integrate with you, or how does even your weather application fetch real-time data always? The solution is API usage.  But you might become overwhelmed when choosing the most ... Read more\nThe post An Essential Guide to Different Types of APIs appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/types-of-api/",
           "publishedOn": "2025-03-21T11:55:46.000Z",
-          "wordCount": 4939,
+          "wordCount": 4938,
           "title": "An Essential Guide to Different Types of APIs",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Types-of-API-1-1100x619.png"
         },
@@ -100,16 +121,6 @@
           "wordCount": 5048,
           "title": "What is the Difference Between HTML and CSS?",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Difference-Between-HTML-and-CSS-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18292",
-          "author": "Poulami Dalal",
-          "description": "7 Amazing Meta Description Generator Tools For Higher CTR Are you struggling to brainstorm catchy yet simple meta descriptions for higher clicks? Do your websites go unnoticed in searches? A poor meta description can worsen your CTR, leaving a negative impact on your overall SEO performance.  Stop worrying! I am here with a solution.  In ... Read more\nThe post 7 Amazing Meta Description Generator Tools For Higher CTR appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/meta-description-generator/",
-          "publishedOn": "2025-03-15T07:00:50.000Z",
-          "wordCount": 4898,
-          "title": "7 Amazing Meta Description Generator Tools For Higher CTR",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/META-DESCRIPTION-GENERATOR--1100x619.png"
         }
       ]
     },
@@ -223,7 +234,7 @@
     {
       "title": "Blog – Creative IT Institute",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://www.blog.creativeitinstitute.com/",
+      "siteUrl": "http://3.7.156.149/",
       "articles": []
     },
     {
@@ -232,12 +243,22 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3376",
+          "author": "Prasenjit Das",
+          "description": "Meta’s vice president for AI research, Joelle Pineau, said she is leaving the company at the end of May after working 8 years for it. Amidst the rapidly increasing competition in AI development, the head of AI research at Meta announced her departure from a high-profile position at the Instagram and Facebook company. In her […]\nThe post Meta’s AI Research Head Joelle Pineau Resigns After Eight Years appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/metas-ai-research-head-joelle-pineau-resigns-after-eight-years/",
+          "publishedOn": "2025-04-02T06:07:23.000Z",
+          "wordCount": 3636,
+          "title": "Meta’s AI Research Head Joelle Pineau Resigns After Eight Years",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Metas-AI-Research-Head-Joelle-Pineau-leaves-the-company-after-8-years-1.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3372",
           "author": "Prasenjit Das",
           "description": "Amid the job-loss fear arising from increasing implementation of AI (artificial intelligence), a Reddit post went viral about a Class 10 student in India, nicknamed “Musk” on the platform, making money with AI. This kid used an AI website builder, spent just ₹2,500 and made over ₹1.5 lakh in two months by building and selling […]\nThe post A class 10 Student Made Over ₹1.5 lakh in 2 Months Building AI Websites, Claims Redditor appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/a-class-10-student-made-over-%e2%82%b91-5-lakh-in-2-months-building-ai-websites-claims-redditor/",
           "publishedOn": "2025-04-01T06:08:34.000Z",
-          "wordCount": 3683,
+          "wordCount": 3684,
           "title": "A class 10 Student Made Over ₹1.5 lakh in 2 Months Building AI Websites, Claims Redditor",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/A-Class-10-Student-Made-Over-₹1.5-lakh-in-2-Months-Building-AI-Websites-1.webp"
         },
@@ -247,7 +268,7 @@
           "description": "How do you convert your passion for design into a rewarding career in this ferociously competitive digital landscape? The foundation for success is developing comprehensive web design skills, specifically in UI and UX. Learn actionable strategies to thrive in the ever-evolving world of web design and build a sustainable career. Let’s dive in! Great user […]\nThe post How To Improve Web Design Skills- A Complete Guide appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/how-to-improve-web-design-skills/",
           "publishedOn": "2025-03-28T07:01:07.000Z",
-          "wordCount": 5974,
+          "wordCount": 5975,
           "title": "How To Improve Web Design Skills- A Complete Guide",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Tips-On-Improving-Web-Design-Skills-1.webp"
         },
@@ -257,7 +278,7 @@
           "description": "The Ministry of Electronics and Information Technology (MietY) disclosed that researchers, entrepreneurs, and startups have responded enthusiastically to the IndiaAI mission. It has received around 187 proposals focused on creating homegrown large language models (LLMs). Abhishek Singh, additional secretary at MietY, revealed that 187 proposals were submitted following a Call for Proposals launched on January […]\nThe post MeitY Received Over 187 Proposals for Developing Large Language Models Under the IndiaAI Mission appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/meity-received-over-187-proposals-for-developing-large-language-models-under-the-indiaai-mission/",
           "publishedOn": "2025-03-28T06:12:53.000Z",
-          "wordCount": 3631,
+          "wordCount": 3632,
           "title": "MeitY Received Over 187 Proposals for Developing Large Language Models Under the IndiaAI Mission",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/MeitY-received-187-proposals-for-developing-large-language-models-under-the-IndiaAI-Mission-1.webp"
         },
@@ -267,7 +288,7 @@
           "description": "Since OpenAI introduced ChatGPT in 2022, AI has remarkably impacted our thinking and daily practices. Despite AI chatbots currently serving as helping hands in many workplaces, professionals are anxious about potential job losses across different fields. Microsoft co-founder Bill Gates, who last month predicted that AI would take over most tasks, has now shared his […]\nThe post According to Bill Gates, AI Will Replace Most Jobs, Except These Three appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/according-to-bill-gates-ai-will-replace-most-jobs-except-these-three/",
           "publishedOn": "2025-03-27T06:07:05.000Z",
-          "wordCount": 3667,
+          "wordCount": 3668,
           "title": "According to Bill Gates, AI Will Replace Most Jobs, Except These Three",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Bill-Gates-says-AI-will-replace-most-jobs-except-these-three-professions-1.webp"
         },
@@ -277,7 +298,7 @@
           "description": "Indian police are using AI (artificial intelligence) and cutting-edge technology to track released criminals. Andhra Pradesh police in Vijaywada have already started leveraging AI for jail monitoring to prevent anti-social behaviour. The police state that AI monitoring will serve as an early warning system. If any suspicious behaviour is detected, local teams will be alerted […]\nThe post Indian Police Will Leverage AI Technology to Track Released Criminals appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/indian-police-will-leverage-ai-technology-to-track-released-criminals/",
           "publishedOn": "2025-03-26T06:03:10.000Z",
-          "wordCount": 3707,
+          "wordCount": 3708,
           "title": "Indian Police Will Leverage AI Technology to Track Released Criminals",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Indian-Police-to-leverage-AI-for-tracking-released-criminals-1.webp"
         },
@@ -287,7 +308,7 @@
           "description": "The Indian Edtech sector is experiencing a momentous transformation driven by rising demand for upskilling and the increasing implementation of AI (artificial intelligence). An increasing number of learners, from experienced to students, want to explore this cutting-edge technology. BrightCHAMPS, an edtech firm providing educational courses for K-12 students, found that 58% of students worldwide have […]\nThe post The Rising Need For Upskilling Is Fueling AI Growth in India’s Edtech Sector appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/the-rising-need-for-upskilling-is-fueling-ai-growth-in-indias-edtech-sector/",
           "publishedOn": "2025-03-25T06:40:42.000Z",
-          "wordCount": 3707,
+          "wordCount": 3708,
           "title": "The Rising Need For Upskilling Is Fueling AI Growth in India’s Edtech Sector",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/The-need-for-upskilling-is-fueling-AI-growth-in-Indian-edtech-1.webp"
         },
@@ -297,7 +318,7 @@
           "description": "Considering a career in data science but don’t know which data science programming language will be your winning hand in 2025? We are here to illuminate your path by revealing top data Science languages that will propel your career forward. Let’s dive in! “Data is the new oil.” — Clive Humby. Undoubtedly, data science is […]\nThe post Top 10 Data Science Programming Languages in 2025 appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/top-10-data-science-programming-languages-2025/",
           "publishedOn": "2025-03-21T10:08:56.000Z",
-          "wordCount": 6898,
+          "wordCount": 6899,
           "title": "Top 10 Data Science Programming Languages in 2025",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Top-10-Data-Science-Programming-Languages-in-2025.webp"
         },
@@ -307,7 +328,7 @@
           "description": "The Ministry of Electronics and Information Technology (MeitY) is in discussion with Elon Musk’s X regarding instances of Grok AI producing responses containing Hindi slang and foul language. The IT ministry is examining the issue and taking steps to understand the reasons behind the chatbot’s inappropriate language. Ministry sources are saying, “We are in touch, […]\nThe post Government Officials Are in Discussions With Elon Musk’s X Over Grok AI’s Use of Offensive Language appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/government-officials-are-in-discussions-with-elon-musks-x-over-grok-ais-use-of-offensive-language/",
           "publishedOn": "2025-03-21T05:53:23.000Z",
-          "wordCount": 3684,
+          "wordCount": 3685,
           "title": "Government Officials Are in Discussions With Elon Musk’s X Over Grok AI’s Use of Offensive Language",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/KI-WEb-Image-21325.webp"
         },
@@ -317,19 +338,9 @@
           "description": "New Delhi, 20 March 2025: Microsoft’s former CEO, Bill Gates highlighted India’s accomplishments in AI, expressing his belief that the nation’s leadership will propel global innovation. While addressing the ‘Future Forward’ forum, a gathering of global leaders and changemakers, Gates said, “Similar to how DPI (Digital Public Infrastructure) has garnered global attention, India’s leadership in […]\nThe post India’s AI Leadership Will Drive Global Innovation, Says Bill Gates appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/indias-ai-leadership-will-drive-global-innovation-says-bill-gates/",
           "publishedOn": "2025-03-20T06:21:29.000Z",
-          "wordCount": 3679,
+          "wordCount": 3680,
           "title": "India’s AI Leadership Will Drive Global Innovation, Says Bill Gates",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Bill-Gates-says-Indias-advancements-in-AI-will-drive-global-innovation-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3293",
-          "author": "Tanmay Das",
-          "description": "Elon Musk’s AI tool, Grok has left conservative media figures and media worried with its blunt statements about Prime Minister Narendra Modi, Home Minister Amit Shah, and other renowned BJP leaders. Additionally, it gives unfiltered remarks on caste and other sensitive subjects in an environment where criticism is unwelcome.  Called the ‘world’s most powerful AI […]\nThe post Grok, Elon Musk’s AI, is Causing Unease Among Indian Right-wing Propagandists appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/grok-elon-musks-ai-is-causing-unease-among-indian-right-wing-propagandists/",
-          "publishedOn": "2025-03-19T06:19:18.000Z",
-          "wordCount": 3881,
-          "title": "Grok, Elon Musk’s AI, is Causing Unease Among Indian Right-wing Propagandists",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Gork-AI-SMO-Post.jpg"
         }
       ]
     },
@@ -339,12 +350,22 @@
       "siteUrl": "https://99eedu.com/",
       "articles": [
         {
+          "id": "https://99eedu.com/?p=3704",
+          "author": "99institute",
+          "description": "The rapid increase in the need for digital expertise and skills has made Internet marketing courses in Delhi a must-have for marketers, entrepreneurs, and business owners. India’s capital, Delhi, has many training programs combining theoretical and practical knowledge. A digital marketing course in Delhi, structured for all levels, will enrich even a student, a working professional, or a … \nContinue reading \"Top 10 Internet Marketing Courses in Delhi\"\nThe post Top 10 Internet Marketing Courses in Delhi appeared first on 99institute.",
+          "link": "https://99eedu.com/top-10-internet-marketing-courses-in-delhi/",
+          "publishedOn": "2025-04-02T12:05:35.000Z",
+          "wordCount": 4815,
+          "title": "Top 10 Internet Marketing Courses in Delhi",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Internet-Marketing-Courses-in-Delhi.jpeg"
+        },
+        {
           "id": "https://99eedu.com/?p=3695",
           "author": "99institute",
           "description": "With the rise of the Internet, businesses of all types are turning to online marketing for a wider reach in today’s fast-paced digital world. “Join the best Digital Marketing Courses in Dumdum at 99eedu Institute. Learn SEO, SMM, PPC & more with expert training and job assistance.  job seekers and professionals looking to upskill can take … \nContinue reading \"Top 10 Digital Marketing Courses in Dumdum\"\nThe post Top 10 Digital Marketing Courses in Dumdum appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-dumdum/",
           "publishedOn": "2025-03-24T11:08:46.000Z",
-          "wordCount": 5073,
+          "wordCount": 3876,
           "title": "Top 10 Digital Marketing Courses in Dumdum",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Digital-Marketing-Courses-in-Dumdum.png"
         },
@@ -354,7 +375,7 @@
           "description": "Google Core Updates have had a substantial historical impact on website ranking and how search results matched user intent over the years, since 2011. They are breakthrough changes in the Google algorithm updates affecting businesses, marketers, and SEO professionals all over the world. It is important to understand these updates to maintain and improve website rankings, adapt to … \nContinue reading \"Google Core Updates 2025: Latest Changes & SEO Impact\"\nThe post Google Core Updates 2025: Latest Changes & SEO Impact appeared first on 99institute.",
           "link": "https://99eedu.com/google-core-updates-2025-latest-changes-seo-impact/",
           "publishedOn": "2025-03-21T09:31:47.000Z",
-          "wordCount": 4563,
+          "wordCount": 3366,
           "title": "Google Core Updates 2025: Latest Changes & SEO Impact",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Google-Core-Updates.jpg"
         },
@@ -364,7 +385,7 @@
           "description": "Digital marketing is the lifeblood of businesses in this fast-paced era. No matter what you do, be it a student, entrepreneur, or working professional, pursuing a digital marketing course in Hyderabad will help you gain access to several fruitful career opportunities. As more and more companies look for skilled marketers, various training institutes have developed courses that enable … \nContinue reading \"Top 10 Digital Marketing Courses in Hyderabad\"\nThe post Top 10 Digital Marketing Courses in Hyderabad appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-hyderabad/",
           "publishedOn": "2025-03-19T12:32:46.000Z",
-          "wordCount": 4661,
+          "wordCount": 3464,
           "title": "Top 10 Digital Marketing Courses in Hyderabad",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/top-10-digital-marketing-courses-in-hyderabad-1.png"
         },

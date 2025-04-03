@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-02T01:23:09.507Z</id>
+    <id>urn:2025-04-03T01:21:43.683Z</id>
     <title>Blogs</title>
-    <updated>2025-04-02T01:23:09.507Z</updated>
+    <updated>2025-04-03T01:21:43.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Canva Alternatives to Boost Your Design Projects!]]></title>
+        <id>https://www.w3webschool.com/blog/?p=18742</id>
+        <link href="https://www.w3webschool.com/blog/canva-alternatives/"/>
+        <updated>2025-04-02T12:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Top 10 Canva Alternatives to Boost Your Design Projects! Do you have a passion for designing, but Canva’s limited features are stopping you from making a stunning design? Are you seeking new and dynamic design alternatives? While Canva is an excellent one, it has some limitations. Some platforms provide unlimited templates, more custom options and ... Read more
+The post Top 10 Canva Alternatives to Boost Your Design Projects! appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Internet Marketing Courses in Delhi]]></title>
+        <id>https://99eedu.com/?p=3704</id>
+        <link href="https://99eedu.com/top-10-internet-marketing-courses-in-delhi/"/>
+        <updated>2025-04-02T12:05:35.000Z</updated>
+        <summary type="html"><![CDATA[The rapid increase in the need for digital expertise and skills has made Internet marketing courses in Delhi a must-have for marketers, entrepreneurs, and business owners. India’s capital, Delhi, has many training programs combining theoretical and practical knowledge. A digital marketing course in Delhi, structured for all levels, will enrich even a student, a working professional, or a … 
+Continue reading "Top 10 Internet Marketing Courses in Delhi"
+The post Top 10 Internet Marketing Courses in Delhi appeared first on 99institute.]]></summary>
+        <author>
+            <name>99institute</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s AI Research Head Joelle Pineau Resigns After Eight Years]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3376</id>
+        <link href="https://www.karmickinstitute.com/resources/metas-ai-research-head-joelle-pineau-resigns-after-eight-years/"/>
+        <updated>2025-04-02T06:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Meta’s vice president for AI research, Joelle Pineau, said she is leaving the company at the end of May after working 8 years for it. Amidst the rapidly increasing competition in AI development, the head of AI research at Meta announced her departure from a high-profile position at the Instagram and Facebook company. In her […]
+The post Meta’s AI Research Head Joelle Pineau Resigns After Eight Years appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Prasenjit Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Best Photoshop Alternatives that Designers Must Know!]]></title>
         <id>https://www.w3webschool.com/blog/?p=18649</id>
@@ -273,17 +307,6 @@ The post What is the Difference Between SEO and SEM? appeared first on W3webscho
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grok, Elon Musk’s AI, is Causing Unease Among Indian Right-wing Propagandists]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3293</id>
-        <link href="https://www.karmickinstitute.com/resources/grok-elon-musks-ai-is-causing-unease-among-indian-right-wing-propagandists/"/>
-        <updated>2025-03-19T06:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk’s AI tool, Grok has left conservative media figures and media worried with its blunt statements about Prime Minister Narendra Modi, Home Minister Amit Shah, and other renowned BJP leaders. Additionally, it gives unfiltered remarks on caste and other sensitive subjects in an environment where criticism is unwelcome.  Called the ‘world’s most powerful AI […]
-The post Grok, Elon Musk’s AI, is Causing Unease Among Indian Right-wing Propagandists appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is the Difference Between HTML and CSS?]]></title>
         <id>https://www.w3webschool.com/blog/?p=18333</id>
         <link href="https://www.w3webschool.com/blog/difference-between-html-and-css/"/>
@@ -303,17 +326,6 @@ The post What is the Difference Between HTML and CSS? appeared first on W3websch
 The post How to Become a Web Developer in 2025? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Amazing Meta Description Generator Tools For Higher CTR]]></title>
-        <id>https://www.w3webschool.com/blog/?p=18292</id>
-        <link href="https://www.w3webschool.com/blog/meta-description-generator/"/>
-        <updated>2025-03-15T07:00:50.000Z</updated>
-        <summary type="html"><![CDATA[7 Amazing Meta Description Generator Tools For Higher CTR Are you struggling to brainstorm catchy yet simple meta descriptions for higher clicks? Do your websites go unnoticed in searches? A poor meta description can worsen your CTR, leaving a negative impact on your overall SEO performance.  Stop worrying! I am here with a solution.  In ... Read more
-The post 7 Amazing Meta Description Generator Tools For Higher CTR appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
     <entry>
@@ -347,6 +359,17 @@ The post Why You Should Pursue a Logo Design Course appeared first on Moople-Ins
 The post The Use of AI in Mobile Game Development appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Future Proof Courses for Non-IT Students]]></title>
+        <id>https://www.webskittersacademy.in/?p=16726</id>
+        <link href="https://www.webskittersacademy.in/5-future-proof-courses-for-non-it-students/"/>
+        <updated>2025-03-08T14:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Can a non-IT student like you thrive in the IT field? The answer is a resounding yes! Do you need to learn coding to flourish in the IT domain? Well, to your surprise, the answer is a big NO. We understand that not everyone comes from an engineering background and isn’t interested in technical job… Continue reading 5 Future Proof Courses for Non-IT Students
+The post 5 Future Proof Courses for Non-IT Students first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
         </author>
     </entry>
     <entry>
