@@ -6,12 +6,32 @@
       "siteUrl": "https://www.webskittersacademy.in",
       "articles": [
         {
+          "id": "https://www.webskittersacademy.in/?p=16731",
+          "author": "Ayan Sarkar",
+          "description": "Are you thinking about a tech career? But don’t know where to start? You are at the right place! Of all the tech roles that don’t require prior coding knowledge, HTML front-end development is something to consider. Acquiring the skills from a comprehensive HTML Front-end development course ensures career growth and provides lucrative salaries. But… Continue reading The Growing Demand for HTML Front-End Development: Job Opportunities in 2025\nThe post The Growing Demand for HTML Front-End Development: Job Opportunities in 2025 first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/the-growing-demand-for-html-front-end-development/",
+          "publishedOn": "2025-03-18T14:32:05.000Z",
+          "wordCount": 11650,
+          "title": "The Growing Demand for HTML Front-End Development: Job Opportunities in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.webskittersacademy.in/?p=16729",
+          "author": "Ayan Sarkar",
+          "description": "Do you thrive on creativity, a constant hunger for learning, and challenges? Then, a career in software testing is just for you! These qualities may not be the first words that come to your mind when you think about a software testing course in Kolkata. However, innovation, an urge to learn, and solving complex problems… Continue reading Why You Should Enrol in a Software Testing Course in 2025\nThe post Why You Should Enrol in a Software Testing Course in 2025 first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/why-you-should-enrol-in-a-software-testing-course-in-2025/",
+          "publishedOn": "2025-03-14T07:36:50.000Z",
+          "wordCount": 11230,
+          "title": "Why You Should Enrol in a Software Testing Course in 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.webskittersacademy.in/?p=16726",
           "author": "Ayan Sarkar",
           "description": "Can a non-IT student like you thrive in the IT field? The answer is a resounding yes! Do you need to learn coding to flourish in the IT domain? Well, to your surprise, the answer is a big NO. We understand that not everyone comes from an engineering background and isn’t interested in technical job… Continue reading 5 Future Proof Courses for Non-IT Students\nThe post 5 Future Proof Courses for Non-IT Students first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/5-future-proof-courses-for-non-it-students/",
-          "publishedOn": "2025-03-08T14:38:39.000Z",
-          "wordCount": 12448,
+          "publishedOn": "2025-03-07T14:38:39.000Z",
+          "wordCount": 12324,
           "title": "5 Future Proof Courses for Non-IT Students",
           "imageUrl": null
         }
@@ -22,6 +42,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=18829",
+          "author": "Poulami Dalal",
+          "description": "18 Untapped Secrets to Instantly Increase Instagram Followers Are you facing challenges in increasing your Instagram followers? Posting content daily but not getting the desired outcomes? Thinking of why some Instagram profiles are getting a considerable follower base while yours is not growing? You might become frustrated and confused about how others are getting attention ... Read more\nThe post 18 Untapped Secrets to Instantly Increase Instagram Followers appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/increase-instagram-followers/",
+          "publishedOn": "2025-04-03T12:30:18.000Z",
+          "wordCount": 4990,
+          "title": "18 Untapped Secrets to Instantly Increase Instagram Followers",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Increase-Instagram-Followers-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=18742",
           "author": "Poulami Dalal",
@@ -111,16 +141,6 @@
           "wordCount": 5157,
           "title": "What is the Difference Between SEO and SEM?",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Difference-Between-SEO-and-SEM-2-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18333",
-          "author": "Poulami Dalal",
-          "description": "What is the Difference Between HTML and CSS? Do you ever think of why websites look like this? What is responsible for a webpage to display images, colors, layouts, and texts accurately? The solution comes up with the proper application of HTML and CSS. But what makes them different from each other? Most of the ... Read more\nThe post What is the Difference Between HTML and CSS? appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/difference-between-html-and-css/",
-          "publishedOn": "2025-03-18T12:00:37.000Z",
-          "wordCount": 5048,
-          "title": "What is the Difference Between HTML and CSS?",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Difference-Between-HTML-and-CSS-1100x619.png"
         }
       ]
     },
@@ -234,7 +254,7 @@
     {
       "title": "Blog – Creative IT Institute",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "http://3.7.156.149/",
+      "siteUrl": "https://3.7.156.149/",
       "articles": []
     },
     {
@@ -242,6 +262,16 @@
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3380",
+          "author": "Prasenjit Das",
+          "description": "OpenAI CEO Sam Altman stated that India’s adoption rate of AI (artificial intelligence) is very impressive.  On April 2, 2025, Altman made a statement in a post on X, saying, “What’s happening with AI adoption in India right now is amazing to watch. We love to see the explosion of creativity- India is outpacing the […]\nThe post “India is Outpacing the World in AI Adoption,” Claims Sam Altman appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/india-is-outpacing-the-world-in-ai-adoption-claims-sam-altman/",
+          "publishedOn": "2025-04-03T07:03:20.000Z",
+          "wordCount": 3689,
+          "title": "“India is Outpacing the World in AI Adoption,” Claims Sam Altman",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/India-is-Outpacing-the-World-in-A1-Adoption_-Claims-Sam-Altman-1.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3376",
           "author": "Prasenjit Das",
@@ -331,16 +361,6 @@
           "wordCount": 3685,
           "title": "Government Officials Are in Discussions With Elon Musk’s X Over Grok AI’s Use of Offensive Language",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/KI-WEb-Image-21325.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3301",
-          "author": "Tanmay Das",
-          "description": "New Delhi, 20 March 2025: Microsoft’s former CEO, Bill Gates highlighted India’s accomplishments in AI, expressing his belief that the nation’s leadership will propel global innovation. While addressing the ‘Future Forward’ forum, a gathering of global leaders and changemakers, Gates said, “Similar to how DPI (Digital Public Infrastructure) has garnered global attention, India’s leadership in […]\nThe post India’s AI Leadership Will Drive Global Innovation, Says Bill Gates appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/indias-ai-leadership-will-drive-global-innovation-says-bill-gates/",
-          "publishedOn": "2025-03-20T06:21:29.000Z",
-          "wordCount": 3680,
-          "title": "India’s AI Leadership Will Drive Global Innovation, Says Bill Gates",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Bill-Gates-says-Indias-advancements-in-AI-will-drive-global-innovation-1.webp"
         }
       ]
     },
@@ -350,12 +370,22 @@
       "siteUrl": "https://99eedu.com/",
       "articles": [
         {
+          "id": "https://99eedu.com/?p=3713",
+          "author": "99institute",
+          "description": "Mumbai, the financial capital of India, is home to many top schools offering various levels of digital marketing courses for Mumbai students. Whether you’re a student or a seasoned businessman, when you hire the best teachers and institutions for training, your skills will have a pivotal impact on where you end up. This guide to … \nContinue reading \"Top 10 Digital Marketing Institutes in Mumbai in 2025\"\nThe post Top 10 Digital Marketing Institutes in Mumbai in 2025 appeared first on 99institute.",
+          "link": "https://99eedu.com/top-10-digital-marketing-institutes-in-mumbai-in-2025/",
+          "publishedOn": "2025-04-03T10:11:14.000Z",
+          "wordCount": 4969,
+          "title": "Top 10 Digital Marketing Institutes in Mumbai in 2025",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-Marketing-Institutes-in-Mumbai.jpeg"
+        },
+        {
           "id": "https://99eedu.com/?p=3704",
           "author": "99institute",
           "description": "The rapid increase in the need for digital expertise and skills has made Internet marketing courses in Delhi a must-have for marketers, entrepreneurs, and business owners. India’s capital, Delhi, has many training programs combining theoretical and practical knowledge. A digital marketing course in Delhi, structured for all levels, will enrich even a student, a working professional, or a … \nContinue reading \"Top 10 Internet Marketing Courses in Delhi\"\nThe post Top 10 Internet Marketing Courses in Delhi appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-internet-marketing-courses-in-delhi/",
           "publishedOn": "2025-04-02T12:05:35.000Z",
-          "wordCount": 4815,
+          "wordCount": 3624,
           "title": "Top 10 Internet Marketing Courses in Delhi",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Internet-Marketing-Courses-in-Delhi.jpeg"
         },
@@ -365,7 +395,7 @@
           "description": "With the rise of the Internet, businesses of all types are turning to online marketing for a wider reach in today’s fast-paced digital world. “Join the best Digital Marketing Courses in Dumdum at 99eedu Institute. Learn SEO, SMM, PPC & more with expert training and job assistance.  job seekers and professionals looking to upskill can take … \nContinue reading \"Top 10 Digital Marketing Courses in Dumdum\"\nThe post Top 10 Digital Marketing Courses in Dumdum appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-dumdum/",
           "publishedOn": "2025-03-24T11:08:46.000Z",
-          "wordCount": 3876,
+          "wordCount": 5073,
           "title": "Top 10 Digital Marketing Courses in Dumdum",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Digital-Marketing-Courses-in-Dumdum.png"
         },
@@ -375,7 +405,7 @@
           "description": "Google Core Updates have had a substantial historical impact on website ranking and how search results matched user intent over the years, since 2011. They are breakthrough changes in the Google algorithm updates affecting businesses, marketers, and SEO professionals all over the world. It is important to understand these updates to maintain and improve website rankings, adapt to … \nContinue reading \"Google Core Updates 2025: Latest Changes & SEO Impact\"\nThe post Google Core Updates 2025: Latest Changes & SEO Impact appeared first on 99institute.",
           "link": "https://99eedu.com/google-core-updates-2025-latest-changes-seo-impact/",
           "publishedOn": "2025-03-21T09:31:47.000Z",
-          "wordCount": 3366,
+          "wordCount": 4563,
           "title": "Google Core Updates 2025: Latest Changes & SEO Impact",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Google-Core-Updates.jpg"
         },
@@ -385,7 +415,7 @@
           "description": "Digital marketing is the lifeblood of businesses in this fast-paced era. No matter what you do, be it a student, entrepreneur, or working professional, pursuing a digital marketing course in Hyderabad will help you gain access to several fruitful career opportunities. As more and more companies look for skilled marketers, various training institutes have developed courses that enable … \nContinue reading \"Top 10 Digital Marketing Courses in Hyderabad\"\nThe post Top 10 Digital Marketing Courses in Hyderabad appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-hyderabad/",
           "publishedOn": "2025-03-19T12:32:46.000Z",
-          "wordCount": 3464,
+          "wordCount": 3470,
           "title": "Top 10 Digital Marketing Courses in Hyderabad",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/top-10-digital-marketing-courses-in-hyderabad-1.png"
         },
@@ -395,7 +425,7 @@
           "description": "Digital Marketing Courses in Saltlake Kolkata have turned from an option into a necessity in the fast-growing digital world. The world of marketing has moved towards the digital age, and people, irrespective of any business, have utilized their sales, reach, and brand awareness through the digital world. Hence, there is an ever-increasing need for competent digital marketers. So … \nContinue reading \"Top 10 Digital Marketing Courses in SaltLake Kolkata\"\nThe post Top 10 Digital Marketing Courses in SaltLake Kolkata appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-saltlake-kolkata/",
           "publishedOn": "2025-03-06T13:57:56.000Z",
-          "wordCount": 4428,
+          "wordCount": 5625,
           "title": "Top 10 Digital Marketing Courses in SaltLake Kolkata",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Top-10-Digital-Marketing-Courses-in-Salt-Lake-Kolkata-1024x576.png"
         }
