@@ -43,6 +43,16 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=18973",
+          "author": "Poulami Dalal",
+          "description": "11 Unique Ecommerce Business Ideas in India Are you facing difficulties in finding the best eCommerce business ideas in India for you? Do you ever think you have no space for your startup business in this highly competitive business landscape? Feeling a little lost in this fastest-growing field of big players?  Stop worrying. I have ... Read more\nThe post 11 Unique Ecommerce Business Ideas in India appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/ecommerce-business-ideas/",
+          "publishedOn": "2025-04-05T11:41:29.000Z",
+          "wordCount": 4943,
+          "title": "11 Unique Ecommerce Business Ideas in India",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Ecommerce-Business-Ideas-2-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=18907",
           "author": "W3webschool",
           "description": "13 Game-Changing Hacks to Get 1K Subscribers on YouTube! Facing difficulties in getting the first 1K subscribers on YouTube? You are not alone here. Making your channel grow can sometimes be monotonous and slow. Putting lots of effort, time, and creativity into channel growth, but seeing stagnant numbers can raise frustration.  But stop worrying! With ... Read more\nThe post 13 Game-Changing Hacks to Get 1K Subscribers on YouTube! appeared first on W3webschool Blog.",
@@ -131,16 +141,6 @@
           "wordCount": 5076,
           "title": "MongoDB vs MySQL: Comparing the Exclusive Differences",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/MongoDB-vs-MySQL-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18474",
-          "author": "Poulami Dalal",
-          "description": "An Essential Guide to Different Types of APIs Do you ever think of how websites and web applications share vital data? How does your favorite social media integrate with you, or how does even your weather application fetch real-time data always? The solution is API usage.  But you might become overwhelmed when choosing the most ... Read more\nThe post An Essential Guide to Different Types of APIs appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/types-of-api/",
-          "publishedOn": "2025-03-21T11:55:46.000Z",
-          "wordCount": 4938,
-          "title": "An Essential Guide to Different Types of APIs",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Types-of-API-1-1100x619.png"
         }
       ]
     },
@@ -266,113 +266,6 @@
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
       "siteUrl": "https://3.7.156.149/",
       "articles": []
-    },
-    {
-      "title": "IIM SKILLS",
-      "feedUrl": "https://iimskills.com/feed/",
-      "siteUrl": "https://iimskills.com/",
-      "articles": [
-        {
-          "id": "https://iimskills.com/?p=111180",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Nigeria With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-nigeria/",
-          "publishedOn": "2025-04-04T12:25:16.000Z",
-          "wordCount": 155159,
-          "title": "Top 10 Medical Coding Courses in Nigeria With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/04/Medical-Coding-Courses-in-Nigeria.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=111149",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in North Macedonia With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-north-macedonia/",
-          "publishedOn": "2025-04-04T07:33:20.000Z",
-          "wordCount": 154894,
-          "title": "Top 10 Medical Coding Courses in North Macedonia With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/04/Medical-Coding-Courses-in-North-Macedonia.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=111139",
-          "author": "Dr Surya S",
-          "description": "The post Top 10 Medical Coding Courses in Norway With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/medical-coding-courses-in-norway/",
-          "publishedOn": "2025-04-04T05:26:18.000Z",
-          "wordCount": 154923,
-          "title": "Top 10 Medical Coding Courses in Norway With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/04/medical-coding-courses-in-Norway.jpg"
-        },
-        {
-          "id": "https://iimskills.com/?p=107539",
-          "author": "Leena Khatri",
-          "description": "The post Top 10 Investment Banking Courses In Paraguay With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-paraguay/",
-          "publishedOn": "2025-04-01T07:44:36.000Z",
-          "wordCount": 155903,
-          "title": "Top 10 Investment Banking Courses In Paraguay With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=107619",
-          "author": "Leena Khatri",
-          "description": "The post Top 10 Investment Banking Courses In Papua New Guinea With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-papua-new-guinea/",
-          "publishedOn": "2025-04-01T07:44:36.000Z",
-          "wordCount": 156040,
-          "title": "Top 10 Investment Banking Courses In Papua New Guinea With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=107684",
-          "author": "Paulami",
-          "description": "The post Top 10 Technical Writing Courses In Chad With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/technical-writing-courses-in-chad/",
-          "publishedOn": "2025-04-01T07:44:36.000Z",
-          "wordCount": 156748,
-          "title": "Top 10 Technical Writing Courses In Chad With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=107753",
-          "author": "Suma Mahesh",
-          "description": "The post Top 10 Investment Banking Courses in Kamez With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/investment-banking-courses-in-kamez/",
-          "publishedOn": "2025-04-01T07:44:36.000Z",
-          "wordCount": 155771,
-          "title": "Top 10 Investment Banking Courses in Kamez With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=107820",
-          "author": "Bhavni Sikdar",
-          "description": "The post Top 10 Data Science Courses In Kyrgyzstan With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/data-science-courses-in-kyrgyzstan/",
-          "publishedOn": "2025-04-01T07:44:36.000Z",
-          "wordCount": 156071,
-          "title": "Top 10 Data Science Courses In Kyrgyzstan With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=107822",
-          "author": "Pallabi Shome",
-          "description": "The post Top 10 Financial Modeling Courses in Tonga With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/financial-modeling-courses-in-tonga/",
-          "publishedOn": "2025-04-01T07:44:36.000Z",
-          "wordCount": 156090,
-          "title": "Top 10 Financial Modeling Courses in Tonga With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        },
-        {
-          "id": "https://iimskills.com/?p=107853",
-          "author": "Shivangi Rastogi",
-          "description": "The post Top 10 Technical Writing Courses in Honduras With Placements appeared first on IIM SKILLS.",
-          "link": "https://iimskills.com/technical-writing-courses-in-honduras/",
-          "publishedOn": "2025-04-01T07:44:36.000Z",
-          "wordCount": 156545,
-          "title": "Top 10 Technical Writing Courses in Honduras With Placements",
-          "imageUrl": "https://iimskills.com/wp-content/uploads/2025/01/IIM-SKILLS-LOGO.png"
-        }
-      ]
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
@@ -502,7 +395,7 @@
           "description": "The rapid increase in the need for digital expertise and skills has made Internet marketing courses in Delhi a must-have for marketers, entrepreneurs, and business owners. India’s capital, Delhi, has many training programs combining theoretical and practical knowledge. A digital marketing course in Delhi, structured for all levels, will enrich even a student, a working professional, or a … \nContinue reading \"Top 10 Internet Marketing Courses in Delhi\"\nThe post Top 10 Internet Marketing Courses in Delhi appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-internet-marketing-courses-in-delhi/",
           "publishedOn": "2025-04-02T12:05:35.000Z",
-          "wordCount": 4799,
+          "wordCount": 3624,
           "title": "Top 10 Internet Marketing Courses in Delhi",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Internet-Marketing-Courses-in-Delhi.jpeg"
         },
@@ -535,16 +428,6 @@
           "wordCount": 3470,
           "title": "Top 10 Digital Marketing Courses in Hyderabad",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/top-10-digital-marketing-courses-in-hyderabad-1.png"
-        },
-        {
-          "id": "https://99eedu.com/?p=3672",
-          "author": "99institute",
-          "description": "Digital Marketing Courses in Saltlake Kolkata have turned from an option into a necessity in the fast-growing digital world. The world of marketing has moved towards the digital age, and people, irrespective of any business, have utilized their sales, reach, and brand awareness through the digital world. Hence, there is an ever-increasing need for competent digital marketers. So … \nContinue reading \"Top 10 Digital Marketing Courses in SaltLake Kolkata\"\nThe post Top 10 Digital Marketing Courses in SaltLake Kolkata appeared first on 99institute.",
-          "link": "https://99eedu.com/top-10-digital-marketing-courses-in-saltlake-kolkata/",
-          "publishedOn": "2025-03-06T13:57:56.000Z",
-          "wordCount": 4434,
-          "title": "Top 10 Digital Marketing Courses in SaltLake Kolkata",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Top-10-Digital-Marketing-Courses-in-Salt-Lake-Kolkata-1024x576.png"
         }
       ]
     },
