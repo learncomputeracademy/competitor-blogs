@@ -416,6 +416,45 @@
       "feedUrl": "https://awtim.com/blog/feed/",
       "siteUrl": "https://awtim.com/blog",
       "articles": []
+    },
+    {
+      "title": "Weavers Web Academy",
+      "feedUrl": "https://weaversweb.academy/feed/",
+      "siteUrl": "https://weaversweb.academy/",
+      "articles": [
+        {
+          "id": "https://weaversweb.academy/?p=5164",
+          "author": "Administrator",
+          "description": "In this era, every business worldwide strives to make a digital presence to boost reach their target audience, generate leads, and enhance their sales. This is all because conventional marketing has been replaced with digital marketing, the show-stopper dominating every sector. From healthcare to IT and real estate to finance, businesses from every sector have […]\nThe post How a Digital Marketing Course in Kolkata Can Boost Your Career appeared first on Weavers Web Academy.",
+          "link": "https://weaversweb.academy/how-a-digital-marketing-course-in-kolkata-can-boost-your-career/",
+          "publishedOn": "2025-03-20T14:33:54.000Z",
+          "wordCount": 2588,
+          "title": "How a Digital Marketing Course in Kolkata Can Boost Your Career",
+          "imageUrl": "https://weaversweb.academy/wp-content/uploads/2025/03/How-a-Digital-Marketing-Course-in-Kolkata-Can-Boost-Your-Career.jpg"
+        },
+        {
+          "id": "https://weaversweb.academy/?p=5125",
+          "author": "Administrator",
+          "description": "Are you wondering about the career path you should follow after your graduation in Arts? Well the competition in the market is fierce and in such a scenario it becomes important to build up skills and choose some specialised course that helps to give a boost to your career. Weavers Web Academy brings before you […]\nThe post The Best Courses to Pursue After Graduation in Arts appeared first on Weavers Web Academy.",
+          "link": "https://weaversweb.academy/the-best-courses-to-pursue-after-graduation-in-arts/",
+          "publishedOn": "2025-03-17T11:08:19.000Z",
+          "wordCount": 2436,
+          "title": "The Best Courses to Pursue After Graduation in Arts",
+          "imageUrl": "https://weaversweb.academy/wp-content/uploads/2025/03/The-Best-Courses-To-Pursue-After-Graduation-In-Arts.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Acesoftech Academy",
+      "feedUrl": "https://www.acesoftech.com/feed/",
+      "siteUrl": "https://www.acesoftech.com/",
+      "articles": []
+    },
+    {
+      "title": "Desun Academy",
+      "feedUrl": "https://desunacademy.in/feed/",
+      "siteUrl": "https://desunacademy.in/",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
