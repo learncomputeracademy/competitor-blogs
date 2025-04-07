@@ -8,14 +8,23 @@
 siteTitle: "Blogs"
 # cacheUrl: https://learncomputeracademy.github.io/competitor-blogs/cache.json
 sources:
-  - href: https://www.webskittersacademy.in/feed/ # Get new feature announcement via this feed
+  - href: https://www.webskittersacademy.in/feed/
+    name: "Webskitters Academy Blog" # Name for this feed
   - href: https://www.w3webschool.com/blog/feed/
+    name: "W3WebSchool Blog"
   - href: https://www.moople.in/blog/feed/
+    name: "Moople Blog"
   - href: https://www.blog.creativeitinstitute.com/feed/
+    name: "Creative IT Institute Blog"
   - href: https://www.karmickinstitute.com/resources/feed/
+    name: "Karmick Institute Resources"
   - href: https://99eedu.com/feed/
+    name: "99EdU Blog"
   - href: https://awtim.com/blog/feed/
-
-
-
-  
+    name: "AWTIM Blog"
+  - href: https://weaversweb.academy/feed/
+    name: "Weavers Web Academy Blog"
+  - href: https://www.acesoftech.com/feed/
+    name: "Acesoftech Blog"
+  - href: https://desunacademy.in/feed/
+    name: "Desun Academy Blog"
