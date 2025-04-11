@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-10T01:22:08.221Z</id>
+    <id>urn:2025-04-11T01:22:54.266Z</id>
     <title>Blogs</title>
-    <updated>2025-04-10T01:22:08.221Z</updated>
+    <updated>2025-04-11T01:22:54.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Digital Marketing Helps to Grow Your Business?]]></title>
+        <id>https://www.w3webschool.com/blog/?p=19161</id>
+        <link href="https://www.w3webschool.com/blog/grow-your-business/"/>
+        <updated>2025-04-10T10:57:42.000Z</updated>
+        <summary type="html"><![CDATA[How Digital Marketing Helps to Grow Your Business? Have you ever wondered how digital marketing helpe to grow your business online? Until you have applied the strategies or feeling the urgency of using them for further growth. Most businesses have an idea why digital marketing is essential for today’s businesses, particularly when you are focusing ... Read more
+The post How Digital Marketing Helps to Grow Your Business? appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India Launches AI Competency Framework to Revolutionise Public Sector]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3457</id>
+        <link href="https://www.karmickinstitute.com/resources/india-launches-ai-competency-framework-to-revolutionise-public-sector/"/>
+        <updated>2025-04-10T06:19:22.000Z</updated>
+        <summary type="html"><![CDATA[India has a massive workforce of over 3.1 million government employees, and they’re making a big move into the world of AI (artificial intelligence). The country is implementing a thorough framework to elevate the AI proficiency of its public sector employees. Guided by UNESCO’s AI and digital competency framework, India is positioning itself as a […]
+The post India Launches AI Competency Framework to Revolutionise Public Sector appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Prasenjit Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14 Untapped Ways to Promote Your Facebook Business Page]]></title>
         <id>https://www.w3webschool.com/blog/?p=19108</id>
@@ -295,34 +317,12 @@ The post How To Improve Web Design Skills- A Complete Guide appeared first on Ka
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MeitY Received Over 187 Proposals for Developing Large Language Models Under the IndiaAI Mission]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3366</id>
-        <link href="https://www.karmickinstitute.com/resources/meity-received-over-187-proposals-for-developing-large-language-models-under-the-indiaai-mission/"/>
-        <updated>2025-03-28T06:12:53.000Z</updated>
-        <summary type="html"><![CDATA[The Ministry of Electronics and Information Technology (MietY) disclosed that researchers, entrepreneurs, and startups have responded enthusiastically to the IndiaAI mission. It has received around 187 proposals focused on creating homegrown large language models (LLMs). Abhishek Singh, additional secretary at MietY, revealed that 187 proposals were submitted following a Call for Proposals launched on January […]
-The post MeitY Received Over 187 Proposals for Developing Large Language Models Under the IndiaAI Mission appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Prasenjit Das</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[15 Exclusive Advantages of CSS a Programmer Should Know]]></title>
         <id>https://www.w3webschool.com/blog/?p=18569</id>
         <link href="https://www.w3webschool.com/blog/advantages-of-css/"/>
         <updated>2025-03-27T11:47:42.000Z</updated>
         <summary type="html"><![CDATA[15 Exclusive Advantages of CSS a Programmer Should Know Are you facing difficulties in styling your web pages properly? Is your code challenging to manage and messy? Without CSS usage, making a captivating and responsive website is a nightmare! With only HTML, the styling becomes challenging. It needs continuous coding, which makes your website slow ... Read more
 The post 15 Exclusive Advantages of CSS a Programmer Should Know appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 8 Advantages of Python Programming Language]]></title>
-        <id>https://www.w3webschool.com/blog/?p=18539</id>
-        <link href="https://www.w3webschool.com/blog/advantages-of-python/"/>
-        <updated>2025-03-26T11:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Top 8 Advantages of Python Programming Language Have you ever wondered why Python is in high demand? What makes this programming language the top pick for newbies or development professionals? Most individuals wish to know more about this programming language yet find it difficult to process. A simple yet highly functioning one is perfect for ... Read more
-The post Top 8 Advantages of Python Programming Language appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
         </author>
@@ -460,17 +460,6 @@ The post The Best Courses to Pursue After Graduation in Arts appeared first on W
 The post Why You Should Enrol in a Software Testing Course in 2025 first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Life Applications for a BSc in VFX: It’s Not TV and Film Only]]></title>
-        <id>https://www.moople.in/blog/?p=15070</id>
-        <link href="https://www.moople.in/blog/real-life-applications-for-a-bsc-in-vfx-its-not-tv-and-film-only/"/>
-        <updated>2025-03-12T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Visual effects (VFX) make fantasy a reality. From life-threatening fight scenes to cinematic fantasy worlds, VFX is what makes the TV program or film look nice. However, there’s more to VFX than film and television. It’s applied from industry to industry to create the gaming, healthcare, advertising, and education sectors. Do you consider VFX something […]
-The post Real-Life Applications for a BSc in VFX: It’s Not TV and Film Only appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
         </author>
     </entry>
 </feed>

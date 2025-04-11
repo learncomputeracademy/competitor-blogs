@@ -11,7 +11,7 @@
           "description": "Are you thinking about a tech career? But don’t know where to start? You are at the right place! Of all the tech roles that don’t require prior coding knowledge, HTML front-end development is something to consider. Acquiring the skills from a comprehensive HTML Front-end development course ensures career growth and provides lucrative salaries. But… Continue reading The Growing Demand for HTML Front-End Development: Job Opportunities in 2025\nThe post The Growing Demand for HTML Front-End Development: Job Opportunities in 2025 first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/the-growing-demand-for-html-front-end-development/",
           "publishedOn": "2025-03-18T14:32:05.000Z",
-          "wordCount": 11748,
+          "wordCount": 11650,
           "title": "The Growing Demand for HTML Front-End Development: Job Opportunities in 2025",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Do you thrive on creativity, a constant hunger for learning, and challenges? Then, a career in software testing is just for you! These qualities may not be the first words that come to your mind when you think about a software testing course in Kolkata. However, innovation, an urge to learn, and solving complex problems… Continue reading Why You Should Enrol in a Software Testing Course in 2025\nThe post Why You Should Enrol in a Software Testing Course in 2025 first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/why-you-should-enrol-in-a-software-testing-course-in-2025/",
           "publishedOn": "2025-03-14T07:36:50.000Z",
-          "wordCount": 11314,
+          "wordCount": 11220,
           "title": "Why You Should Enrol in a Software Testing Course in 2025",
           "imageUrl": null
         }
@@ -32,6 +32,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=19161",
+          "author": "Poulami Dalal",
+          "description": "How Digital Marketing Helps to Grow Your Business? Have you ever wondered how digital marketing helpe to grow your business online? Until you have applied the strategies or feeling the urgency of using them for further growth. Most businesses have an idea why digital marketing is essential for today’s businesses, particularly when you are focusing ... Read more\nThe post How Digital Marketing Helps to Grow Your Business? appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/grow-your-business/",
+          "publishedOn": "2025-04-10T10:57:42.000Z",
+          "wordCount": 4844,
+          "title": "How Digital Marketing Helps to Grow Your Business?",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Grow-Your-Business-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=19108",
           "author": "Poulami Dalal",
@@ -121,16 +131,6 @@
           "wordCount": 4884,
           "title": "15 Exclusive Advantages of CSS a Programmer Should Know",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Advantages-of-CSS-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18539",
-          "author": "Poulami Dalal",
-          "description": "Top 8 Advantages of Python Programming Language Have you ever wondered why Python is in high demand? What makes this programming language the top pick for newbies or development professionals? Most individuals wish to know more about this programming language yet find it difficult to process. A simple yet highly functioning one is perfect for ... Read more\nThe post Top 8 Advantages of Python Programming Language appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/advantages-of-python/",
-          "publishedOn": "2025-03-26T11:30:14.000Z",
-          "wordCount": 3829,
-          "title": "Top 8 Advantages of Python Programming Language",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Advantages-of-Python-1100x619.png"
         }
       ]
     },
@@ -238,23 +238,13 @@
           "wordCount": 1821,
           "title": "How to Become a Web Developer in 2025?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/03/web-designing-20-03-25.jpg"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=15070",
-          "author": "hiteblog",
-          "description": "Visual effects (VFX) make fantasy a reality. From life-threatening fight scenes to cinematic fantasy worlds, VFX is what makes the TV program or film look nice. However, there’s more to VFX than film and television. It’s applied from industry to industry to create the gaming, healthcare, advertising, and education sectors. Do you consider VFX something […]\nThe post Real-Life Applications for a BSc in VFX: It’s Not TV and Film Only appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/real-life-applications-for-a-bsc-in-vfx-its-not-tv-and-film-only/",
-          "publishedOn": "2025-03-12T07:50:00.000Z",
-          "wordCount": 1863,
-          "title": "Real-Life Applications for a BSc in VFX: It’s Not TV and Film Only",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/03/vfx-course-11-03-25-1.jpg"
         }
       ]
     },
     {
       "title": "Blog – Creative IT Institute",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://www.blog.creativeitinstitute.com/",
+      "siteUrl": "https://3.7.156.149/",
       "articles": []
     },
     {
@@ -262,6 +252,16 @@
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3457",
+          "author": "Prasenjit Das",
+          "description": "India has a massive workforce of over 3.1 million government employees, and they’re making a big move into the world of AI (artificial intelligence). The country is implementing a thorough framework to elevate the AI proficiency of its public sector employees. Guided by UNESCO’s AI and digital competency framework, India is positioning itself as a […]\nThe post India Launches AI Competency Framework to Revolutionise Public Sector appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/india-launches-ai-competency-framework-to-revolutionise-public-sector/",
+          "publishedOn": "2025-04-10T06:19:22.000Z",
+          "wordCount": 3873,
+          "title": "India Launches AI Competency Framework to Revolutionise Public Sector",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/India-launches-AI-competency-framework-to-revolutionise-public-sector-1.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3446",
           "author": "Prasenjit Das",
@@ -351,16 +351,6 @@
           "wordCount": 6157,
           "title": "How To Improve Web Design Skills- A Complete Guide",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Tips-On-Improving-Web-Design-Skills-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3366",
-          "author": "Prasenjit Das",
-          "description": "The Ministry of Electronics and Information Technology (MietY) disclosed that researchers, entrepreneurs, and startups have responded enthusiastically to the IndiaAI mission. It has received around 187 proposals focused on creating homegrown large language models (LLMs). Abhishek Singh, additional secretary at MietY, revealed that 187 proposals were submitted following a Call for Proposals launched on January […]\nThe post MeitY Received Over 187 Proposals for Developing Large Language Models Under the IndiaAI Mission appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/meity-received-over-187-proposals-for-developing-large-language-models-under-the-indiaai-mission/",
-          "publishedOn": "2025-03-28T06:12:53.000Z",
-          "wordCount": 3814,
-          "title": "MeitY Received Over 187 Proposals for Developing Large Language Models Under the IndiaAI Mission",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/MeitY-received-187-proposals-for-developing-large-language-models-under-the-IndiaAI-Mission-1.webp"
         }
       ]
     },
@@ -375,7 +365,7 @@
           "description": "Backlinks are the lifeblood of modern SEO. Without them, even the most well-optimized website can struggle to climb the search engine rankings. That’s where free link building sites come into play. They offer a no-cost, effective way to build authority, increase traffic, and enhance visibility. Whether you’re a digital marketer, blogger, or business owner, these … \nContinue reading \"Top 1000 Free Link Building Sites in 2025\"\nThe post Top 1000 Free Link Building Sites in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/top-1000-free-link-building-sites-in-2025/",
           "publishedOn": "2025-04-08T11:48:48.000Z",
-          "wordCount": 4211,
+          "wordCount": 4197,
           "title": "Top 1000 Free Link Building Sites in 2025",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Free-Link-Building-Sites.jpeg"
         },
@@ -385,7 +375,7 @@
           "description": "Mumbai, the financial capital of India, is home to many top schools offering various levels of digital marketing courses for Mumbai students. Whether you’re a student or a seasoned businessman, when you hire the best teachers and institutions for training, your skills will have a pivotal impact on where you end up. This guide to … \nContinue reading \"Top 10 Digital Marketing Institutes in Mumbai in 2025\"\nThe post Top 10 Digital Marketing Institutes in Mumbai in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-institutes-in-mumbai-in-2025/",
           "publishedOn": "2025-04-03T10:11:14.000Z",
-          "wordCount": 3778,
+          "wordCount": 3764,
           "title": "Top 10 Digital Marketing Institutes in Mumbai in 2025",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-Marketing-Institutes-in-Mumbai.jpeg"
         },
@@ -395,7 +385,7 @@
           "description": "The rapid increase in the need for digital expertise and skills has made Internet marketing courses in Delhi a must-have for marketers, entrepreneurs, and business owners. India’s capital, Delhi, has many training programs combining theoretical and practical knowledge. A digital marketing course in Delhi, structured for all levels, will enrich even a student, a working professional, or a … \nContinue reading \"Top 10 Internet Marketing Courses in Delhi\"\nThe post Top 10 Internet Marketing Courses in Delhi appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-internet-marketing-courses-in-delhi/",
           "publishedOn": "2025-04-02T12:05:35.000Z",
-          "wordCount": 4799,
+          "wordCount": 3610,
           "title": "Top 10 Internet Marketing Courses in Delhi",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Internet-Marketing-Courses-in-Delhi.jpeg"
         },
@@ -405,7 +395,7 @@
           "description": "With the rise of the Internet, businesses of all types are turning to online marketing for a wider reach in today’s fast-paced digital world. “Join the best Digital Marketing Courses in Dumdum at 99eedu Institute. Learn SEO, SMM, PPC & more with expert training and job assistance.  job seekers and professionals looking to upskill can take … \nContinue reading \"Top 10 Digital Marketing Courses in Dumdum\"\nThe post Top 10 Digital Marketing Courses in Dumdum appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-dumdum/",
           "publishedOn": "2025-03-24T11:08:46.000Z",
-          "wordCount": 5057,
+          "wordCount": 3868,
           "title": "Top 10 Digital Marketing Courses in Dumdum",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Digital-Marketing-Courses-in-Dumdum.png"
         },
@@ -415,7 +405,7 @@
           "description": "Google Core Updates have had a substantial historical impact on website ranking and how search results matched user intent over the years, since 2011. They are breakthrough changes in the Google algorithm updates affecting businesses, marketers, and SEO professionals all over the world. It is important to understand these updates to maintain and improve website rankings, adapt to … \nContinue reading \"Google Core Updates 2025: Latest Changes & SEO Impact\"\nThe post Google Core Updates 2025: Latest Changes & SEO Impact appeared first on 99institute.",
           "link": "https://99eedu.com/google-core-updates-2025-latest-changes-seo-impact/",
           "publishedOn": "2025-03-21T09:31:47.000Z",
-          "wordCount": 3372,
+          "wordCount": 3358,
           "title": "Google Core Updates 2025: Latest Changes & SEO Impact",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Google-Core-Updates.jpg"
         },
@@ -425,7 +415,7 @@
           "description": "Digital marketing is the lifeblood of businesses in this fast-paced era. No matter what you do, be it a student, entrepreneur, or working professional, pursuing a digital marketing course in Hyderabad will help you gain access to several fruitful career opportunities. As more and more companies look for skilled marketers, various training institutes have developed courses that enable … \nContinue reading \"Top 10 Digital Marketing Courses in Hyderabad\"\nThe post Top 10 Digital Marketing Courses in Hyderabad appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-hyderabad/",
           "publishedOn": "2025-03-19T12:32:46.000Z",
-          "wordCount": 3470,
+          "wordCount": 3456,
           "title": "Top 10 Digital Marketing Courses in Hyderabad",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/top-10-digital-marketing-courses-in-hyderabad-1.png"
         }
