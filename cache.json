@@ -33,6 +33,26 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=19218",
+          "author": "Poulami Dalal",
+          "description": "7 Secure Code Plagiarism Checker Tools to Avoid Ethical Issues Are you worried about code plagiarism in development projects? The majority of programmers or developers copy code without even offering credit. This can cause major ethical or legal issues.  It is challenging to detect copied code. Therefore, the main goal is to detect whether the ... Read more\nThe post 7 Secure Code Plagiarism Checker Tools to Avoid Ethical Issues appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/code-plagiarism-checker/",
+          "publishedOn": "2025-04-11T12:08:11.000Z",
+          "wordCount": 4862,
+          "title": "7 Secure Code Plagiarism Checker Tools to Avoid Ethical Issues",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Code-Plagiarism-Checker-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=19195",
+          "author": "W3webschool",
+          "description": "The Step-by-Step Guide to Launching a Multilingual Marketing Campaign Businesses are no longer confined by geographical boundaries. With the rise of digital platforms, companies have the opportunity to reach global audiences like never before. However, to truly connect with diverse markets, a one-size-fits-all approach to marketing simply won’t cut it. This is where multilingual marketing ... Read more\nThe post The Step-by-Step Guide to Launching a Multilingual Marketing Campaign appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/multilingual-marketing-campaign/",
+          "publishedOn": "2025-04-11T05:01:34.000Z",
+          "wordCount": 4147,
+          "title": "The Step-by-Step Guide to Launching a Multilingual Marketing Campaign",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Multilingual-Marketing-Campaign-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=19161",
           "author": "Poulami Dalal",
           "description": "How Digital Marketing Helps to Grow Your Business? Have you ever wondered how digital marketing helpe to grow your business online? Until you have applied the strategies or feeling the urgency of using them for further growth. Most businesses have an idea why digital marketing is essential for today’s businesses, particularly when you are focusing ... Read more\nThe post How Digital Marketing Helps to Grow Your Business? appeared first on W3webschool Blog.",
@@ -111,26 +131,6 @@
           "wordCount": 4944,
           "title": "8 Best Photoshop Alternatives that Designers Must Know!",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Photoshop-Alternatives-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18606",
-          "author": "Poulami Dalal",
-          "description": "8 Best Shopify Alternatives for Your eCommerce Business Are you seeking some effective Shopify alternatives? Do you think the pricing of Shopify, the limited features for customization, and transaction fees are overhyped and do not resonate anymore with your online store? Some business owners are looking for better choices that resonate with their business budget ... Read more\nThe post 8 Best Shopify Alternatives for Your eCommerce Business appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/shopify-alternatives/",
-          "publishedOn": "2025-03-29T11:56:45.000Z",
-          "wordCount": 4915,
-          "title": "8 Best Shopify Alternatives for Your eCommerce Business",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Shopify-Alternatives-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18569",
-          "author": "Poulami Dalal",
-          "description": "15 Exclusive Advantages of CSS a Programmer Should Know Are you facing difficulties in styling your web pages properly? Is your code challenging to manage and messy? Without CSS usage, making a captivating and responsive website is a nightmare! With only HTML, the styling becomes challenging. It needs continuous coding, which makes your website slow ... Read more\nThe post 15 Exclusive Advantages of CSS a Programmer Should Know appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/advantages-of-css/",
-          "publishedOn": "2025-03-27T11:47:42.000Z",
-          "wordCount": 4884,
-          "title": "15 Exclusive Advantages of CSS a Programmer Should Know",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/03/Advantages-of-CSS-1100x619.png"
         }
       ]
     },
@@ -244,7 +244,7 @@
     {
       "title": "Blog – Creative IT Institute",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://3.7.156.149/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": []
     },
     {
@@ -252,6 +252,16 @@
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3580",
+          "author": "Prasenjit Das",
+          "description": "Since 2010, the number of AI-related job openings has grown steadily, with the 2025 Artificial Intelligence Index Report highlighting a significant surge recently. According to the Stanford Institute for Human-Centered Artificial Intelligence, the job market for both AI and machine learning experienced a massive surge in demand starting around 2017, which has not slowed down. […]\nThe post India’s AI Job Market Surges, Outranking Global Hiring in Tech appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/indias-ai-job-market-surges-outranking-global-hiring-in-tech/",
+          "publishedOn": "2025-04-11T05:57:12.000Z",
+          "wordCount": 3844,
+          "title": "India’s AI Job Market Surges, Outranking Global Hiring in Tech",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Indias-AI-Job-Market-Surges-Outranking-Global-Hiring-in-Tech-1.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3457",
           "author": "Prasenjit Das",
@@ -341,16 +351,6 @@
           "wordCount": 3866,
           "title": "A class 10 Student Made Over ₹1.5 lakh in 2 Months Building AI Websites, Claims Redditor",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/A-Class-10-Student-Made-Over-₹1.5-lakh-in-2-Months-Building-AI-Websites-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3365",
-          "author": "Tanmay Das",
-          "description": "How do you convert your passion for design into a rewarding career in this ferociously competitive digital landscape? The foundation for success is developing comprehensive web design skills, specifically in UI and UX. Learn actionable strategies to thrive in the ever-evolving world of web design and build a sustainable career. Let’s dive in! Great user […]\nThe post How To Improve Web Design Skills- A Complete Guide appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/how-to-improve-web-design-skills/",
-          "publishedOn": "2025-03-28T07:01:07.000Z",
-          "wordCount": 6157,
-          "title": "How To Improve Web Design Skills- A Complete Guide",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/03/Tips-On-Improving-Web-Design-Skills-1.webp"
         }
       ]
     },
