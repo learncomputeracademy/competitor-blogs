@@ -23,6 +23,16 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=19309",
+          "author": "Poulami Dalal",
+          "description": "9 Proven Real Estate Lead Generation Strategies to Try! Are you facing difficulties in finding new leads for your new real estate business? Quality leads are pillars of your business success. Without proper lead generation, you will not be able to grow your real estate business and have lasting client relationships.  Many realtors are working ... Read more\nThe post 9 Proven Real Estate Lead Generation Strategies to Try! appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/real-estate-lead-generation/",
+          "publishedOn": "2025-04-14T12:13:14.000Z",
+          "wordCount": 5034,
+          "title": "9 Proven Real Estate Lead Generation Strategies to Try!",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Real-Estate-Lead-Generation-Strategies-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=19263",
           "author": "Poulami Dalal",
           "description": "7 Awesome Backlink Generator Tools to Boos Your SEO Are you facing difficulties in ranking your website higher on search engines? Do you find it challenging to build quality backlinks? Backlinks are an essential aspect of SEO. Without quality backlinks, it’s hard to increase the traffic and visibility of your website.  In this blog post, ... Read more\nThe post 7 Awesome Backlink Generator Tools to Boos Your SEO appeared first on W3webschool Blog.",
@@ -111,16 +121,6 @@
           "wordCount": 4990,
           "title": "18 Untapped Secrets to Instantly Increase Instagram Followers",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Increase-Instagram-Followers-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18742",
-          "author": "Poulami Dalal",
-          "description": "Top 10 Canva Alternatives to Boost Your Design Projects! Do you have a passion for designing, but Canva’s limited features are stopping you from making a stunning design? Are you seeking new and dynamic design alternatives? While Canva is an excellent one, it has some limitations. Some platforms provide unlimited templates, more custom options and ... Read more\nThe post Top 10 Canva Alternatives to Boost Your Design Projects! appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/canva-alternatives/",
-          "publishedOn": "2025-04-02T12:07:49.000Z",
-          "wordCount": 4879,
-          "title": "Top 10 Canva Alternatives to Boost Your Design Projects!",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Canva-Alternatives-1100x619.png"
         }
       ]
     },
@@ -243,12 +243,32 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3589",
+          "author": "Tanmay Das",
+          "description": "This article will answer questions like “Why learn digital marketing?” and “Is digital marketing a good career”? If you are considering a career in digital marketing, this article will tell you the required skills, education, salary prospects and different career options. Ultimately, you will know the top 10 tips to start a career in digital […]\nThe post 10 Essential Tips To Start A Successful Career In Digital Marketing​ appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/10-essential-tips-to-start-career-in-digital-marketing/",
+          "publishedOn": "2025-04-14T09:36:11.000Z",
+          "wordCount": 6399,
+          "title": "10 Essential Tips To Start A Successful Career In Digital Marketing​",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/10-Essential-Tips​.webp"
+        },
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3587",
+          "author": "Tanmay Das",
+          "description": "New Delhi: India and Germany will expand their partnership in AI (artificial intelligence), quantum tech, and green hydrogen for innovation and sustainability, according to Minister Jitendra Singh. Dr. Singh emphasised the strong and long-lasting partnership between India and Germany in science, technology, and innovation. After meeting with Bavaria’s visiting Minister-President Markus Soder in New Delhi, […]\nThe post India, Germany Agree to Strengthen Ties in AI and Quantum Tech, Says Minister appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/india-germany-agree-to-strengthen-ties-in-ai-and-quantum-tech-says-minister/",
+          "publishedOn": "2025-04-14T05:54:15.000Z",
+          "wordCount": 3889,
+          "title": "India, Germany Agree to Strengthen Ties in AI and Quantum Tech, Says Minister",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/India-Germany-boost-AI-quantum-tech-ties-says-minister.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3580",
           "author": "Prasenjit Das",
           "description": "Since 2010, the number of AI-related job openings has grown steadily, with the 2025 Artificial Intelligence Index Report highlighting a significant surge recently. According to the Stanford Institute for Human-Centered Artificial Intelligence, the job market for both AI and machine learning experienced a massive surge in demand starting around 2017, which has not slowed down. […]\nThe post India’s AI Job Market Surges, Outranking Global Hiring in Tech appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/indias-ai-job-market-surges-outranking-global-hiring-in-tech/",
           "publishedOn": "2025-04-11T05:57:12.000Z",
-          "wordCount": 3844,
+          "wordCount": 3838,
           "title": "India’s AI Job Market Surges, Outranking Global Hiring in Tech",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Indias-AI-Job-Market-Surges-Outranking-Global-Hiring-in-Tech-1.webp"
         },
@@ -258,7 +278,7 @@
           "description": "India has a massive workforce of over 3.1 million government employees, and they’re making a big move into the world of AI (artificial intelligence). The country is implementing a thorough framework to elevate the AI proficiency of its public sector employees. Guided by UNESCO’s AI and digital competency framework, India is positioning itself as a […]\nThe post India Launches AI Competency Framework to Revolutionise Public Sector appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/india-launches-ai-competency-framework-to-revolutionise-public-sector/",
           "publishedOn": "2025-04-10T06:19:22.000Z",
-          "wordCount": 3873,
+          "wordCount": 3867,
           "title": "India Launches AI Competency Framework to Revolutionise Public Sector",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/India-launches-AI-competency-framework-to-revolutionise-public-sector-1.webp"
         },
@@ -268,7 +288,7 @@
           "description": "On April 8, the Economic Times reported that India’s AI (artificial intelligence) sector is experiencing notable progress on multiple fronts. The country has achieved a world-leading 33% increase in AI hiring, underscoring its growing workforce in this field. Now, India holds a second-place ranking for contributions to AI projects on the GitHub platform. Despite India’s […]\nThe post Despite Strong AI Hiring, India Has Weak AI Patenting appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/despite-strong-ai-hiring-india-has-weak-ai-patenting/",
           "publishedOn": "2025-04-09T06:22:13.000Z",
-          "wordCount": 3789,
+          "wordCount": 3783,
           "title": "Despite Strong AI Hiring, India Has Weak AI Patenting",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Despite-strong-AI-recruitment-Indias-AI-patent-output-is-low-1.webp"
         },
@@ -278,7 +298,7 @@
           "description": "So, you have earned your degree? Fantastic! Now, the real journey of your life begins! For starters, having a graduation degree isn’t enough to carve a promising career. In today’s rapidly evolving job market, how do you ensure your CV shines and makes it to the top? The answer lies in focussed learning. To truly […]\nThe post Top 6-Month Courses After Graduation to Boost Your Career appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/top-6-month-courses-after-graduation-to-boost-your-career/",
           "publishedOn": "2025-04-09T06:20:41.000Z",
-          "wordCount": 6731,
+          "wordCount": 6725,
           "title": "Top 6-Month Courses After Graduation to Boost Your Career",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Top-6-Month-Courses-After-Graduation-to-Boost-Your-Career.webp"
         },
@@ -288,7 +308,7 @@
           "description": "The Studio Ghibli AI trend is all over the internet. From politicians to influencers, every single person is transforming their photos with ChatGPT.  However, cybersecurity experts caution users about the privacy dangers of sharing personal images on these AI (artificial intelligence) platforms. The surge in this trend began with OpenAI’s GPT-4o, which allows users to […]\nThe post Experts Warn the Studio Ghibli AI Trend Is a Hidden Privacy Risk appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/experts-warn-the-studio-ghibli-ai-trend-is-a-hidden-privacy-risk/",
           "publishedOn": "2025-04-08T06:12:03.000Z",
-          "wordCount": 3946,
+          "wordCount": 3940,
           "title": "Experts Warn the Studio Ghibli AI Trend Is a Hidden Privacy Risk",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Studio-Ghibli-AI-trend-is-a-hidden-privacy-risk-says-experts-1.webp"
         },
@@ -298,7 +318,7 @@
           "description": "According to a UN report, India and China are the sole developing nations demonstrating substantial private AI investment in 2023, with India securing the 10th rank globally. Out of 170 countries assessed in the report, India now ranks 36th in its readiness for frontier technologies, marking an advancement from its ranking in the preceding year. […]\nThe post With $1.4 Billion in Private AI Investment, India Holds the 10th Rank Globally: UN Report appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/with-1-4-billion-in-private-ai-investment-india-holds-the-10th-rank-globally-un-report/",
           "publishedOn": "2025-04-07T05:53:05.000Z",
-          "wordCount": 3906,
+          "wordCount": 3900,
           "title": "With $1.4 Billion in Private AI Investment, India Holds the 10th Rank Globally: UN Report",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/With-1.4-billion-in-AI-investment-India-holds-the-10th-rank-internationally_-UN-report-1.webp"
         },
@@ -308,7 +328,7 @@
           "description": "S. Krishnan, Secretary of the Ministry of Electronics and Information Technology (MeitY), believes that the Indian workforce can adapt to AI (artificial intelligence). Despite evolving demands brought by this cutting-edge technology, he believes that the Indian workforce possesses a strong ability to adapt and learn new skills. He suggests a confident outlook regarding the impact […]\nThe post India’s Workforce Can Adapt to AI, No Need to Fear Job Losses, Says S Krishnan appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/indias-workforce-can-adapt-to-ai-no-need-to-fear-job-losses-says-s-krishnan/",
           "publishedOn": "2025-04-04T06:27:46.000Z",
-          "wordCount": 3790,
+          "wordCount": 3784,
           "title": "India’s Workforce Can Adapt to AI, No Need to Fear Job Losses, Says S Krishnan",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/MeitY-Secretary-S-Krishnan-believes-India-can-adapt-to-AI-job-loss-fears-unnecessary-1.webp"
         },
@@ -318,29 +338,9 @@
           "description": "OpenAI CEO Sam Altman stated that India’s adoption rate of AI (artificial intelligence) is very impressive.  On April 2, 2025, Altman made a statement in a post on X, saying, “What’s happening with AI adoption in India right now is amazing to watch. We love to see the explosion of creativity- India is outpacing the […]\nThe post “India is Outpacing the World in AI Adoption,” Claims Sam Altman appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/india-is-outpacing-the-world-in-ai-adoption-claims-sam-altman/",
           "publishedOn": "2025-04-03T07:03:20.000Z",
-          "wordCount": 3871,
+          "wordCount": 3865,
           "title": "“India is Outpacing the World in AI Adoption,” Claims Sam Altman",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/India-is-Outpacing-the-World-in-A1-Adoption_-Claims-Sam-Altman-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3376",
-          "author": "Prasenjit Das",
-          "description": "Meta’s vice president for AI research, Joelle Pineau, said she is leaving the company at the end of May after working 8 years for it. Amidst the rapidly increasing competition in AI development, the head of AI research at Meta announced her departure from a high-profile position at the Instagram and Facebook company. In her […]\nThe post Meta’s AI Research Head Joelle Pineau Resigns After Eight Years appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/metas-ai-research-head-joelle-pineau-resigns-after-eight-years/",
-          "publishedOn": "2025-04-02T06:07:23.000Z",
-          "wordCount": 3818,
-          "title": "Meta’s AI Research Head Joelle Pineau Resigns After Eight Years",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Metas-AI-Research-Head-Joelle-Pineau-leaves-the-company-after-8-years-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3372",
-          "author": "Prasenjit Das",
-          "description": "Amid the job-loss fear arising from increasing implementation of AI (artificial intelligence), a Reddit post went viral about a Class 10 student in India, nicknamed “Musk” on the platform, making money with AI. This kid used an AI website builder, spent just ₹2,500 and made over ₹1.5 lakh in two months by building and selling […]\nThe post A class 10 Student Made Over ₹1.5 lakh in 2 Months Building AI Websites, Claims Redditor appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/a-class-10-student-made-over-%e2%82%b91-5-lakh-in-2-months-building-ai-websites-claims-redditor/",
-          "publishedOn": "2025-04-01T06:08:34.000Z",
-          "wordCount": 3866,
-          "title": "A class 10 Student Made Over ₹1.5 lakh in 2 Months Building AI Websites, Claims Redditor",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/A-Class-10-Student-Made-Over-₹1.5-lakh-in-2-Months-Building-AI-Websites-1.webp"
         }
       ]
     },
@@ -355,7 +355,7 @@
           "description": "Backlinks are the lifeblood of modern SEO. Without them, even the most well-optimized website can struggle to climb the search engine rankings. That’s where free link building sites come into play. They offer a no-cost, effective way to build authority, increase traffic, and enhance visibility. Whether you’re a digital marketer, blogger, or business owner, these … \nContinue reading \"Top 1000 Free Link Building Sites in 2025\"\nThe post Top 1000 Free Link Building Sites in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/top-1000-free-link-building-sites-in-2025/",
           "publishedOn": "2025-04-08T11:48:48.000Z",
-          "wordCount": 4211,
+          "wordCount": 5390,
           "title": "Top 1000 Free Link Building Sites in 2025",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Free-Link-Building-Sites.jpeg"
         },
@@ -458,7 +458,48 @@
       "title": "Acesoftech Academy",
       "feedUrl": "https://www.acesoftech.com/feed/",
       "siteUrl": "https://www.acesoftech.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.acesoftech.com/?p=91168",
+          "author": "admin",
+          "description": "Le Slot Plinko: Un Viaggio Emozionante nei Casinò Online Italiani Le slot Plinko rappresentano una delle esperienze più emozionanti che puoi trovare nei casinò online italiani. Queste varianti di gioco sono ispirate al famoso gioco televisivo “Plinko” e offrono un mix di fortuna e strategia che attira numerosi giocatori. In questo articolo, esploreremo il mondo… Continue reading Le Slot Plinko: Un Viaggio Emozionante nei Casinò Online Italiani\nThe post Le Slot Plinko: Un Viaggio Emozionante nei Casinò Online Italiani appeared first on Acesoftech Academy.",
+          "link": "https://www.acesoftech.com/le-slot-plinko-un-viaggio-emozionante-nei-casino-online-italiani/",
+          "publishedOn": "2025-04-15T00:25:34.000Z",
+          "wordCount": null,
+          "title": "Le Slot Plinko: Un Viaggio Emozionante nei Casinò Online Italiani",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.acesoftech.com/?p=91164",
+          "author": "admin",
+          "description": "Gama Casino: Вход только Регистрация ᐉ официальному Сайт Гама Казино На Деньги Content Методы оплате Доступные В Казино Gama 💸 Лучшие Казино 2024: и Демо Режиме Преимущества официальному Сайта Gama Casino советовать Для Игры в Gama Casino Плюсы Gama Casino В Мобильной Версии “официального Сайт Gama Casino В России и 2025 Году Прохождение Регистрации На… Continue reading рабочее Зеркало На сегодня, Вход На официальный Сайт, Играть Онлайн В Автоматы а Деньги Или же Демо Версии\nThe post рабочее Зеркало На сегодня, Вход На официальный Сайт, Играть Онлайн В Автоматы а Деньги Или же Демо Версии appeared first on Acesoftech Academy.",
+          "link": "https://www.acesoftech.com/rabochee-zerkalo-na-segodnia-vkhod-na-ofitsialnyi-sait-igrat-onlain-v-avtomaty-a-dengi-ili-zhe-demo-versii/",
+          "publishedOn": "2025-04-15T00:13:00.000Z",
+          "wordCount": null,
+          "title": "рабочее Зеркало На сегодня, Вход На официальный Сайт, Играть Онлайн В Автоматы а Деньги Или же Демо Версии",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.acesoftech.com/?p=91162",
+          "author": "admin",
+          "description": "1win Connexion À Votre Compte Content Connexion Au Web Site Web Officiel Sobre 1win Bonuses And Promotions Biggest Wins From The Month Comment Sony Ericsson Connecter Depuis Le Appareil Mobile? Dépannage Et Assistance Dos La Connexion Bonuses And Special Offers For Bangladeshi Players In Connexion Depuis Burkina Faso: Astuces Serve Une Expérience Fluide Mesures De… Continue reading “1win Nigeria Official Wagering Site Login Benefit 715, 500 Ngn\nThe post “1win Nigeria Official Wagering Site Login Benefit 715, 500 Ngn appeared first on Acesoftech Academy.",
+          "link": "https://www.acesoftech.com/1win-nigeria-official-wagering-site-login-benefit-715-500-ngn/",
+          "publishedOn": "2025-04-15T00:08:02.000Z",
+          "wordCount": null,
+          "title": "“1win Nigeria Official Wagering Site Login Benefit 715, 500 Ngn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.acesoftech.com/?p=91166",
+          "author": "admin",
+          "description": "Juega al Casino en Línea con Seguridad: ¡Descubre Betwarrior Chile, tu Nuevo Destino en Apuestas! Contents Conoce Betwarrior Chile: el Nuevo Líder en Juegos de Casino en Línea Seguros Apuesta en Línea con Confianza en Betwarrior Chile: Todo lo que Necesitas Saber Betwarrior Chile: tu Nueva Plataforma de Casino en Línea con Estándares de Seguridad… Continue reading Juega al Casino en Línea con Seguridad: ¡Descubre Betwarrior Chile, tu Nuevo Destino en Apuestas!\nThe post Juega al Casino en Línea con Seguridad: ¡Descubre Betwarrior Chile, tu Nuevo Destino en Apuestas! appeared first on Acesoftech Academy.",
+          "link": "https://www.acesoftech.com/juega-al-casino-en-linea-con-seguridad-descubre-betwarrior-chile-tu-nuevo-destino-en-apuestas/",
+          "publishedOn": "2025-04-14T19:31:46.000Z",
+          "wordCount": null,
+          "title": "Juega al Casino en Línea con Seguridad: ¡Descubre Betwarrior Chile, tu Nuevo Destino en Apuestas!",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Desun Academy",
