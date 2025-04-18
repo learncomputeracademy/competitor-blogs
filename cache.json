@@ -4,24 +4,33 @@
       "title": "Webskitters Academy",
       "feedUrl": "https://www.webskittersacademy.in/feed/",
       "siteUrl": "https://www.webskittersacademy.in",
-      "articles": [
-        {
-          "id": "https://www.webskittersacademy.in/?p=16731",
-          "author": "Ayan Sarkar",
-          "description": "Are you thinking about a tech career? But don’t know where to start? You are at the right place! Of all the tech roles that don’t require prior coding knowledge, HTML front-end development is something to consider. Acquiring the skills from a comprehensive HTML Front-end development course ensures career growth and provides lucrative salaries. But… Continue reading The Growing Demand for HTML Front-End Development: Job Opportunities in 2025\nThe post The Growing Demand for HTML Front-End Development: Job Opportunities in 2025 first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/the-growing-demand-for-html-front-end-development/",
-          "publishedOn": "2025-03-18T14:32:05.000Z",
-          "wordCount": 11650,
-          "title": "The Growing Demand for HTML Front-End Development: Job Opportunities in 2025",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "W3webschool Blog",
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=19482",
+          "author": "Poulami Dalal",
+          "description": "Data Analyst Roadmap: A Step-by-step Guide for 2025 Are you aiming to become a data analyst professional but confused about where to start? Feeling overwhelmed by the multiple tools out there? You are not the only one facing such an issue! Most individuals feel lost at the initial stage. Don’t stress over this! I have ... Read more\nThe post Data Analyst Roadmap: A Step-by-step Guide for 2025 appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/data-analyst-roadmap/",
+          "publishedOn": "2025-04-17T12:12:59.000Z",
+          "wordCount": 5019,
+          "title": "Data Analyst Roadmap: A Step-by-step Guide for 2025",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Data-Analyst-Roadmap-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=19453",
+          "author": "W3webschool",
+          "description": "AI Camera Systems in Web Development: Building Smarter Surveillance Solutions The world of surveillance is undergoing a massive transformation. Traditional security cameras that simply record video footage are now being replaced by AI camera systems capable of much more than just recording. These advanced systems use artificial intelligence to analyze video feeds in real time, ... Read more\nThe post AI Camera Systems in Web Development: Building Smarter Surveillance Solutions appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/ai-camera-systems/",
+          "publishedOn": "2025-04-17T05:45:05.000Z",
+          "wordCount": 4387,
+          "title": "AI Camera Systems in Web Development: Building Smarter Surveillance Solutions",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/AI-Camera-Systems.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=19393",
           "author": "Poulami Dalal",
@@ -101,26 +110,6 @@
           "wordCount": 4947,
           "title": "How to Create a Facebook Business Page?",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Facebook-Business-Page-1-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18973",
-          "author": "Poulami Dalal",
-          "description": "11 Unique Ecommerce Business Ideas in India Are you facing difficulties in finding the best eCommerce business ideas in India for you? Do you ever think you have no space for your startup business in this highly competitive business landscape? Feeling a little lost in this fastest-growing field of big players?  Stop worrying. I have ... Read more\nThe post 11 Unique Ecommerce Business Ideas in India appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/ecommerce-business-ideas/",
-          "publishedOn": "2025-04-05T11:41:29.000Z",
-          "wordCount": 4943,
-          "title": "11 Unique Ecommerce Business Ideas in India",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Ecommerce-Business-Ideas-2-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=18907",
-          "author": "W3webschool",
-          "description": "13 Game-Changing Hacks to Get 1K Subscribers on YouTube! Facing difficulties in getting the first 1K subscribers on YouTube? You are not alone here. Making your channel grow can sometimes be monotonous and slow. Putting lots of effort, time, and creativity into channel growth, but seeing stagnant numbers can raise frustration.  But stop worrying! With ... Read more\nThe post 13 Game-Changing Hacks to Get 1K Subscribers on YouTube! appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/1k-subscribers-on-youtube/",
-          "publishedOn": "2025-04-04T12:25:28.000Z",
-          "wordCount": 5015,
-          "title": "13 Game-Changing Hacks to Get 1K Subscribers on YouTube!",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Get-1K-Subscribers-on-YouTube-1-1100x619.png"
         }
       ]
     },
@@ -130,12 +119,32 @@
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
         {
+          "id": "https://www.moople.in/blog/?p=15145",
+          "author": "hiteblog",
+          "description": "Cross-platform gaming is transforming the way games are played. It’s split platforms apart, and gamers playing on consoles, PCs, and mobile phones can now play games together. It not only has made the game more accessible but also brought communities within the game closer together. Let’s look at how cross-platform gaming is reshaping the video […]\nThe post Impact of Cross-Platform Gaming on the Video Game Industry appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/impact-of-cross-platform-gaming-on-the-video-game-industry/",
+          "publishedOn": "2025-04-17T12:09:35.000Z",
+          "wordCount": 1645,
+          "title": "Impact of Cross-Platform Gaming on the Video Game Industry",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/Impact-of-Cross-Platform-Gaming-on-the-Video-Game-Industry.jpg"
+        },
+        {
+          "id": "https://www.moople.in/blog/?p=15141",
+          "author": "hiteblog",
+          "description": "Have you ever been transfixed by a digital world where everything looks 3D but is ingeniously crafted in 2D? That’s the pull of isometric animation. Whether it’s a futuristic cityscape or a game interface that looks crisp and captivating, this animation style is a perfect amalgamation of depth, detail, and direction. That’s why aspiring creatives are diving into […]\nThe post How Do You Make an Isometric Animation Design appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/how-do-you-make-an-isometric-animation-design/",
+          "publishedOn": "2025-04-11T07:47:01.000Z",
+          "wordCount": 1789,
+          "title": "How Do You Make an Isometric Animation Design",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/best-animation-design-17-04-25-1-1.jpg"
+        },
+        {
           "id": "https://www.moople.in/blog/?p=15131",
           "author": "hiteblog",
           "description": "In the current digital era, learning how to master SEO (search engine optimization) is a game changer for anyone who wants to make it online. But how long does it take to master it? This is a question that keeps popping up in the minds of beginners and even professionals who want to sharpen their […]\nThe post How Long Does It Take to Master SEO? (Detailed Timeline) appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-long-does-it-take-to-master-seo-detailed-timeline/",
           "publishedOn": "2025-04-09T12:03:36.000Z",
-          "wordCount": 1908,
+          "wordCount": 1907,
           "title": "How Long Does It Take to Master SEO? (Detailed Timeline)",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/How-Long-Does-It-Take-to-Master-SEO-Detailed-Timeline.jpg"
         },
@@ -145,7 +154,7 @@
           "description": "The internet world is evolving every single second. Websites that were deemed to be up to date three years ago are now looking dated. Businesses and individuals continue to redesign their websites to make them up-to-date. Web development is no longer merely coding. It’s about innovation, security, performance, and usability. New technology emerges, and the […]\nThe post The Evolution of Web Development: Trends That Will Dominate appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/the-evolution-of-web-development-trends-that-will-dominate/",
           "publishedOn": "2025-04-09T08:04:16.000Z",
-          "wordCount": 1967,
+          "wordCount": 1966,
           "title": "The Evolution of Web Development: Trends That Will Dominate",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/website-development-trend-09-04-25.jpg"
         },
@@ -155,7 +164,7 @@
           "description": "We’ve heard of animation. But, do you know what 3D animation is? It is the art of moving images in a virtual environment. If you like animation, you can take anything to the virtual environment. You can turn anything, from easy drawings to challenging animations, into a 3D model. With the help of 3D animation, […]\nThe post What Are the Key Features of the 3D Animation – 0 to Pro Course? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/what-are-the-key-features-of-the-3d-animation-0-to-pro-course/",
           "publishedOn": "2025-04-07T10:25:48.000Z",
-          "wordCount": 1358,
+          "wordCount": 1366,
           "title": "What Are the Key Features of the 3D Animation – 0 to Pro Course?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/3d-animation-course-07-04-25.jpg"
         },
@@ -165,7 +174,7 @@
           "description": "Web development is changing day by day at lightning speed. Those days are now gone when developers used to write line-by-line code manually for hours. Thanks to the GitHub Copilot artificial intelligence tool, web developers can now auto-generate code work and accomplish tasks in no time. What is GitHub Copilot, anyway? How do web developers […]\nThe post How Can Web Developers Leverage AI Tools Like GitHub Copilot? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-can-web-developers-leverage-ai-tools-like-github-copilot/",
           "publishedOn": "2025-04-04T07:13:31.000Z",
-          "wordCount": 1975,
+          "wordCount": 1974,
           "title": "How Can Web Developers Leverage AI Tools Like GitHub Copilot?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/How-Can-Web-Developers-Leverage-AI-Tools-Like-GitHub-Copilot.jpg"
         },
@@ -175,7 +184,7 @@
           "description": "Augmented reality (AR) is revolutionising businesses across the world, and animation is one of them. By mixing virtual items with reality, AR adds a new level of interaction, excitement, and engagement to animation. It provides animators, directors, and creators with unlimited possibilities to animate their works.   These innovative animation works were unimaginable earlier. This blog […]\nThe post How Augmented Reality is Transforming the Animation Industry appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-augmented-reality-is-transforming-the-animation-industry/",
           "publishedOn": "2025-04-03T08:43:40.000Z",
-          "wordCount": 2053,
+          "wordCount": 2052,
           "title": "How Augmented Reality is Transforming the Animation Industry",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/How-Augmented-Reality-is-Transforming-the-Animation-Industry.jpg"
         },
@@ -185,7 +194,7 @@
           "description": "The world of the Internet is evolving fast. Every business, every brand, and even professionals must be present online. Websites are no longer a choice. They are a must. Every interactive website has a web mastermind behind it. If you wish to join this fascinating profession, 2025 is the year to start. But how? A […]\nThe post Introduction to Web Development: Beginner’s Syllabus in 2025 appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/introduction-to-web-development-beginners-guide-2025/",
           "publishedOn": "2025-03-26T07:39:40.000Z",
-          "wordCount": 1575,
+          "wordCount": 1574,
           "title": "Introduction to Web Development: Beginner’s Syllabus in 2025",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/03/Introduction-to-Web-Development-Beginners-Syllabus-in-2025.jpg"
         },
@@ -195,7 +204,7 @@
           "description": "Artificial Intelligence (AI) has transitioned from being a mere concept to becoming an indispensable part of digital marketing. AI-driven tools are revolutionizing the industry by enabling predictive analytics, personalization, automation, and enhanced customer experiences. Today, digital marketers leverage AI to streamline business operations, improve efficiency, and optimize marketing strategies. This blog explores the best AI […]\nThe post Best AI Tools for Digital Marketing appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-ai-tools-for-digital-marketing/",
           "publishedOn": "2025-03-24T06:46:50.000Z",
-          "wordCount": 1379,
+          "wordCount": 1378,
           "title": "Best AI Tools for Digital Marketing",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/03/Best-AI-Tools-for-Digital-Marketing.jpg"
         },
@@ -205,7 +214,7 @@
           "description": "These days most businesses have a website. However, without relevant skills, a business owner can’t create a professional website. This is why individuals and startups often hire professionals to design a website for them. To develop a website, it is important to learn coding and different programming languages. Using these elements, one can create a […]\nThe post How Much Time You Need Each Week to Learn How to Code appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-much-time-you-need-each-week-to-learn-how-to-code/",
           "publishedOn": "2025-03-22T07:04:10.000Z",
-          "wordCount": 1809,
+          "wordCount": 1808,
           "title": "How Much Time You Need Each Week to Learn How to Code",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/03/How-Much-Time-You-Need-Each-Week-to-Learn-How-to-Code.jpg"
         },
@@ -215,7 +224,7 @@
           "description": "Web development is an ever-growing field that integrates technology and creativity. Educating individuals to create websites isn’t learning code by memorising. It’s applying the knowledge in practice. That’s where project-based learning (PBL) comes in. Instead of just reading theory, students construct real websites, solve real problems, and work on a portfolio that shows they can […]\nThe post The Role of Project-Based Learning in Web Development Courses appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/the-role-of-project-based-learning-in-web-development-courses/",
           "publishedOn": "2025-03-20T11:03:01.000Z",
-          "wordCount": 1762,
+          "wordCount": 1761,
           "title": "The Role of Project-Based Learning in Web Development Courses",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/03/course-of-web-development-20-03-25-1.jpg"
         }
@@ -233,12 +242,22 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3621",
+          "author": "Tanmay Das",
+          "description": "Tech Data Advanced Private Limited, a TD SYNNEX company, has teamed up with NVIDIA to distribute its cutting-edge Data Centre Solutions across India. This strategic partnership will empower Indian channel partners with full-stack Generative AI. This will allow them to help enterprises enhance infrastructure performance, accelerate AI deployment, and boost innovation across industries. NVIDIA, a […]\nThe post NVIDIA and Tech Data are Teaming Up to Boost India’s AI Infrastructure appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/nvidia-and-tech-data-are-teaming-up-to-boost-indias-ai-infrastructure/",
+          "publishedOn": "2025-04-17T05:47:37.000Z",
+          "wordCount": 3873,
+          "title": "NVIDIA and Tech Data are Teaming Up to Boost India’s AI Infrastructure",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Tech-Data-and-NVIDIA-join-hands-to-boost-Indias-AI-infrastructure-1.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3617",
           "author": "Tanmay Das",
           "description": "New Delhi: With an anticipated annual growth rate of 35%, AI (artificial intelligence) spending in India is projected to hit a whopping $9.2 billion by 2028, according to a report on Tuesday. New IDC ( International Data Corporation) research highlighted in a Qlik report emphasises that maximising AI’s impact needs immediate attention to data quality, […]\nThe post India Is Expected to Spend $9.2 Billion on AI by 2028: Report appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/india-is-expected-to-spend-9-2-billion-on-ai-by-2028-report/",
           "publishedOn": "2025-04-16T06:23:32.000Z",
-          "wordCount": 3944,
+          "wordCount": 3911,
           "title": "India Is Expected to Spend $9.2 Billion on AI by 2028: Report",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/India-is-set-to-spend-9.2-billion-on-AI-by-2028_-Report-1.webp"
         },
@@ -298,7 +317,7 @@
           "description": "So, you have earned your degree? Fantastic! Now, the real journey of your life begins! For starters, having a graduation degree isn’t enough to carve a promising career. In today’s rapidly evolving job market, how do you ensure your CV shines and makes it to the top? The answer lies in focussed learning. To truly […]\nThe post Top 6 Month Courses After Graduation to Boost Your Career appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/top-6-month-courses-after-graduation-to-boost-your-career/",
           "publishedOn": "2025-04-09T06:20:41.000Z",
-          "wordCount": 6725,
+          "wordCount": 6729,
           "title": "Top 6 Month Courses After Graduation to Boost Your Career",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Top-6-Month-Courses-After-Graduation-to-Boost-Your-Career.webp"
         },
@@ -321,16 +340,6 @@
           "wordCount": 3900,
           "title": "With $1.4 Billion in Private AI Investment, India Holds the 10th Rank Globally: UN Report",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/With-1.4-billion-in-AI-investment-India-holds-the-10th-rank-internationally_-UN-report-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3390",
-          "author": "Prasenjit Das",
-          "description": "S. Krishnan, Secretary of the Ministry of Electronics and Information Technology (MeitY), believes that the Indian workforce can adapt to AI (artificial intelligence). Despite evolving demands brought by this cutting-edge technology, he believes that the Indian workforce possesses a strong ability to adapt and learn new skills. He suggests a confident outlook regarding the impact […]\nThe post India’s Workforce Can Adapt to AI, No Need to Fear Job Losses, Says S Krishnan appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/indias-workforce-can-adapt-to-ai-no-need-to-fear-job-losses-says-s-krishnan/",
-          "publishedOn": "2025-04-04T06:27:46.000Z",
-          "wordCount": 3784,
-          "title": "India’s Workforce Can Adapt to AI, No Need to Fear Job Losses, Says S Krishnan",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/MeitY-Secretary-S-Krishnan-believes-India-can-adapt-to-AI-job-loss-fears-unnecessary-1.webp"
         }
       ]
     },
@@ -345,7 +354,7 @@
           "description": "Digital marketing is a dynamic field that has transformed how companies interact with customers. With increasing numbers of companies shifting to online, digital marketing has become a must-have skill for the marketing professionals, business owners and also for people who want to thrive in their professions. With Kolkata being one of the prominent cultural and economic hubs of … \nContinue reading \"Top 7 Digital Marketing Courses in Kolkata\"\nThe post Top 7 Digital Marketing Courses in Kolkata appeared first on 99institute.",
           "link": "https://99eedu.com/top-7-digital-marketing-courses-in-kolkata/",
           "publishedOn": "2025-04-16T07:00:46.000Z",
-          "wordCount": 5263,
+          "wordCount": 4088,
           "title": "Top 7 Digital Marketing Courses in Kolkata",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-marketing-courses-in-Kolkata.jpeg"
         },
@@ -398,16 +407,6 @@
           "wordCount": 3372,
           "title": "Google Core Updates 2025: Latest Changes & SEO Impact",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/Google-Core-Updates.jpg"
-        },
-        {
-          "id": "https://99eedu.com/?p=3681",
-          "author": "99institute",
-          "description": "Digital marketing is the lifeblood of businesses in this fast-paced era. No matter what you do, be it a student, entrepreneur, or working professional, pursuing a digital marketing course in Hyderabad will help you gain access to several fruitful career opportunities. As more and more companies look for skilled marketers, various training institutes have developed courses that enable … \nContinue reading \"Top 10 Digital Marketing Courses in Hyderabad\"\nThe post Top 10 Digital Marketing Courses in Hyderabad appeared first on 99institute.",
-          "link": "https://99eedu.com/top-10-digital-marketing-courses-in-hyderabad/",
-          "publishedOn": "2025-03-19T12:32:46.000Z",
-          "wordCount": 3470,
-          "title": "Top 10 Digital Marketing Courses in Hyderabad",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/03/top-10-digital-marketing-courses-in-hyderabad-1.png"
         }
       ]
     },
