@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-18T01:22:31.671Z</id>
+    <id>urn:2025-04-19T01:20:16.498Z</id>
     <title>Blogs</title>
-    <updated>2025-04-18T01:22:31.671Z</updated>
+    <updated>2025-04-19T01:20:16.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Free Tools for Emerging 3D Animators]]></title>
+        <id>https://www.moople.in/blog/?p=15148</id>
+        <link href="https://www.moople.in/blog/top-15-free-tools-for-emerging-3d-animators/"/>
+        <updated>2025-04-18T07:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Did you see a movie such as Toy Story or Avatar and ask yourself, “How do they do it? How do they get the characters to look so realistic?” Your heart leaps when Buzz Lightyear zooms through space or the Na’vi fly through Pandora. That’s the magic of 3D animation, and did you know you […]
+The post Top 15 Free Tools for Emerging 3D Animators appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>hiteblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sify Opens South India’s Largest AI-ready Data Centre in Chennai]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3625</id>
+        <link href="https://www.karmickinstitute.com/resources/sify-opens-south-indias-largest-ai-ready-data-centre-in-chennai/"/>
+        <updated>2025-04-18T06:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Sify Infinit Spaces, a data centre provider based in Chennai, inaugurated its AI-ready data centre campus in Sipcot Siruseri, which is now the largest in South India. The company has already invested ₹1,882 crore in Tamil Nadu, making good progress on its ₹2,500 crore promise from last year’s investor meeting. As India’s sole data centre […]
+The post Sify Opens South India’s Largest AI-ready Data Centre in Chennai appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Prasenjit Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Analyst Roadmap: A Step-by-step Guide for 2025]]></title>
         <id>https://www.w3webschool.com/blog/?p=19482</id>
@@ -305,17 +327,6 @@ The post SEO or Google Ads: Which Should You Master First? appeared first on Wea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[With $1.4 Billion in Private AI Investment, India Holds the 10th Rank Globally: UN Report]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3397</id>
-        <link href="https://www.karmickinstitute.com/resources/with-1-4-billion-in-private-ai-investment-india-holds-the-10th-rank-globally-un-report/"/>
-        <updated>2025-04-07T05:53:05.000Z</updated>
-        <summary type="html"><![CDATA[According to a UN report, India and China are the sole developing nations demonstrating substantial private AI investment in 2023, with India securing the 10th rank globally. Out of 170 countries assessed in the report, India now ranks 36th in its readiness for frontier technologies, marking an advancement from its ranking in the preceding year. […]
-The post With $1.4 Billion in Private AI Investment, India Holds the 10th Rank Globally: UN Report appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Prasenjit Das</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Can Web Developers Leverage AI Tools Like GitHub Copilot?]]></title>
         <id>https://www.moople.in/blog/?p=15106</id>
         <link href="https://www.moople.in/blog/how-can-web-developers-leverage-ai-tools-like-github-copilot/"/>
@@ -427,17 +438,6 @@ The post Google Core Updates 2025: Latest Changes & SEO Impact appeared first on
 The post How a Digital Marketing Course in Kolkata Can Boost Your Career appeared first on Weavers Web Academy.]]></summary>
         <author>
             <name>Administrator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role of Project-Based Learning in Web Development Courses]]></title>
-        <id>https://www.moople.in/blog/?p=15086</id>
-        <link href="https://www.moople.in/blog/the-role-of-project-based-learning-in-web-development-courses/"/>
-        <updated>2025-03-20T11:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Web development is an ever-growing field that integrates technology and creativity. Educating individuals to create websites isn’t learning code by memorising. It’s applying the knowledge in practice. That’s where project-based learning (PBL) comes in. Instead of just reading theory, students construct real websites, solve real problems, and work on a portfolio that shows they can […]
-The post The Role of Project-Based Learning in Web Development Courses appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
         </author>
     </entry>
 </feed>
