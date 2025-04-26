@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T01:25:06.464Z</id>
+    <id>urn:2025-04-26T01:21:50.351Z</id>
     <title>Blogs</title>
-    <updated>2025-04-25T01:25:06.464Z</updated>
+    <updated>2025-04-26T01:21:50.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 Ultimate CSS Gradient Generator Tools for Designers!]]></title>
+        <id>https://www.w3webschool.com/blog/?p=19820</id>
+        <link href="https://www.w3webschool.com/blog/css-gradient-generator/"/>
+        <updated>2025-04-25T12:00:58.000Z</updated>
+        <summary type="html"><![CDATA[5 Ultimate CSS Gradient Generator Tools for Designers! Do you find it challenging to make a design catchy? Are you confused about choosing the correct gradient for your designs? Do you think it’s difficult to write a complex CSS model or guess different color blends? You are not the only one facing such issues!  A ... Read more
+The post 5 Ultimate CSS Gradient Generator Tools for Designers! appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Databricks Invests $250M in India for AI Growth, Plans to Increase Hiring]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3679</id>
+        <link href="https://www.karmickinstitute.com/resources/databricks-invests-250m-in-india-for-ai-growth-plans-to-increase-hiring/"/>
+        <updated>2025-04-25T05:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Databricks, a global data, analytics, and AI (artificial intelligence) company, plans to invest over $250 million in India to fuel advancements in AI. Also, planning to increase hiring. This move contributes to the growing trend of Western tech and AI firms expanding their presence in India. Founded in 2013, San Francisco’s Databricks develops data software […]
+The post Databricks Invests $250M in India for AI Growth, Plans to Increase Hiring appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 7 Keyword Density Checker Tools to Boost Your SEO Score!]]></title>
         <id>https://www.w3webschool.com/blog/?p=19749</id>
@@ -295,34 +317,12 @@ The post 10 Essential Tips To Start A Successful Career In Digital Marketing​ 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[India, Germany Agree to Strengthen Ties in AI and Quantum Tech, Says Minister]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3587</id>
-        <link href="https://www.karmickinstitute.com/resources/india-germany-agree-to-strengthen-ties-in-ai-and-quantum-tech-says-minister/"/>
-        <updated>2025-04-14T05:54:15.000Z</updated>
-        <summary type="html"><![CDATA[New Delhi: India and Germany will expand their partnership in AI (artificial intelligence), quantum tech, and green hydrogen for innovation and sustainability, according to Minister Jitendra Singh. Dr. Singh emphasised the strong and long-lasting partnership between India and Germany in science, technology, and innovation. After meeting with Bavaria’s visiting Minister-President Markus Soder in New Delhi, […]
-The post India, Germany Agree to Strengthen Ties in AI and Quantum Tech, Says Minister appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 Awesome Backlink Generator Tools to Boos Your SEO]]></title>
         <id>https://www.w3webschool.com/blog/?p=19263</id>
         <link href="https://www.w3webschool.com/blog/backlink-generator/"/>
         <updated>2025-04-12T12:42:11.000Z</updated>
         <summary type="html"><![CDATA[7 Awesome Backlink Generator Tools to Boos Your SEO Are you facing difficulties in ranking your website higher on search engines? Do you find it challenging to build quality backlinks? Backlinks are an essential aspect of SEO. Without quality backlinks, it’s hard to increase the traffic and visibility of your website.  In this blog post, ... Read more
 The post 7 Awesome Backlink Generator Tools to Boos Your SEO appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Secure Code Plagiarism Checker Tools to Avoid Ethical Issues]]></title>
-        <id>https://www.w3webschool.com/blog/?p=19218</id>
-        <link href="https://www.w3webschool.com/blog/code-plagiarism-checker/"/>
-        <updated>2025-04-11T12:08:11.000Z</updated>
-        <summary type="html"><![CDATA[7 Secure Code Plagiarism Checker Tools to Avoid Ethical Issues Are you worried about code plagiarism in development projects? The majority of programmers or developers copy code without even offering credit. This can cause major ethical or legal issues.  It is challenging to detect copied code. Therefore, the main goal is to detect whether the ... Read more
-The post 7 Secure Code Plagiarism Checker Tools to Avoid Ethical Issues appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
         </author>
