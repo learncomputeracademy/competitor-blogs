@@ -6,12 +6,22 @@
       "siteUrl": "https://www.webskittersacademy.in",
       "articles": [
         {
+          "id": "https://www.webskittersacademy.in/?p=16874",
+          "author": "Ayan Sarkar",
+          "description": "Are you thinking about learning software testing? That would be a smart move. Tech is booming, and every app, website, or system used today needs to be tested before it is launched. That is where testing comes in. Manual Testing is one of the first things you will come across in this field. It’s true,… Continue reading Why Manual Testing Still Matters in 2025: Learn It the Right Way\nThe post Why Manual Testing Still Matters in 2025: Learn It the Right Way first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/why-manual-testing-still-matters-in-2025/",
+          "publishedOn": "2025-04-30T09:13:54.000Z",
+          "wordCount": 11929,
+          "title": "Why Manual Testing Still Matters in 2025: Learn It the Right Way",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.webskittersacademy.in/?p=16840",
           "author": "Swarup Kr Saha",
           "description": "Interested in pursuing a career in Game Design? Unsure which course to take? Game design is the artistic foundation of the video game business. It’s all about defining the players’ experience. From creating characters for the game to organizing levels, establishing rules, constructing narratives, and envisioning game worlds—game designers do it all. A good game… Continue reading Want a Career in Game Design? Start with Unity 3D Game Design in 2025\nThe post Want a Career in Game Design? Start with Unity 3D Game Design in 2025 first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/want-a-career-in-game-design-in-2025/",
           "publishedOn": "2025-04-23T07:57:02.000Z",
-          "wordCount": 11908,
+          "wordCount": 12051,
           "title": "Want a Career in Game Design? Start with Unity 3D Game Design in 2025",
           "imageUrl": null
         }
@@ -22,6 +32,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=19915",
+          "author": "W3webschool",
+          "description": "6 Amazing Image Caption Generator Tools You Should Not Miss! Do you think that your posts fail to grab the attention of viewers just because of a boring caption? You are not alone here! A boring one can even damage the impression of the best picture. That’s why you need an image caption generator tool. ... Read more\nThe post 6 Amazing Image Caption Generator Tools You Should Not Miss! appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/image-caption-generator/",
+          "publishedOn": "2025-04-30T12:21:43.000Z",
+          "wordCount": 4921,
+          "title": "6 Amazing Image Caption Generator Tools You Should Not Miss!",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Image-Caption-Generator-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=19854",
           "author": "Poulami Dalal",
@@ -111,16 +131,6 @@
           "wordCount": 4985,
           "title": "How to Become a Power BI Developer in 2025?",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Power-BI-Developer-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=19309",
-          "author": "Poulami Dalal",
-          "description": "9 Proven Real Estate Lead Generation Strategies to Try! Are you facing difficulties in finding new leads for your new real estate business? Quality leads are pillars of your business success. Without proper lead generation, you will not be able to grow your real estate business and have lasting client relationships.  Many realtors are working ... Read more\nThe post 9 Proven Real Estate Lead Generation Strategies to Try! appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/real-estate-lead-generation/",
-          "publishedOn": "2025-04-14T12:13:14.000Z",
-          "wordCount": 5034,
-          "title": "9 Proven Real Estate Lead Generation Strategies to Try!",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Real-Estate-Lead-Generation-Strategies-1100x619.png"
         }
       ]
     },
@@ -264,7 +274,7 @@
     {
       "title": "Blog – Creative IT Institute",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "http://3.7.156.149/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": []
     },
     {
@@ -272,6 +282,16 @@
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3725",
+          "author": "Tanmay Das",
+          "description": "As the AI (artificial intelligence) race intensifies, Meta AI (a Facebook parent company) unveils a standalone AI app, setting up a rivalry with ChatGPT creator OpenAI.  Launched on Tuesday 29, April 2025, Meta announced that the Llama AI model powers its new AI assistant, which includes a discovery feed with usage examples and prompt suggestions. […]\nThe post Meta AI Introduces a Standalone AI App, A ChatGPT Competitor appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/meta-ai-introduces-a-standalone-ai-app-a-chatgpt-competitor/",
+          "publishedOn": "2025-04-30T07:17:37.000Z",
+          "wordCount": 4037,
+          "title": "Meta AI Introduces a Standalone AI App, A ChatGPT Competitor",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Meta-AI-launched-a-standalone-AI-app-a-ChatGPT-competitor.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3712",
           "author": "Tanmay Das",
@@ -361,16 +381,6 @@
           "wordCount": 4101,
           "title": "Sify Opens South India’s Largest AI-ready Data Centre in Chennai",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Sify-launches-its-largest-AI-ready-data-centre-in-South-India-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3621",
-          "author": "Tanmay Das",
-          "description": "Tech Data Advanced Private Limited, a TD SYNNEX company, has teamed up with NVIDIA to distribute its cutting-edge Data Centre Solutions across India. This strategic partnership will empower Indian channel partners with full-stack Generative AI. This will allow them to help enterprises enhance infrastructure performance, accelerate AI deployment, and boost innovation across industries. NVIDIA, a […]\nThe post NVIDIA and Tech Data are Teaming Up to Boost India’s AI Infrastructure appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/nvidia-and-tech-data-are-teaming-up-to-boost-indias-ai-infrastructure/",
-          "publishedOn": "2025-04-17T05:47:37.000Z",
-          "wordCount": 4103,
-          "title": "NVIDIA and Tech Data are Teaming Up to Boost India’s AI Infrastructure",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Tech-Data-and-NVIDIA-join-hands-to-boost-Indias-AI-infrastructure-1.webp"
         }
       ]
     },
@@ -385,9 +395,9 @@
           "description": "With the changing face of digital marketing, Dumdum, Kolkata, has turned out to be a stronghold for young marketers. In light of the trend of the industry looking out for trained personnel, there are a few institutions that have become renowned for quality education in this sector. This detailed guide explores the top 10 Digital Marketing Institutes … \nContinue reading \"Top 10 Digital Marketing Institutes in Dumdum\"\nThe post Top 10 Digital Marketing Institutes in Dumdum appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-institutes-in-dumdum/",
           "publishedOn": "2025-04-29T13:21:17.000Z",
-          "wordCount": 5005,
+          "wordCount": null,
           "title": "Top 10 Digital Marketing Institutes in Dumdum",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/top-10-Digital-Marketing-Institutes-in-DumDum.png"
+          "imageUrl": null
         },
         {
           "id": "https://99eedu.com/?p=3737",
@@ -395,9 +405,9 @@
           "description": "In this digital age, businesses are not restricted to conventional marketing. There is a constant upsurge in demand for well-trained digital marketers, and this is not only happening in Kolkata but also all over the metro cities. For future marketers and business tycoons, the digital marketing institutes in Kolkata are a gateway to a promising career. … \nContinue reading \"Top 10 Digital Marketing Institutes\"\nThe post Top 10 Digital Marketing Institutes appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-institutes/",
           "publishedOn": "2025-04-24T12:12:33.000Z",
-          "wordCount": 3824,
+          "wordCount": null,
           "title": "Top 10 Digital Marketing Institutes",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-Marketing-Institutes.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://99eedu.com/?p=3730",
@@ -405,9 +415,9 @@
           "description": "As we know, the digital world is changing rapidly, and companies are always on the lookout for the latest strategies to engage their customers and generate revenue. Internet Marketing has become the foundation of this change. If you are residing in Kolkata and want to explore this dynamic industry, you are in the right place. This detailed guide … \nContinue reading \"Top 7 Internet Marketing Courses\"\nThe post Top 7 Internet Marketing Courses appeared first on 99institute.",
           "link": "https://99eedu.com/top-7-internet-marketing-courses/",
           "publishedOn": "2025-04-22T12:45:02.000Z",
-          "wordCount": 3681,
+          "wordCount": null,
           "title": "Top 7 Internet Marketing Courses",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Top-7-Internet-Marketing-Courses-in-Kolkata.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://99eedu.com/?p=3726",
@@ -415,9 +425,9 @@
           "description": "Digital marketing is a dynamic field that has transformed how companies interact with customers. With increasing numbers of companies shifting to online, digital marketing has become a must-have skill for the marketing professionals, business owners and also for people who want to thrive in their professions. With Kolkata being one of the prominent cultural and economic hubs of … \nContinue reading \"Top 7 Digital Marketing Courses in Kolkata\"\nThe post Top 7 Digital Marketing Courses in Kolkata appeared first on 99institute.",
           "link": "https://99eedu.com/top-7-digital-marketing-courses-in-kolkata/",
           "publishedOn": "2025-04-16T07:00:46.000Z",
-          "wordCount": 5263,
+          "wordCount": null,
           "title": "Top 7 Digital Marketing Courses in Kolkata",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-marketing-courses-in-Kolkata.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://99eedu.com/?p=3721",
@@ -425,9 +435,9 @@
           "description": "Backlinks are the lifeblood of modern SEO. Without them, even the most well-optimized website can struggle to climb the search engine rankings. That’s where free link building sites come into play. They offer a no-cost, effective way to build authority, increase traffic, and enhance visibility. Whether you’re a digital marketer, blogger, or business owner, these … \nContinue reading \"Top 1000 Free Link Building Sites in 2025\"\nThe post Top 1000 Free Link Building Sites in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/top-1000-free-link-building-sites-in-2025/",
           "publishedOn": "2025-04-08T11:48:48.000Z",
-          "wordCount": 4211,
+          "wordCount": null,
           "title": "Top 1000 Free Link Building Sites in 2025",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Free-Link-Building-Sites.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://99eedu.com/?p=3713",
@@ -435,9 +445,9 @@
           "description": "Mumbai, the financial capital of India, is home to many top schools offering various levels of digital marketing courses for Mumbai students. Whether you’re a student or a seasoned businessman, when you hire the best teachers and institutions for training, your skills will have a pivotal impact on where you end up. This guide to … \nContinue reading \"Top 10 Digital Marketing Institutes in Mumbai in 2025\"\nThe post Top 10 Digital Marketing Institutes in Mumbai in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-institutes-in-mumbai-in-2025/",
           "publishedOn": "2025-04-03T10:11:14.000Z",
-          "wordCount": 3778,
+          "wordCount": null,
           "title": "Top 10 Digital Marketing Institutes in Mumbai in 2025",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-Marketing-Institutes-in-Mumbai.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://99eedu.com/?p=3704",
@@ -445,9 +455,9 @@
           "description": "The rapid increase in the need for digital expertise and skills has made Internet marketing courses in Delhi a must-have for marketers, entrepreneurs, and business owners. India’s capital, Delhi, has many training programs combining theoretical and practical knowledge. A digital marketing course in Delhi, structured for all levels, will enrich even a student, a working professional, or a … \nContinue reading \"Top 10 Internet Marketing Courses in Delhi\"\nThe post Top 10 Internet Marketing Courses in Delhi appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-internet-marketing-courses-in-delhi/",
           "publishedOn": "2025-04-02T12:05:35.000Z",
-          "wordCount": 3624,
+          "wordCount": null,
           "title": "Top 10 Internet Marketing Courses in Delhi",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Internet-Marketing-Courses-in-Delhi.jpeg"
+          "imageUrl": null
         }
       ]
     },
