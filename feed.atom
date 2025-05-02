@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T01:40:49.115Z</id>
+    <id>urn:2025-05-02T01:25:30.249Z</id>
     <title>Blogs</title>
-    <updated>2025-05-01T01:40:49.115Z</updated>
+    <updated>2025-05-02T01:25:30.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[India Ranks Highest in AI Adoption, Surpassing the US and UK: Report]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3733</id>
+        <link href="https://www.karmickinstitute.com/resources/india-ranks-highest-in-ai-adoption-surpassing-the-us-and-uk-report/"/>
+        <updated>2025-05-01T06:04:19.000Z</updated>
+        <summary type="html"><![CDATA[A Statista Consumer Insights survey revealed that India is the global leader in AI tools adoption, surpassing the United States and the United Kingdom. The survey revealed that 41% of Indians use AI tools daily, which is the highest percentage among the surveyed countries. Brazil followed at 33%, with Mexico (24%), Germany (21%), and the […]
+The post India Ranks Highest in AI Adoption, Surpassing the US and UK: Report appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Prasenjit Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 Amazing Image Caption Generator Tools You Should Not Miss!]]></title>
         <id>https://www.w3webschool.com/blog/?p=19915</id>
@@ -306,17 +317,6 @@ The post Top 15 Free Tools for Emerging 3D Animators appeared first on Moople-In
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sify Opens South India’s Largest AI-ready Data Centre in Chennai]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3625</id>
-        <link href="https://www.karmickinstitute.com/resources/sify-opens-south-indias-largest-ai-ready-data-centre-in-chennai/"/>
-        <updated>2025-04-18T06:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Sify Infinit Spaces, a data centre provider based in Chennai, inaugurated its AI-ready data centre campus in Sipcot Siruseri, which is now the largest in South India. The company has already invested ₹1,882 crore in Tamil Nadu, making good progress on its ₹2,500 crore promise from last year’s investor meeting. As India’s sole data centre […]
-The post Sify Opens South India’s Largest AI-ready Data Centre in Chennai appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Prasenjit Das</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Data Analyst Roadmap: A Step-by-step Guide for 2025]]></title>
         <id>https://www.w3webschool.com/blog/?p=19482</id>
         <link href="https://www.w3webschool.com/blog/data-analyst-roadmap/"/>
@@ -471,18 +471,6 @@ The post Top 10 Digital Marketing Institutes in Mumbai in 2025 appeared first on
 The post How Augmented Reality is Transforming the Animation Industry appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Internet Marketing Courses in Delhi]]></title>
-        <id>https://99eedu.com/?p=3704</id>
-        <link href="https://99eedu.com/top-10-internet-marketing-courses-in-delhi/"/>
-        <updated>2025-04-02T12:05:35.000Z</updated>
-        <summary type="html"><![CDATA[The rapid increase in the need for digital expertise and skills has made Internet marketing courses in Delhi a must-have for marketers, entrepreneurs, and business owners. India’s capital, Delhi, has many training programs combining theoretical and practical knowledge. A digital marketing course in Delhi, structured for all levels, will enrich even a student, a working professional, or a … 
-Continue reading "Top 10 Internet Marketing Courses in Delhi"
-The post Top 10 Internet Marketing Courses in Delhi appeared first on 99institute.]]></summary>
-        <author>
-            <name>99institute</name>
         </author>
     </entry>
 </feed>
