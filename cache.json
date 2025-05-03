@@ -11,8 +11,18 @@
           "description": "Are you thinking about learning software testing? That would be a smart move. Tech is booming, and every app, website, or system used today needs to be tested before it is launched. That is where testing comes in. Manual Testing is one of the first things you will come across in this field. It’s true,… Continue reading Why Manual Testing Still Matters in 2025: Learn It the Right Way\nThe post Why Manual Testing Still Matters in 2025: Learn It the Right Way first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/why-manual-testing-still-matters-in-2025/",
           "publishedOn": "2025-04-30T09:13:54.000Z",
-          "wordCount": 11929,
+          "wordCount": 11930,
           "title": "Why Manual Testing Still Matters in 2025: Learn It the Right Way",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.webskittersacademy.in/?p=16891",
+          "author": "Ayan Sarkar",
+          "description": "“Opportunities don’t happen; you create them.”— Chris Grosser, Entrepreneur. This quote by the pioneering icon of Upwork and Digital Ocean is highly relevant when choosing the right career path for students. Students shape their destinies more than they think. With initiative and drive, they can derive opportunities even in the toughest of circumstances. And guess… Continue reading How to Choose the Right Career Path: 10 Tips for Students\nThe post How to Choose the Right Career Path: 10 Tips for Students first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/how-to-choose-the-right-career-path/",
+          "publishedOn": "2025-04-28T13:50:19.000Z",
+          "wordCount": 11996,
+          "title": "How to Choose the Right Career Path: 10 Tips for Students",
           "imageUrl": null
         },
         {
@@ -21,7 +31,7 @@
           "description": "Interested in pursuing a career in Game Design? Unsure which course to take? Game design is the artistic foundation of the video game business. It’s all about defining the players’ experience. From creating characters for the game to organizing levels, establishing rules, constructing narratives, and envisioning game worlds—game designers do it all. A good game… Continue reading Want a Career in Game Design? Start with Unity 3D Game Design in 2025\nThe post Want a Career in Game Design? Start with Unity 3D Game Design in 2025 first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/want-a-career-in-game-design-in-2025/",
           "publishedOn": "2025-04-23T07:57:02.000Z",
-          "wordCount": 11913,
+          "wordCount": 11914,
           "title": "Want a Career in Game Design? Start with Unity 3D Game Design in 2025",
           "imageUrl": null
         }
@@ -32,6 +42,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=19950",
+          "author": "Poulami Dalal",
+          "description": "7 Powerful SEO Audit Tools to Get Higher Traffic! Do your website rankings remain the same for a long time and fail to capture higher traffic? Thinking about how you can increase your reach even if you post regularly? The problem might be hidden SEO factors such as slow page upload, broken links, missing links, ... Read more\nThe post 7 Powerful SEO Audit Tools to Get Higher Traffic! appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/seo-audit-tool/",
+          "publishedOn": "2025-05-02T11:58:52.000Z",
+          "wordCount": 4933,
+          "title": "7 Powerful SEO Audit Tools to Get Higher Traffic!",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/05/SEO-Audit-Tool-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=19915",
           "author": "W3webschool",
@@ -121,16 +141,6 @@
           "wordCount": 4387,
           "title": "AI Camera Systems in Web Development: Building Smarter Surveillance Solutions",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/AI-Camera-Systems.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=19393",
-          "author": "Poulami Dalal",
-          "description": "How to Become a Power BI Developer in 2025? Are you facing hard times in picking the most suitable tech career role in 2025? Are you feeling overwhelmed by the availability of multiple options in the industry? The majority of newbies are in the same direction. It is tough to know where to begin. Power ... Read more\nThe post How to Become a Power BI Developer in 2025? appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/power-bi-developer/",
-          "publishedOn": "2025-04-16T11:41:05.000Z",
-          "wordCount": 4985,
-          "title": "How to Become a Power BI Developer in 2025?",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/Power-BI-Developer-1100x619.png"
         }
       ]
     },
@@ -158,6 +168,16 @@
           "wordCount": 1781,
           "title": "Is Digital Marketing a Good Option After 12th?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/Is-Digital-Marketing-a-Good-Option-After-12th.jpg"
+        },
+        {
+          "id": "https://www.moople.in/blog/?p=15170",
+          "author": "hiteblog",
+          "description": "Sit in a dark theatre, eating popcorn and watching a superhero flying through the air or a giant dragon shooting fire. Your heart races, your eyes are wide with wonder, and you’re left asking, “How do they create this to look so real?” That’s the magic of VFX, or visual effects, that makes impossible worlds […]\nThe post How Are VFX Scenes Made in Film? appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/how-are-vfx-scenes-made-in-film/",
+          "publishedOn": "2025-04-26T10:38:51.000Z",
+          "wordCount": 2143,
+          "title": "How Are VFX Scenes Made in Film?",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2024/05/animation-academy-24-05-2024.jpg"
         },
         {
           "id": "https://www.moople.in/blog/?p=15159",
@@ -258,16 +278,6 @@
           "wordCount": 1961,
           "title": "How Can Web Developers Leverage AI Tools Like GitHub Copilot?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/How-Can-Web-Developers-Leverage-AI-Tools-Like-GitHub-Copilot.jpg"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=15109",
-          "author": "hiteblog",
-          "description": "Augmented reality (AR) is revolutionising businesses across the world, and animation is one of them. By mixing virtual items with reality, AR adds a new level of interaction, excitement, and engagement to animation. It provides animators, directors, and creators with unlimited possibilities to animate their works.   These innovative animation works were unimaginable earlier. This blog […]\nThe post How Augmented Reality is Transforming the Animation Industry appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/how-augmented-reality-is-transforming-the-animation-industry/",
-          "publishedOn": "2025-04-03T08:43:40.000Z",
-          "wordCount": 2039,
-          "title": "How Augmented Reality is Transforming the Animation Industry",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/04/How-Augmented-Reality-is-Transforming-the-Animation-Industry.jpg"
         }
       ]
     },
@@ -282,6 +292,16 @@
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3736",
+          "author": "Prasenjit Das",
+          "description": "Speaking at the inaugural WAVES (World Audio Visual and Entertainment Summit) 2025, Adobe CEO Shantanu Narayen discussed how AI (artificial intelligence) is revolutionising India’s economy and will be crucial for its future development. Narayen said, “Every disruptive technology—from the PC, web, mobile, to cloud computing, social and now artificial intelligence—has expanded the scope of human […]\nThe post India’s Trillion-Dollar Bet is AI, Not Just IT, Declares Adobe CEO appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/indias-trillion-dollar-bet-is-ai-not-just-it-declares-adobe-ceo/",
+          "publishedOn": "2025-05-02T06:55:05.000Z",
+          "wordCount": 4133,
+          "title": "India’s Trillion-Dollar Bet is AI, Not Just IT, Declares Adobe CEO",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Adobe-CEO-declares-Indias-trillion-dollar-bet-is-AI-not-just-IT-1.jpg"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3733",
           "author": "Prasenjit Das",
@@ -371,16 +391,6 @@
           "wordCount": 4098,
           "title": "Backed by Government and Industry, Kirthiga Reddy’s “AI Kiran” Will 1M Indian Women in AI",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Kirthiga-Reddys-AI-Kiran-will-empower-1-Million-Indian-women-in-AI-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3624",
-          "author": "Tanmay Das",
-          "description": "A full-stack developer is a versatile and highly valued professional. They possess the skills to navigate both the user-facing front end and the server-side back end, which opens up a wealth of opportunities. Whether you are planning for a front-end, back-end, or full-stack development career or want to deepen your understanding in the field, this […]\nThe post Front End VS Back End: Full Stack Developer Guide! appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/front-end-vs-back-end-full-stack-developer-guide/",
-          "publishedOn": "2025-04-21T05:40:51.000Z",
-          "wordCount": 6842,
-          "title": "Front End VS Back End: Full Stack Developer Guide!",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Front-End-VS-Back-End-VS.-Full-Stack-Development_-Key-Differences.webp"
         }
       ]
     },
@@ -395,7 +405,7 @@
           "description": "With the changing face of digital marketing, Dumdum, Kolkata, has turned out to be a stronghold for young marketers. In light of the trend of the industry looking out for trained personnel, there are a few institutions that have become renowned for quality education in this sector. This detailed guide explores the top 10 Digital Marketing Institutes … \nContinue reading \"Top 10 Digital Marketing Institutes in Dumdum\"\nThe post Top 10 Digital Marketing Institutes in Dumdum appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-institutes-in-dumdum/",
           "publishedOn": "2025-04-29T13:21:17.000Z",
-          "wordCount": 3831,
+          "wordCount": 5005,
           "title": "Top 10 Digital Marketing Institutes in Dumdum",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/top-10-Digital-Marketing-Institutes-in-DumDum.png"
         },
@@ -438,16 +448,6 @@
           "wordCount": 4211,
           "title": "Top 1000 Free Link Building Sites in 2025",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Free-Link-Building-Sites.jpeg"
-        },
-        {
-          "id": "https://99eedu.com/?p=3713",
-          "author": "99institute",
-          "description": "Mumbai, the financial capital of India, is home to many top schools offering various levels of digital marketing courses for Mumbai students. Whether you’re a student or a seasoned businessman, when you hire the best teachers and institutions for training, your skills will have a pivotal impact on where you end up. This guide to … \nContinue reading \"Top 10 Digital Marketing Institutes in Mumbai in 2025\"\nThe post Top 10 Digital Marketing Institutes in Mumbai in 2025 appeared first on 99institute.",
-          "link": "https://99eedu.com/top-10-digital-marketing-institutes-in-mumbai-in-2025/",
-          "publishedOn": "2025-04-03T10:11:14.000Z",
-          "wordCount": 3778,
-          "title": "Top 10 Digital Marketing Institutes in Mumbai in 2025",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-Marketing-Institutes-in-Mumbai.jpeg"
         }
       ]
     },
