@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-03T01:23:20.941Z</id>
+    <id>urn:2025-05-04T01:41:08.803Z</id>
     <title>Blogs</title>
-    <updated>2025-05-03T01:23:20.941Z</updated>
+    <updated>2025-05-04T01:41:08.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -459,17 +459,6 @@ The post What Are the Key Features of the 3D Animation – 0 to Pro Course? appe
 The post SEO or Google Ads: Which Should You Master First? appeared first on Weavers Web Academy.]]></summary>
         <author>
             <name>Administrator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can Web Developers Leverage AI Tools Like GitHub Copilot?]]></title>
-        <id>https://www.moople.in/blog/?p=15106</id>
-        <link href="https://www.moople.in/blog/how-can-web-developers-leverage-ai-tools-like-github-copilot/"/>
-        <updated>2025-04-04T07:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Web development is changing day by day at lightning speed. Those days are now gone when developers used to write line-by-line code manually for hours. Thanks to the GitHub Copilot artificial intelligence tool, web developers can now auto-generate code work and accomplish tasks in no time. What is GitHub Copilot, anyway? How do web developers […]
-The post How Can Web Developers Leverage AI Tools Like GitHub Copilot? appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
         </author>
     </entry>
 </feed>
