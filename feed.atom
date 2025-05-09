@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-08T01:26:59.622Z</id>
+    <id>urn:2025-05-09T01:26:29.787Z</id>
     <title>Blogs</title>
-    <updated>2025-05-08T01:26:59.622Z</updated>
+    <updated>2025-05-09T01:26:29.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sarvam AI Introduces a Text-to-Speech Model for 11 Indian Languages]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3809</id>
+        <link href="https://www.karmickinstitute.com/resources/sarvam-ai-introduces-a-text-to-speech-model-for-11-indian-languages/"/>
+        <updated>2025-05-08T06:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Bengaluru-based Sarvam AI has released Bulbul v1, a new text-to-speech AI model that supports 11 Indian languages, including Hindi, Marathi, Punjabi, Oriya, Tamil, Bengali, Telugu, Kannada, Malayalam, and Gujarati. This model features voices with authentic and non-robotic accents. Other than creating their own voices, users can select from six unique personalities designed for different work […]
+The post Sarvam AI Introduces a Text-to-Speech Model for 11 Indian Languages appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 Amazing PPT to Video Converters for Seamless Video Conversion]]></title>
         <id>https://www.w3webschool.com/blog/?p=20070</id>
@@ -261,17 +272,6 @@ The post Android or iOS? Choosing the Right App Development Course first appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Databricks Invests $250M in India for AI Growth, Plans to Increase Hiring]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3679</id>
-        <link href="https://www.karmickinstitute.com/resources/databricks-invests-250m-in-india-for-ai-growth-plans-to-increase-hiring/"/>
-        <updated>2025-04-25T05:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Databricks, a global data, analytics, and AI (artificial intelligence) company, plans to invest over $250 million in India to fuel advancements in AI. Also, planning to increase hiring. This move contributes to the growing trend of Western tech and AI firms expanding their presence in India. Founded in 2013, San Francisco’s Databricks develops data software […]
-The post Databricks Invests $250M in India for AI Growth, Plans to Increase Hiring appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 7 Keyword Density Checker Tools to Boost Your SEO Score!]]></title>
         <id>https://www.w3webschool.com/blog/?p=19749</id>
         <link href="https://www.w3webschool.com/blog/keyword-density-checker/"/>
@@ -435,28 +435,6 @@ The post Top 7 Digital Marketing Courses in Kolkata appeared first on 99institut
         <updated>2025-04-11T07:47:01.000Z</updated>
         <summary type="html"><![CDATA[Have you ever been transfixed by a digital world where everything looks 3D but is ingeniously crafted in 2D? That’s the pull of isometric animation. Whether it’s a futuristic cityscape or a game interface that looks crisp and captivating, this animation style is a perfect amalgamation of depth, detail, and direction. That’s why aspiring creatives are diving into […]
 The post How Do You Make an Isometric Animation Design appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Does It Take to Master SEO? (Detailed Timeline)]]></title>
-        <id>https://www.moople.in/blog/?p=15131</id>
-        <link href="https://www.moople.in/blog/how-long-does-it-take-to-master-seo-detailed-timeline/"/>
-        <updated>2025-04-09T12:03:36.000Z</updated>
-        <summary type="html"><![CDATA[In the current digital era, learning how to master SEO (search engine optimization) is a game changer for anyone who wants to make it online. But how long does it take to master it? This is a question that keeps popping up in the minds of beginners and even professionals who want to sharpen their […]
-The post How Long Does It Take to Master SEO? (Detailed Timeline) appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution of Web Development: Trends That Will Dominate]]></title>
-        <id>https://www.moople.in/blog/?p=15124</id>
-        <link href="https://www.moople.in/blog/the-evolution-of-web-development-trends-that-will-dominate/"/>
-        <updated>2025-04-09T08:04:16.000Z</updated>
-        <summary type="html"><![CDATA[The internet world is evolving every single second. Websites that were deemed to be up to date three years ago are now looking dated. Businesses and individuals continue to redesign their websites to make them up-to-date. Web development is no longer merely coding. It’s about innovation, security, performance, and usability. New technology emerges, and the […]
-The post The Evolution of Web Development: Trends That Will Dominate appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
         </author>
