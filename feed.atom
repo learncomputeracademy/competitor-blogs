@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T01:38:26.968Z</id>
+    <id>urn:2025-05-13T01:27:48.849Z</id>
     <title>Blogs</title>
-    <updated>2025-05-12T01:38:26.968Z</updated>
+    <updated>2025-05-13T01:27:48.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How a Python & Django Course Can Boost Your Career in 2025]]></title>
+        <id>https://www.webskittersacademy.in/?p=16913</id>
+        <link href="https://www.webskittersacademy.in/how-a-python-django-course-can-boost-your-career/"/>
+        <updated>2025-05-12T13:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Are you considering taking a Python & Django course, and wondering if it is worth it? We get it, there are just so many IT courses floating around out there it is impossible to know what actually makes a difference. In 2025, the world of technology is not slowing down. Companies are constantly looking out… Continue reading How a Python & Django Course Can Boost Your Career in 2025
+The post How a Python & Django Course Can Boost Your Career in 2025 first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Swarup Kr Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India Needs 50M Sq ft of Additional Real Estate for AI Data Centres by 2030: Deloitte]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3822</id>
+        <link href="https://www.karmickinstitute.com/resources/india-needs-50m-sq-ft-of-additional-real-estate-for-ai-data-centres-by-2030-deloitte/"/>
+        <updated>2025-05-12T05:32:24.000Z</updated>
+        <summary type="html"><![CDATA[According to Deloitte’s recent report, India’s AI surge will require 45–50 million sq ft more data centre real estate and 40–45 TWh of additional power by 2030. This is crucial for India’s rapidly growing AI market, which is expected to hit $20–22 billion by 2027, especially given the current disparity where India holds 20% of […]
+The post India Needs 50M Sq ft of Additional Real Estate for AI Data Centres by 2030: Deloitte appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Magical AI Banner Generators that Every Creator Needs!]]></title>
         <id>https://www.w3webschool.com/blog/?p=20175</id>
@@ -214,17 +236,6 @@ Continue reading "Top 10 Digital Marketing Institutes in Dumdum"
 The post Top 10 Digital Marketing Institutes in Dumdum appeared first on 99institute.]]></summary>
         <author>
             <name>99institute</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Unlocks New Possibilities for India’s Multilingual Landscape]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3712</id>
-        <link href="https://www.karmickinstitute.com/resources/ai-unlocks-new-possibilities-for-indias-multilingual-landscape/"/>
-        <updated>2025-04-29T05:52:22.000Z</updated>
-        <summary type="html"><![CDATA[With 22 official languages, 121 languages, and over 19,500 dialects, India is the world’s most multilingual nation, where voice-first AI agents hold immense potential. While the internet has recently revolutionised our lives, AI (artificial intelligence) is now rapidly becoming an integral part of our daily routines and professional fields. AI is profoundly reshaping our world […]
-The post AI Unlocks New Possibilities for India’s Multilingual Landscape appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
     <entry>

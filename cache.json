@@ -6,6 +6,16 @@
       "siteUrl": "https://www.webskittersacademy.in",
       "articles": [
         {
+          "id": "https://www.webskittersacademy.in/?p=16913",
+          "author": "Swarup Kr Saha",
+          "description": "Are you considering taking a Python & Django course, and wondering if it is worth it? We get it, there are just so many IT courses floating around out there it is impossible to know what actually makes a difference. In 2025, the world of technology is not slowing down. Companies are constantly looking out… Continue reading How a Python & Django Course Can Boost Your Career in 2025\nThe post How a Python & Django Course Can Boost Your Career in 2025 first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/how-a-python-django-course-can-boost-your-career/",
+          "publishedOn": "2025-05-12T13:35:47.000Z",
+          "wordCount": 11722,
+          "title": "How a Python & Django Course Can Boost Your Career in 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.webskittersacademy.in/?p=16874",
           "author": "Ayan Sarkar",
           "description": "Are you thinking about learning software testing? That would be a smart move. Tech is booming, and every app, website, or system used today needs to be tested before it is launched. That is where testing comes in. Manual Testing is one of the first things you will come across in this field. It’s true,… Continue reading Why Manual Testing Still Matters in 2025: Learn It the Right Way\nThe post Why Manual Testing Still Matters in 2025: Learn It the Right Way first appeared on Webskitters Academy.",
@@ -41,7 +51,7 @@
           "description": "Interested in pursuing a career in Game Design? Unsure which course to take? Game design is the artistic foundation of the video game business. It’s all about defining the players’ experience. From creating characters for the game to organizing levels, establishing rules, constructing narratives, and envisioning game worlds—game designers do it all. A good game… Continue reading Want a Career in Game Design? Start with Unity 3D Game Design in 2025\nThe post Want a Career in Game Design? Start with Unity 3D Game Design in 2025 first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/want-a-career-in-game-design-in-2025/",
           "publishedOn": "2025-04-23T07:57:02.000Z",
-          "wordCount": 12132,
+          "wordCount": 12147,
           "title": "Want a Career in Game Design? Start with Unity 3D Game Design in 2025",
           "imageUrl": null
         },
@@ -263,12 +273,22 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3822",
+          "author": "Tanmay Das",
+          "description": "According to Deloitte’s recent report, India’s AI surge will require 45–50 million sq ft more data centre real estate and 40–45 TWh of additional power by 2030. This is crucial for India’s rapidly growing AI market, which is expected to hit $20–22 billion by 2027, especially given the current disparity where India holds 20% of […]\nThe post India Needs 50M Sq ft of Additional Real Estate for AI Data Centres by 2030: Deloitte appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/india-needs-50m-sq-ft-of-additional-real-estate-for-ai-data-centres-by-2030-deloitte/",
+          "publishedOn": "2025-05-12T05:32:24.000Z",
+          "wordCount": 4134,
+          "title": "India Needs 50M Sq ft of Additional Real Estate for AI Data Centres by 2030: Deloitte",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/image-2.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3816",
           "author": "Tanmay Das",
           "description": "According to Bill McDermott, CEO of the global AI platform ServiceNow for business transformation, India is transitioning from a labour-focused approach to an AI (artificial intelligence) mindset. During a media interaction at ServiceNow’s annual event, Knowledge 2025, in Las Vegas, which focused on AI-driven service transformation, McDermott said, “Corporations that don’t get on board with […]\nThe post India is Transitioning from Labour-focused Thinking to AI-Focused Mindset: ServiceNow CEO appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/india-is-transitioning-from-labour-focused-thinking-to-ai-focused-mindset-servicenow-ceo/",
           "publishedOn": "2025-05-09T06:20:18.000Z",
-          "wordCount": 4185,
+          "wordCount": 4198,
           "title": "India is Transitioning from Labour-focused Thinking to AI-Focused Mindset: ServiceNow CEO",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/India-is-Transitioning-from-Labour-focused-Thinking-to-AI-focused-Mindset_-ServiceNow-CEO.webp"
         },
@@ -278,7 +298,7 @@
           "description": "Bengaluru-based Sarvam AI has released Bulbul v1, a new text-to-speech AI model that supports 11 Indian languages, including Hindi, Marathi, Punjabi, Oriya, Tamil, Bengali, Telugu, Kannada, Malayalam, and Gujarati. This model features voices with authentic and non-robotic accents. Other than creating their own voices, users can select from six unique personalities designed for different work […]\nThe post Sarvam AI Introduces a Text-to-Speech Model for 11 Indian Languages appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/sarvam-ai-introduces-a-text-to-speech-model-for-11-indian-languages/",
           "publishedOn": "2025-05-08T06:09:46.000Z",
-          "wordCount": 4006,
+          "wordCount": 4019,
           "title": "Sarvam AI Introduces a Text-to-Speech Model for 11 Indian Languages",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Sarvam-AI-launched-its-AI-text-to-speech-model-speaking-in-11-Indian-languages-1.webp"
         },
@@ -288,7 +308,7 @@
           "description": "India is witnessing significant and rapid progress in AI (artificial intelligence) across numerous industries. A recent KPMG study shows that 76% trust in this technology among Indians. The report also points to AI’s transformative force in the country, with 90% of people thinking it’s making things more accessible and effective. Furthermore, 97% of Indians admitted […]\nThe post 76% of Indian Employees Trust AI & 90% Report Higher Efficiency: KPMG Study appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/76-of-indian-employees-trust-ai-90-report-higher-efficiency-kpmg-study/",
           "publishedOn": "2025-05-07T06:15:31.000Z",
-          "wordCount": 4171,
+          "wordCount": 4184,
           "title": "76% of Indian Employees Trust AI & 90% Report Higher Efficiency: KPMG Study",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/ciency_-KPMG-Study.webp"
         },
@@ -298,7 +318,7 @@
           "description": "Generative AI (Gen AI) is no longer a buzzing word, it is impacting industries and redefining our tech experience. If you are curious about this revolutionary AI tool, this blog unveils the power, potential, and impact of GenAI today and in the future. Dive in to explore all the nitty gritty details of generative AI! […]\nThe post Understanding Generative AI: Capabilities, Applications, and Future Impact appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/understanding-generative-ai-capabilities-applications-and-future-impact/",
           "publishedOn": "2025-05-07T05:37:27.000Z",
-          "wordCount": 6884,
+          "wordCount": 6897,
           "title": "Understanding Generative AI: Capabilities, Applications, and Future Impact",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Understanding-Generative-AI_-Capabilities-Applications-and-Future-Impact.webp"
         },
@@ -308,7 +328,7 @@
           "description": "As AI (artificial intelligence) grows exponentially, discussions are taking place regarding the doubtful future of human employment, as this technology has the potential to both enhance productivity and displace workers. Last month, the UNCTAD (United Nations agency for trade and development) warned that AI could impact up to 40% of jobs worldwide. A McKinsey & […]\nThe post Experts Caution that 40% of Jobs Are at Risk Due to AI appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/experts-caution-that-40-of-jobs-are-at-risk-due-to-ai/",
           "publishedOn": "2025-05-06T05:45:58.000Z",
-          "wordCount": 4171,
+          "wordCount": 4184,
           "title": "Experts Caution that 40% of Jobs Are at Risk Due to AI",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/A-significant-40-of-jobs-could-be-lost-due-to-AI-experts-warn.webp"
         },
@@ -318,7 +338,7 @@
           "description": "Chief Minister Vishnu Deo Sai initiated the development of India’s first AI (artificial intelligence) Data Centre Park in Nava Raipur. This has marked a significant milestone for the country. Sai said, “This is not going to be just a data centre; it’s the digital backbone for a new era of growth and empowerment. It’s a […]\nThe post India’s First AI-Based Data Park Launched in Nava Raipur by Chhattisgarh CM appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/indias-first-ai-based-data-park-launched-in-nava-raipur-by-chhattisgarh-cm/",
           "publishedOn": "2025-05-05T05:39:47.000Z",
-          "wordCount": 4188,
+          "wordCount": 4201,
           "title": "India’s First AI-Based Data Park Launched in Nava Raipur by Chhattisgarh CM",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Chhattisgarh-CM-lays-foundation-for-Indias-first-AI-Data-Park-in-Nava-Raipur.webp"
         },
@@ -328,7 +348,7 @@
           "description": "Speaking at the inaugural WAVES (World Audio Visual and Entertainment Summit) 2025, Adobe CEO Shantanu Narayen discussed how AI (artificial intelligence) is revolutionising India’s economy and will be crucial for its future development. Narayen said, “Every disruptive technology—from the PC, web, mobile, to cloud computing, social and now artificial intelligence—has expanded the scope of human […]\nThe post India’s Trillion-Dollar Bet is AI, Not Just IT, Declares Adobe CEO appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/indias-trillion-dollar-bet-is-ai-not-just-it-declares-adobe-ceo/",
           "publishedOn": "2025-05-02T06:55:05.000Z",
-          "wordCount": 4133,
+          "wordCount": 4146,
           "title": "India’s Trillion-Dollar Bet is AI, Not Just IT, Declares Adobe CEO",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Adobe-CEO-declares-Indias-trillion-dollar-bet-is-AI-not-just-IT-1.jpg"
         },
@@ -338,7 +358,7 @@
           "description": "A Statista Consumer Insights survey revealed that India is the global leader in AI tools adoption, surpassing the United States and the United Kingdom. The survey revealed that 41% of Indians use AI tools daily, which is the highest percentage among the surveyed countries. Brazil followed at 33%, with Mexico (24%), Germany (21%), and the […]\nThe post India Ranks Highest in AI Adoption, Surpassing the US and UK: Report appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/india-ranks-highest-in-ai-adoption-surpassing-the-us-and-uk-report/",
           "publishedOn": "2025-05-01T06:04:19.000Z",
-          "wordCount": 4089,
+          "wordCount": 4102,
           "title": "India Ranks Highest in AI Adoption, Surpassing the US and UK: Report",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/India-ranks-highest-in-AI-adoption-surpassing-the-US-and-UK_-Report-1.webp"
         },
@@ -348,19 +368,9 @@
           "description": "As the AI (artificial intelligence) race intensifies, Meta AI (a Facebook parent company) unveils a standalone AI app, setting up a rivalry with ChatGPT creator OpenAI.  Launched on Tuesday 29, April 2025, Meta announced that the Llama AI model powers its new AI assistant, which includes a discovery feed with usage examples and prompt suggestions. […]\nThe post Meta AI Introduces a Standalone AI App, A ChatGPT Competitor appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/meta-ai-introduces-a-standalone-ai-app-a-chatgpt-competitor/",
           "publishedOn": "2025-04-30T07:17:37.000Z",
-          "wordCount": 4037,
+          "wordCount": 4050,
           "title": "Meta AI Introduces a Standalone AI App, A ChatGPT Competitor",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/Meta-AI-launched-a-standalone-AI-app-a-ChatGPT-competitor.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3712",
-          "author": "Tanmay Das",
-          "description": "With 22 official languages, 121 languages, and over 19,500 dialects, India is the world’s most multilingual nation, where voice-first AI agents hold immense potential. While the internet has recently revolutionised our lives, AI (artificial intelligence) is now rapidly becoming an integral part of our daily routines and professional fields. AI is profoundly reshaping our world […]\nThe post AI Unlocks New Possibilities for India’s Multilingual Landscape appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/ai-unlocks-new-possibilities-for-indias-multilingual-landscape/",
-          "publishedOn": "2025-04-29T05:52:22.000Z",
-          "wordCount": 4096,
-          "title": "AI Unlocks New Possibilities for India’s Multilingual Landscape",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/04/AI-unlocks-new-possibilities-for-Indias-multilingual-landscape-1.webp"
         }
       ]
     },
