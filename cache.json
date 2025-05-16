@@ -31,7 +31,7 @@
           "description": "“Opportunities don’t happen; you create them.”— Chris Grosser, Entrepreneur. This quote by the pioneering icon of Upwork and Digital Ocean is highly relevant when choosing the right career path for students. Students shape their destinies more than they think. With initiative and drive, they can derive opportunities even in the toughest of circumstances. And guess… Continue reading How to Choose the Right Career Path: 10 Tips for Students\nThe post How to Choose the Right Career Path: 10 Tips for Students first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/how-to-choose-the-right-career-path/",
           "publishedOn": "2025-04-28T13:50:19.000Z",
-          "wordCount": 12080,
+          "wordCount": 12173,
           "title": "How to Choose the Right Career Path: 10 Tips for Students",
           "imageUrl": null
         },
@@ -72,6 +72,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=20290",
+          "author": "Poulami Dalal",
+          "description": "How to Become a Digital Marketing Executive in 2025? Are you confused about how to begin your journey as a digital marketing executive in 2025? Have doubts about which tools, software, skills or steps are highly effective? Due availability of multiple options online, one can easily be confused! The digital world is emerging fast, and ... Read more\nThe post How to Become a Digital Marketing Executive in 2025? appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/digital-marketing-executive/",
+          "publishedOn": "2025-05-15T11:45:58.000Z",
+          "wordCount": 5057,
+          "title": "How to Become a Digital Marketing Executive in 2025?",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/05/Digital-Marketing-Executive-2-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=20250",
           "author": "Poulami Dalal",
@@ -161,16 +171,6 @@
           "wordCount": 4912,
           "title": "Top 6 AI YouTube Description Generator Tools to Improve SEO!",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/YouTube-Description-Generator-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=19820",
-          "author": "Poulami Dalal",
-          "description": "5 Ultimate CSS Gradient Generator Tools for Designers! Do you find it challenging to make a design catchy? Are you confused about choosing the correct gradient for your designs? Do you think it’s difficult to write a complex CSS model or guess different color blends? You are not the only one facing such issues!  A ... Read more\nThe post 5 Ultimate CSS Gradient Generator Tools for Designers! appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/css-gradient-generator/",
-          "publishedOn": "2025-04-25T12:00:58.000Z",
-          "wordCount": 4951,
-          "title": "5 Ultimate CSS Gradient Generator Tools for Designers!",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/04/CSS-Gradient-Generator--1100x619.png"
         }
       ]
     },
@@ -293,6 +293,26 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3859",
+          "author": "Tanmay Das",
+          "description": "Whether you are a student, a professional seeking a career transition, or an aspiring data scientist, you need to follow the right path to reach your desired goal. Which isn’t easy!  This is why we are here to help you with this blog, serving as your roadmap to data science AI courses for 2025. Check […]\nThe post Roadmap to Data Science AI Course for 2025 appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/roadmap-to-data-science-ai-course-for-2025/",
+          "publishedOn": "2025-05-15T11:35:42.000Z",
+          "wordCount": 6675,
+          "title": "Roadmap to Data Science AI Course for 2025",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Roadmap-to-Data-Science-AI-Course-for-2025.webp"
+        },
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3857",
+          "author": "Tanmay Das",
+          "description": "BAT VC, an early-stage venture capital firm headquartered in New York. This company has revealed its intention to invest a whopping $100 million through its latest fund. Their main focus will be on Indian startups in the AI (artificial intelligence) and deep technology sectors, with a specific interest in fintech and B2B SaaS (software-as-a-service) companies. […]\nThe post Indian AI Startups To Receive a $100 Million Boost From New York’s BAT VC appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/indian-ai-startups-to-receive-a-100-million-boost-from-new-yorks-bat-vc/",
+          "publishedOn": "2025-05-15T05:50:23.000Z",
+          "wordCount": 4148,
+          "title": "Indian AI Startups To Receive a $100 Million Boost From New York’s BAT VC",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/New-York-based-BAT-VC-plans-to-invest-100-million-in-Indian-AI-startups-1.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3851",
           "author": "Tanmay Das",
           "description": "Monday 12, May 2025: According to a report, close to 50% of Indian tech professionals receive AI (artificial intelligence) skilling support from their companies. The job portal Naukri conducted a survey on National Technology Day, which highlighted a significant trend in India’s tech ecosystem.  With responses from more than 16,000 technology professionals across various sectors, […]\nThe post 50% of Indian Tech Professionals Are Undergoing AI Training at Work: Report appeared first on Karmick Institute.",
@@ -348,7 +368,7 @@
           "description": "Generative AI (Gen AI) is no longer a buzzing word, it is impacting industries and redefining our tech experience. If you are curious about this revolutionary AI tool, this blog unveils the power, potential, and impact of GenAI today and in the future. Dive in to explore all the nitty gritty details of generative AI! […]\nThe post Understanding Generative AI: Capabilities, Applications, and Future Impact appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/understanding-generative-ai-capabilities-applications-and-future-impact/",
           "publishedOn": "2025-05-07T05:37:27.000Z",
-          "wordCount": 6897,
+          "wordCount": 6905,
           "title": "Understanding Generative AI: Capabilities, Applications, and Future Impact",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Understanding-Generative-AI_-Capabilities-Applications-and-Future-Impact.webp"
         },
@@ -371,26 +391,6 @@
           "wordCount": 4201,
           "title": "India’s First AI-Based Data Park Launched in Nava Raipur by Chhattisgarh CM",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Chhattisgarh-CM-lays-foundation-for-Indias-first-AI-Data-Park-in-Nava-Raipur.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3736",
-          "author": "Prasenjit Das",
-          "description": "Speaking at the inaugural WAVES (World Audio Visual and Entertainment Summit) 2025, Adobe CEO Shantanu Narayen discussed how AI (artificial intelligence) is revolutionising India’s economy and will be crucial for its future development. Narayen said, “Every disruptive technology—from the PC, web, mobile, to cloud computing, social and now artificial intelligence—has expanded the scope of human […]\nThe post India’s Trillion-Dollar Bet is AI, Not Just IT, Declares Adobe CEO appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/indias-trillion-dollar-bet-is-ai-not-just-it-declares-adobe-ceo/",
-          "publishedOn": "2025-05-02T06:55:05.000Z",
-          "wordCount": 4146,
-          "title": "India’s Trillion-Dollar Bet is AI, Not Just IT, Declares Adobe CEO",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Adobe-CEO-declares-Indias-trillion-dollar-bet-is-AI-not-just-IT-1.jpg"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3733",
-          "author": "Prasenjit Das",
-          "description": "A Statista Consumer Insights survey revealed that India is the global leader in AI tools adoption, surpassing the United States and the United Kingdom. The survey revealed that 41% of Indians use AI tools daily, which is the highest percentage among the surveyed countries. Brazil followed at 33%, with Mexico (24%), Germany (21%), and the […]\nThe post India Ranks Highest in AI Adoption, Surpassing the US and UK: Report appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/india-ranks-highest-in-ai-adoption-surpassing-the-us-and-uk-report/",
-          "publishedOn": "2025-05-01T06:04:19.000Z",
-          "wordCount": 4102,
-          "title": "India Ranks Highest in AI Adoption, Surpassing the US and UK: Report",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/India-ranks-highest-in-AI-adoption-surpassing-the-US-and-UK_-Report-1.webp"
         }
       ]
     },
@@ -415,7 +415,7 @@
           "description": "With the changing face of digital marketing, Dumdum, Kolkata, has turned out to be a stronghold for young marketers. In light of the trend of the industry looking out for trained personnel, there are a few institutions that have become renowned for quality education in this sector. This detailed guide explores the top 10 Digital Marketing Institutes … \nContinue reading \"Top 10 Digital Marketing Institutes in Dumdum\"\nThe post Top 10 Digital Marketing Institutes in Dumdum appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-institutes-in-dumdum/",
           "publishedOn": "2025-04-29T13:21:17.000Z",
-          "wordCount": 5006,
+          "wordCount": 3831,
           "title": "Top 10 Digital Marketing Institutes in Dumdum",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/top-10-Digital-Marketing-Institutes-in-DumDum.png"
         },
@@ -425,7 +425,7 @@
           "description": "In this digital age, businesses are not restricted to conventional marketing. There is a constant upsurge in demand for well-trained digital marketers, and this is not only happening in Kolkata but also all over the metro cities. For future marketers and business tycoons, the digital marketing institutes in Kolkata are a gateway to a promising career. … \nContinue reading \"Top 10 Digital Marketing Institutes\"\nThe post Top 10 Digital Marketing Institutes appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-digital-marketing-institutes/",
           "publishedOn": "2025-04-24T12:12:33.000Z",
-          "wordCount": 5004,
+          "wordCount": 3824,
           "title": "Top 10 Digital Marketing Institutes",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-Marketing-Institutes.jpeg"
         },
@@ -438,16 +438,6 @@
           "wordCount": 3681,
           "title": "Top 7 Internet Marketing Courses",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Top-7-Internet-Marketing-Courses-in-Kolkata.jpeg"
-        },
-        {
-          "id": "https://99eedu.com/?p=3726",
-          "author": "99institute",
-          "description": "Digital marketing is a dynamic field that has transformed how companies interact with customers. With increasing numbers of companies shifting to online, digital marketing has become a must-have skill for the marketing professionals, business owners and also for people who want to thrive in their professions. With Kolkata being one of the prominent cultural and economic hubs of … \nContinue reading \"Top 7 Digital Marketing Courses in Kolkata\"\nThe post Top 7 Digital Marketing Courses in Kolkata appeared first on 99institute.",
-          "link": "https://99eedu.com/top-7-digital-marketing-courses-in-kolkata/",
-          "publishedOn": "2025-04-16T07:00:46.000Z",
-          "wordCount": 4088,
-          "title": "Top 7 Digital Marketing Courses in Kolkata",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/04/Digital-marketing-courses-in-Kolkata.jpeg"
         }
       ]
     },

@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-15T01:24:40.137Z</id>
+    <id>urn:2025-05-16T01:27:35.601Z</id>
     <title>Blogs</title>
-    <updated>2025-05-15T01:24:40.137Z</updated>
+    <updated>2025-05-16T01:27:35.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Digital Marketing Executive in 2025?]]></title>
+        <id>https://www.w3webschool.com/blog/?p=20290</id>
+        <link href="https://www.w3webschool.com/blog/digital-marketing-executive/"/>
+        <updated>2025-05-15T11:45:58.000Z</updated>
+        <summary type="html"><![CDATA[How to Become a Digital Marketing Executive in 2025? Are you confused about how to begin your journey as a digital marketing executive in 2025? Have doubts about which tools, software, skills or steps are highly effective? Due availability of multiple options online, one can easily be confused! The digital world is emerging fast, and ... Read more
+The post How to Become a Digital Marketing Executive in 2025? appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roadmap to Data Science AI Course for 2025]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3859</id>
+        <link href="https://www.karmickinstitute.com/resources/roadmap-to-data-science-ai-course-for-2025/"/>
+        <updated>2025-05-15T11:35:42.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are a student, a professional seeking a career transition, or an aspiring data scientist, you need to follow the right path to reach your desired goal. Which isn’t easy!  This is why we are here to help you with this blog, serving as your roadmap to data science AI courses for 2025. Check […]
+The post Roadmap to Data Science AI Course for 2025 appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indian AI Startups To Receive a $100 Million Boost From New York’s BAT VC]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3857</id>
+        <link href="https://www.karmickinstitute.com/resources/indian-ai-startups-to-receive-a-100-million-boost-from-new-yorks-bat-vc/"/>
+        <updated>2025-05-15T05:50:23.000Z</updated>
+        <summary type="html"><![CDATA[BAT VC, an early-stage venture capital firm headquartered in New York. This company has revealed its intention to invest a whopping $100 million through its latest fund. Their main focus will be on Indian startups in the AI (artificial intelligence) and deep technology sectors, with a specific interest in fintech and B2B SaaS (software-as-a-service) companies. […]
+The post Indian AI Startups To Receive a $100 Million Boost From New York’s BAT VC appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 7 AI Script Generators For Better Video Production]]></title>
         <id>https://www.w3webschool.com/blog/?p=20250</id>
@@ -227,28 +260,6 @@ The post 7 Powerful SEO Audit Tools to Get Higher Traffic! appeared first on W3w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[India’s Trillion-Dollar Bet is AI, Not Just IT, Declares Adobe CEO]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3736</id>
-        <link href="https://www.karmickinstitute.com/resources/indias-trillion-dollar-bet-is-ai-not-just-it-declares-adobe-ceo/"/>
-        <updated>2025-05-02T06:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Speaking at the inaugural WAVES (World Audio Visual and Entertainment Summit) 2025, Adobe CEO Shantanu Narayen discussed how AI (artificial intelligence) is revolutionising India’s economy and will be crucial for its future development. Narayen said, “Every disruptive technology—from the PC, web, mobile, to cloud computing, social and now artificial intelligence—has expanded the scope of human […]
-The post India’s Trillion-Dollar Bet is AI, Not Just IT, Declares Adobe CEO appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Prasenjit Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India Ranks Highest in AI Adoption, Surpassing the US and UK: Report]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=3733</id>
-        <link href="https://www.karmickinstitute.com/resources/india-ranks-highest-in-ai-adoption-surpassing-the-us-and-uk-report/"/>
-        <updated>2025-05-01T06:04:19.000Z</updated>
-        <summary type="html"><![CDATA[A Statista Consumer Insights survey revealed that India is the global leader in AI tools adoption, surpassing the United States and the United Kingdom. The survey revealed that 41% of Indians use AI tools daily, which is the highest percentage among the surveyed countries. Brazil followed at 33%, with Mexico (24%), Germany (21%), and the […]
-The post India Ranks Highest in AI Adoption, Surpassing the US and UK: Report appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Prasenjit Das</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[6 Amazing Image Caption Generator Tools You Should Not Miss!]]></title>
         <id>https://www.w3webschool.com/blog/?p=19915</id>
         <link href="https://www.w3webschool.com/blog/image-caption-generator/"/>
@@ -335,17 +346,6 @@ The post Top 6 AI YouTube Description Generator Tools to Improve SEO! appeared f
 The post How Are VFX Scenes Made in Film? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ultimate CSS Gradient Generator Tools for Designers!]]></title>
-        <id>https://www.w3webschool.com/blog/?p=19820</id>
-        <link href="https://www.w3webschool.com/blog/css-gradient-generator/"/>
-        <updated>2025-04-25T12:00:58.000Z</updated>
-        <summary type="html"><![CDATA[5 Ultimate CSS Gradient Generator Tools for Designers! Do you find it challenging to make a design catchy? Are you confused about choosing the correct gradient for your designs? Do you think it’s difficult to write a complex CSS model or guess different color blends? You are not the only one facing such issues!  A ... Read more
-The post 5 Ultimate CSS Gradient Generator Tools for Designers! appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
     <entry>
@@ -458,18 +458,6 @@ The post Top 15 Free Tools for Emerging 3D Animators appeared first on Moople-In
 The post Impact of Cross-Platform Gaming on the Video Game Industry appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 Digital Marketing Courses in Kolkata]]></title>
-        <id>https://99eedu.com/?p=3726</id>
-        <link href="https://99eedu.com/top-7-digital-marketing-courses-in-kolkata/"/>
-        <updated>2025-04-16T07:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Digital marketing is a dynamic field that has transformed how companies interact with customers. With increasing numbers of companies shifting to online, digital marketing has become a must-have skill for the marketing professionals, business owners and also for people who want to thrive in their professions. With Kolkata being one of the prominent cultural and economic hubs of … 
-Continue reading "Top 7 Digital Marketing Courses in Kolkata"
-The post Top 7 Digital Marketing Courses in Kolkata appeared first on 99institute.]]></summary>
-        <author>
-            <name>99institute</name>
         </author>
     </entry>
 </feed>
