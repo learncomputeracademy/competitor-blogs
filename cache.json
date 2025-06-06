@@ -6,6 +6,16 @@
       "siteUrl": "https://www.webskittersacademy.in",
       "articles": [
         {
+          "id": "https://www.webskittersacademy.in/?p=17061",
+          "author": "Ayan Sarkar",
+          "description": "When you pick a career, especially now, it’s not just about what sounds cool or what your friends are doing. You need to ask yourself: Will this field still be relevant in 5, 10, or even 20 years? Can I grow in it? Every part of our lives is tangled up in tech now. Phones,… Continue reading Is IOS App Development Still a Good Career Choice in 2025?\nThe post Is IOS App Development Still a Good Career Choice in 2025? first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/is-ios-app-development-still-a-good-career-choice/",
+          "publishedOn": "2025-06-05T13:54:43.000Z",
+          "wordCount": 11380,
+          "title": "Is IOS App Development Still a Good Career Choice in 2025?",
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/06/iOS-App-Development_.jpg"
+        },
+        {
           "id": "https://www.webskittersacademy.in/?p=17012",
           "author": "Ayan Sarkar",
           "description": "Are you a YouTube creator struggling to rank content on the platform? Well, today, developing great content is not enough! If you think, you can provide value to the audience through your content without a strategy, you’re wrong. Although creating valuable content is a prerequisite on YouTube, YouTube content strategy is equally paramount. This is… Continue reading Learn YouTube SEO in 2025: How to Grow Your YouTube Channel?\nThe post Learn YouTube SEO in 2025: How to Grow Your YouTube Channel? first appeared on Webskitters Academy.",
@@ -13,7 +23,7 @@
           "publishedOn": "2025-05-26T06:53:33.000Z",
           "wordCount": 13299,
           "title": "Learn YouTube SEO in 2025: How to Grow Your YouTube Channel?",
-          "imageUrl": null
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/05/youtube-seo-in-2025.jpg"
         },
         {
           "id": "https://www.webskittersacademy.in/?p=17008",
@@ -23,7 +33,7 @@
           "publishedOn": "2025-05-23T13:32:36.000Z",
           "wordCount": 11949,
           "title": "Short-Term IT Courses: Fast-Tracking Your Tech Career",
-          "imageUrl": null
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/05/IT-COURSES.jpg"
         },
         {
           "id": "https://www.webskittersacademy.in/?p=16967",
@@ -31,9 +41,9 @@
           "description": "Are you thinking about pursuing a career in IT? If yes, mobile app development is one of the best places to begin. With over 300 billion app downloads projected in 2025, the demand for skilled mobile app developers is at an all-time high. Every company, service, or product today wants a mobile app. And that… Continue reading React Native vs Flutter – Which Should You Learn in 2025\nThe post React Native vs Flutter – Which Should You Learn in 2025 first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/react-native-vs-flutter-which-should-you-learn/",
           "publishedOn": "2025-05-19T14:15:47.000Z",
-          "wordCount": 11942,
+          "wordCount": 11842,
           "title": "React Native vs Flutter – Which Should You Learn in 2025",
-          "imageUrl": null
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/05/React-Native-vs-Flutter-design-1.jpg"
         },
         {
           "id": "https://www.webskittersacademy.in/?p=16913",
@@ -43,7 +53,7 @@
           "publishedOn": "2025-05-12T13:35:47.000Z",
           "wordCount": 11700,
           "title": "How a Python & Django Course Can Boost Your Career in 2025",
-          "imageUrl": null
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/05/python-django-course.jpg"
         }
       ]
     },
@@ -52,6 +62,26 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=21308",
+          "author": "Poulami Dalal",
+          "description": "Top 10 Digital Marketing Institutes in Kolkata Kolkata, often called the “City of Joy,” has been witnessing the fastest growth of the digital marketing industry with the rapid shift of businesses towards online platforms. The dynamic digital marketing industry of India has been projected to grow at a rate of 30.2% by 2032. You will ... Read more\nThe post Top 10 Digital Marketing Institutes in Kolkata appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/digital-marketing-institutes-in-kolkata/",
+          "publishedOn": "2025-06-05T12:33:13.000Z",
+          "wordCount": 6160,
+          "title": "Top 10 Digital Marketing Institutes in Kolkata",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/06/Digital-Marketing-Institutes-in-Kolkata-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=21290",
+          "author": "Poulami Dalal",
+          "description": "Top 10 Digital Marketing Courses in Mysore [2025 Updated] Are you searching for the best digital marketing courses in Mysore? Feeling confused about which one to choose and start learning? Sometimes, it’s tough to pick one out of so many appealing and effective courses out there.  Almost all of them offer placement assistance, an updated ... Read more\nThe post Top 10 Digital Marketing Courses in Mysore [2025 Updated] appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/digital-marketing-courses-in-mysore/",
+          "publishedOn": "2025-06-05T11:36:25.000Z",
+          "wordCount": 5612,
+          "title": "Top 10 Digital Marketing Courses in Mysore [2025 Updated]",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/06/Digital-Marketing-Courses-in-Mysore-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=21264",
           "author": "Poulami Dalal",
@@ -131,26 +161,6 @@
           "wordCount": 5357,
           "title": "Top 10 Digital Marketing Courses in Bhubaneswar [2025 Updated]",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/05/Digital-Marketing-Courses-in-Bhubaneswar-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=2759",
-          "author": "Shaheel Khan",
-          "description": "Top 10 Digital Marketing Courses in Nagpur [2025 Updated] If you are looking for the Best Digital Marketing Courses in Nagpur, then you are at the right place here. I have made a list of the Top 10 institutes for Digital Marketing. You can choose any one of the institutes from the list below and ... Read more\nThe post Top 10 Digital Marketing Courses in Nagpur [2025 Updated] appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/digital-marketing-courses-in-nagpur/",
-          "publishedOn": "2025-05-30T11:35:07.000Z",
-          "wordCount": 5592,
-          "title": "Top 10 Digital Marketing Courses in Nagpur [2025 Updated]",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2021/01/Digital-Marketing-Courses-in-Nagpur-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=5227",
-          "author": "W3webschool",
-          "description": "Top 10 Digital Marketing Courses in Bangalore [2025 Updated] Today, digital marketing is a major element of corporate marketing. Professionals in digital marketing are also in high demand. In some Indian locations, there is an increasing number of digital marketing training institutes as a result of the unbalanced supply and demand for skilled digital marketers. ... Read more\nThe post Top 10 Digital Marketing Courses in Bangalore [2025 Updated] appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/digital-marketing-courses-in-bangalore/",
-          "publishedOn": "2025-05-29T11:45:41.000Z",
-          "wordCount": 5986,
-          "title": "Top 10 Digital Marketing Courses in Bangalore [2025 Updated]",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/05/Digital-Marketing-Courses-in-Bangalore-1100x619.png"
         }
       ]
     },
@@ -365,9 +375,9 @@
           "description": "In an age where everything is going digital—from shopping and education to banking and healthcare—how to start a career in digital marketing has become one of the most frequently asked questions among aspiring professionals and students alike. With the marketing landscape evolving faster than ever, the demand for skilled digital marketers is surging at an … \nContinue reading \"How to Start a Career in Digital Marketing in 2025\"\nThe post How to Start a Career in Digital Marketing in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/how-to-start-a-career-in-digital-marketing-in-2025/",
           "publishedOn": "2025-06-02T08:22:27.000Z",
-          "wordCount": null,
+          "wordCount": 4278,
           "title": "How to Start a Career in Digital Marketing in 2025",
-          "imageUrl": null
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/06/How-to-Start-a-Career-in-Digital-Marketing.jpg"
         },
         {
           "id": "https://99eedu.com/?p=3760",
@@ -375,9 +385,9 @@
           "description": "In the ever-evolving world of digital marketing, staying visible in search engines is non-negotiable. Visibility leads to traffic, traffic leads to leads, and leads convert into loyal customers. But how do marketers ensure that websites are not only discoverable but also running at peak technical performance? The answer lies in using the right Technical SEO … \nContinue reading \"Top 10 Technical SEO Tools Every Digital Marketer Should Use\"\nThe post Top 10 Technical SEO Tools Every Digital Marketer Should Use appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-technical-seo-tools-every-digital-marketer-should-use/",
           "publishedOn": "2025-05-22T11:51:42.000Z",
-          "wordCount": null,
+          "wordCount": 4223,
           "title": "Top 10 Technical SEO Tools Every Digital Marketer Should Use",
-          "imageUrl": null
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/05/Technical-SEO-tools.jpg"
         }
       ]
     },
@@ -398,7 +408,7 @@
           "description": "Technology has become an indispensable part of every industry worldwide, as business operations are continuously evolving due to revolutionary transformations. Companies are stepping into the digital landscape and striving to develop highly efficient web applications to level up their business game by reaching more target customers. Hence, the demand for skilled full-stack web developers is […]\nThe post Master Full Stack Course in Kolkata: Career Opportunities appeared first on Weavers Web Academy.",
           "link": "https://weaversweb.academy/master-full-stack-course-in-kolkata-career-opportunities/",
           "publishedOn": "2025-05-09T10:33:59.000Z",
-          "wordCount": 2336,
+          "wordCount": 2341,
           "title": "Master Full Stack Course in Kolkata: Career Opportunities",
           "imageUrl": "https://weaversweb.academy/wp-content/uploads/2025/05/Full-Stack-Developer-Course-in-Kolkata-What-Youll-Learn-Career-Scope.jpg"
         }
