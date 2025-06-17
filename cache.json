@@ -222,10 +222,26 @@
       ]
     },
     {
+      "title": "Blog – Creative IT Institute",
+      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com",
+      "articles": []
+    },
+    {
       "title": "Explore Relevant Resources for Tech Skill Development",
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=4028",
+          "author": "Tanmay Das",
+          "description": "Do you know what separates a good digital marketer from a great one in this competitive digital era? In-depth understanding of various digital marketing channels that boost engagement and multiply sales. If you want to become the best one, dive into the top 10 digital marketing channels to build impactful campaigns and advance your career […]\nThe post Top 10 Digital Marketing Channels Every Marketing Student Should Know appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/top-10-digital-marketing-channels-every-marketing-student-should-know/",
+          "publishedOn": "2025-06-16T12:19:59.000Z",
+          "wordCount": 5714,
+          "title": "Top 10 Digital Marketing Channels Every Marketing Student Should Know",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/06/Top-10-Digital-Marketing-Channels-Every-Marketing-Student-Should-Know.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=3998",
           "author": "Tanmay Das",
@@ -315,16 +331,6 @@
           "wordCount": 2683,
           "title": "A Hyderabad Startup Unveiled An AI-Powered Drone Defence to Safeguard Vital Infrastructure",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/News-banner-for-turbo-ml-1.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=3945",
-          "author": "Tanmay Das",
-          "description": "Niloufer Hospital in Hyderabad is now the first in the nation to utilise an AI-based diagnostic tool that performs rapid, needle-free blood tests.. This groundbreaking development for public health in India can eliminate the need for vials and laboratory wait times. An app called Amruth Swasth Bharath, developed by health-tech startup Quick Vitals, utilises advanced […]\nThe post Hyderabad Launches India’s First Needle-Free, AI-Powered Blood Test appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/hyderabad-launches-indias-first-needle-free-ai-powered-blood-test/",
-          "publishedOn": "2025-05-22T05:43:44.000Z",
-          "wordCount": 2735,
-          "title": "Hyderabad Launches India’s First Needle-Free, AI-Powered Blood Test",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/05/Hyderabad-launches-Indias-first-needle-free-AI-powered-blood-test.webp"
         }
       ]
     },
@@ -339,7 +345,7 @@
           "description": "In the digital age, where businesses operate on code and every click can lead to a conversion, the role of a Full Stack Developer has become not only essential but also transformative. From startups in Kolkata, and Bengaluru to MNCs in Gurgaon, these tech professionals are shaping the architecture of the modern internet. But what exactly makes this … \nContinue reading \"Career as a Full Stack Developer: Skills, Salary & Scope in India\"\nThe post Career as a Full Stack Developer: Skills, Salary & Scope in India appeared first on 99institute.",
           "link": "https://99eedu.com/career-as-a-full-stack-developer-skills-salary-scope-in-india/",
           "publishedOn": "2025-06-11T12:06:21.000Z",
-          "wordCount": 3263,
+          "wordCount": 3249,
           "title": "Career as a Full Stack Developer: Skills, Salary & Scope in India",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/06/Full-Stack-Developer-Course-in-Kolkata.jpg"
         },
@@ -349,7 +355,7 @@
           "description": "In an age where everything is going digital—from shopping and education to banking and healthcare—how to start a career in digital marketing has become one of the most frequently asked questions among aspiring professionals and students alike. With the marketing landscape evolving faster than ever, the demand for skilled digital marketers is surging at an … \nContinue reading \"How to Start a Career in Digital Marketing in 2025\"\nThe post How to Start a Career in Digital Marketing in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/how-to-start-a-career-in-digital-marketing-in-2025/",
           "publishedOn": "2025-06-02T08:22:27.000Z",
-          "wordCount": 4278,
+          "wordCount": 4264,
           "title": "How to Start a Career in Digital Marketing in 2025",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/06/How-to-Start-a-Career-in-Digital-Marketing.jpg"
         },
@@ -359,7 +365,7 @@
           "description": "In the ever-evolving world of digital marketing, staying visible in search engines is non-negotiable. Visibility leads to traffic, traffic leads to leads, and leads convert into loyal customers. But how do marketers ensure that websites are not only discoverable but also running at peak technical performance? The answer lies in using the right Technical SEO … \nContinue reading \"Top 10 Technical SEO Tools Every Digital Marketer Should Use\"\nThe post Top 10 Technical SEO Tools Every Digital Marketer Should Use appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-technical-seo-tools-every-digital-marketer-should-use/",
           "publishedOn": "2025-05-22T11:51:42.000Z",
-          "wordCount": 4223,
+          "wordCount": 4209,
           "title": "Top 10 Technical SEO Tools Every Digital Marketer Should Use",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/05/Technical-SEO-tools.jpg"
         }
