@@ -53,6 +53,16 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=23005",
+          "author": "Poulami Dalal",
+          "description": "Top 10 Web Development Courses in Pune [2025 Updated] Book Free Web Development Demo Class Table of Contents Are you searching for the best Web Development Courses in Pune? Facing challenges while choosing the right course for career development? Don’t worry. I have come up with a solution for you.  Many of the institutes offer ... Read more\nThe post Top 10 Web Development Courses in Pune [2025 Updated] appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/web-development-courses-in-pune/",
+          "publishedOn": "2025-06-20T11:21:39.000Z",
+          "wordCount": 5463,
+          "title": "Top 10 Web Development Courses in Pune [2025 Updated]",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/06/Web-Development-Courses-in-Pune-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=22873",
           "author": "Poulami Dalal",
           "description": "Top 10 Digital Marketing Courses in Kharagpur [2025 Updated] Book Free Digital Marketing Demo Class Table of Contents Are you looking for the most updated Digital Marketing Courses in Kharagpur? Are you feeling confused about choosing the right course to start your career in 2025? Don’t worry. Too many options can make you confused; hence, ... Read more\nThe post Top 10 Digital Marketing Courses in Kharagpur [2025 Updated] appeared first on W3webschool Blog.",
@@ -141,16 +151,6 @@
           "wordCount": 5342,
           "title": "Top 10 Digital Marketing Courses in Pune [2025 Updated]",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/06/Digital-Marketing-Courses-in-Pune-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=21888",
-          "author": "W3webschool",
-          "description": "Top 10 SEO Courses in Delhi [2025 Updated] Book Our Free SEO Demo Class Table of Contents Are you interested in improving your professional career? Do you want to boost the online visibility of your business? SEO is the key to online success! Most individuals are struggling hard to rank their websites on popular search ... Read more\nThe post Top 10 SEO Courses in Delhi [2025 Updated] appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/seo-courses-in-delhi/",
-          "publishedOn": "2025-06-12T10:55:24.000Z",
-          "wordCount": 5535,
-          "title": "Top 10 SEO Courses in Delhi [2025 Updated]",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/06/SEO-Courses-in-Delhi-1100x619.png"
         }
       ]
     },
@@ -200,12 +200,6 @@
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/05/website-development-26-05-25-1.jpg"
         }
       ]
-    },
-    {
-      "title": "Blog – Creative IT Institute",
-      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://www.blog.creativeitinstitute.com",
-      "articles": []
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
@@ -320,12 +314,22 @@
       "siteUrl": "https://99eedu.com/",
       "articles": [
         {
+          "id": "https://99eedu.com/?p=3788",
+          "author": "99institute",
+          "description": "Digital marketing is one of the fastest-growing career fields in 2025, offering exciting opportunities for both freshers and experienced professionals. As companies shift their focus to online platforms, the demand for skilled digital marketers continues to rise. Whether you’re applying for your first job or aiming for a higher position, being prepared with the right … \nContinue reading \"Top Interview Questions for Digital Marketing Jobs in 2025\"\nThe post Top Interview Questions for Digital Marketing Jobs in 2025 appeared first on 99institute.",
+          "link": "https://99eedu.com/top-interview-questions-for-digital-marketing-jobs-in-2025/",
+          "publishedOn": "2025-06-20T11:19:49.000Z",
+          "wordCount": 5134,
+          "title": "Top Interview Questions for Digital Marketing Jobs in 2025",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/06/Top-Interview-Questions-for-Digital-Marketing.jpg"
+        },
+        {
           "id": "https://99eedu.com/?p=3781",
           "author": "99institute",
           "description": "In today’s fast-evolving digital world, two career paths often spark debate: Digital Marketing vs Web Development. Both fields are crucial in shaping a business’s online presence. However, if you’re standing at a crossroads, trying to choose between these two options, understanding the differences in skills, opportunities, and industry demand is essential. Whether you’re considering a … \nContinue reading \"Digital Marketing vs Web Development: Which Course is Right for You?\"\nThe post Digital Marketing vs Web Development: Which Course is Right for You? appeared first on 99institute.",
           "link": "https://99eedu.com/digital-marketing-vs-web-development-which-course-is-right-for-you/",
           "publishedOn": "2025-06-17T12:47:32.000Z",
-          "wordCount": 3918,
+          "wordCount": 3932,
           "title": "Digital Marketing vs Web Development: Which Course is Right for You?",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/06/Digital-Marketing-vs-Web-Development.jpg"
         },
@@ -335,7 +339,7 @@
           "description": "In the digital age, where businesses operate on code and every click can lead to a conversion, the role of a Full Stack Developer has become not only essential but also transformative. From startups in Kolkata, and Bengaluru to MNCs in Gurgaon, these tech professionals are shaping the architecture of the modern internet. But what exactly makes this … \nContinue reading \"Career as a Full Stack Developer: Skills, Salary & Scope in India\"\nThe post Career as a Full Stack Developer: Skills, Salary & Scope in India appeared first on 99institute.",
           "link": "https://99eedu.com/career-as-a-full-stack-developer-skills-salary-scope-in-india/",
           "publishedOn": "2025-06-11T12:06:21.000Z",
-          "wordCount": 3249,
+          "wordCount": 3263,
           "title": "Career as a Full Stack Developer: Skills, Salary & Scope in India",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/06/Full-Stack-Developer-Course-in-Kolkata.jpg"
         },
@@ -345,19 +349,9 @@
           "description": "In an age where everything is going digital—from shopping and education to banking and healthcare—how to start a career in digital marketing has become one of the most frequently asked questions among aspiring professionals and students alike. With the marketing landscape evolving faster than ever, the demand for skilled digital marketers is surging at an … \nContinue reading \"How to Start a Career in Digital Marketing in 2025\"\nThe post How to Start a Career in Digital Marketing in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/how-to-start-a-career-in-digital-marketing-in-2025/",
           "publishedOn": "2025-06-02T08:22:27.000Z",
-          "wordCount": 4264,
+          "wordCount": 4278,
           "title": "How to Start a Career in Digital Marketing in 2025",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/06/How-to-Start-a-Career-in-Digital-Marketing.jpg"
-        },
-        {
-          "id": "https://99eedu.com/?p=3760",
-          "author": "99institute",
-          "description": "In the ever-evolving world of digital marketing, staying visible in search engines is non-negotiable. Visibility leads to traffic, traffic leads to leads, and leads convert into loyal customers. But how do marketers ensure that websites are not only discoverable but also running at peak technical performance? The answer lies in using the right Technical SEO … \nContinue reading \"Top 10 Technical SEO Tools Every Digital Marketer Should Use\"\nThe post Top 10 Technical SEO Tools Every Digital Marketer Should Use appeared first on 99institute.",
-          "link": "https://99eedu.com/top-10-technical-seo-tools-every-digital-marketer-should-use/",
-          "publishedOn": "2025-05-22T11:51:42.000Z",
-          "wordCount": null,
-          "title": "Top 10 Technical SEO Tools Every Digital Marketer Should Use",
-          "imageUrl": null
         }
       ]
     },
