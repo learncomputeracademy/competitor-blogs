@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-20T01:52:21.873Z</id>
+    <id>urn:2025-07-21T01:50:01.815Z</id>
     <title>Blogs</title>
-    <updated>2025-07-20T01:52:21.873Z</updated>
+    <updated>2025-07-21T01:50:01.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -339,17 +339,6 @@ The post Learning AngularJS Course in 2025: Is It Still Worth It? first appeared
         <updated>2025-06-23T06:56:32.000Z</updated>
         <summary type="html"><![CDATA[Choosing the right course on game development feels like staring at the menu in a new cafe. Everything looks promising, but you don’t want to end up with something bland (or so advanced you’re immediately lost). If you’ve ever scrolled through dozens of options, read the same course descriptions on repeat, and wondered, “Am I […]
 The post How Can I Choose the Best Course on Game Development for My Skill Level? appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Role Does Anti-Design Play in Modern Graphic Design?]]></title>
-        <id>https://www.moople.in/blog/?p=15237</id>
-        <link href="https://www.moople.in/blog/what-role-does-anti-design-play-in-modern-graphic-design/"/>
-        <updated>2025-06-21T12:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Graphic design has seen several changes, whether in social, psychological, or cultural norms. There has been a rise and fall of graphics and design. Minimalist design is dominating the modern era. But the demand for maximalism has not yet vanished. But the last decade has experienced something unique. Something that goes beyond conventional norms, a […]
-The post What Role Does Anti-Design Play in Modern Graphic Design? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
         </author>
