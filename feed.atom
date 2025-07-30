@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-29T01:57:04.122Z</id>
+    <id>urn:2025-07-30T01:47:24.466Z</id>
     <title>Blogs</title>
-    <updated>2025-07-29T01:57:04.122Z</updated>
+    <updated>2025-07-30T01:47:24.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -304,17 +304,6 @@ Continue reading "How to Become a Full Stack Web Developer in Just 6 Months"
 The post How to Become a Full Stack Web Developer in Just 6 Months appeared first on 99institute.]]></summary>
         <author>
             <name>99institute</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Game Development Education: AI, VR, and Next-Gen Tools]]></title>
-        <id>https://www.moople.in/blog/?p=15253</id>
-        <link href="https://www.moople.in/blog/the-future-of-game-development/"/>
-        <updated>2025-06-30T07:24:12.000Z</updated>
-        <summary type="html"><![CDATA[In this fast-paced era, digital immersion has taken on a pivotal role. Entertainment has become increasingly attractive. Video games are not just for fun; they have become a billion-dollar industry. With that kind of growth, learning game development is only getting more exciting, more visual, and way more creative. So, if you want to join […]
-The post The Future of Game Development Education: AI, VR, and Next-Gen Tools appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
         </author>
     </entry>
 </feed>
