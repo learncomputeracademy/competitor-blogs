@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-03T01:54:33.666Z</id>
+    <id>urn:2025-08-04T01:54:47.500Z</id>
     <title>Blogs</title>
-    <updated>2025-08-03T01:54:33.666Z</updated>
+    <updated>2025-08-04T01:54:47.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -301,17 +301,6 @@ The post How to Set Up a Google Tag Manager (GTM) for Your Website appeared firs
         <updated>2025-07-07T12:26:45.000Z</updated>
         <summary type="html"><![CDATA[UX learning can be challenging. It is due to so much theory, complex tools, and extensive studies. That is why it is easy to get bored. However, a tool exists to revolutionise everything. It is known as gamification. Incorporating elements of games into learning makes it fun, interactive, and unforgettable. Imagine earning badges for every […]
 The post How Gamification Makes UX Courses More Fun and Effective appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Can You Earn After Pursuing a Game Development Course in India?]]></title>
-        <id>https://www.moople.in/blog/?p=15264</id>
-        <link href="https://www.moople.in/blog/game-development-salary-in-india-after-course/"/>
-        <updated>2025-07-05T11:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Suppose you make a wonderful video game where heroes bounce around a colourful environment and players applaud your work. That’s the wonder of game development! Are you an Indian student who wants to design games? A game development course brings you to a profession with lots of imagination and compensation.  In 2025, India’s gaming industry […]
-The post How Much Can You Earn After Pursuing a Game Development Course in India? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
         </author>
