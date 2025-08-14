@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-13T01:39:28.398Z</id>
+    <id>urn:2025-08-14T01:40:15.911Z</id>
     <title>Blogs</title>
-    <updated>2025-08-13T01:39:28.398Z</updated>
+    <updated>2025-08-14T01:40:15.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Web Development Courses in Dehradun [2025 Updated]]]></title>
+        <id>https://www.w3webschool.com/blog/?p=26658</id>
+        <link href="https://www.w3webschool.com/blog/web-development-courses-in-dehradun/"/>
+        <updated>2025-08-13T12:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Book Free Web Development Demo Class Table of Contents Top 10 Web Development Courses in Dehradun [2025 Updated] Are you struggling to find the best web development courses in Dehradun? Choosing the right one with job-focused training and 100% placement assistance can make you confused due to the multiple options available. According to Ambitionbox, a ... Read more
+The post Top 10 Web Development Courses in Dehradun [2025 Updated] appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>W3webschool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best IT Courses After Graduation in 2025 with Job Placements]]></title>
+        <id>https://weaversweb.academy/?p=5764</id>
+        <link href="https://weaversweb.academy/10-best-it-courses-after-graduation-in-2025-with-job-placements/"/>
+        <updated>2025-08-13T08:59:10.000Z</updated>
+        <summary type="html"><![CDATA[You have just flipped the last page of your graduation book. Congrats! But let’s be honest – the real challenge begins now! We all know that the job market nowadays is pretty competitive! Non-IT grads often feel the pressure when they hear that the “IT sector is booming”.  They feel that they should somehow already […]
+The post 10 Best IT Courses After Graduation in 2025 with Job Placements appeared first on Weavers Web Academy.]]></summary>
+        <author>
+            <name>Administrator</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Django Developer​ – Career scope, Roadmap in 2025]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=4463</id>
@@ -234,17 +256,6 @@ The post Top 10 Digital Marketing Courses in Jamshedpur [2025 Updated] appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Graphic Design Courses in Calicut [2025 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=26172</id>
-        <link href="https://www.w3webschool.com/blog/graphic-design-courses-in-calicut/"/>
-        <updated>2025-08-05T10:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Calicut [2025 Updated] Are you struggling to find the finest graphic design courses in Calicut? Picking the right one with job-led training and 100% placement support can feel very confusing with so many options available. Let’s make this simple for ... Read more
-The post Top 10 Graphic Design Courses in Calicut [2025 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 10 Advanced Digital Marketing Certificate Courses in Kolkata]]></title>
         <id>https://99eedu.com/?p=3898</id>
         <link href="https://99eedu.com/top-10-advanced-digital-marketing-certificate-courses-in-kolkata/"/>
@@ -396,17 +407,6 @@ The post Want a High-Paying IT Job? Start with a React Native Course in 2025 fir
         <updated>2025-07-17T11:02:36.000Z</updated>
         <summary type="html"><![CDATA[PPC (Pay‑Per‑Click) is rapidly changing. Today, AI and automation drive Google Ads. These are transforming the way we build, manage, and optimise ads. For Indian students and future marketers, this implies acquiring new tools and skills to stay ahead. You can learn it all in an online marketing course. Let’s explore further. What Are AI […]
 The post The Future of PPC with AI and Automation in Google Ads appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How is a Full Stack Developer Different from a Front-End or Back-End Developer?]]></title>
-        <id>https://www.moople.in/blog/?p=15273</id>
-        <link href="https://www.moople.in/blog/how-is-a-full-stack-developer-different-from-a-front-end-or-back-end-developer/"/>
-        <updated>2025-07-15T12:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Suppose you are creating a website that’s like a busy marketplace. There are colourful shopfronts, effortless transactions, and a behind-the-scenes engine that makes everything happen. That’s the world of web development, where front-end, back-end, and full-stack developers take centre stage!  For students eager to build websites, learning about these roles is like finding a map […]
-The post How is a Full Stack Developer Different from a Front-End or Back-End Developer? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
         </author>
