@@ -14,16 +14,6 @@
           "wordCount": 12102,
           "title": "Top Job-Oriented IT Courses for Freshers in India",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/07/Top-Job-Oriented-IT-Courses-for-Freshers-in-India-.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=17417",
-          "author": "Ayan Sarkar",
-          "description": "Do you often hear that you’ve got great attention to detail? Even the minute mistakes in apps or websites catch your eye. You’ve got a keen eye for detail, but don’t know what to do with it. Automation testing is the right career path for you, and enrolling in automation testing courses can do wonders.… Continue reading Why Automation Testing Courses are Key to a Future-Proof Career\nThe post Why Automation Testing Courses are Key to a Future-Proof Career first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/automation-testing-for-a-future-proof-career/",
-          "publishedOn": "2025-07-21T12:47:08.000Z",
-          "wordCount": 12397,
-          "title": "Why Automation Testing Courses are Key to a Future-Proof Career",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/07/Why-Automation-Testing-Courses-Are-Key-to-a-Future-Proof-Career-.jpg"
         }
       ]
     },
@@ -32,6 +22,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=26923",
+          "author": "Poulami Dalal",
+          "description": "Book Free Digital Marketing Demo Class Table of Contents Top 10 SEO Courses in Jaipur [2025 Updated] Do you want to master the best practices in SEO, but don’t know which course to join in Jaipur? With higher availability of e-training centres, one light gets confused, and the chances are higher of choosing the wrong ... Read more\nThe post Top 10 SEO Courses in Jaipur [2025 Updated] appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/seo-courses-in-jaipur/",
+          "publishedOn": "2025-08-19T11:52:18.000Z",
+          "wordCount": 4645,
+          "title": "Top 10 SEO Courses in Jaipur [2025 Updated]",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/08/SEO-Courses-in-Jaipur-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=26866",
           "author": "Poulami Dalal",
@@ -121,16 +121,6 @@
           "wordCount": 4177,
           "title": "Top 10 UI UX Design Principles You Should Know About",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/01/UiUx-Design-Principles.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=26380",
-          "author": "Poulami Dalal",
-          "description": "Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Guwahati [2025 Updated] Looking for the best graphic design course in Guwahati, but feeling confused? It’s quite natural. With so many institutes out there, picking the right one feels challenging. Guwahati is rapidly becoming a creative hub in Assam. According ... Read more\nThe post Top 10 Graphic Design Courses in Guwahati [2025 Updated] appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/graphic-design-courses-in-guwahati/",
-          "publishedOn": "2025-08-07T11:40:11.000Z",
-          "wordCount": 4627,
-          "title": "Top 10 Graphic Design Courses in Guwahati [2025 Updated]",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/08/Graphic-design-Courses-in-Guwahati-1100x619.png"
         }
       ]
     },
@@ -232,7 +222,7 @@
           "description": "Are you seeking a tech career that offers excitement and job security? Python Django is still the hottest IT career paths in 2025 and beyond. Becoming a Python Django developer is like acquiring gold skills that can translate into impressive paychecks, rapid growth, and job security. This post will unwrap reasons why being a Django […]\nThe post Python Django Developer​ – Career scope, Roadmap in 2025 appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/python-django-developer-career-scope-roadmap-2025/",
           "publishedOn": "2025-08-12T12:20:17.000Z",
-          "wordCount": 6467,
+          "wordCount": 6593,
           "title": "Python Django Developer​ – Career scope, Roadmap in 2025",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/08/Python-Django-Developer​-Career-scope-Roadmap-in-2025-banner.webp"
         },
@@ -242,7 +232,7 @@
           "description": "The IT world is constantly shifting. What was considered cutting-edge yesterday, perhaps will be common, or even won’t exist tomorrow. To thrive in this competitive landscape, you have to be on the edge. Keeping that in mind, we have curated a list of the 10 top IT skills in demand to boost your resume and […]\nThe post Top 10 IT Skills In Demand to Boost Your Resume in 2025 appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/top-10-it-skills-in-demand-to-boost-your-resume-in-2025/",
           "publishedOn": "2025-07-23T11:17:36.000Z",
-          "wordCount": 5853,
+          "wordCount": 5979,
           "title": "Top 10 IT Skills In Demand to Boost Your Resume in 2025",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/07/Top-10-IT-Skills-In-Demand-to-Boost-Your-Resume-in-2025.png"
         }
@@ -254,12 +244,32 @@
       "siteUrl": "https://99eedu.com/",
       "articles": [
         {
+          "id": "https://99eedu.com/?p=3992",
+          "author": "99institute",
+          "description": "test post\nThe post Test Post 1755592098673 appeared first on 99institute.",
+          "link": "https://99eedu.com/test-post-1755592098673/",
+          "publishedOn": "2025-08-19T08:28:19.000Z",
+          "wordCount": 2987,
+          "title": "Test Post 1755592098673",
+          "imageUrl": null
+        },
+        {
+          "id": "https://99eedu.com/?p=3974",
+          "author": "99institute",
+          "description": "test post\nThe post Test Post 1755583475681 appeared first on 99institute.",
+          "link": "https://99eedu.com/test-post-1755583475681/",
+          "publishedOn": "2025-08-19T06:04:36.000Z",
+          "wordCount": 2987,
+          "title": "Test Post 1755583475681",
+          "imageUrl": null
+        },
+        {
           "id": "https://99eedu.com/?p=3972",
           "author": "99institute",
           "description": "Cara Bermain Poker untuk Pemula, Ketahui Aturan dan Variasinya Koin ini dapat dikonversi menjadi saldo dompet digital seperti OVO, DANA, atau GoPay, sehingga pemain tidak hanya bermain untuk hiburan, tetapi juga mendapatkan manfaat finansial. Pengguna dapat melakukan voice call sambil bermain, membentuk komunitas, dan menjalin pertemanan baru dari berbagai daerah. Temukan harta kekayaan Mesir di … \nContinue reading \"Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai\"\nThe post Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai appeared first on 99institute.",
           "link": "https://99eedu.com/ini-10-kasino-terbesar-di-dunia-tetangga-ri-2/",
           "publishedOn": "2025-08-18T21:20:35.000Z",
-          "wordCount": 4065,
+          "wordCount": 2889,
           "title": "Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai",
           "imageUrl": null
         },
@@ -269,7 +279,7 @@
           "description": "Ini 10 Kasino Terbesar di Dunia: Tetangga RI Menguasai Nilai SLP ini bervariasi, tergantung pada kondisi pasar crypto, dan bisa digunakan untuk membeli Axie baru atau dibreed, atau bahkan dijual langsung ke pemain lain di marketplace. Setiap kemenangan dalam pertempuran PvP, misalnya, akan memberi pemain sejumlah SLP yang bisa ditukarkan dengan uang nyata melalui cryptocurrency … \nContinue reading \"Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai\"\nThe post Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai appeared first on 99institute.",
           "link": "https://99eedu.com/ini-10-kasino-terbesar-di-dunia-tetangga-ri/",
           "publishedOn": "2025-08-18T20:38:10.000Z",
-          "wordCount": 4383,
+          "wordCount": 3207,
           "title": "Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai",
           "imageUrl": null
         },
@@ -279,7 +289,7 @@
           "description": "Ζωτικά βήματα στην περιπέτεια του chicken road demo που οδηγούν σε κέρδη και ατελείωτη διασκέδαση! Βασικά στοιχεία του chicken road demo Πώς λειτουργεί το παιχνίδι Στρατηγικές για επιτυχία Πλεονεκτήματα του chicken road demo Πώς να ξεκινήσετε Συχνές ερωτήσεις σχετικά με το chicken road demo Η κοινωνία του chicken road demo Επιλογές παιχνιδιού και μελλοντικές τάσεις … \nContinue reading \"Ζωτικά βήματα στην περιπέτεια του chicken road demo που οδηγούν σε κέρδη και ατελείωτη διασκέδαση!\"\nThe post Ζωτικά βήματα στην περιπέτεια του chicken road demo που οδηγούν σε κέρδη και ατελείωτη διασκέδαση! appeared first on 99institute.",
           "link": "https://99eedu.com/chicken-road-demo-359/",
           "publishedOn": "2025-08-17T18:17:02.000Z",
-          "wordCount": 4472,
+          "wordCount": 3296,
           "title": "Ζωτικά βήματα στην περιπέτεια του chicken road demo που οδηγούν σε κέρδη και ατελείωτη διασκέδαση!",
           "imageUrl": null
         },
@@ -289,7 +299,7 @@
           "description": "Ein feuriger Wettkampf auf dem Weg zum Sieg beim aufregenden chicken road game casino! Die Spielmechanik des chicken road game Strategien für das chicken road game Die verschiedenen Wettmöglichkeiten im Chicken Road Game Tipps für den Erfolg im chicken road game Das soziale Element des chicken road game Die Zukunft des chicken road game Sendung … \nContinue reading \"Ein feuriger Wettkampf auf dem Weg zum Sieg beim aufregenden chicken road game casino!\"\nThe post Ein feuriger Wettkampf auf dem Weg zum Sieg beim aufregenden chicken road game casino! appeared first on 99institute.",
           "link": "https://99eedu.com/ein-feuriger-wettkampf-auf-dem-weg-zum-sieg-beim/",
           "publishedOn": "2025-08-17T18:16:12.000Z",
-          "wordCount": 4690,
+          "wordCount": 3514,
           "title": "Ein feuriger Wettkampf auf dem Weg zum Sieg beim aufregenden chicken road game casino!",
           "imageUrl": null
         },
@@ -299,7 +309,7 @@
           "description": "Ein ganz besonderes Abenteuer erwartet dich, wenn du im chicken road game casino den heißen Öfen ausweichst! Grundlagen des chicken road games Die Rolle der Risikobewertung Strategien zur Maximierung der Gewinne Tipps für Neueinsteiger Bonusangebote im Casino Der Spaßfaktor und die Spielesicherheit Ein ganz besonderes Abenteuer erwartet dich, wenn du im chicken road game casino … \nContinue reading \"Ein ganz besonderes Abenteuer erwartet dich, wenn du im chicken road game casino den heißen Öfen aus\"\nThe post Ein ganz besonderes Abenteuer erwartet dich, wenn du im chicken road game casino den heißen Öfen aus appeared first on 99institute.",
           "link": "https://99eedu.com/ein-ganz-besonderes-abenteuer-erwartet-dich-wenn/",
           "publishedOn": "2025-08-17T18:15:21.000Z",
-          "wordCount": 4193,
+          "wordCount": 3017,
           "title": "Ein ganz besonderes Abenteuer erwartet dich, wenn du im chicken road game casino den heißen Öfen aus",
           "imageUrl": null
         },
@@ -331,26 +341,6 @@
           "publishedOn": "2025-08-16T11:22:36.000Z",
           "wordCount": 3705,
           "title": "91 Club Online Casino in India Responsible Gambling.69 (2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=3950",
-          "author": "99institute",
-          "description": "1Win официальный сайт букмекера — 1Вин ставки на спорт ▶️ ИГРАТЬ Содержимое 1Win – Официальный сайт букмекера Ставки на спорт с официального сайта 1Win В мире ставок на спорт есть много букмекеров, но не все из них могут похвастаться официальным статусом. 1win – это один из немногих букмекеров, которые могут похвастаться официальным статусом и обеспечивать … \nContinue reading \"1Win официальный сайт букмекера — 1Вин ставки на спорт.332\"\nThe post 1Win официальный сайт букмекера — 1Вин ставки на спорт.332 appeared first on 99institute.",
-          "link": "https://99eedu.com/1win-oficialnyj-sajt-bukmekera-1vin-stavki-na-202/",
-          "publishedOn": "2025-08-15T19:23:34.000Z",
-          "wordCount": 2543,
-          "title": "1Win официальный сайт букмекера — 1Вин ставки на спорт.332",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=3952",
-          "author": "99institute",
-          "description": "Pinco Online Kazino 2025 – Strategiyalar və Məsləhətlər (Пинко Казино Онлайн) ▶️ OYNA Содержимое Strategiyalar və Məsləhətlər Strategiya 1: Qazino Xidmətlərinin Yenidən Dəyişdirilməsi Müştərilərin Təhlükəsizliyini Yaxşılaşdırmaq Strategiya 3: Yeni Qazino Qazancı Yaratmaq üçün Məsləhətlər Pinko və ya Pinco Game adlı online kazino 2025-cü ilin məsləhətlərinin və strategiyaların əsasını təmin edir. Bu məqalədə sizə bu mühüm … \nContinue reading \"Pinco Online Kazino 2025  Strategiyalar v Mslhtlr Пинко Казино Онлайн.1813 (2)\"\nThe post Pinco Online Kazino 2025  Strategiyalar v Mslhtlr Пинко Казино Онлайн.1813 (2) appeared first on 99institute.",
-          "link": "https://99eedu.com/pinco-online-kazino-2025-strategiyalar-v-mslhtlr-152/",
-          "publishedOn": "2025-08-15T19:22:14.000Z",
-          "wordCount": 2731,
-          "title": "Pinco Online Kazino 2025  Strategiyalar v Mslhtlr Пинко Казино Онлайн.1813 (2)",
           "imageUrl": null
         }
       ]
