@@ -198,16 +198,23 @@
           "wordCount": 2115,
           "title": "How to Start a Career in Social Media Video and Live Streaming",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/07/social-media-video-editing-24-07-25.jpg"
-        },
+        }
+      ]
+    },
+    {
+      "title": "User's blog",
+      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com",
+      "articles": [
         {
-          "id": "https://www.moople.in/blog/?p=15279",
-          "author": "hiteblog",
-          "description": "You may have seen it on social media or streaming services: classic 2D cartoons are coming back. Not just for nostalgia, but as significant competitors in the animation business today. 3D is practical and realistic, but companies are going back to hand-drawn styles, endearing frame-by-frame quirks, and the gentle imperfections that only 2D animation can […]\nThe post 2D Animation vs 3D: Why Classic Cartoons Are Back in Trend appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/2d-animation-vs-3d-why-classic-cartoons-are-back-in-trend/",
-          "publishedOn": "2025-07-22T14:24:34.000Z",
-          "wordCount": 2562,
-          "title": "2D Animation vs 3D: Why Classic Cartoons Are Back in Trend",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/07/animation-trends-22-07-25.jpg"
+          "id": "http://127.0.0.1/?p=1",
+          "author": "user",
+          "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+          "link": "https://www.blog.creativeitinstitute.com/2025/08/21/hello-world/",
+          "publishedOn": "2025-08-21T12:19:40.000Z",
+          "wordCount": 1463,
+          "title": "Hello world!",
+          "imageUrl": null
         }
       ]
     },
@@ -222,19 +229,9 @@
           "description": "Are you seeking a tech career that offers excitement and job security? Python Django is still the hottest IT career paths in 2025 and beyond. Becoming a Python Django developer is like acquiring gold skills that can translate into impressive paychecks, rapid growth, and job security. This post will unwrap reasons why being a Django […]\nThe post Python Django Developer​ – Career scope, Roadmap in 2025 appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/python-django-developer-career-scope-roadmap-2025/",
           "publishedOn": "2025-08-12T12:20:17.000Z",
-          "wordCount": 6593,
+          "wordCount": 6597,
           "title": "Python Django Developer​ – Career scope, Roadmap in 2025",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/08/Python-Django-Developer​-Career-scope-Roadmap-in-2025-banner.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=4358",
-          "author": "Tanmay Das",
-          "description": "The IT world is constantly shifting. What was considered cutting-edge yesterday, perhaps will be common, or even won’t exist tomorrow. To thrive in this competitive landscape, you have to be on the edge. Keeping that in mind, we have curated a list of the 10 top IT skills in demand to boost your resume and […]\nThe post Top 10 IT Skills In Demand to Boost Your Resume in 2025 appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/top-10-it-skills-in-demand-to-boost-your-resume-in-2025/",
-          "publishedOn": "2025-07-23T11:17:36.000Z",
-          "wordCount": 5979,
-          "title": "Top 10 IT Skills In Demand to Boost Your Resume in 2025",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/07/Top-10-IT-Skills-In-Demand-to-Boost-Your-Resume-in-2025.png"
         }
       ]
     },
@@ -244,104 +241,34 @@
       "siteUrl": "https://99eedu.com/",
       "articles": [
         {
-          "id": "https://99eedu.com/?p=4005",
+          "id": "https://99eedu.com/?p=4036",
           "author": "99institute",
-          "description": "Օնլայն խաղադրույքներ և Կազինո Հայաստանում՝ 500% Դեպոզիտային Բոնուսով Հայ խաղացողները կարող են օգտվել հետևյալ ընթացիկ առաջարկներից. Հայ խաղացողները կարող են օգտվել հետևյալ ընթացիկ առաջարկներից. Հայ խաղացողները կարող են օգտվել հետևյալ ընթացիկ առաջարկներից. Հայ խաղացողները կարող են օգտվել հետևյալ ընթացիկ առաջարկներից. Հայ խաղացողները կարող են օգտվել հետևյալ ընթացիկ առաջարկներից. Հայ խաղացողները կարող են օգտվել հետևյալ ընթացիկ … \nContinue reading \"Պատասխանատու Խաղ 1win Armenia-ի հետՊատասխանատու Խաղ 1win Armenia-ի հետ\"\nThe post Պատասխանատու Խաղ 1win Armenia-ի հետՊատասխանատու Խաղ 1win Armenia-ի հետ appeared first on 99institute.",
-          "link": "https://99eedu.com/1win-armenia-1win-armenia/",
-          "publishedOn": "2025-08-20T20:45:47.000Z",
-          "wordCount": 3077,
-          "title": "Պատասխանատու Խաղ 1win Armenia-ի հետՊատասխանատու Խաղ 1win Armenia-ի հետ",
-          "imageUrl": null
+          "description": "As 2025 approaches, the global job market is evolving at an unprecedented rate. Businesses are no longer relying solely on traditional marketing; instead, they are shifting towards digital-first strategies to reach their customers. In this era, digital marketing skills in Kolkata have become one of the most valuable assets for students, professionals, and entrepreneurs. Whether … \nContinue reading \"Why Digital Marketing Skills Are Essential for Success in 2025\"\nThe post Why Digital Marketing Skills Are Essential for Success in 2025 appeared first on 99institute.",
+          "link": "https://99eedu.com/why-digital-marketing-skills-are-essential-for-success-in-2025/",
+          "publishedOn": "2025-08-21T13:54:09.000Z",
+          "wordCount": 5060,
+          "title": "Why Digital Marketing Skills Are Essential for Success in 2025",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/08/digital-marketing-skills-in-Kolkata.png"
         },
         {
-          "id": "https://99eedu.com/?p=4007",
+          "id": "https://99eedu.com/?p=3907",
           "author": "99institute",
-          "description": "Online Casino Erfahrungen Österreich ▶️ SPIELEN Содержимое Die Vorteile von Online Casinos in Österreich Unbegrenzte Auswahl an Spielen Wie funktionieren Online Casinos in Österreich? Die wichtigsten Regeln für Online Casinos in Österreich Die Lizenzierung von Online-Casinos in Österreich Wenn Sie sich für ein Online-Casino in Österreich entschieden haben, gibt es einige wichtige Dinge zu beachten, … \nContinue reading \"Online Casino Erfahrungen sterreich.256\"\nThe post Online Casino Erfahrungen sterreich.256 appeared first on 99institute.",
-          "link": "https://99eedu.com/online-casino-erfahrungen-sterreich-256/",
-          "publishedOn": "2025-08-20T17:07:45.000Z",
-          "wordCount": 4258,
-          "title": "Online Casino Erfahrungen sterreich.256",
-          "imageUrl": null
+          "description": "In today’s fast-evolving digital world, having the ability to develop both the front-end and back-end of websites and web applications has become one of the most valued skills. That is why Full Stack Web Development is considered the most in-demand skill in 2025. With the rise of startups, digital transformation in businesses, and the need … \nContinue reading \"Why Full Stack Web Development Is the Top Skill to Learn in 2025\"\nThe post Why Full Stack Web Development Is the Top Skill to Learn in 2025 appeared first on 99institute.",
+          "link": "https://99eedu.com/why-full-stack-web-development-is-the-top-skill-to-learn-in-2025/",
+          "publishedOn": "2025-08-06T12:52:43.000Z",
+          "wordCount": 5347,
+          "title": "Why Full Stack Web Development Is the Top Skill to Learn in 2025",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/08/Full-Stack-Web-Development-Course.png"
         },
         {
-          "id": "https://99eedu.com/?p=4003",
+          "id": "https://99eedu.com/?p=3898",
           "author": "99institute",
-          "description": "Секрети успішних ставок: як вибрати стратегію для ставок на спорт Випрацюйте власний стиль ставок У світі спортивних ставок існує безліч стратегій: від складних математичних розрахунків до простих передчуттів. Важливо розуміти, що не існує універсальної методики, яка гарантує постійний виграш. Випрацюйте свою власну стратегію, що підходить саме вам. Порахуйте свої фінансові можливості, оцініть спортивні знання та … \nContinue reading \"Секрети успішних ставок: як вибрати стратегію для ставок на спорт\"\nThe post Секрети успішних ставок: як вибрати стратегію для ставок на спорт appeared first on 99institute.",
-          "link": "https://99eedu.com/sekreti-uspishnih-stavok-jak-vibrati-strategiju/",
-          "publishedOn": "2025-08-20T16:09:59.000Z",
-          "wordCount": 3451,
-          "title": "Секрети успішних ставок: як вибрати стратегію для ставок на спорт",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=3999",
-          "author": "99institute",
-          "description": "Najbolje Taktike Za Uživanje U Kockanju Na Siguran Način Odabir Pravog Kasina Prvi korak do sigurnog i zadovoljavajućeg iskustva kockanja je odabir pravog kasina. Online kockarnice nude različite igre i bonuse, ali ne treba se isključivo oslanjati na promocije pri odabiru. Od ključne je važnosti provjeriti reputaciju kasina, uvjete korištenja i licencu. Pouzdana kockarnica uvijek … \nContinue reading \"Najbolje Taktike Za Uživanje U Kockanju Na Siguran Način\"\nThe post Najbolje Taktike Za Uživanje U Kockanju Na Siguran Način appeared first on 99institute.",
-          "link": "https://99eedu.com/najbolje-taktike-za-uivanje-u-kockanju-na-siguran/",
-          "publishedOn": "2025-08-20T12:17:30.000Z",
-          "wordCount": 3445,
-          "title": "Najbolje Taktike Za Uživanje U Kockanju Na Siguran Način",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=4001",
-          "author": "99institute",
-          "description": "Jede Entscheidung zählt, wenn die Kugel durch die spannenden Bahnen des Plinko-Abenteuers sinkt und die Möglichkeiten auf beeindruckende Gewinne entfaltet! Die Faszination von Plinko Strategien zum Gewinnen Die Psychologie des Spiels Die Regeln von Plinko verstehen Anpassung des Spielstils Die besten Online-Casinos für Plinko Plinko im Vergleich zu anderen Spielen Die Beliebtheit von Plinko in … \nContinue reading \"Jede Entscheidung zählt, wenn die Kugel durch die spannenden Bahnen des Plinko-Abenteuers sinkt und\"\nThe post Jede Entscheidung zählt, wenn die Kugel durch die spannenden Bahnen des Plinko-Abenteuers sinkt und appeared first on 99institute.",
-          "link": "https://99eedu.com/jede-entscheidung-zahlt-wenn-die-kugel-durch-die/",
-          "publishedOn": "2025-08-20T09:55:39.000Z",
-          "wordCount": 4876,
-          "title": "Jede Entscheidung zählt, wenn die Kugel durch die spannenden Bahnen des Plinko-Abenteuers sinkt und",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=3996",
-          "author": "99institute",
-          "description": "Casibom Giriş Adresi – Casibom casino Güncel Giriş Adresi ▶️ OYNAMAK Содержимое Casibom Casino’da Oynayabilmek İçin Gerekli Adımlar Casibom Casino’da Oynama Adımları Casibom’un Güvenliğine Dair Bilgiler ve Önemli Güvenlik Adımları Önemli Güvenlik Adımları Casibom casino için güncel ve güvenli giriş adresini öğrenmek isteyenler için bu makale size yardımcı olacak. Casibom giriş adresi, güvenli ve hızlı … \nContinue reading \"Casibom Giri Adresi – Casibom casino Gncel Giri Adresi.12326\"\nThe post Casibom Giri Adresi – Casibom casino Gncel Giri Adresi.12326 appeared first on 99institute.",
-          "link": "https://99eedu.com/casibom-giri-adresi-casibom-casino-gncel-giri-1249/",
-          "publishedOn": "2025-08-19T20:29:03.000Z",
-          "wordCount": 3574,
-          "title": "Casibom Giri Adresi – Casibom casino Gncel Giri Adresi.12326",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=3994",
-          "author": "99institute",
-          "description": "Casibom Casino Resmi Giriş ▶️ OYNAMAK Содержимое Rehber ve Adımlar En İyi Oyunları ve Bonuslar Güvenlik ve Destek Hizmetleri Casibom Casino, en güvenli ve etkileyici oyun deneyimlerini sunan öne çıkan casino platformlarından biridir. Casibom giris sayesinde, kullanıcılar rahat ve güvenli bir ortamda çeşitli oyunları deneyebilirler. Casibon, Cadibom ve Casibo gibi benzer platformlarla karşılaştırıldığında, Casibom 158 … \nContinue reading \"Casibom Casino Resmi Giri.12900\"\nThe post Casibom Casino Resmi Giri.12900 appeared first on 99institute.",
-          "link": "https://99eedu.com/casibom-casino-resmi-giri-12900/",
-          "publishedOn": "2025-08-19T20:27:45.000Z",
-          "wordCount": 3605,
-          "title": "Casibom Casino Resmi Giri.12900",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=3992",
-          "author": "99institute",
-          "description": "test post\nThe post Test Post 1755592098673 appeared first on 99institute.",
-          "link": "https://99eedu.com/test-post-1755592098673/",
-          "publishedOn": "2025-08-19T08:28:19.000Z",
-          "wordCount": 1797,
-          "title": "Test Post 1755592098673",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=3974",
-          "author": "99institute",
-          "description": "test post\nThe post Test Post 1755583475681 appeared first on 99institute.",
-          "link": "https://99eedu.com/test-post-1755583475681/",
-          "publishedOn": "2025-08-19T06:04:36.000Z",
-          "wordCount": 1797,
-          "title": "Test Post 1755583475681",
-          "imageUrl": null
-        },
-        {
-          "id": "https://99eedu.com/?p=3972",
-          "author": "99institute",
-          "description": "Cara Bermain Poker untuk Pemula, Ketahui Aturan dan Variasinya Koin ini dapat dikonversi menjadi saldo dompet digital seperti OVO, DANA, atau GoPay, sehingga pemain tidak hanya bermain untuk hiburan, tetapi juga mendapatkan manfaat finansial. Pengguna dapat melakukan voice call sambil bermain, membentuk komunitas, dan menjalin pertemanan baru dari berbagai daerah. Temukan harta kekayaan Mesir di … \nContinue reading \"Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai\"\nThe post Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai appeared first on 99institute.",
-          "link": "https://99eedu.com/ini-10-kasino-terbesar-di-dunia-tetangga-ri-2/",
-          "publishedOn": "2025-08-18T21:20:35.000Z",
-          "wordCount": 2875,
-          "title": "Ini 10 Kasino Terbesar di Dunia Tetangga RI MenguasaiIni 10 Kasino Terbesar di Dunia Tetangga RI Menguasai",
-          "imageUrl": null
+          "description": "In today’s technology-driven world, gaining expertise in advanced digital marketing is essential for accelerating your career and achieving business success. Whether you’re a student, job seeker, entrepreneur, or marketing professional, choosing the right advanced digital marketing courses in Kolkata can set the foundation for a lucrative career. Kolkata is home to several reputed institutes offering … \nContinue reading \"Top 10 Advanced Digital Marketing Certificate Courses in Kolkata\"\nThe post Top 10 Advanced Digital Marketing Certificate Courses in Kolkata appeared first on 99institute.",
+          "link": "https://99eedu.com/top-10-advanced-digital-marketing-certificate-courses-in-kolkata/",
+          "publishedOn": "2025-08-04T13:40:05.000Z",
+          "wordCount": 4485,
+          "title": "Top 10 Advanced Digital Marketing Certificate Courses in Kolkata",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/08/advanced-digital-marketing-courses.png"
         }
       ]
     },
@@ -356,6 +283,16 @@
       "feedUrl": "https://weaversweb.academy/feed/",
       "siteUrl": "https://weaversweb.academy/",
       "articles": [
+        {
+          "id": "https://weaversweb.academy/?p=5803",
+          "author": "Administrator",
+          "description": "Weavers Web Academy is a trusted digital marketing institute in Kolkata that teaches you the ins and outs of digital marketing and also prepares you for job interviews in-house and at other organizations.  Ours is a job-ready course, and that is what differentiates us from others. Read below to learn more. Everyone needs a job. […]\nThe post Job-Ready Digital Marketing Course in Kolkata – Start Your Career Today! appeared first on Weavers Web Academy.",
+          "link": "https://weaversweb.academy/job-ready-digital-marketing-course-in-kolkata-start-your-career-today/",
+          "publishedOn": "2025-08-21T13:00:46.000Z",
+          "wordCount": 2160,
+          "title": "Job-Ready Digital Marketing Course in Kolkata – Start Your Career Today!",
+          "imageUrl": "http://weaversweb.academy/wp-content/uploads/2025/08/Job-Ready-Digital-Marketing-Course-in-Kolkata-–-Start-Your-Career-Today-1-1.jpg"
+        },
         {
           "id": "https://weaversweb.academy/?p=5798",
           "author": "Administrator",
