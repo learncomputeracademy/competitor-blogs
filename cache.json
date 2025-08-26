@@ -4,13 +4,34 @@
       "title": "Webskitters Academy",
       "feedUrl": "https://www.webskittersacademy.in/feed/",
       "siteUrl": "https://www.webskittersacademy.in",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.webskittersacademy.in/?p=17533",
+          "author": "Ayan Sarkar",
+          "description": "You may not realise it, but every business decision, app feature, or online recommendation you see has a data story behind it. But, how do you turn all this raw information into something valuable? That’s where data science steps in. It is a comprehensive framework for solving real problems using data. The reason why many… Continue reading Skill Up for the Future with a Data Science Course in Kolkata\nThe post Skill Up for the Future with a Data Science Course in Kolkata first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/data-science-course-demand-in-kolkata/",
+          "publishedOn": "2025-08-25T08:58:41.000Z",
+          "wordCount": 12919,
+          "title": "Skill Up for the Future with a Data Science Course in Kolkata",
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/08/Skill-Up-for-the-Future-with-Data-Science-Course-in-Kolkata.jpg"
+        }
+      ]
     },
     {
       "title": "W3webschool Blog",
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=27170",
+          "author": "Poulami Dalal",
+          "description": "Book Free SEO Course Demo Class Table of Contents Top 10 SEO Courses in Ghaziabad [2025 Updated] Want to learn the best SEO practices in Ghaziabad, but don’t know where to begin? Don’t worry. It is quite usual to feel lost sometimes, as there are so many options out in the ed-tech training market providing ... Read more\nThe post Top 10 SEO Courses in Ghaziabad [2025 Updated] appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/seo-courses-in-ghaziabad/",
+          "publishedOn": "2025-08-25T12:19:46.000Z",
+          "wordCount": 4354,
+          "title": "Top 10 SEO Courses in Ghaziabad [2025 Updated]",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/08/SEO-Courses-in-Ghaziabad-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=27079",
           "author": "Poulami Dalal",
@@ -100,16 +121,6 @@
           "wordCount": 4346,
           "title": "Top 10 Web Development Courses in Dehradun [2025 Updated]",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/08/Web-Development-Courses-in-Dehradun-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=11019",
-          "author": "Poulami Dalal",
-          "description": "Book Free Social Media Marketing Demo Class Table of Contents 15+ Types of Display Ads You Must Know for Online Marketin Trying really hard to boost your digital marketing efforts? The major problem might be the way you are using different types of display ads. There are several types of display ads, and you just ... Read more\nThe post 15+ Types of Display Ads You Must Know for Online Marketing appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/types-of-display-ads/",
-          "publishedOn": "2025-08-12T11:30:46.000Z",
-          "wordCount": 6493,
-          "title": "15+ Types of Display Ads You Must Know for Online Marketing",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2024/08/Types-Of-Display-Ads-1100x619.png"
         }
       ]
     },
@@ -119,12 +130,22 @@
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
         {
+          "id": "https://www.moople.in/blog/?p=15311",
+          "author": "hiteblog",
+          "description": "A heart can dream in colours. The creative spirit wishes to design, form, and create. But does coding put up a roadblock? The reply now beams with hope—yes, it is possible to learn web designing without coding. Thanks to new tools and structured courses, Indian students can now convert creativity into careers—without writing even a […]\nThe post Are 3D Animation Institutes Worth It for Creative Careers in 2025? appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/are-3d-animation-institutes-worth-it-for-creative-careers-in-2025/",
+          "publishedOn": "2025-08-12T08:44:14.000Z",
+          "wordCount": 1743,
+          "title": "Are 3D Animation Institutes Worth It for Creative Careers in 2025?",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/08/3d-animation-career-12-08-25.jpg"
+        },
+        {
           "id": "https://www.moople.in/blog/?p=15306",
           "author": "hiteblog",
           "description": "When people first get to watch an anime, they’d wonder, “Wow! How do they even make something like that?” Over the years, as you will learn about animation, you will realise that it has a steep learning curve. From learning about keyframes to perspective and motion, there is a lot to take in through flat […]\nThe post Are AR and VR the Future of Animation Training Programs? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/are-ar-and-vr-transforming-animation-training-programs/",
           "publishedOn": "2025-08-09T11:27:16.000Z",
-          "wordCount": 2569,
+          "wordCount": 2634,
           "title": "Are AR and VR the Future of Animation Training Programs?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/08/animation-course-trends-09-08-25.jpg"
         },
@@ -134,7 +155,7 @@
           "description": "Are you an aspiring coder for games? Then you must have a dream about that first game. You may ask yourself, “Am I going to be able to earn enough doing something I love?” If you are one of the new developers in India’s booming gaming industry, then this is for you. There can be […]\nThe post How Much Will a New Game Developer Earn in 2025? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-much-will-a-new-game-developer-earn-in-2025/",
           "publishedOn": "2025-08-07T10:47:28.000Z",
-          "wordCount": 2177,
+          "wordCount": 2230,
           "title": "How Much Will a New Game Developer Earn in 2025?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/08/game-development-jobs-07-08-25.jpg"
         },
@@ -144,7 +165,7 @@
           "description": "A site that is great on all devices touches the hearts of users. It greets each visitor, whether they’re on a phone, tablet, or laptop. It makes them feel understood. This connection counts, and that’s what responsive design provides. It is now the heart of contemporary web development. This article explores responsive design with elaboration […]\nThe post What is the Role of Responsive Design in Web Development? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/what-is-the-role-of-responsive-design-in-web-development/",
           "publishedOn": "2025-08-04T09:23:19.000Z",
-          "wordCount": 2602,
+          "wordCount": 2655,
           "title": "What is the Role of Responsive Design in Web Development?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/08/web-development-tips-04-08-25.jpg"
         },
@@ -154,7 +175,7 @@
           "description": "Short-form videos. Love them or hate them, they’re everywhere. From 7-second TikTok trends to Instagram Reels that tell a whole story before you can blink, bite-sized video content is defining how we engage, sell, and scroll in 2025. For marketers, that means one thing: adapt or get left behind. Whether you’re a small business owner, […]\nThe post Short-Form Video Trends Marketers Need to Know appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/short-form-video-trends-marketers-need-to-know/",
           "publishedOn": "2025-08-01T08:06:16.000Z",
-          "wordCount": 2428,
+          "wordCount": 2481,
           "title": "Short-Form Video Trends Marketers Need to Know",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/08/short-term-video-editing-01-08-25.jpg"
         },
@@ -164,7 +185,7 @@
           "description": "The thought of designing your own video game may be both exhilarating and scary. You might imagine a huge group of engineers sitting behind bright screens, typing complicated code as if it were second nature. But what if you don’t know anything about technology? What if the most you’ve ever done with programming is update […]\nThe post Can I Learn 3D Game Development Without Prior Programming Experience? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/learn-3d-game-development-without-coding-experience/",
           "publishedOn": "2025-07-29T11:04:31.000Z",
-          "wordCount": 2568,
+          "wordCount": 2621,
           "title": "Can I Learn 3D Game Development Without Prior Programming Experience?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2025/07/3d-game-development-29-07-25.jpg"
         }
@@ -215,7 +236,7 @@
           "description": "As 2025 approaches, the global job market is evolving at an unprecedented rate. Businesses are no longer relying solely on traditional marketing; instead, they are shifting towards digital-first strategies to reach their customers. In this era, digital marketing skills in Kolkata have become one of the most valuable assets for students, professionals, and entrepreneurs. Whether … \nContinue reading \"Why Digital Marketing Skills Are Essential for Success in 2025\"\nThe post Why Digital Marketing Skills Are Essential for Success in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/why-digital-marketing-skills-are-essential-for-success-in-2025/",
           "publishedOn": "2025-08-21T13:54:09.000Z",
-          "wordCount": 3882,
+          "wordCount": 3868,
           "title": "Why Digital Marketing Skills Are Essential for Success in 2025",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/08/digital-marketing-skills-in-Kolkata.png"
         },
@@ -225,7 +246,7 @@
           "description": "In today’s fast-evolving digital world, having the ability to develop both the front-end and back-end of websites and web applications has become one of the most valued skills. That is why Full Stack Web Development is considered the most in-demand skill in 2025. With the rise of startups, digital transformation in businesses, and the need … \nContinue reading \"Why Full Stack Web Development Is the Top Skill to Learn in 2025\"\nThe post Why Full Stack Web Development Is the Top Skill to Learn in 2025 appeared first on 99institute.",
           "link": "https://99eedu.com/why-full-stack-web-development-is-the-top-skill-to-learn-in-2025/",
           "publishedOn": "2025-08-06T12:52:43.000Z",
-          "wordCount": 4169,
+          "wordCount": 4155,
           "title": "Why Full Stack Web Development Is the Top Skill to Learn in 2025",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/08/Full-Stack-Web-Development-Course.png"
         },
@@ -235,7 +256,7 @@
           "description": "In today’s technology-driven world, gaining expertise in advanced digital marketing is essential for accelerating your career and achieving business success. Whether you’re a student, job seeker, entrepreneur, or marketing professional, choosing the right advanced digital marketing courses in Kolkata can set the foundation for a lucrative career. Kolkata is home to several reputed institutes offering … \nContinue reading \"Top 10 Advanced Digital Marketing Certificate Courses in Kolkata\"\nThe post Top 10 Advanced Digital Marketing Certificate Courses in Kolkata appeared first on 99institute.",
           "link": "https://99eedu.com/top-10-advanced-digital-marketing-certificate-courses-in-kolkata/",
           "publishedOn": "2025-08-04T13:40:05.000Z",
-          "wordCount": 4485,
+          "wordCount": 4471,
           "title": "Top 10 Advanced Digital Marketing Certificate Courses in Kolkata",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/08/advanced-digital-marketing-courses.png"
         }
@@ -247,12 +268,22 @@
       "siteUrl": "https://awtim.com/blog",
       "articles": [
         {
+          "id": "https://awtim.com/blog/?p=299",
+          "author": "AWTIM Admin",
+          "description": "This article is focused on ‘The 10 Most Career-Oriented Institutes for Full Stack Education in Kolkata 2025‘. It's a detailed\nThe post The 10 Most Career-Oriented Institutes for Full Stack Education in Kolkata 2025 first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).",
+          "link": "https://awtim.com/blog/the-10-most-career-oriented-institutes-for-full-stack-education-in-kolkata-2025/?utm_source=rss&utm_medium=rss&utm_campaign=the-10-most-career-oriented-institutes-for-full-stack-education-in-kolkata-2025",
+          "publishedOn": "2025-08-25T09:07:32.000Z",
+          "wordCount": 4295,
+          "title": "The 10 Most Career-Oriented Institutes for Full Stack Education in Kolkata 2025",
+          "imageUrl": "https://awtim.com/blog/wp-content/uploads/2024/07/awtim-bloglogo-24.png"
+        },
+        {
           "id": "https://awtim.com/blog/?p=291",
           "author": "FAQ Webmaster AWTIM",
           "description": "Introduction Learn a top-rated Digital Marketing Course in Kolkata for 2025. Get details on syllabus, fees, and course duration. Find\nThe post Digital Marketing Course in Kolkata 2025: Syllabus, Fees, Duration, Jobs, Freelancing first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).",
           "link": "https://awtim.com/blog/digital-marketing-course-in-kolkata-2025-syllabus-fees-duration-jobs-freelancing/?utm_source=rss&utm_medium=rss&utm_campaign=digital-marketing-course-in-kolkata-2025-syllabus-fees-duration-jobs-freelancing",
           "publishedOn": "2025-08-22T13:54:03.000Z",
-          "wordCount": 4374,
+          "wordCount": 4392,
           "title": "Digital Marketing Course in Kolkata 2025: Syllabus, Fees, Duration, Jobs, Freelancing",
           "imageUrl": "https://awtim.com/blog/wp-content/uploads/2024/07/awtim-bloglogo-24.png"
         }
