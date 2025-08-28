@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-27T01:23:38.689Z</id>
+    <id>urn:2025-08-28T01:22:48.877Z</id>
     <title>Blogs</title>
-    <updated>2025-08-27T01:23:38.689Z</updated>
+    <updated>2025-08-28T01:22:48.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Web Development Courses in Nagpur [2025 Updated]]]></title>
+        <id>https://www.w3webschool.com/blog/?p=27283</id>
+        <link href="https://www.w3webschool.com/blog/web-development-courses-in-nagpur/"/>
+        <updated>2025-08-27T11:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Book Free Web Development Demo Class Table of Contents Top 10 Web Development Courses in Nagpur [2025 Updated] If you are looking for the Best Web Development Courses in Nagpur, then you are at the right place here. According to Ambitionbox, a Web Developer fresher in Nagpur can get up to ₹1 lac to ₹5.3 ... Read more
+The post Top 10 Web Development Courses in Nagpur [2025 Updated] appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Graphic Design Courses in Lucknow [2025 Updated]]]></title>
         <id>https://www.w3webschool.com/blog/?p=27229</id>
@@ -182,17 +193,6 @@ The post Top 10 Web Development Courses in Indore [2025 Updated] appeared first 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Full Stack Developer Course Syllabus [2025 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=5416</id>
-        <link href="https://www.w3webschool.com/blog/full-stack-developer-course-syllabus/"/>
-        <updated>2025-08-18T07:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Book Free Full Stack Web Development Demo Class Table of Contents Full Stack Developer Course Syllabus [2025 Updated] Full-stack developers are in huge demand in this booming field of programming. The demand for full-stack developers has increased in the ever-changing period of advanced technology.  The web development market is projected to grow by a 6.3% ... Read more
-The post Full Stack Developer Course Syllabus [2025 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>W3webschool</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Best IT Courses After Graduation in 2025 with Job Placements]]></title>
         <id>https://weaversweb.academy/?p=5764</id>
         <link href="https://weaversweb.academy/10-best-it-courses-after-graduation-in-2025-with-job-placements/"/>
@@ -289,17 +289,6 @@ The post What is the Role of Responsive Design in Web Development? appeared firs
         <updated>2025-08-01T08:06:16.000Z</updated>
         <summary type="html"><![CDATA[Short-form videos. Love them or hate them, they’re everywhere. From 7-second TikTok trends to Instagram Reels that tell a whole story before you can blink, bite-sized video content is defining how we engage, sell, and scroll in 2025. For marketers, that means one thing: adapt or get left behind. Whether you’re a small business owner, […]
 The post Short-Form Video Trends Marketers Need to Know appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I Learn 3D Game Development Without Prior Programming Experience?]]></title>
-        <id>https://www.moople.in/blog/?p=15294</id>
-        <link href="https://www.moople.in/blog/learn-3d-game-development-without-coding-experience/"/>
-        <updated>2025-07-29T11:04:31.000Z</updated>
-        <summary type="html"><![CDATA[The thought of designing your own video game may be both exhilarating and scary. You might imagine a huge group of engineers sitting behind bright screens, typing complicated code as if it were second nature. But what if you don’t know anything about technology? What if the most you’ve ever done with programming is update […]
-The post Can I Learn 3D Game Development Without Prior Programming Experience? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
         </author>
