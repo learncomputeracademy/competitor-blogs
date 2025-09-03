@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-02T01:24:18.269Z</id>
+    <id>urn:2025-09-03T01:19:25.451Z</id>
     <title>Blogs</title>
-    <updated>2025-09-02T01:24:18.269Z</updated>
+    <updated>2025-09-03T01:19:25.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Web Development Courses in Jaipur [2025 Updated]]]></title>
+        <id>https://www.w3webschool.com/blog/?p=27507</id>
+        <link href="https://www.w3webschool.com/blog/web-development-courses-in-jaipur/"/>
+        <updated>2025-09-02T12:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Book Free Web Development Demo Class Table of Contents Top 10 Web Development Courses in Jaipur [2025 Updated] If you are searching for the Best Web Development Courses in Jaipur, then you are at the right place here. According to Ambitionbox, a Web Developer fresher in Jaipur can get up to ₹1 lac to ₹6.7 ... Read more
+The post Top 10 Web Development Courses in Jaipur [2025 Updated] appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Graphic Design Courses in Chandigarh [2025 Updated]]]></title>
+        <id>https://www.w3webschool.com/blog/?p=27497</id>
+        <link href="https://www.w3webschool.com/blog/graphic-design-courses-in-chandigarh/"/>
+        <updated>2025-09-02T10:51:54.000Z</updated>
+        <summary type="html"><![CDATA[Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Chandigarh [2025 Updated] Are you having trouble finding the best graphic design courses in Chandigarh? Choosing the best job-led training and 100% placement assistance can be overwhelming with so many options out there. Let’s make this easier for you here! ... Read more
+The post Top 10 Graphic Design Courses in Chandigarh [2025 Updated] appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 SEO Courses in Bhopal [2025 Updated]]]></title>
         <id>https://www.w3webschool.com/blog/?p=27452</id>
@@ -157,28 +179,6 @@ The post Skill Up for the Future with a Data Science Course in Kolkata first app
 The post Can One Digital Marketing Class Teach You Both SEO and AI Effectively? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 SEO Courses in Dehradun [2025 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=27079</id>
-        <link href="https://www.w3webschool.com/blog/seo-courses-in-dehradun/"/>
-        <updated>2025-08-23T12:12:32.000Z</updated>
-        <summary type="html"><![CDATA[Book Free SEO Course Demo Class Table of Contents Top 10 SEO Courses in Dehradun [2025 Updated] Unsure how to start your SEO journey in Dehradun? You may feel a little lost due to the availability of too many SEO courses in Dehradun. But picking a job-ready course with 100% placement assistance is key. Dehradun ... Read more
-The post Top 10 SEO Courses in Dehradun [2025 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Graphic Design Courses in Ranchi [2025 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=27059</id>
-        <link href="https://www.w3webschool.com/blog/graphic-design-courses-in-ranchi/"/>
-        <updated>2025-08-23T11:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Ranchi [2025 Updated] Graphic Design is currently one of the fastest-growing sectors among other popular fields. According to Ambitionbox, a Graphic Designer in Ranchi can earn up to ₹1.5 lacs to ₹5 Lacs annually, and it can increase with upskilling ... Read more
-The post Top 10 Graphic Design Courses in Ranchi [2025 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
     <entry>
@@ -343,17 +343,6 @@ The post Why Full Stack Web Development Is the Top Skill to Learn in 2025 appear
 The post Top 10 Advanced Digital Marketing Certificate Courses in Kolkata appeared first on 99EEDU.]]></summary>
         <author>
             <name>99superadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Role of Responsive Design in Web Development?]]></title>
-        <id>https://www.moople.in/blog/?p=15300</id>
-        <link href="https://www.moople.in/blog/what-is-the-role-of-responsive-design-in-web-development/"/>
-        <updated>2025-08-04T09:23:19.000Z</updated>
-        <summary type="html"><![CDATA[A site that is great on all devices touches the hearts of users. It greets each visitor, whether they’re on a phone, tablet, or laptop. It makes them feel understood. This connection counts, and that’s what responsive design provides. It is now the heart of contemporary web development. This article explores responsive design with elaboration […]
-The post What is the Role of Responsive Design in Web Development? appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
         </author>
     </entry>
 </feed>
