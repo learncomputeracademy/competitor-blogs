@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-04T01:19:02.254Z</id>
+    <id>urn:2025-09-05T01:21:00.512Z</id>
     <title>Blogs</title>
-    <updated>2025-09-04T01:19:02.254Z</updated>
+    <updated>2025-09-05T01:21:00.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Importance of HTML, CSS, and JavaScript in Web Development]]></title>
+        <id>https://awtim.com/blog/?p=347</id>
+        <link href="https://awtim.com/blog/the-importance-of-html-css-and-javascript-in-web-development/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-importance-of-html-css-and-javascript-in-web-development"/>
+        <updated>2025-09-04T18:37:07.000Z</updated>
+        <summary type="html"><![CDATA[This article is focused on ‘The Importance of HTML, CSS, and JavaScript in Web Development″. It's a detailed analysis by Academy of Web
+The post The Importance of HTML, CSS, and JavaScript in Web Development first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).]]></summary>
+        <author>
+            <name>AWTIM Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for Learning Web Design and Development Online 2025]]></title>
+        <id>https://awtim.com/blog/?p=343</id>
+        <link href="https://awtim.com/blog/tips-for-learning-web-design-and-development-online-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tips-for-learning-web-design-and-development-online-2025"/>
+        <updated>2025-09-04T11:09:14.000Z</updated>
+        <summary type="html"><![CDATA[This article is focused on ‘Tips for Learning Web Design and Development Online in 2025″. It's a detailed analysis by
+The post Tips for Learning Web Design and Development Online 2025 first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).]]></summary>
+        <author>
+            <name>AWTIM Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis]]></title>
+        <id>https://www.webskittersacademy.in/?p=17628</id>
+        <link href="https://www.webskittersacademy.in/why-indias-tech-industry-lacks-leaders/"/>
+        <updated>2025-09-04T08:38:44.000Z</updated>
+        <summary type="html"><![CDATA[India’s job crisis intensifies with only 42.6% of employable graduates, according to the latest skills gap analysis by Mercer-Mettl. This sparks concerns over the deepening skills gap in an AI-driven workforce. India’s destiny will be shaped by the younger generation that will join the workforce today. Why is that? That’s because in 2019, India entered… Continue reading Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis
+The post Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Digital Marketing Courses in Allahabad [2025 Updated]]]></title>
         <id>https://www.w3webschool.com/blog/?p=27600</id>
@@ -321,17 +354,6 @@ The post Are AR and VR the Future of Animation Training Programs? appeared first
 The post How Much Will a New Game Developer Earn in 2025? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Full Stack Web Development Is the Top Skill to Learn in 2025]]></title>
-        <id>https://99eedu.com/?p=3907</id>
-        <link href="https://99eedu.com/why-full-stack-web-development-is-the-top-skill-to-learn-in-2025/"/>
-        <updated>2025-08-06T12:52:43.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-evolving digital world, having the ability to develop both the front-end and back-end of websites and web applications has become one of the most valued skills. That is why Full Stack Web Development is considered the most in-demand skill in 2025. With the rise of startups, digital transformation in businesses, and the need […]
-The post Why Full Stack Web Development Is the Top Skill to Learn in 2025 appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>99superadmin</name>
         </author>
     </entry>
 </feed>
