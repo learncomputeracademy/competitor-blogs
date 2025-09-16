@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-15T01:26:03.649Z</id>
+    <id>urn:2025-09-16T01:19:45.889Z</id>
     <title>Blogs</title>
-    <updated>2025-09-15T01:26:03.649Z</updated>
+    <updated>2025-09-16T01:19:45.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Data Analytics Career Path: From Beginner to Professional]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=4846</id>
+        <link href="https://www.karmickinstitute.com/resources/data-analytics-career-path-from-beginner-to-professional/"/>
+        <updated>2025-09-15T06:41:41.000Z</updated>
+        <summary type="html"><![CDATA[Ever watched a movie/series on Netflix and wondered how this streaming service app recommends the perfect show for you? Or how Spotify curates playlists according to your taste? It’s the ‘data analytics’ working behind it. The power of turning raw data into powerful insights is a high-demand skill today. If you are seeking a career […]
+The post Data Analytics Career Path: From Beginner to Professional appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Software Testing Sparks Innovation in the Indian EV Sector]]></title>
         <id>https://www.webskittersacademy.in/?p=17641</id>
@@ -116,6 +127,17 @@ The post Top 10 Digital Marketing Courses in Madhyamgram appeared first on 99EED
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mobile Game Monetisation: What Works Beyond Ads and In-App Purchases?]]></title>
+        <id>https://www.moople.in/blog/?p=15368</id>
+        <link href="https://www.moople.in/blog/mobile-game-monetisation-beyond-ads-and-in-app-purchases/"/>
+        <updated>2025-09-08T12:49:52.000Z</updated>
+        <summary type="html"><![CDATA[For a long time now, the default monetisation for mobile games has been ads and in-app purchases. Many small-scale game developers still adhere to this method. But as the scale progresses, the methods also need to be updated. Players have been expressing their frustration with the aggressive ads and “pay-to-win” mechanics for some time now. […]
+The post Mobile Game Monetisation: What Works Beyond Ads and In-App Purchases? appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>hiteblog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 10 SEO Courses in Noida [2025 Updated]]]></title>
         <id>https://www.w3webschool.com/blog/?p=27697</id>
         <link href="https://www.w3webschool.com/blog/seo-courses-in-noida/"/>
@@ -171,6 +193,17 @@ The post Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Are the Latest Techniques Taught in Web Design Courses to Build Modern Websites?]]></title>
+        <id>https://www.moople.in/blog/?p=15363</id>
+        <link href="https://www.moople.in/blog/what-are-the-latest-techniques-taught-in-web-design-courses-to-build-modern-websites/"/>
+        <updated>2025-09-03T10:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Modern web design education has leapt forward. Instead of teaching pages as posters with links, strong courses now frame the web as a flexible, standards-driven platform that must be fast, inclusive, and easy to change.  Learners practise on real briefs, get critiqued like professionals, and build habits that stand up in production. The aim is […]
+The post What Are the Latest Techniques Taught in Web Design Courses to Build Modern Websites? appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>hiteblog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top Tools Used in Data Analytics: A Complete Beginner’s Guide]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=4718</id>
         <link href="https://www.karmickinstitute.com/resources/top-tools-used-in-data-analytics-a-complete-beginners-guide/"/>
@@ -201,17 +234,6 @@ The post How Students and Professionals Can Reignite India’s AI Momentum appea
 The post The Silent Impact of Latest Technology Trends in Education first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are the Latest Techniques Taught in Web Design Courses to Build Modern Websites?]]></title>
-        <id>https://www.moople.in/blog/?p=15359</id>
-        <link href="https://www.moople.in/blog/what-are-the-latest-techniques-taught-in-web-design-courses-to-build-modern-websites/"/>
-        <updated>2025-08-26T05:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Modern web design education has leapt forward. Instead of teaching pages as posters with links, strong courses now frame the web as a flexible, standards-driven platform that must be fast, inclusive, and easy to change.  Learners practise on real briefs, get critiqued like professionals, and build habits that stand up in production. The aim is […]
-The post What Are the Latest Techniques Taught in Web Design Courses to Build Modern Websites? appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
         </author>
     </entry>
     <entry>
