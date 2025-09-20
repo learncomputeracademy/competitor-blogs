@@ -53,6 +53,16 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=28620",
+          "author": "Poulami Dalal",
+          "description": "Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Surat [2025 Updated] Thinking about how to pick the best graphic design course in Surat? Choosing one with the right job-led training and 100% placement guarantee can be quite confusing. According to Ambitionbox, a Graphic Designer in Surat can earn ... Read more\nThe post Top 10 Graphic Design Courses in Surat [2025 Updated] appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/graphic-design-courses-in-surat/",
+          "publishedOn": "2025-09-19T12:12:30.000Z",
+          "wordCount": 5150,
+          "title": "Top 10 Graphic Design Courses in Surat [2025 Updated]",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/09/Graphic-design-Courses-in-Surat-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=28546",
           "author": "Poulami Dalal",
           "description": "Book Free Digital Marketing Demo Class Table of Contents Top 10 Canonical Tag Generator Tools [2025 Updated] Are you facing hard times with duplicate content issues? In the fast-emerging world of SEO, managing similar webpages is quite a difficult task. This can make search engines confused and end up harming your website’s search engine rankings. ... Read more\nThe post Top 10 Canonical Tag Generator Tools [2025 Updated] appeared first on W3webschool Blog.",
@@ -141,16 +151,6 @@
           "wordCount": 4970,
           "title": "Top 10 AI Answer Generator Tools [2025 Updated]",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/09/AI-Answer-Generator-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=27910",
-          "author": "Poulami Dalal",
-          "description": "Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Kerala [2025 Updated] Are you looking for the best graphic design courses in Kerala? Picking the finest job-led training and 100% placement support can be confusing with so many options out there. Let’s make this simple for you here! Kerala ... Read more\nThe post Top 10 Graphic Design Courses in Kerala [2025 Updated] appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/graphic-design-courses-in-kerala/",
-          "publishedOn": "2025-09-09T12:00:12.000Z",
-          "wordCount": 5080,
-          "title": "Top 10 Graphic Design Courses in Kerala [2025 Updated]",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/09/Graphic-design-Courses-in-Kerala-1100x619.png"
         }
       ]
     },
@@ -205,18 +205,7 @@
       "title": "User's blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
       "siteUrl": "https://www.blog.creativeitinstitute.com",
-      "articles": [
-        {
-          "id": "http://127.0.0.1/?p=1",
-          "author": "user",
-          "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
-          "link": "https://www.blog.creativeitinstitute.com/2025/08/21/hello-world/",
-          "publishedOn": "2025-08-21T12:19:40.000Z",
-          "wordCount": 1463,
-          "title": "Hello world!",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
@@ -229,7 +218,7 @@
           "description": "Ever watched a movie/series on Netflix and wondered how this streaming service app recommends the perfect show for you? Or how Spotify curates playlists according to your taste? It’s the ‘data analytics’ working behind it. The power of turning raw data into powerful insights is a high-demand skill today. If you are seeking a career […]\nThe post Data Analytics Career Path: From Beginner to Professional appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/data-analytics-career-path-from-beginner-to-professional/",
           "publishedOn": "2025-09-15T06:41:41.000Z",
-          "wordCount": 6447,
+          "wordCount": 6461,
           "title": "Data Analytics Career Path: From Beginner to Professional",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/09/Data-Analytics-Career-Path_-From-Beginner-to-Professional.webp"
         },
@@ -239,7 +228,7 @@
           "description": "Seeking a career in data analytics? You have made a superb choice. However, to build a successful data analytics career, you not only need to have an in-depth understanding but also learn the tools used in data analytics. Whether you are considering a career or curious about data analytics, we have curated a list of […]\nThe post Top Tools Used in Data Analytics: A Complete Beginner’s Guide appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/top-tools-used-in-data-analytics-a-complete-beginners-guide/",
           "publishedOn": "2025-09-01T06:06:12.000Z",
-          "wordCount": 6621,
+          "wordCount": 6635,
           "title": "Top Tools Used in Data Analytics: A Complete Beginner’s Guide",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/08/Top-Tools-Used-in-Data-Analytics-A-Complete-Beginners-Guide.webp"
         }
@@ -256,7 +245,7 @@
           "description": "In today’s competitive world, digital marketing has become one of the most in-demand skills. Businesses across industries are shifting their marketing focus from traditional media to online platforms, creating a huge demand for skilled professionals. For students and working individuals living in North Kolkata, particularly around Madhyamgram, this has opened up excellent learning opportunities. Many […]\nThe post Top 10 Digital Marketing Courses in Madhyamgram appeared first on 99EEDU.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-madhyamgram/",
           "publishedOn": "2025-09-08T13:03:29.000Z",
-          "wordCount": 3773,
+          "wordCount": 2987,
           "title": "Top 10 Digital Marketing Courses in Madhyamgram",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/09/Digital-Marketing-Courses-in-Madhyamgram-for-graduation-1024x576.webp"
         },
@@ -343,16 +332,6 @@
           "wordCount": 2150,
           "title": "How Students and Professionals Can Reignite India’s AI Momentum",
           "imageUrl": "http://weaversweb.academy/wp-content/uploads/2025/08/How-Students-and-Professionals-Can-Reignite-Indias-AI-Momentum.png"
-        },
-        {
-          "id": "https://weaversweb.academy/?p=5803",
-          "author": "Administrator",
-          "description": "Weavers Web Academy is a trusted digital marketing institute in Kolkata that teaches you the ins and outs of digital marketing and also prepares you for job interviews in-house and at other organizations.  Ours is a job-ready course, and that is what differentiates us from others. Read below to learn more. Everyone needs a job. […]\nThe post Job-Ready Digital Marketing Course in Kolkata – Start Your Career Today! appeared first on Weavers Web Academy.",
-          "link": "https://weaversweb.academy/job-ready-digital-marketing-course-in-kolkata-start-your-career-today/",
-          "publishedOn": "2025-08-21T13:00:46.000Z",
-          "wordCount": 2172,
-          "title": "Job-Ready Digital Marketing Course in Kolkata – Start Your Career Today!",
-          "imageUrl": "http://weaversweb.academy/wp-content/uploads/2025/08/Job-Ready-Digital-Marketing-Course-in-Kolkata-–-Start-Your-Career-Today-1-1.jpg"
         }
       ]
     },

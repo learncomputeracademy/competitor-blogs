@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-19T01:21:58.423Z</id>
+    <id>urn:2025-09-20T01:18:35.002Z</id>
     <title>Blogs</title>
-    <updated>2025-09-19T01:21:58.423Z</updated>
+    <updated>2025-09-20T01:18:35.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Graphic Design Courses in Surat [2025 Updated]]]></title>
+        <id>https://www.w3webschool.com/blog/?p=28620</id>
+        <link href="https://www.w3webschool.com/blog/graphic-design-courses-in-surat/"/>
+        <updated>2025-09-19T12:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Surat [2025 Updated] Thinking about how to pick the best graphic design course in Surat? Choosing one with the right job-led training and 100% placement guarantee can be quite confusing. According to Ambitionbox, a Graphic Designer in Surat can earn ... Read more
+The post Top 10 Graphic Design Courses in Surat [2025 Updated] appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Canonical Tag Generator Tools [2025 Updated]]]></title>
         <id>https://www.w3webschool.com/blog/?p=28546</id>
@@ -144,17 +155,6 @@ The post Top 3D Compositing and Animation Skills Every Young VFX Artist Needs to
         <updated>2025-09-10T12:12:59.000Z</updated>
         <summary type="html"><![CDATA[Book Free Digital Marketing Demo Class Table of Contents Top 10 AI Answer Generator Tools [2025 Updated] Are you finding the right tool that generates answers quickly and correctly? With numerous tools available in the market boasting impressive features, you may spend hours searching for a specific answer, yet still not find what you need. ... Read more
 The post Top 10 AI Answer Generator Tools [2025 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Graphic Design Courses in Kerala [2025 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=27910</id>
-        <link href="https://www.w3webschool.com/blog/graphic-design-courses-in-kerala/"/>
-        <updated>2025-09-09T12:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Kerala [2025 Updated] Are you looking for the best graphic design courses in Kerala? Picking the finest job-led training and 100% placement support can be confusing with so many options out there. Let’s make this simple for you here! Kerala ... Read more
-The post Top 10 Graphic Design Courses in Kerala [2025 Updated] appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
         </author>
@@ -311,27 +311,6 @@ The post Digital Marketing Course in Kolkata 2025: Syllabus, Fees, Duration, Job
 The post Why Digital Marketing Skills Are Essential for Success in 2025 appeared first on 99EEDU.]]></summary>
         <author>
             <name>99superadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job-Ready Digital Marketing Course in Kolkata – Start Your Career Today!]]></title>
-        <id>https://weaversweb.academy/?p=5803</id>
-        <link href="https://weaversweb.academy/job-ready-digital-marketing-course-in-kolkata-start-your-career-today/"/>
-        <updated>2025-08-21T13:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Weavers Web Academy is a trusted digital marketing institute in Kolkata that teaches you the ins and outs of digital marketing and also prepares you for job interviews in-house and at other organizations.  Ours is a job-ready course, and that is what differentiates us from others. Read below to learn more. Everyone needs a job. […]
-The post Job-Ready Digital Marketing Course in Kolkata – Start Your Career Today! appeared first on Weavers Web Academy.]]></summary>
-        <author>
-            <name>Administrator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello world!]]></title>
-        <id>http://127.0.0.1/?p=1</id>
-        <link href="https://www.blog.creativeitinstitute.com/2025/08/21/hello-world/"/>
-        <updated>2025-08-21T12:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></summary>
-        <author>
-            <name>user</name>
         </author>
     </entry>
 </feed>
