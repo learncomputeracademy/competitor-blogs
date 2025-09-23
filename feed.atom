@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-22T01:27:18.546Z</id>
+    <id>urn:2025-09-23T01:20:18.795Z</id>
     <title>Blogs</title>
-    <updated>2025-09-22T01:27:18.546Z</updated>
+    <updated>2025-09-23T01:20:18.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Marketing Jobs in India: Salary Trends in 2025]]></title>
+        <id>https://www.w3webschool.com/blog/?p=28844</id>
+        <link href="https://www.w3webschool.com/blog/digital-marketing-jobs/"/>
+        <updated>2025-09-22T12:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Book Free Digital Marketing Demo Class Table of Contents Digital Marketing Jobs in India: Salary Trends in 2025 Are you wondering why it is so difficult to get a secure and high-paying job even after degree completion? New-age careers are rapidly rising while traditional sectors are stepping back. You can witness how digital marketing jobs ... Read more
+The post Digital Marketing Jobs in India: Salary Trends in 2025 appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI and UX Trends That Promote Trust and Secure User Interactions]]></title>
+        <id>https://www.w3webschool.com/blog/?p=28826</id>
+        <link href="https://www.w3webschool.com/blog/ui-and-ux-trends/"/>
+        <updated>2025-09-22T05:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Book Free UI UX Design Demo Class Table of Contents UI and UX Trends That Promote Trust and Secure User Interactions In today’s digital world, where user interaction is nonstop and data holds immense value, trust and security are paramount. Poorly designed or confusing interfaces not only frustrate users but also erode confidence, as polished ... Read more
+The post UI and UX Trends That Promote Trust and Secure User Interactions appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>W3webschool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Education is Power: The Shakti that Transforms Lives]]></title>
         <id>https://www.webskittersacademy.in/?p=17701</id>
@@ -149,28 +171,6 @@ The post Top 10 Digital Marketing Courses in Kukatpally [2025 Updated] appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 SEO Courses in Pune [2025 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=28173</id>
-        <link href="https://www.w3webschool.com/blog/seo-courses-in-pune/"/>
-        <updated>2025-09-12T12:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Book Free SEO Course Demo Class Table of Contents Top 10 SEO Courses in Pune [2025 Updated] Want to master the most trending SEO practices in Pune, but don’t know where to start? Don’t worry. It is very usual to feel confused sometimes, as there are so many courses out in the ed-tech training market ... Read more
-The post Top 10 SEO Courses in Pune [2025 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Digital Marketing Trends to Watch in 2026]]></title>
-        <id>https://www.w3webschool.com/blog/?p=14957</id>
-        <link href="https://www.w3webschool.com/blog/digital-marketing-trends/"/>
-        <updated>2025-09-11T12:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Book Free Digital Marketing Demo Class Table of Contents Top 10 Digital Marketing Trends to Watch in 2026 Have you ever wondered how you can stay on top of this rapidly transforming digital industry? With rapid changes, backdated strategies won’t serve anymore! Most of the businesses are experiencing customer loss, and competitors are capturing them. ... Read more
-The post Top 10 Digital Marketing Trends to Watch in 2026 appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 3D Compositing and Animation Skills Every Young VFX Artist Needs to Learn]]></title>
         <id>https://www.moople.in/blog/?p=15372</id>
         <link href="https://www.moople.in/blog/top-3d-compositing-and-animation-skills-every-young-vfx-artist-needs-to-learn/"/>
@@ -300,17 +300,6 @@ The post The 10 Most Career-Oriented Institutes for Full Stack Education in Kolk
 The post Skill Up for the Future with a Data Science Course in Kolkata first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can One Digital Marketing Class Teach You Both SEO and AI Effectively?]]></title>
-        <id>https://www.moople.in/blog/?p=15348</id>
-        <link href="https://www.moople.in/blog/can-one-digital-marketing-class-teach-you-both-seo-and-ai-effectively/"/>
-        <updated>2025-08-24T06:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Digital marketing today is no longer limited to ads and emails. It’s about standing out in an ocean of data, connecting with customers, and building genuine human relationships. While SEO (Search Engine Optimisation) remains vital, AI (Artificial Intelligence) is reshaping the industry. The question is: can a single course teach both SEO and AI in […]
-The post Can One Digital Marketing Class Teach You Both SEO and AI Effectively? appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
         </author>
     </entry>
 </feed>
