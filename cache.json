@@ -41,19 +41,9 @@
           "description": "India’s job crisis intensifies with only 42.6% of employable graduates, according to the latest skills gap analysis by Mercer-Mettl. This sparks concerns over the deepening skills gap in an AI-driven workforce. India’s destiny will be shaped by the younger generation that will join the workforce today. Why is that? That’s because in 2019, India entered… Continue reading Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis\nThe post Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/why-indias-tech-industry-lacks-leaders/",
           "publishedOn": "2025-09-04T08:38:44.000Z",
-          "wordCount": 12365,
+          "wordCount": 12295,
           "title": "Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/09/Why-IndiaтАЩs-Tech-Industry-Lacks-Leaders-A-Skills-Gap-Analysis.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=17545",
-          "author": "Ayan Sarkar",
-          "description": "The Indian education system is one of the strongest in the world. Despite being a country with one of the largest populations, India provides exceptional educational facilities for its students. The government is effectively incorporating the latest technology trends in education. However, India also faces some major challenges when it comes to its education system.… Continue reading The Silent Impact of Latest Technology Trends in Education\nThe post The Silent Impact of Latest Technology Trends in Education first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/the-silent-impact-of-latest-technology-trends-in-education/",
-          "publishedOn": "2025-08-29T08:52:21.000Z",
-          "wordCount": 12163,
-          "title": "The Silent Impact of Latest Technology Trends in Education",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2025/08/The-Silent-Impact-of-Latest-Technology-Trends-in-Education.jpg"
         }
       ]
     },
@@ -62,6 +52,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=28987",
+          "author": "W3webschool",
+          "description": "Book Free Digital Marketing Demo Class Table of Contents ChatGPT vs Gemini: The Smartest GenAI Chatbot in 2025 Which GenAI chatbot is leading the AI race of 2025? Is it ChatGPT or Gemini? AI has become an essential part of our daily lives. If you want to write an article, solve a coding issue, or ... Read more\nThe post ChatGPT vs Gemini: The Smartest GenAI Chatbot in 2025 appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/chatgpt-vs-gemini/",
+          "publishedOn": "2025-09-27T12:02:28.000Z",
+          "wordCount": 3764,
+          "title": "ChatGPT vs Gemini: The Smartest GenAI Chatbot in 2025",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/09/Chatgpt-vs-Gemini-1100x619.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=28950",
           "author": "Poulami Dalal",
@@ -151,16 +151,6 @@
           "wordCount": 4427,
           "title": "Top 10 Digital Marketing Courses in Meerut [2025 Updated]",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/09/Digital-Marketing-Courses-in-Meerut-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=28236",
-          "author": "W3webschool",
-          "description": "Book Free Graphic Design Demo Class Table of Contents Top 10 Graphic Design Courses in Dehradun [2025 Updated] Are you facing challenges in finding the best graphic design courses in Dehradun? Choosing the right one with job-led training and 100% placement assistance can be overwhelming due to the numerous options available. Let’s make this simple ... Read more\nThe post Top 10 Graphic Design Courses in Dehradun [2025 Updated] appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/graphic-design-courses-in-dehradun/",
-          "publishedOn": "2025-09-17T11:20:27.000Z",
-          "wordCount": 4283,
-          "title": "Top 10 Graphic Design Courses in Dehradun [2025 Updated]",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/09/Graphic-Design-Courses-in-Dehradun-2-1100x619.png"
         }
       ]
     },
@@ -205,7 +195,58 @@
       "title": "User's blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
       "siteUrl": "https://www.blog.creativeitinstitute.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.blog.creativeitinstitute.com/?p=1832",
+          "author": "user",
+          "description": "Freelancing has become one of the favorite modes of work for people. And why not? Freelancing…\nThe post 5 Effective Ways to Start Freelancing for Beginners appeared first on User's blog.",
+          "link": "https://www.blog.creativeitinstitute.com/freelancing-for-beginners/",
+          "publishedOn": "2025-09-27T11:47:29.000Z",
+          "wordCount": 5669,
+          "title": "5 Effective Ways to Start Freelancing for Beginners",
+          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2025/09/Freelancing-for-Beginners.jpg"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/?p=1822",
+          "author": "user",
+          "description": "With the constant evolution of digital marketing, keeping a constant marketing strategy is a challenge. So…\nThe post 5 Effective Digital Marketing Channels You Must Know in 2025 appeared first on User's blog.",
+          "link": "https://www.blog.creativeitinstitute.com/effective-digital-marketing-channels/",
+          "publishedOn": "2025-09-27T11:03:23.000Z",
+          "wordCount": 6074,
+          "title": "5 Effective Digital Marketing Channels You Must Know in 2025",
+          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2025/09/Effective-Digital-Marketing-Channels.jpg"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/?p=1814",
+          "author": "user",
+          "description": "With rising unemployment, many focus on skill development. Web development leads for high pay and flexibility.…\nThe post Top 5 Web Development Training Institutes in Bangladesh appeared first on User's blog.",
+          "link": "https://www.blog.creativeitinstitute.com/top-5-web-development-training-institutes/",
+          "publishedOn": "2025-09-27T09:58:09.000Z",
+          "wordCount": 5863,
+          "title": "Top 5 Web Development Training Institutes in Bangladesh",
+          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2025/09/Top-5-Web-Development-Training-Institutes.jpg"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/?p=1807",
+          "author": "user",
+          "description": "Networking technology plays a very important role in connecting people, businesses, anddevices. As businesses and organizations…\nThe post The Top 5 Networking Technology Courses in Demand appeared first on User's blog.",
+          "link": "https://www.blog.creativeitinstitute.com/top-5-networking-technology-courses/",
+          "publishedOn": "2025-09-27T05:40:00.000Z",
+          "wordCount": 5644,
+          "title": "The Top 5 Networking Technology Courses in Demand",
+          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2025/09/top-5-networking-technology-courses.jpg"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/?p=1800",
+          "author": "user",
+          "description": "The future has become the present, and the technology industry is the present. However, trying to…\nThe post IT Institute for Beginners to Start Your Tech Career appeared first on User's blog.",
+          "link": "https://www.blog.creativeitinstitute.com/it-institute-for-beginners/",
+          "publishedOn": "2025-09-27T04:55:58.000Z",
+          "wordCount": 6459,
+          "title": "IT Institute for Beginners to Start Your Tech Career",
+          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2025/09/IT-institute-for-beginners.jpg"
+        }
+      ]
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
@@ -245,7 +286,7 @@
           "description": "In today’s competitive world, digital marketing has become one of the most in-demand skills. Businesses across industries are shifting their marketing focus from traditional media to online platforms, creating a huge demand for skilled professionals. For students and working individuals living in North Kolkata, particularly around Madhyamgram, this has opened up excellent learning opportunities. Many […]\nThe post Top 10 Digital Marketing Courses in Madhyamgram appeared first on 99EEDU.",
           "link": "https://99eedu.com/top-10-digital-marketing-courses-in-madhyamgram/",
           "publishedOn": "2025-09-08T13:03:29.000Z",
-          "wordCount": 3772,
+          "wordCount": 2987,
           "title": "Top 10 Digital Marketing Courses in Madhyamgram",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/09/Digital-Marketing-Courses-in-Madhyamgram-for-graduation-1024x576.webp"
         }
@@ -292,16 +333,6 @@
           "wordCount": 2181,
           "title": "Why Python is the First Language Every Student Should Learn",
           "imageUrl": "http://weaversweb.academy/wp-content/uploads/2025/09/Python.png"
-        },
-        {
-          "id": "https://weaversweb.academy/?p=5815",
-          "author": "Administrator",
-          "description": "When I started looking into the story of artificial intelligence and its growth in India, I thought I would come across a tale of unstoppable growth. Why, you wonder? Well, that’s because India has earned a reputation as one of the world’s leading IT powerhouses. The country is home to thousands of skilled graduates entering […]\nThe post How Students and Professionals Can Reignite India’s AI Momentum appeared first on Weavers Web Academy.",
-          "link": "https://weaversweb.academy/how-students-and-professionals-can-reignite-indias-ai-momentum/",
-          "publishedOn": "2025-08-29T11:43:48.000Z",
-          "wordCount": 2150,
-          "title": "How Students and Professionals Can Reignite India’s AI Momentum",
-          "imageUrl": "http://weaversweb.academy/wp-content/uploads/2025/08/How-Students-and-Professionals-Can-Reignite-Indias-AI-Momentum.png"
         }
       ]
     },
