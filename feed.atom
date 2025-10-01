@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-30T01:22:06.691Z</id>
+    <id>urn:2025-10-01T01:38:15.045Z</id>
     <title>Blogs</title>
-    <updated>2025-09-30T01:22:06.691Z</updated>
+    <updated>2025-10-01T01:38:15.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Learn Cloud Computing: A Beginner’s Guide]]></title>
+        <id>https://www.blog.creativeitinstitute.com/?p=1871</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-to-learn-cloud-computing/"/>
+        <updated>2025-09-30T11:51:51.000Z</updated>
+        <summary type="html"><![CDATA[In this digital era companies are trying to store maximum data with minimum cost. Previously managing…
+The post How To Learn Cloud Computing: A Beginner’s Guide appeared first on User's blog.]]></summary>
+        <author>
+            <name>user</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Start Web Development As a Beginner]]></title>
+        <id>https://www.blog.creativeitinstitute.com/?p=1863</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-to-start-web-development/"/>
+        <updated>2025-09-30T11:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Learning a new skill can be challenging, especially when you do not know how to begin…
+The post How To Start Web Development As a Beginner appeared first on User's blog.]]></summary>
+        <author>
+            <name>user</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 IT Institute In Bangladesh Offering Innovative Programs]]></title>
+        <id>https://www.blog.creativeitinstitute.com/?p=1858</id>
+        <link href="https://www.blog.creativeitinstitute.com/top-10-it-institute-in-bangladesh/"/>
+        <updated>2025-09-30T09:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Finding the right IT training institute can be challenging. Many students and professionals waste time and…
+The post Top 10 IT Institute In Bangladesh Offering Innovative Programs appeared first on User's blog.]]></summary>
+        <author>
+            <name>user</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Career in Motion Graphics Design: How in Demand]]></title>
+        <id>https://www.blog.creativeitinstitute.com/?p=1852</id>
+        <link href="https://www.blog.creativeitinstitute.com/career-in-motion-graphics-design/"/>
+        <updated>2025-09-30T05:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Motion graphics design stands out as one of the most dynamic and captivating fields in today’s…
+The post Career in Motion Graphics Design: How in Demand appeared first on User's blog.]]></summary>
+        <author>
+            <name>user</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginners Guide: How to Learn Motion Graphics Design]]></title>
+        <id>https://www.blog.creativeitinstitute.com/?p=1846</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-to-learn-motion-graphics-design/"/>
+        <updated>2025-09-30T04:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Ever catch yourself staring at those cool moving graphics, wondering, “How on earth do they do…
+The post Beginners Guide: How to Learn Motion Graphics Design appeared first on User's blog.]]></summary>
+        <author>
+            <name>user</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comprehensive Guide: Top 5 Blockchain Courses in Bangladesh]]></title>
+        <id>https://www.blog.creativeitinstitute.com/?p=1839</id>
+        <link href="https://www.blog.creativeitinstitute.com/top-5-blockchain-courses-in-bangladesh/"/>
+        <updated>2025-09-30T03:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Think of it like a high-tech diary that everyone can see, but no one can tamper…
+The post A Comprehensive Guide: Top 5 Blockchain Courses in Bangladesh appeared first on User's blog.]]></summary>
+        <author>
+            <name>user</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT vs Gemini: The Smartest GenAI Chatbot in 2025]]></title>
         <id>https://www.w3webschool.com/blog/?p=28987</id>
@@ -56,17 +122,6 @@ The post Top 5 Web Development Training Institutes in Bangladesh appeared first 
         <updated>2025-09-27T05:40:00.000Z</updated>
         <summary type="html"><![CDATA[Networking technology plays a very important role in connecting people, businesses, anddevices. As businesses and organizations…
 The post The Top 5 Networking Technology Courses in Demand appeared first on User's blog.]]></summary>
-        <author>
-            <name>user</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT Institute for Beginners to Start Your Tech Career]]></title>
-        <id>https://www.blog.creativeitinstitute.com/?p=1800</id>
-        <link href="https://www.blog.creativeitinstitute.com/it-institute-for-beginners/"/>
-        <updated>2025-09-27T04:55:58.000Z</updated>
-        <summary type="html"><![CDATA[The future has become the present, and the technology industry is the present. However, trying to…
-The post IT Institute for Beginners to Start Your Tech Career appeared first on User's blog.]]></summary>
         <author>
             <name>user</name>
         </author>
@@ -300,17 +355,6 @@ The post Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis first 
 The post What Are the Latest Techniques Taught in Web Design Courses to Build Modern Websites? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>hiteblog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tools Used in Data Analytics: A Complete Beginner’s Guide]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=4718</id>
-        <link href="https://www.karmickinstitute.com/resources/top-tools-used-in-data-analytics-a-complete-beginners-guide/"/>
-        <updated>2025-09-01T06:06:12.000Z</updated>
-        <summary type="html"><![CDATA[Seeking a career in data analytics? You have made a superb choice. However, to build a successful data analytics career, you not only need to have an in-depth understanding but also learn the tools used in data analytics. Whether you are considering a career or curious about data analytics, we have curated a list of […]
-The post Top Tools Used in Data Analytics: A Complete Beginner’s Guide appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
 </feed>
