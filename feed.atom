@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-02T01:19:46.462Z</id>
+    <id>urn:2025-10-03T01:19:35.022Z</id>
     <title>Blogs</title>
-    <updated>2025-10-02T01:19:46.462Z</updated>
+    <updated>2025-10-03T01:19:35.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -344,17 +344,6 @@ The post Tips for Learning Web Design and Development Online 2025 first appeared
 The post Why India’s Tech Industry Lacks Leaders: A Skills Gap Analysis first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are the Latest Techniques Taught in Web Design Courses to Build Modern Websites?]]></title>
-        <id>https://www.moople.in/blog/?p=15363</id>
-        <link href="https://www.moople.in/blog/what-are-the-latest-techniques-taught-in-web-design-courses-to-build-modern-websites/"/>
-        <updated>2025-09-03T10:48:56.000Z</updated>
-        <summary type="html"><![CDATA[Modern web design education has leapt forward. Instead of teaching pages as posters with links, strong courses now frame the web as a flexible, standards-driven platform that must be fast, inclusive, and easy to change.  Learners practise on real briefs, get critiqued like professionals, and build habits that stand up in production. The aim is […]
-The post What Are the Latest Techniques Taught in Web Design Courses to Build Modern Websites? appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>hiteblog</name>
         </author>
     </entry>
 </feed>
