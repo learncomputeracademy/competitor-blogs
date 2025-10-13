@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-12T01:25:03.173Z</id>
+    <id>urn:2025-10-13T01:26:31.137Z</id>
     <title>Blogs</title>
-    <updated>2025-10-12T01:25:03.173Z</updated>
+    <updated>2025-10-13T01:26:31.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -289,17 +289,6 @@ The post Why Python is the First Language Every Student Should Learn appeared fi
 The post Data Analytics Career Path: From Beginner to Professional appeared first on Karmick Institute.]]></summary>
         <author>
             <name>Tanmay Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Software Testing Sparks Innovation in the Indian EV Sector]]></title>
-        <id>https://www.webskittersacademy.in/?p=17641</id>
-        <link href="https://www.webskittersacademy.in/software-testing-driving-innovation-in-the-ev-sector/"/>
-        <updated>2025-09-13T12:22:17.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, the US administration imposed a 100% border tax on EVs from China. It also banned Russia to a certain extent. Their main concerns have been cyber espionage and dangers to American employment. But what does that have to do with software testing? As the Chinese espionage threat has pushed a lot of buyers… Continue reading How Software Testing Sparks Innovation in the Indian EV Sector
-The post How Software Testing Sparks Innovation in the Indian EV Sector first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>
