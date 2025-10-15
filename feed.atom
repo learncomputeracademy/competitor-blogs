@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-14T01:21:23.531Z</id>
+    <id>urn:2025-10-15T01:23:43.700Z</id>
     <title>Blogs</title>
-    <updated>2025-10-14T01:21:23.531Z</updated>
+    <updated>2025-10-15T01:23:43.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -278,17 +278,6 @@ The post Secrets Behind the Fastest Growing YouTube Channels in 2025 first appea
 The post Why Python is the First Language Every Student Should Learn appeared first on Weavers Web Academy.]]></summary>
         <author>
             <name>Administrator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Analytics Career Path: From Beginner to Professional]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=4846</id>
-        <link href="https://www.karmickinstitute.com/resources/data-analytics-career-path-from-beginner-to-professional/"/>
-        <updated>2025-09-15T06:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Ever watched a movie/series on Netflix and wondered how this streaming service app recommends the perfect show for you? Or how Spotify curates playlists according to your taste? It’s the ‘data analytics’ working behind it. The power of turning raw data into powerful insights is a high-demand skill today. If you are seeking a career […]
-The post Data Analytics Career Path: From Beginner to Professional appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
 </feed>
