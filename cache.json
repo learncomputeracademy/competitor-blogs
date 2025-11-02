@@ -23,6 +23,16 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=32038",
+          "author": "W3 WEB SCHOOL",
+          "description": "Join Our Full Stack Web Development Program Table of Contents Full Stack Web Development Course in Hyderabad [2026] Are you searching for the best Full Stack Web Development Course in Hyderabad? Do you want to boost your coding skills? Learning Full Stack web development can be a smart move, whether you are a beginner, working ... Read more\nThe post Full Stack Web Development Course in Hyderabad – Career in 2026 appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/full-stack-web-development-course-in-hyderabad/",
+          "publishedOn": "2025-11-01T11:07:10.000Z",
+          "wordCount": 2871,
+          "title": "Full Stack Web Development Course in Hyderabad – Career in 2026",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/Full-Stack-Web-Development-Course-in-Hyderabad-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=31981",
           "author": "W3 WEB SCHOOL",
           "description": "Join Our PPC Program Table of Contents Top 15+ Google Ads Interview Questions and Answers Planning to start a career in Google Ads or PPC? Learn the best practices and tactics that help you impress employers in next Google Ads Interview! This article will highlight the most common Google Ads interview questions for 2026, along ... Read more\nThe post Top 15+ Google Ads Interview Questions and Answers appeared first on W3webschool Blog.",
@@ -48,9 +58,9 @@
           "description": "Table of Contents A Complete Guide to WebMethods – Tutorial The webMethods tutorial offers a complete overview of the integration platform used to connect resources.  Whether you are a beginner or an advanced learner, this webMethods guide covers everything from webMethods architecture to real-time use cases. At the end of the article, you will gain ... Read more\nThe post A Complete Guide to WebMethods – Tutorial appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/guide-to-webmethods/",
           "publishedOn": "2025-10-29T10:06:05.000Z",
-          "wordCount": 2108,
+          "wordCount": null,
           "title": "A Complete Guide to WebMethods – Tutorial",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/10/webmetods.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.w3webschool.com/blog/?p=31830",
@@ -111,16 +121,6 @@
           "wordCount": 3316,
           "title": "Online vs Offline Digital Marketing Course: Which is Better?",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/10/Online-vs-Offline-Digital-Marketing-Course.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=5087",
-          "author": "W3 WEB SCHOOL",
-          "description": "Join Our Social Media Marketing Program Table of Contents 20+ Most Asked Facebook Ads Interview Questions for 2025 Starting your professional journey with Facebook Ads? With the latest information, get ready to succeed in your Facebook ads interview! This article will help you prepare for interviews with trending Facebook Ads interview questions and their answers ... Read more\nThe post 20+ Most Asked Facebook Ads Interview Questions for 2025 appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/facebook-ads-interview-questions/",
-          "publishedOn": "2025-10-23T06:45:03.000Z",
-          "wordCount": 3930,
-          "title": "20+ Most Asked Facebook Ads Interview Questions for 2025",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2024/01/Facebook-Ads-Inerview-Questions.png"
         }
       ]
     },
@@ -133,7 +133,7 @@
     {
       "title": "Creative IT Institute Blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "http://3.7.156.149/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": [
         {
           "id": "https://www.blog.creativeitinstitute.com/?p=2027",
@@ -163,7 +163,7 @@
           "publishedOn": "2025-10-07T08:47:02.000Z",
           "wordCount": 6680,
           "title": "Learn & Earn with IT Learning Diploma Programs",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/wp-content/uploads/2025/10/IT-learning-diploma-programs.jpg"
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2025/10/IT-learning-diploma-programs.jpg"
         },
         {
           "id": "https://www.blog.creativeitinstitute.com/?p=2010",
@@ -223,7 +223,7 @@
           "publishedOn": "2025-10-04T11:00:23.000Z",
           "wordCount": 6310,
           "title": "Image Manipulation Service: A Journey from Still Images to Stories",
-          "imageUrl": "http://3.7.156.149/wp-content/uploads/2025/10/Image-Manipulation-Service.jpg"
+          "imageUrl": "https://www.blog.creativeitinstitute.com/wp-content/uploads/2025/10/Image-Manipulation-Service.jpg"
         },
         {
           "id": "https://www.blog.creativeitinstitute.com/?p=1946",
@@ -233,7 +233,7 @@
           "publishedOn": "2025-10-04T09:01:47.000Z",
           "wordCount": 6198,
           "title": "Top 5 Web Development Training Institute in Bangladesh",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/wp-content/uploads/2025/10/web-development-training-institute-in-Bangladesh.jpg"
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2025/10/web-development-training-institute-in-Bangladesh.jpg"
         }
       ]
     },
@@ -275,7 +275,7 @@
           "description": "The year 2026 is changing how we create content forever. Artificial intelligence is no longer a futuristic idea — it’s the creative partner every content creator needs. Whether you’re a YouTuber, blogger, designer, or social media manager, AI tools can save hours, boost creativity, and help your content rank higher online. In this guide, we’ll […]\nThe post Top 10 AI Tools for Content Creators in 2026 appeared first on 99EEDU.",
           "link": "https://99eedu.com/top-10-ai-tools-for-content-creators-in-2026/",
           "publishedOn": "2025-10-29T12:11:09.000Z",
-          "wordCount": 3354,
+          "wordCount": 2561,
           "title": "Top 10 AI Tools for Content Creators in 2026",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/10/Top-10-AI-Tools-for-Content-Creators-in-2025-1024x538.webp"
         }
