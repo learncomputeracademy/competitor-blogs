@@ -23,6 +23,36 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=32398",
+          "author": "W3 WEB SCHOOL",
+          "description": "Join Our Full Stack Web Development Program Table of Contents 10 In-Demand Front End Developer Skills for Freshers in 2026 Want to build your career as a front end developer in 2026? But don’t know where to start? Today’s tech industry is full of growth opportunities. Mastering the right front end developer skills can open ... Read more\nThe post 10 In-Demand Front End Developer Skills for Freshers in 2026 appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/front-end-developer-skills/",
+          "publishedOn": "2025-11-13T10:50:23.000Z",
+          "wordCount": 3265,
+          "title": "10 In-Demand Front End Developer Skills for Freshers in 2026",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/Front-End-Developer-Skills-1100x616.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=32410",
+          "author": "W3 WEB SCHOOL",
+          "description": "Table of Contents How to Start a Career in Digital Marketing in 2026 – Updated Roadmap for Beginners Digital Marketing is one of the most in-demand skills in 2026. Whether you’re a student, fresher, job-seeker, or someone planning a career change, this field offers excellent growth, high salaries, and endless opportunities – without needing any ... Read more\nThe post How to Start a Career in Digital Marketing in 2026 – Updated Roadmap for Beginners appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/digital-marketing-career-2026/",
+          "publishedOn": "2025-11-13T07:54:32.000Z",
+          "wordCount": 1616,
+          "title": "How to Start a Career in Digital Marketing in 2026 – Updated Roadmap for Beginners",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/Digital-Marketing-in-2026.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=32385",
+          "author": "W3 WEB SCHOOL",
+          "description": "Table of Contents The Future of Leadership in the Age of AI and Business Analytics Imagine a boardroom, no more filled with opinions before deciding. Decisions will now be made from real-time dashboards that predict customer behavior, market analyses, and team performance. Sound like the future? It’s not the future, the future is now. Artificial ... Read more\nThe post The Future of Leadership in the Age of AI and Business Analytics appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/the-future-of-leadership/",
+          "publishedOn": "2025-11-13T06:19:02.000Z",
+          "wordCount": 2074,
+          "title": "The Future of Leadership in the Age of AI and Business Analytics",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/Future-of-leadership.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=32340",
           "author": "W3 WEB SCHOOL",
           "description": "Join Our Digital Marketing Program Table of Contents Top 10 Future-Proof Digital Skills to Learn in 2026 Are you ready to start your career in the digital field of tomorrow? With AI-integrated digital marketing, web design, development, and data analytics, the demand for digital skills is growing rapidly.  Do you want to build your career ... Read more\nThe post Top 10 Future-Proof Digital Skills to Learn in 2026 appeared first on W3webschool Blog.",
@@ -91,36 +121,6 @@
           "wordCount": 3104,
           "title": "Top 15+ Google Ads Interview Questions and Answers",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/10/Google-Ads-Interview-Questions-1100x616.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=31941",
-          "author": "W3 WEB SCHOOL",
-          "description": "Join Our Email Marketing Program Table of Contents Top 10 Must-Ask Email Marketing Interview Questions Want to begin your professional career in Email Marketing? Learn the best practices and AI tools to impress hiring managers in your upcoming Email Marketing Interview! This article is crafted to guide you to stay active and updated with the ... Read more\nThe post Top 9 Must-Ask Email Marketing Interview Questions appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/email-marketing-interview-questions/",
-          "publishedOn": "2025-10-29T12:34:25.000Z",
-          "wordCount": 2483,
-          "title": "Top 9 Must-Ask Email Marketing Interview Questions",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/10/Email-Marketing-Interview-Questions-1100x616.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=31907",
-          "author": "W3 WEB SCHOOL",
-          "description": "Table of Contents A Complete Guide to WebMethods – Tutorial The webMethods tutorial offers a complete overview of the integration platform used to connect resources.  Whether you are a beginner or an advanced learner, this webMethods guide covers everything from webMethods architecture to real-time use cases. At the end of the article, you will gain ... Read more\nThe post A Complete Guide to WebMethods – Tutorial appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/guide-to-webmethods/",
-          "publishedOn": "2025-10-29T10:06:05.000Z",
-          "wordCount": 2108,
-          "title": "A Complete Guide to WebMethods – Tutorial",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/10/webmetods.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=31830",
-          "author": "W3 WEB SCHOOL",
-          "description": "Join Our Advanced SEO Program Table of Contents 9 Proven Local SEO Strategies That Actually Work in 2026 Local SEO strategies are the secret keys to link businesses with local customers and drive higher traffic and growth. Have you ever searched for ‘SEO course near me’ or ‘digital marketing course near me’? That is precisely ... Read more\nThe post 9 Proven Local SEO Strategies That Actually Work in 2026 appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/local-seo-strategies/",
-          "publishedOn": "2025-10-28T18:00:08.000Z",
-          "wordCount": 2545,
-          "title": "9 Proven Local SEO Strategies That Actually Work in 2026",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/10/Local-SEO-Strategies-1100x616.png"
         }
       ]
     },
@@ -133,7 +133,7 @@
     {
       "title": "Creative IT Institute Blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "http://3.7.156.149/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": []
     },
     {
@@ -174,7 +174,7 @@
           "description": "Artificial Intelligence (AI) is significantly shaping the online promotion of businesses in the rapidly changing digital world. AI is the future of marketing, as chatbots and voice searches will be part of marketing, along with automated campaigns, predictive analytics, and more. It is the reason why enrolling on an AI Digital Marketing Course in Kolkata […]\nThe post How to Choose the Right AI Digital Marketing Course in Kolkata appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-to-choose-the-right-ai-digital-marketing-course-in-kolkata/",
           "publishedOn": "2025-11-07T10:54:55.000Z",
-          "wordCount": 3890,
+          "wordCount": 3071,
           "title": "How to Choose the Right AI Digital Marketing Course in Kolkata",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/11/AI-Digital-Marketing-Course-in-Kolkata-1024x320.webp"
         },
