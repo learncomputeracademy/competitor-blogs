@@ -33,12 +33,32 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=32385",
+          "author": "W3 WEB SCHOOL",
+          "description": "Table of Contents The Future of Leadership in the Age of AI and Business Analytics Imagine a boardroom, no more filled with opinions before deciding. Decisions will now be made from real-time dashboards that predict customer behavior, market analyses, and team performance. Sound like the future? It’s not the future, the future is now. Artificial ... Read more\nThe post The Future of Leadership in the Age of AI and Business Analytics appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/the-future-of-leadership/",
+          "publishedOn": "2025-11-21T12:35:02.000Z",
+          "wordCount": 2074,
+          "title": "The Future of Leadership in the Age of AI and Business Analytics",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/Future-of-leadership.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=32664",
+          "author": "W3 WEB SCHOOL",
+          "description": "Book Free Demo Class Table of Contents Top 10 Courses After BA – Unlock High-Salary Jobs in 2026 “What should I do after my BA?” This is the most common question students ask once they complete their graduation. Choosing the right career path after graduation is very important.  Joining W3 Web School’s Job Guarantee Courses ... Read more\nThe post Top 10 Courses After BA – Unlock High-Salary Jobs in 2026 appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/courses-after-ba/",
+          "publishedOn": "2025-11-21T12:10:33.000Z",
+          "wordCount": 3579,
+          "title": "Top 10 Courses After BA – Unlock High-Salary Jobs in 2026",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/Courses-After-BA.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=32613",
           "author": "W3 WEB SCHOOL",
-          "description": "Book Free Demo Class Table of Contents 10 Job-Ready Short-term Courses After 12th [2026] Are you getting confused about which short-term course to join after 12th? Multiple classes are available, and they are not the same! Short-term courses help learners develop trending skills and industry-led knowledge within just a few months.  Don’t know what to ... Read more\nThe post 10 Job-Ready Short-term Courses After 12th [2026] appeared first on W3webschool Blog.",
+          "description": "Book Free Demo Class Table of Contents 10 Job-Ready Short-term Courses After 12th [2026] Are you getting confused about which short-term course to join after 12th? Multiple classes are available, and they are not the same! Short-term courses help learners develop trending skills and industry-led knowledge within just a few months. Don’t know what to ... Read more\nThe post 10 Job-Ready Short-term Courses After 12th [2026] appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/short-term-courses-after-12th/",
           "publishedOn": "2025-11-20T12:31:09.000Z",
-          "wordCount": 3393,
+          "wordCount": 3396,
           "title": "10 Job-Ready Short-term Courses After 12th [2026]",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/Short-term-Courses-After-12th.png"
         },
@@ -111,26 +131,6 @@
           "wordCount": 2670,
           "title": "Get Complete SEO Course Syllabus of 2025",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2023/12/SEO-Course-Syllabus-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=32448",
-          "author": "W3 WEB SCHOOL",
-          "description": "Join Our SEO Program Table of Contents How to Start a Blog and Earn Money in 2026 Do you want to start a blog to earn money fast? Money blogging is one of the most rewarding and innovative ways to build and promote your brand online, share your ideas and make money.  With AI tools, ... Read more\nThe post How to Start a Blog and Earn Money in 2026 appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/how-to-start-a-blog-and-earn-money/",
-          "publishedOn": "2025-11-14T10:44:45.000Z",
-          "wordCount": 3263,
-          "title": "How to Start a Blog and Earn Money in 2026",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/How-to-Start-a-Blog-and-Earn-Money-1100x616.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=32398",
-          "author": "W3 WEB SCHOOL",
-          "description": "Join Our Full Stack Web Development Program Table of Contents 10 In-Demand Front End Developer Skills for Freshers in 2026 Want to build your career as a front end developer in 2026? But don’t know where to start? Today’s tech industry is full of growth opportunities. Mastering the right front end developer skills can open ... Read more\nThe post 10 In-Demand Front End Developer Skills for Freshers in 2026 appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/front-end-developer-skills/",
-          "publishedOn": "2025-11-13T10:50:23.000Z",
-          "wordCount": 3265,
-          "title": "10 In-Demand Front End Developer Skills for Freshers in 2026",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/11/Front-End-Developer-Skills-1100x616.png"
         }
       ]
     },
@@ -143,7 +143,7 @@
     {
       "title": "Creative IT Institute Blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "http://3.7.156.149/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": []
     },
     {
@@ -189,12 +189,22 @@
       "siteUrl": "https://99eedu.com/",
       "articles": [
         {
+          "id": "https://99eedu.com/?p=4452",
+          "author": "99superadmin",
+          "description": "In today’s tech-driven era, starting a business isn’t enough – success often hinges on how well you show up online. In this case, Top Skills You Must Learn in a Web Development Course in Kolkata  ” is helpful. You want a website that encourages users to take action in addition to having a nice appearance. Eye-catching graphics […]\nThe post Top Skills You Must Learn in a Web Development Course in Kolkata appeared first on 99EEDU.",
+          "link": "https://99eedu.com/top-skills-you-must-learn-in-a-web-development-course-in-kolkata/",
+          "publishedOn": "2025-11-21T13:57:36.000Z",
+          "wordCount": 5995,
+          "title": "Top Skills You Must Learn in a Web Development Course in Kolkata",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/11/Web-Development-course-in-kolkata-1024x576.webp"
+        },
+        {
           "id": "https://99eedu.com/?p=4420",
           "author": "99superadmin",
           "description": "These days, taking an Advanced Graphic Design Course, Build a Creative Portfolio, and starting freelancing is one of the best choices if you’re interested in being a creative person in the digital age. Posters and print advertisements are no longer the exclusive uses for graphic design. The foundation of branding, social media marketing, UX/UI design, […]\nThe post Advanced Graphic Design Course: Build a Creative Portfolio appeared first on 99EEDU.",
           "link": "https://99eedu.com/advanced-graphic-design-course-build-a-creative-portfolio/",
           "publishedOn": "2025-11-20T13:16:35.000Z",
-          "wordCount": 5227,
+          "wordCount": 4441,
           "title": "Advanced Graphic Design Course: Build a Creative Portfolio",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/11/Advance-digital-marketing-1024x576.webp"
         },
@@ -214,7 +224,7 @@
           "description": "The year 2026 is changing how we create content forever. Artificial intelligence is no longer a futuristic idea — it’s the creative partner every content creator needs. Whether you’re a YouTuber, blogger, designer, or social media manager, AI tools can save hours, boost creativity, and help your content rank higher online. In this guide, we’ll […]\nThe post Top 10 AI Tools for Content Creators in 2026 appeared first on 99EEDU.",
           "link": "https://99eedu.com/top-10-ai-tools-for-content-creators-in-2026/",
           "publishedOn": "2025-10-29T12:11:09.000Z",
-          "wordCount": 3360,
+          "wordCount": 2572,
           "title": "Top 10 AI Tools for Content Creators in 2026",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/10/Top-10-AI-Tools-for-Content-Creators-in-2025-1024x538.webp"
         }
@@ -224,7 +234,18 @@
       "title": "Blogs | Academy of Web Technologies & Information Management (AWTIM)",
       "feedUrl": "https://awtim.com/blog/feed/",
       "siteUrl": "https://awtim.com/blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://awtim.com/blog/?p=350",
+          "author": "AWTIM Admin",
+          "description": "“The Importance of Keeping Your Web Development Skills Up-to-Date in 2025” – a detailed analysis by Academy of Web Technologies &\nThe post The Importance of Keeping Your Web Development Skills Up-to-Date in 2025 first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).",
+          "link": "https://awtim.com/blog/the-importance-of-keeping-your-web-development-skills-up-to-date-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=the-importance-of-keeping-your-web-development-skills-up-to-date-in-2025",
+          "publishedOn": "2025-11-21T12:47:16.000Z",
+          "wordCount": 5144,
+          "title": "The Importance of Keeping Your Web Development Skills Up-to-Date in 2025",
+          "imageUrl": "https://awtim.com/blog/wp-content/uploads/2024/07/awtim-bloglogo-24.png"
+        }
+      ]
     },
     {
       "title": "Weavers Web Academy",
