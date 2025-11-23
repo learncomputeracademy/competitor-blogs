@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-22T01:24:10.955Z</id>
+    <id>urn:2025-11-23T01:47:20.051Z</id>
     <title>Blogs</title>
-    <updated>2025-11-22T01:24:10.955Z</updated>
+    <updated>2025-11-23T01:47:20.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Get Updated UI UX Design Course Syllabus for 2026]]></title>
+        <id>https://www.w3webschool.com/blog/?p=32692</id>
+        <link href="https://www.w3webschool.com/blog/ui-ux-design-course-syllabus/"/>
+        <updated>2025-11-22T09:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Join Our UI UX Program Table of Contents Get Updated UI UX Design Course Syllabus for 2025 Are you curious about what an updated UI UX Design Course Syllabus looks like? Thinking about whether this is right for you or matches your queries! Don’t worry. UI UX design skills are vital for anyone who wants ... Read more
+The post Get Updated UI UX Design Course Syllabus for 2026 appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>W3 WEB SCHOOL</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Skills You Must Learn in a Web Development Course in Kolkata]]></title>
         <id>https://99eedu.com/?p=4452</id>
@@ -160,17 +171,6 @@ The post Best Career Opportunities For Housewives in India 2025 appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Complete SEO Course Syllabus of 2025]]></title>
-        <id>https://www.w3webschool.com/blog/?p=4785</id>
-        <link href="https://www.w3webschool.com/blog/seo-course-syllabus/"/>
-        <updated>2025-11-17T20:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Join Our SEO Program Table of Contents Get Complete SEO Course Syllabus of 2025 Anyone looking to get success digitally must learn search engine optimization (SEO), in the world of digital marketing. The term SEO stands for Search Engine Optimization. This is the set of practices to enhance the visibility of any webpage on SERPs ... Read more
-The post Get Complete SEO Course Syllabus of 2025 appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>W3 WEB SCHOOL</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Data Science Skills to Master in 2026]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5092</id>
         <link href="https://www.karmickinstitute.com/resources/10-data-science-skills-to-master-in-2026/"/>
@@ -223,17 +223,6 @@ The post The Beginner’s Guide To Learn Social Media Marketing! appeared first 
 The post Top 10 AI Tools for Content Creators in 2026 appeared first on 99EEDU.]]></summary>
         <author>
             <name>99superadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is SEO A Good Career​ For College Graduates?]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5040</id>
-        <link href="https://www.karmickinstitute.com/resources/is-seo-a-good-career-for-college-graduates/"/>
-        <updated>2025-10-24T10:28:50.000Z</updated>
-        <summary type="html"><![CDATA[Juggling with the question ‘Is SEO a good career​? Undoubtedly, SEO (search engine optimisation) can be a great career choice. A thriving career awaits you in this industry, particularly if you enjoy exploring how the internet functions. Still have doubts? This blog post dives deeper, covering the what, why, and how of a lucrative SEO […]
-The post Is SEO A Good Career​ For College Graduates? appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
 </feed>
