@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-28T01:25:31.629Z</id>
+    <id>urn:2025-11-29T01:26:08.975Z</id>
     <title>Blogs</title>
-    <updated>2025-11-28T01:25:31.629Z</updated>
+    <updated>2025-11-29T01:26:08.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Differences between Web Design and Web Development]]></title>
+        <id>https://awtim.com/blog/?p=354</id>
+        <link href="https://awtim.com/blog/understanding-the-differences-between-web-design-and-web-development/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=understanding-the-differences-between-web-design-and-web-development"/>
+        <updated>2025-11-28T12:02:36.000Z</updated>
+        <summary type="html"><![CDATA[“Understanding the Differences between Web Design and Web Development” – a detailed analysis by Academy of Web Technologies & Information Management
+The post Understanding the Differences between Web Design and Web Development first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).]]></summary>
+        <author>
+            <name>AWTIM Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an App Development Course Can Transform Your Career Path]]></title>
+        <id>https://www.webskittersacademy.in/?p=18003</id>
+        <link href="https://www.webskittersacademy.in/app-development-course-can-transform-your-career-path/"/>
+        <updated>2025-11-28T12:02:01.000Z</updated>
+        <summary type="html"><![CDATA[The WEF (World Economic Forum) report suggests that there are more mobile subscriptions than people in the world. In 2021, there were about 8.6 billion subscriptions, as compared to 7.9 billion people on Earth. So, app development is at an all-time high. And, the only way to get skilled in this field is through an… Continue reading How an App Development Course Can Transform Your Career Path
+The post How an App Development Course Can Transform Your Career Path first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Promising Graphic Design Courses After 10th [2026]]]></title>
+        <id>https://www.w3webschool.com/blog/?p=33005</id>
+        <link href="https://www.w3webschool.com/blog/graphic-design-courses-after-10th/"/>
+        <updated>2025-11-28T11:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Book Free Demo Class Table of Contents 8 Future-Proof Graphic Design Courses After 10th [2026] Are you looking for the Graphic Design Courses After 10th, but feeling confused about which one to join? You are not the only one. Most of the learners are confused about which skill-development course to join after completing the 10th ... Read more
+The post 8 Promising Graphic Design Courses After 10th [2026] appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>W3 WEB SCHOOL</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT Courses after 12th to Launch Your Tech Career in 2026]]></title>
         <id>https://www.w3webschool.com/blog/?p=32963</id>
@@ -182,17 +215,6 @@ The post Master Python and Step into the World of Machine Learning Excellence ap
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Digital Marketing Courses in Siliguri [2025 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=23775</id>
-        <link href="https://www.w3webschool.com/blog/digital-marketing-courses-in-siliguri/"/>
-        <updated>2025-11-19T12:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Book Free Demo Class Table of Contents Top 10 Digital Marketing Courses in Siliguri [2025 Updated] Are you looking for the job-guaranteed digital marketing courses in Siliguri? Stop searching! I have got you all covered here. Digital marketing is the fastest growing industry. You can choose this field to flourish in your professional career. It has ... Read more
-The post Top 10 Digital Marketing Courses in Siliguri [2025 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Data Science Skills to Master in 2026]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5092</id>
         <link href="https://www.karmickinstitute.com/resources/10-data-science-skills-to-master-in-2026/"/>
@@ -234,17 +256,6 @@ The post How Upskilling Can Help You Bounce Back After a Career Gap first appear
 The post How to Choose the Right AI Digital Marketing Course in Kolkata appeared first on 99EEDU.]]></summary>
         <author>
             <name>99superadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beginner’s Guide To Learn Social Media Marketing!]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5065</id>
-        <link href="https://www.karmickinstitute.com/resources/beginners-guide-to-learn-social-media-marketing/"/>
-        <updated>2025-10-30T12:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to turn your passion into a highly paid career skill? Social media isn’t just a platform to share photos; it is driving modern businesses’ success. Whether you are an ambitious student, an upskilling professional, or a curious career changer, this is your guide to learn social media marketing, making you an indispensable […]
-The post The Beginner’s Guide To Learn Social Media Marketing! appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
 </feed>
