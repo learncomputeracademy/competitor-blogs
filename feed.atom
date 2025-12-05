@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T01:38:56.541Z</id>
+    <id>urn:2025-12-05T01:39:11.675Z</id>
     <title>Blogs</title>
-    <updated>2025-12-04T01:38:56.541Z</updated>
+    <updated>2025-12-05T01:39:11.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web Development Course vs Digital Marketing — Which is better after HS?]]></title>
+        <id>https://99eedu.com/?p=4553</id>
+        <link href="https://99eedu.com/web-development-course-vs-digital-marketing-which-is-better-after-hs/"/>
+        <updated>2025-12-04T13:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right career after high school can feel confusing—especially when there are so many trending fields and course options like a Web Development course, UI/UX design, digital marketing, AI, and more. Many students are unsure which direction will provide better job opportunities, faster growth, and a stable future. Today, two of the fastest-growing digital […]
+The post Web Development Course vs Digital Marketing — Which is better after HS? appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>99superadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardware Networking Course: Your Pathway to Secure IT Careers]]></title>
+        <id>https://www.webskittersacademy.in/?p=18046</id>
+        <link href="https://www.webskittersacademy.in/hardware-networking-course/"/>
+        <updated>2025-12-04T11:51:47.000Z</updated>
+        <summary type="html"><![CDATA[According to Statista, the global hardware networking market is expected to grow at 4.5% between 2023 and 2031. Even Ambition Box estimates that the average hardware networking salary can reach up to INR 12 LPA. How to master this trade? A Hardware Networking Course in Kolkata can be your gateway.  However, numerous job-oriented IT institutes… Continue reading Hardware Networking Course: Your Pathway to Secure IT Careers 
+The post Hardware Networking Course: Your Pathway to Secure IT Careers  first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arpita Sarkar Bags Femina Achievers Award 2025 for Webskitters Academy]]></title>
+        <id>https://www.webskittersacademy.in/?p=18044</id>
+        <link href="https://www.webskittersacademy.in/femina-achievers-award-2025/"/>
+        <updated>2025-12-04T11:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Webskitters Academy proudly celebrates a significant milestone that reflects the spirit of innovation, dedication, and collective success.   Our Director, Mrs Arpita Sarkar, who is also the Co-Founder of Webskitters Technology Solutions, has been honoured with the highly prestigious Femina Achievers Award 2025 under the category “Transformational Skill Leadership and Business Development.”   This recognition stands as… Continue reading Arpita Sarkar Bags Femina Achievers Award 2025 for Webskitters Academy
+The post Arpita Sarkar Bags Femina Achievers Award 2025 for Webskitters Academy first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Webskitters Academy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comprehensive Python Django Course to Boost Your Career Prospects]]></title>
         <id>https://weaversweb.academy/?p=6121</id>
