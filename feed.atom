@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-15T01:44:55.247Z</id>
+    <id>urn:2025-12-16T01:41:59.896Z</id>
     <title>Blogs</title>
-    <updated>2025-12-15T01:44:55.247Z</updated>
+    <updated>2025-12-16T01:41:59.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Job Cuts in the IT Sector: How to Survive and Thrive in this Layoff Wave?]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5219</id>
+        <link href="https://www.karmickinstitute.com/resources/job-cuts-in-the-it-sector-how-to-survive-and-thrive-in-this-layoff-wave/"/>
+        <updated>2025-12-15T13:36:30.000Z</updated>
+        <summary type="html"><![CDATA[The IT sector is anticipated to face significant job losses, potentially reaching 50,000 employees by year-end, according to projections from the Times of India. These job cuts in the IT sector are not simply due to a temporary economic decline, but are evidence of a deep, lasting structural transformation within the technology industry. The old […]
+The post Job Cuts in the IT Sector: How to Survive and Thrive in this Layoff Wave? appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Web Development Courses in Indore [2025 Updated]]]></title>
         <id>https://www.w3webschool.com/blog/?p=26866</id>

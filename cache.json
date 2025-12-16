@@ -183,7 +183,7 @@
     {
       "title": "Creative IT Institute Blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://www.blog.creativeitinstitute.com/",
+      "siteUrl": "https://3.7.156.149/",
       "articles": []
     },
     {
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=5219",
+          "author": "Tanmay Das",
+          "description": "The IT sector is anticipated to face significant job losses, potentially reaching 50,000 employees by year-end, according to projections from the Times of India. These job cuts in the IT sector are not simply due to a temporary economic decline, but are evidence of a deep, lasting structural transformation within the technology industry. The old […]\nThe post Job Cuts in the IT Sector: How to Survive and Thrive in this Layoff Wave? appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/job-cuts-in-the-it-sector-how-to-survive-and-thrive-in-this-layoff-wave/",
+          "publishedOn": "2025-12-15T13:36:30.000Z",
+          "wordCount": 7129,
+          "title": "Job Cuts in the IT Sector: How to Survive and Thrive in this Layoff Wave?",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2025/12/Job-Cuts-in-the-IT-Sector-How-to-Survive-and-Thrive-in-this-Layoff-Wave.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=5162",
           "author": "Tanmay Das",
@@ -234,7 +244,7 @@
           "description": "Choosing the right career after high school can feel confusing—especially when there are so many trending fields and course options like a Web Development course, UI/UX design, digital marketing, AI, and more. Many students are unsure which direction will provide better job opportunities, faster growth, and a stable future. Today, two of the fastest-growing digital […]\nThe post Web Development Course vs Digital Marketing — Which is better after HS? appeared first on 99EEDU.",
           "link": "https://99eedu.com/web-development-course-vs-digital-marketing-which-is-better-after-hs/",
           "publishedOn": "2025-12-04T13:53:59.000Z",
-          "wordCount": 6151,
+          "wordCount": 5343,
           "title": "Web Development Course vs Digital Marketing — Which is better after HS?",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/web-development-course-1024x576.webp"
         },
@@ -244,7 +254,7 @@
           "description": "Digital Marketing represents one of the most valuable skills in this decade- perfect prospective professionals whose careers should be future-oriented, post-10th or 12th. In order to develop useful skills and begin a career in online marketing, more people are searching for Advanced Digital Marketing Training for beginners in Kolkata as the city grows as a […]\nThe post Best Advanced Digital Marketing Training in Kolkata for Beginners appeared first on 99EEDU.",
           "link": "https://99eedu.com/best-advanced-digital-marketing-training-in-kolkata-for-beginers/",
           "publishedOn": "2025-11-26T14:02:19.000Z",
-          "wordCount": 6290,
+          "wordCount": 5458,
           "title": "Best Advanced Digital Marketing Training in Kolkata for Beginners",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-26-at-6.05.09-PM-1024x576.webp"
         },
