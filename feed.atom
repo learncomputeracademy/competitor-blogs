@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-16T01:41:59.896Z</id>
+    <id>urn:2025-12-17T01:28:24.550Z</id>
     <title>Blogs</title>
-    <updated>2025-12-16T01:41:59.896Z</updated>
+    <updated>2025-12-17T01:28:24.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 AI in Digital Marketing Courses in Kolkata (2026 Guide)]]></title>
+        <id>https://99eedu.com/?p=4582</id>
+        <link href="https://99eedu.com/top-10-ai-in-digital-marketing-courses-in-kolkata-2026-guide/"/>
+        <updated>2025-12-16T10:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Professionals and students who wish to stay ahead in the AI-powered marketing industry are increasingly utilising AI in digital marketing courses in Kolkata. More students are looking for advanced AI-driven digital marketing programs, AI-based marketing training, and smart automation courses in the city as AI tools transform everything from content creation to ad optimisation. To […]
+The post Top 10 AI in Digital Marketing Courses in Kolkata (2026 Guide) appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>99superadmin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Job Cuts in the IT Sector: How to Survive and Thrive in this Layoff Wave?]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5219</id>
@@ -344,17 +355,6 @@ The post Master Python and Step into the World of Machine Learning Excellence ap
 The post 10 Data Science Skills to Master in 2026 appeared first on Karmick Institute.]]></summary>
         <author>
             <name>Tanmay Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI and Data Science Are Powering the Job Market in 2026]]></title>
-        <id>https://www.webskittersacademy.in/?p=17931</id>
-        <link href="https://www.webskittersacademy.in/how-ai-and-data-science-are-powering-the-job-market-in-2026/"/>
-        <updated>2025-11-17T11:09:56.000Z</updated>
-        <summary type="html"><![CDATA[In their Future of Jobs Report 2025, the World Economic Forum ranks AI and big data at the top of the list of sought-after skills. This means that employers across industries are currently and for the foreseeable future actively seeking candidates with practical skills in Data Science and Artificial Intelligence. Are you considering a job… Continue reading How AI and Data Science Are Powering the Job Market in 2026
-The post How AI and Data Science Are Powering the Job Market in 2026 first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>
