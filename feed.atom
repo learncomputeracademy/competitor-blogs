@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-01T01:52:48.426Z</id>
+    <id>urn:2026-01-02T01:44:23.621Z</id>
     <title>Blogs</title>
-    <updated>2026-01-01T01:52:48.426Z</updated>
+    <updated>2026-01-02T01:44:23.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -256,17 +256,6 @@ The post Web Development Course vs Digital Marketing — Which is better after H
 The post Hardware Networking Course: Your Pathway to Secure IT Careers  first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comprehensive Python Django Course to Boost Your Career Prospects]]></title>
-        <id>https://weaversweb.academy/?p=6121</id>
-        <link href="https://weaversweb.academy/comprehensive-python-django-course-to-boost-your-career-prospects/"/>
-        <updated>2025-12-03T12:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Python happens to be one of the most popular programming languages. It is becoming the most in-demand technology for companies that are looking forward to excel in various fields like data science, web development and so on. This is so because Python is dynamic, intuitive and also user-friendly. Let us find out more about this […]
-The post Comprehensive Python Django Course to Boost Your Career Prospects appeared first on Weavers Web Academy.]]></summary>
-        <author>
-            <name>Administrator</name>
         </author>
     </entry>
 </feed>
