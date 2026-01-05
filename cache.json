@@ -143,7 +143,7 @@
     {
       "title": "Creative IT Institute Blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://blog.creativeitinstitute.com/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": []
     },
     {
@@ -194,7 +194,7 @@
           "description": "SEO for LLMs is rapidly becoming one of the most discussed topics in digital marketing as search engines shift from keyword-based systems to intelligence-driven experiences. With the rise of LLM-powered search, Generative AI search, and Google SGE and LLM search, many marketers are asking a critical question: Is conventional SEO obsolete or is it just […]\nThe post LLM vs SEO in 2026 Is Traditional SEO Dead or Evolving appeared first on 99EEDU.",
           "link": "https://99eedu.com/llm-vs-seo-in-2026-is-traditional-seo-dead-or-evolving/",
           "publishedOn": "2025-12-23T07:40:35.000Z",
-          "wordCount": 5052,
+          "wordCount": 5860,
           "title": "LLM vs SEO in 2026 Is Traditional SEO Dead or Evolving",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-18-at-6.34.51-PM-1024x576.webp"
         },
@@ -204,7 +204,7 @@
           "description": "Professionals and students who wish to stay ahead in the AI-powered marketing industry are increasingly utilising AI in digital marketing courses in Kolkata. More students are looking for advanced AI-driven digital marketing programs, AI-based marketing training, and smart automation courses in the city as AI tools transform everything from content creation to ad optimisation. To […]\nThe post Top 10 AI in Digital Marketing Courses in Kolkata (2026 Guide) appeared first on 99EEDU.",
           "link": "https://99eedu.com/top-10-ai-in-digital-marketing-courses-in-kolkata-2026-guide/",
           "publishedOn": "2025-12-16T10:29:25.000Z",
-          "wordCount": 6424,
+          "wordCount": 5624,
           "title": "Top 10 AI in Digital Marketing Courses in Kolkata (2026 Guide)",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-12-at-6.17.00-PM-1024x576.webp"
         }
@@ -263,6 +263,12 @@
           "imageUrl": "http://weaversweb.academy/wp-content/uploads/2025/12/uiux_course.png"
         }
       ]
+    },
+    {
+      "title": "Acesoftech Academy",
+      "feedUrl": "https://www.acesoftech.com/feed/",
+      "siteUrl": "https://www.acesoftech.com/",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
