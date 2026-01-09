@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T01:44:30.128Z</id>
+    <id>urn:2026-01-09T01:45:00.921Z</id>
     <title>Blogs</title>
-    <updated>2026-01-08T01:44:30.128Z</updated>
+    <updated>2026-01-09T01:45:00.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Future of Web Development in 2026 & Beyond]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5286</id>
+        <link href="https://www.karmickinstitute.com/resources/future-of-web-development-in-2026-beyond/"/>
+        <updated>2026-01-08T13:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Think about it: in this rapid-paced world, would you still visit a website if it takes more than 3 seconds to load? Your answer is likely an absolute ‘NO’. In fact, we have reached a point where a 1-second delay costs businesses nearly a 7% drop in conversion rate.  Why?  Users like you and me […]
+The post Future of Web Development in 2026 & Beyond appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Graphic Designing a Good Career in India?]]></title>
+        <id>https://www.w3webschool.com/blog/?p=37031</id>
+        <link href="https://www.w3webschool.com/blog/is-graphic-designing-a-good-career-in-india/"/>
+        <updated>2026-01-08T12:46:34.000Z</updated>
+        <summary type="html"><![CDATA[Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. Is Graphic Designing a Good Career in India? Graphic design has rapidly transformed from simple designs ... Read more
+The post Is Graphic Designing a Good Career in India? appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Digital Marketing a Good Career in Kolkata?]]></title>
         <id>https://www.w3webschool.com/blog/?p=36866</id>
@@ -138,17 +160,6 @@ The post Top 10 Digital Marketing Courses in Vijayawada [2026 Updated] appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Digital Marketing Courses in Tirupati [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=26598</id>
-        <link href="https://www.w3webschool.com/blog/digital-marketing-courses-in-tirupati/"/>
-        <updated>2026-01-03T11:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Book Free Demo Class Table of Contents Top 10 Digital Marketing Courses in Tirupati [2026 Updated] Are you looking for the job-ready best digital marketing courses in Tirupati? Feeling confused due to the availability of so many options? It’s very difficult to pick one that matches your course needs and objectives.  Located in Kolkata, W3 ... Read more
-The post Top 10 Digital Marketing Courses in Tirupati [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best IT Courses Without Coding for Non-Technical Students]]></title>
         <id>https://99eedu.com/?p=4663</id>
         <link href="https://99eedu.com/best-it-courses-without-coding-for-non-technical-students/"/>
@@ -245,17 +256,6 @@ The post What are The Top Tools You can Learn in a UI/UX Course? appeared first 
 The post Easy tutorial to make WordPress website with SEO Friendly URL structure first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).]]></summary>
         <author>
             <name>Mousumi Mukherjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arpita Sarkar Bags Femina Achievers Award 2025 for Webskitters Academy]]></title>
-        <id>https://www.webskittersacademy.in/?p=18044</id>
-        <link href="https://www.webskittersacademy.in/femina-achievers-award-2025/"/>
-        <updated>2025-12-10T11:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Webskitters Academy proudly celebrates a significant milestone that reflects the spirit of innovation, dedication, and collective success.   Our Director, Mrs Arpita Sarkar, who is also the Co-Founder of Webskitters Technology Solutions, has been honoured with the highly prestigious Femina Achievers Award 2025 under the category “Transformational Skill Leadership and Business Development.”   This recognition stands as… Continue reading Arpita Sarkar Bags Femina Achievers Award 2025 for Webskitters Academy
-The post Arpita Sarkar Bags Femina Achievers Award 2025 for Webskitters Academy first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Webskitters Academy</name>
         </author>
     </entry>
 </feed>
