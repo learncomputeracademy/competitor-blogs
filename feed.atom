@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-14T01:48:27.858Z</id>
+    <id>urn:2026-01-15T01:43:45.432Z</id>
     <title>Blogs</title>
-    <updated>2026-01-14T01:48:27.858Z</updated>
+    <updated>2026-01-15T01:43:45.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lorem ipsum dolor sit amet]]></title>
+        <id>https://www.acesoftech.com/?p=97013</id>
+        <link href="https://www.acesoftech.com/lorem-ipsum-dolor-sit-amet/"/>
+        <updated>2026-01-14T20:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti… Continue reading Lorem ipsum dolor sit amet
+The post Lorem ipsum dolor sit amet appeared first on Acesoftech Academy.]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most Asked Digital Marketing Interview Questions You Should Prepare For]]></title>
         <id>https://www.webskittersacademy.in/?p=18243</id>
@@ -212,17 +223,6 @@ The post LLM vs SEO in 2026 Is Traditional SEO Dead or Evolving appeared first o
 The post Digital Marketing Syllabus with AI – Fees, Course & Jobs first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Webskitters Academy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 AI in Digital Marketing Courses in Kolkata (2026 Guide)]]></title>
-        <id>https://99eedu.com/?p=4582</id>
-        <link href="https://99eedu.com/top-10-ai-in-digital-marketing-courses-in-kolkata-2026-guide/"/>
-        <updated>2025-12-16T10:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Professionals and students who wish to stay ahead in the AI-powered marketing industry are increasingly utilising AI in digital marketing courses in Kolkata. More students are looking for advanced AI-driven digital marketing programs, AI-based marketing training, and smart automation courses in the city as AI tools transform everything from content creation to ad optimisation. To […]
-The post Top 10 AI in Digital Marketing Courses in Kolkata (2026 Guide) appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>99superadmin</name>
         </author>
     </entry>
 </feed>
