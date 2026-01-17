@@ -33,6 +33,16 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=37598",
+          "author": "Poulami Dalal",
+          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. Web Developer Salary in India (Freshers & Experienced) Last updated: January 2026 | Updated for 2026 ... Read more\nThe post Web Developer Salary in India 2026 (Freshers & Experienced) appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/web-developer-salary-in-india/",
+          "publishedOn": "2026-01-16T10:52:38.000Z",
+          "wordCount": 4159,
+          "title": "Web Developer Salary in India 2026 (Freshers & Experienced)",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/Web-Developer-Salary-In-India-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=37520",
           "author": "Poulami Dalal",
           "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. Digital Marketing Salary in India (Freshers & Experienced) Last updated: January 2026 | Updated for 2026 ... Read more\nThe post Digital Marketing Salary in India appeared first on W3webschool Blog.",
@@ -121,16 +131,6 @@
           "wordCount": 3627,
           "title": "Is UI UX Design a Good Career in 2026?",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/Is-UI-UX-Design-a-Good-Career-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=36619",
-          "author": "W3 WEB SCHOOL",
-          "description": "Digital Marketing Course Fees in Kolkata: Complete Cost & Career Guide If you are actively searching for digital marketing course fees in Kolkata, it means you are planning a serious career move. However, with multiple institutes offering different prices and promises, understanding the real value behind the fees becomes critical. This guide explains the actual ... Read more\nThe post Digital Marketing Course Fees in Kolkata appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/digital-marketing-course-fees-in-kolkata/",
-          "publishedOn": "2026-01-06T08:54:52.000Z",
-          "wordCount": 1640,
-          "title": "Digital Marketing Course Fees in Kolkata",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/digital-marketing-course-fees-in-kolkata-1100x619.png"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "As digital trends shift in 2026, a performance marketing course becomes essential for anyone wanting to master measurable growth and performance-led marketing. Marketers are calling for proof, conversions, and actual growth in addition to traffic and awareness. Learning performance marketing is consequently more crucial than ever for people who wish to specialise in paid advertising, media […]\nThe post Performance Marketing Course in 2026 Skills for Digital Marketers appeared first on 99EEDU.",
           "link": "https://99eedu.com/performance-marketing-course-in-2026-skills-for-digital-marketers/",
           "publishedOn": "2026-01-05T14:13:31.000Z",
-          "wordCount": 5556,
+          "wordCount": 4741,
           "title": "Performance Marketing Course in 2026 Skills for Digital Marketers",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/Performance-marketing-course-1024x576.webp"
         },
@@ -204,7 +204,7 @@
           "description": "SEO for LLMs is rapidly becoming one of the most discussed topics in digital marketing as search engines shift from keyword-based systems to intelligence-driven experiences. With the rise of LLM-powered search, Generative AI search, and Google SGE and LLM search, many marketers are asking a critical question: Is conventional SEO obsolete or is it just […]\nThe post LLM vs SEO in 2026 Is Traditional SEO Dead or Evolving appeared first on 99EEDU.",
           "link": "https://99eedu.com/llm-vs-seo-in-2026-is-traditional-seo-dead-or-evolving/",
           "publishedOn": "2025-12-23T07:40:35.000Z",
-          "wordCount": 5853,
+          "wordCount": 5052,
           "title": "LLM vs SEO in 2026 Is Traditional SEO Dead or Evolving",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-18-at-6.34.51-PM-1024x576.webp"
         }
@@ -240,23 +240,6 @@
           "wordCount": 2317,
           "title": "Top-Rated AI ML Courses Every Academic Institution Should Offer",
           "imageUrl": "http://weaversweb.academy/wp-content/uploads/2025/12/Top-Rated-AI-ML-Courses-Every-Academic-Institution-Should-Offer.png"
-        }
-      ]
-    },
-    {
-      "title": "Acesoftech Academy",
-      "feedUrl": "https://www.acesoftech.com/feed/",
-      "siteUrl": "https://www.acesoftech.com/",
-      "articles": [
-        {
-          "id": "https://www.acesoftech.com/?p=97013",
-          "author": "admin",
-          "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti… Continue reading Lorem ipsum dolor sit amet\nThe post Lorem ipsum dolor sit amet appeared first on Acesoftech Academy.",
-          "link": "https://www.acesoftech.com/lorem-ipsum-dolor-sit-amet/",
-          "publishedOn": "2026-01-14T20:06:36.000Z",
-          "wordCount": 7239,
-          "title": "Lorem ipsum dolor sit amet",
-          "imageUrl": null
         }
       ]
     }
