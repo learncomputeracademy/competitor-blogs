@@ -48,10 +48,127 @@
       ]
     },
     {
+      "title": "W3webschool Blog",
+      "feedUrl": "https://www.w3webschool.com/blog/feed/",
+      "siteUrl": "https://www.w3webschool.com/blog",
+      "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=38532",
+          "author": "Poulami Dalal",
+          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. Top Performance Marketing Channels to Maximize ROI in 2026 Last updated: January 2026 | Updated for ... Read more\nThe post Top Performance Marketing Channels to Maximize ROI appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/performance-marketing-channels/",
+          "publishedOn": "2026-01-31T11:29:00.000Z",
+          "wordCount": 3816,
+          "title": "Top Performance Marketing Channels to Maximize ROI",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/Top-Performance-Marketing-Channels-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=15181",
+          "author": "Poulami Dalal",
+          "description": "Write for W3 Web School Share your expertise on Tools, SaaS, Marketing, or Technology. Get featured on a trusted education & tech platform. ✍️ Submit Guest Post Proposal ✔ Editorial review • ✔ No spam • ✔ Quality backlinks Top 8 SEO Title Generator Tools to Get Higher Traffic Last updated: January 2026 | Updated ... Read more\nThe post Top 8 SEO Title Generator Tools to Get Higher Traffic appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/seo-title-generator/",
+          "publishedOn": "2026-01-30T12:30:16.000Z",
+          "wordCount": 3460,
+          "title": "Top 8 SEO Title Generator Tools to Get Higher Traffic",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2024/12/SEO-Title-Generator-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=38492",
+          "author": "Poulami Dalal",
+          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. Digital Marketing Funnel: Stages, Importance & How to Create One Last updated: January 2026 | Updated ... Read more\nThe post Digital Marketing Funnel: Stages, Importance & How to Create One appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/digital-marketing-funnel/",
+          "publishedOn": "2026-01-30T10:50:58.000Z",
+          "wordCount": 3699,
+          "title": "Digital Marketing Funnel: Stages, Importance & How to Create One",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/Digital-Marketing-Funnel-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=19950",
+          "author": "Poulami Dalal",
+          "description": "Write for W3 Web School Share your expertise on Tools, SaaS, Marketing, or Technology. Get featured on a trusted education & tech platform. ✍️ Submit Guest Post Proposal ✔ Editorial review • ✔ No spam • ✔ Quality backlinks 7 Powerful SEO Audit Tools to Get Higher Traffic Last updated: January 2026 | Updated for ... Read more\nThe post 7 Powerful SEO Audit Tools to Get Higher Traffic appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/seo-audit-tool/",
+          "publishedOn": "2026-01-29T12:55:52.000Z",
+          "wordCount": 3677,
+          "title": "7 Powerful SEO Audit Tools to Get Higher Traffic",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/05/SEO-Audit-Tools-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=38441",
+          "author": "Poulami Dalal",
+          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. What is Ad Copywriting? A Guide to Write Ads that Convert Last updated: January 2026 | ... Read more\nThe post What is Ad Copywriting? A Guide to Write Ads that Convert appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/what-is-ad-copywriting/",
+          "publishedOn": "2026-01-29T11:19:06.000Z",
+          "wordCount": 3751,
+          "title": "What is Ad Copywriting? A Guide to Write Ads that Convert",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/What-is-ad-copywriting-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=17175",
+          "author": "Poulami Dalal",
+          "description": "Write for W3 Web School Share your expertise on Tools, SaaS, Marketing, or Technology. Get featured on a trusted education & tech platform. ✍️ Submit Guest Post Proposal ✔ Editorial review • ✔ No spam • ✔ Quality backlinks Top 10 AI Description Generator Tools to Look For in 2026 Last updated: January 2026 | ... Read more\nThe post Top 10 AI Description Generators For YouTube in 2026 appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/ai-description-generator/",
+          "publishedOn": "2026-01-28T12:42:03.000Z",
+          "wordCount": 3494,
+          "title": "Top 10 AI Description Generators For YouTube in 2026",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/02/AI-Description-Generator-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=38373",
+          "author": "Poulami Dalal",
+          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. What Does a Digital Marketer Do? Skills, Salary & Careers Last updated: January 2026 | Updated ... Read more\nThe post What Does a Digital Marketer Do? Skills, Salary & Careers appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/what-does-a-digital-marketer-do/",
+          "publishedOn": "2026-01-28T09:39:39.000Z",
+          "wordCount": 3661,
+          "title": "What Does a Digital Marketer Do? Skills, Salary & Careers",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/What-does-a-digital-marketer-do-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=20175",
+          "author": "Poulami Dalal",
+          "description": "Write for W3 Web School Share your expertise on Tools, SaaS, Marketing, or Technology. Get featured on a trusted education & tech platform. ✍️ Submit Guest Post Proposal ✔ Editorial review • ✔ No spam • ✔ Quality backlinks 7 Magical AI Banner Generators that Every Creator Needs! Last updated: January 2026 | Updated for ... Read more\nThe post 7 Magical AI Banner Generators that Every Creator Needs! appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/ai-banner-generator/",
+          "publishedOn": "2026-01-27T13:04:38.000Z",
+          "wordCount": 2857,
+          "title": "7 Magical AI Banner Generators that Every Creator Needs!",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/05/AI-Banner-Generator-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=38280",
+          "author": "Poulami Dalal",
+          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. How to Make a UI UX Designer Resume That Stands Out Last updated: January 2026 | ... Read more\nThe post How to Make a Winning UI UX Designer Resume in 2026? appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/ui-ux-designer-resume/",
+          "publishedOn": "2026-01-27T11:13:31.000Z",
+          "wordCount": 3754,
+          "title": "How to Make a Winning UI UX Designer Resume in 2026?",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/UI-UX-Designer-Resume-1100x619.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=38207",
+          "author": "Poulami Dalal",
+          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. How to Make Money on Pinterest: 10 Ideas to Try in 2026 Last updated: January 2026 ... Read more\nThe post How to Make Money on Pinterest: 10 Ideas to Try in 2026 appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/how-to-make-money-on-pinterest/",
+          "publishedOn": "2026-01-24T12:14:39.000Z",
+          "wordCount": 3684,
+          "title": "How to Make Money on Pinterest: 10 Ideas to Try in 2026",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/01/How-to-make-money-on-Pinterest-1100x619.png"
+        }
+      ]
+    },
+    {
       "title": "Moople-Institute of Animation  Design",
       "feedUrl": "https://www.moople.in/blog/feed/",
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
+        {
+          "id": "https://www.moople.in/blog/?p=15517",
+          "author": "Swarnali",
+          "description": "Animation is not only cartoons on television or movie characters anymore. It has evolved into a vast world where technology meets art. Today, imagination has no boundaries. In the modern world of animation, there is so much that is new. One of the most exciting trends is the hybridisation of 2D and 3D techniques. This […]\nThe post How Are Hybrid 2D–3D Animation Techniques Incorporated into Present Curriculam? appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/how-are-hybrid-2d-3d-animation-techniques-incorporated-into-present-curriculam/",
+          "publishedOn": "2026-01-31T11:50:41.000Z",
+          "wordCount": 3395,
+          "title": "How Are Hybrid 2D–3D Animation Techniques Incorporated into Present Curriculam?",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/01/Untitled-design-3-1.png"
+        },
         {
           "id": "https://www.moople.in/blog/?p=15550",
           "author": "Farhat Jabeen",
@@ -107,7 +224,7 @@
     {
       "title": "Creative IT Institute Blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "http://3.7.156.149/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
       "articles": []
     },
     {
@@ -148,7 +265,7 @@
           "description": "Digital marketing has become one of the most important skills to be possessed by students, freshers and working professionals in the digital-first world. This is done with a guide to the students in Chandannagar who are interested in learning Digital Marketing Training Online in Chandannagar, its functionality, what they will learn and how it can […]\nThe post Complete Guide to Digital Marketing Training Online in Chandannagar appeared first on 99EEDU.",
           "link": "https://99eedu.com/complete-guide-to-digital-marketing-training-online-in-chandannagar/",
           "publishedOn": "2026-01-29T13:31:10.000Z",
-          "wordCount": 3629,
+          "wordCount": 3643,
           "title": "Complete Guide to Digital Marketing Training Online in Chandannagar",
           "enclosure": {
             "url": "https://99eedu.com/wp-content/uploads/2026/01/𝐒𝐫𝐢𝐣𝐢𝐭𝐚-𝐃𝐚𝐬-shares-her-feedback-after-successfully-completing-𝐖𝐞𝐛-𝐆𝐫𝐚𝐩𝐡𝐢𝐜-.mp4",
@@ -163,7 +280,7 @@
           "description": "Digital marketing is one of the most intelligent career decisions for a novice these days. You are in the right direction when you need an online digital marketing course in Kharagpur. Many students, working professionals, and business owners in Kharagpur now prefer to learn digital marketing from home because it is flexible, affordable, and skill-focused. […]\nThe post How Beginners Can Learn Online Digital Marketing Course in Kharagpur appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-beginners-can-learn-online-digital-marketing-in-kharagpur/",
           "publishedOn": "2026-01-27T13:51:03.000Z",
-          "wordCount": 3515,
+          "wordCount": 3529,
           "title": "How Beginners Can Learn Online Digital Marketing Course in Kharagpur",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.56.55-PM-1024x576.webp"
         },
@@ -173,7 +290,7 @@
           "description": "When you are a student or a job seeker and want to develop your career in digital marketing, you will have to make one of the most significant choices you will make in your life Digital marketing course in Hooghly skills are in high demand today, and studying them at the proper institute can help you […]\nThe post How to Choose the Best Digital Marketing Institute in Hooghly appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-to-choose-the-best-digital-marketing-institute-in-hooghly/",
           "publishedOn": "2026-01-21T14:02:03.000Z",
-          "wordCount": 4024,
+          "wordCount": 4038,
           "title": "How to Choose the Best Digital Marketing Institute in Hooghly",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/Digital-marketing-course-in-hugli-1024x576.webp"
         },
@@ -183,7 +300,7 @@
           "description": "As digital trends shift in 2026, a performance marketing course becomes essential for anyone wanting to master measurable growth and performance-led marketing. Marketers are calling for proof, conversions, and actual growth in addition to traffic and awareness. Learning performance marketing is consequently more crucial than ever for people who wish to specialise in paid advertising, media […]\nThe post Performance Marketing Course in 2026 Skills for Digital Marketers appeared first on 99EEDU.",
           "link": "https://99eedu.com/performance-marketing-course-in-2026-skills-for-digital-marketers/",
           "publishedOn": "2026-01-05T14:13:31.000Z",
-          "wordCount": 5031,
+          "wordCount": 5045,
           "title": "Performance Marketing Course in 2026 Skills for Digital Marketers",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/Performance-marketing-course-1024x576.webp"
         }
