@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-06T02:03:31.821Z</id>
+    <id>urn:2026-02-07T01:59:05.125Z</id>
     <title>Blogs</title>
-    <updated>2026-02-06T02:03:31.821Z</updated>
+    <updated>2026-02-07T01:59:05.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Graphic Design Courses After 12th]]></title>
+        <id>https://www.w3webschool.com/blog/?p=5717</id>
+        <link href="https://www.w3webschool.com/blog/graphic-design-courses-after-12th/"/>
+        <updated>2026-02-06T11:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. Graphic Design Courses After 12th: Complete Career Guide for Students Last updated: February 2026 | Updated ... Read more
+The post Graphic Design Courses After 12th appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>W3 WEB SCHOOL</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Complete Digital Marketing Roadmap in 2026]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5526</id>
@@ -160,17 +171,6 @@ The post Complete Guide to Digital Marketing Training Online in Chandannagar app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Powerful SEO Audit Tools to Get Higher Traffic]]></title>
-        <id>https://www.w3webschool.com/blog/?p=19950</id>
-        <link href="https://www.w3webschool.com/blog/seo-audit-tool/"/>
-        <updated>2026-01-29T12:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Write for W3 Web School Share your expertise on Tools, SaaS, Marketing, or Technology. Get featured on a trusted education & tech platform. ✍️ Submit Guest Post Proposal ✔ Editorial review • ✔ No spam • ✔ Quality backlinks 7 Powerful SEO Audit Tools to Get Higher Traffic Last updated: January 2026 | Updated for ... Read more
-The post 7 Powerful SEO Audit Tools to Get Higher Traffic appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unlearn to Relearn: A Shift towards AI in Digital Marketing]]></title>
         <id>https://www.webskittersacademy.in/?p=18304</id>
         <link href="https://www.webskittersacademy.in/unlearn-to-relearn-a-shift-towards-ai-in-digital-marketing/"/>
@@ -300,17 +300,6 @@ The post From BBA to MERN Stack Developer: Mousom’s Inspiring Career Transform
 The post Most Asked Digital Marketing Interview Questions You Should Prepare For  first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future of Web Development in 2026 & Beyond]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5286</id>
-        <link href="https://www.karmickinstitute.com/resources/future-of-web-development-in-2026-beyond/"/>
-        <updated>2026-01-08T13:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Think about it: in this rapid-paced world, would you still visit a website if it takes more than 3 seconds to load? Your answer is likely an absolute ‘NO’. In fact, we have reached a point where a 1-second delay costs businesses nearly a 7% drop in conversion rate.  Why?  Users like you and me […]
-The post Future of Web Development in 2026 & Beyond appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
 </feed>
