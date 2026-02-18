@@ -34,16 +34,6 @@
           "wordCount": 13442,
           "title": "Data science or Data analytics: What Should You Learn First?",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/01/Data-science-or-Data-analytics-What-Should-You-Learn-First-.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=18258",
-          "author": "Webskitters Academy",
-          "description": "People try to figure out what their real calling is, even after graduating from college. Some people who aren’t from a technical background have a great interest in the technical field. And, that’s not indecisiveness; that’s finding your purpose. Mousom Ray, now a MERN developer, was one of those people. But can you switch from… Continue reading From BBA to MERN Stack Developer: Mousom’s Inspiring Career Transformation\nThe post From BBA to MERN Stack Developer: Mousom’s Inspiring Career Transformation first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/from-bba-to-mern-stack-developer/",
-          "publishedOn": "2026-01-19T10:36:57.000Z",
-          "wordCount": 12607,
-          "title": "From BBA to MERN Stack Developer: Mousom’s Inspiring Career Transformation",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/01/From-BBA-to-MERN-Stack-Developer-Mousoms-Inspiring-Career-Transformation-1.jpg"
         }
       ]
     },
@@ -52,6 +42,26 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=39572",
+          "author": "Shaheel Khan",
+          "description": "Google Ads vs Meta Ads: Which Is Better for Businesses in Kolkata? If you are running a business in Kolkata and planning to invest in paid advertising, one common question always comes up — Google Ads vs Meta Ads, which one is better? Both platforms are powerful, but they work in very different ways. Many ... Read more\nThe post Google Ads vs Meta Ads: Which Is Better for Businesses in Kolkata? (2026) appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/google-ads-vs-meta-ads/",
+          "publishedOn": "2026-02-17T12:11:52.000Z",
+          "wordCount": 3695,
+          "title": "Google Ads vs Meta Ads: Which Is Better for Businesses in Kolkata? (2026)",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/02/Google-Ads-vs-Meta-Ads.png"
+        },
+        {
+          "id": "https://www.w3webschool.com/blog/?p=39557",
+          "author": "Shaheel Khan",
+          "description": "Performance Marketing in Kolkata: Complete Guide, Career Scope & Strategy for 2026 Performance marketing in Kolkata is rapidly transforming the way businesses approach digital advertising. In a city where startups, education institutes, and service-based companies are growing fast, brands no longer rely on guesswork or brand awareness alone. They want marketing strategies that deliver measurable ... Read more\nThe post Performance Marketing in Kolkata: How Data-Driven Marketers Are Scaling Results in 2026 appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/performance-marketing-in-kolkata/",
+          "publishedOn": "2026-02-17T09:18:44.000Z",
+          "wordCount": 4161,
+          "title": "Performance Marketing in Kolkata: How Data-Driven Marketers Are Scaling Results in 2026",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/02/performance-marketing.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=39471",
           "author": "Poulami Dalal",
@@ -131,26 +141,6 @@
           "wordCount": 4205,
           "title": "Short-Term Courses After 12th: Best High-Salary Career Options",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/12/Short-term-courses-after-12th.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=33162",
-          "author": "Poulami Dalal",
-          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. Job-Oriented Courses After 12th: Best Options for Students Last updated: February 2026 | Updated for 2026 ... Read more\nThe post Job-Oriented Courses After 12th appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/job-oriented-courses-after-12th/",
-          "publishedOn": "2026-02-09T10:40:24.000Z",
-          "wordCount": 4058,
-          "title": "Job-Oriented Courses After 12th",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/12/Job-oriented-Courses-After-12th.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=33254",
-          "author": "Poulami Dalal",
-          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. High Salary Courses After 12th Science [2026 Updated List] Last updated: February 2026 | Updated for ... Read more\nThe post High Salary Courses After 12th Science [2026 Updated List] appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/courses-after-12th-science/",
-          "publishedOn": "2026-02-09T07:50:54.000Z",
-          "wordCount": 4031,
-          "title": "High Salary Courses After 12th Science [2026 Updated List]",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/12/Courses-After-12th-Science.png"
         }
       ]
     },
@@ -245,7 +235,18 @@
       "title": "Creative IT Institute Blog",
       "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
       "siteUrl": "https://www.blog.creativeitinstitute.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.blog.creativeitinstitute.com/?p=2062",
+          "author": "smritiakter",
+          "description": "Digital marketing is changing faster than ever, and Artificial Intelligence (AI) is leading this change. By…\nThe post Future of Digital Marketing with AI in 2026 appeared first on Creative IT Institute Blog.",
+          "link": "https://www.blog.creativeitinstitute.com/future-of-digital-marketing-with-ai-in-2026/",
+          "publishedOn": "2026-02-17T19:20:41.000Z",
+          "wordCount": 6648,
+          "title": "Future of Digital Marketing with AI in 2026",
+          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2026/02/image.jpeg"
+        }
+      ]
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
@@ -258,7 +259,7 @@
           "description": "It’s 2026 already, and the digital marketing world isn’t just evolving, it’s being rewritten completely. If you are transitioning into this field, a clear digital marketing roadmap is one of the most effective ways to navigate the industry.  Digital marketing is expected to add over 20 million new global jobs this year alone. Although the […]\nThe post A Complete Digital Marketing Roadmap in 2026 appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/a-complete-digital-marketing-roadmap-in-2026/",
           "publishedOn": "2026-02-05T13:39:46.000Z",
-          "wordCount": 7500,
+          "wordCount": 7463,
           "title": "A Complete Digital Marketing Roadmap in 2026",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/02/A-Complete-Digital-Marketing-Roadmap-in-2026.webp"
         }
@@ -270,12 +271,22 @@
       "siteUrl": "https://99eedu.com/",
       "articles": [
         {
+          "id": "https://99eedu.com/?p=4683",
+          "author": "99superadmin",
+          "description": "It would be difficult to decide on a career after graduation or school, particularly if you are creative and want to acquire a talent that can help you land a genuine job. Barrackpore is rapidly becoming a powerful educational centre for students interested in advanced graphic design courses, visual communication, and digital media. The graphic […]\nThe post Top 10 Graphic Design Institutes in Barrackpore with Placement Support appeared first on 99EEDU.",
+          "link": "https://99eedu.com/top-10-graphic-design-institutes-in-barrackpore-with-placement-support/",
+          "publishedOn": "2026-02-17T09:23:50.000Z",
+          "wordCount": 5013,
+          "title": "Top 10 Graphic Design Institutes in Barrackpore with Placement Support",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-17-at-5.52.07-PM-1024x576.webp"
+        },
+        {
           "id": "https://99eedu.com/?p=4741",
           "author": "99superadmin",
           "description": "Choosing the proper online digital marketing course in Durgapur is an important choice for students, job seekers, and working professionals who want to develop a secure and future-ready career.  Learning digital marketing is now a necessary career investment due to firms going online and actively seeking qualified marketers. This guide is written to help you […]\nThe post How to Choose the Right Online Digital Marketing Course in Durgapur appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-to-choose-the-right-online-digital-marketing-course-in-durgapur/",
           "publishedOn": "2026-02-13T09:25:04.000Z",
-          "wordCount": 3283,
+          "wordCount": 4030,
           "title": "How to Choose the Right Online Digital Marketing Course in Durgapur",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-02-at-6.40.52-PM-1024x576.webp"
         },
@@ -285,7 +296,7 @@
           "description": "Digital marketing has become one of the most important skills to be possessed by students, freshers and working professionals in the digital-first world. This is done with a guide to the students in Chandannagar who are interested in learning Digital Marketing Training Online in Chandannagar, its functionality, what they will learn and how it can […]\nThe post Complete Guide to Digital Marketing Training Online in Chandannagar appeared first on 99EEDU.",
           "link": "https://99eedu.com/complete-guide-to-digital-marketing-training-online-in-chandannagar/",
           "publishedOn": "2026-01-29T13:31:10.000Z",
-          "wordCount": 3663,
+          "wordCount": 4420,
           "title": "Complete Guide to Digital Marketing Training Online in Chandannagar",
           "enclosure": {
             "url": "https://99eedu.com/wp-content/uploads/2026/01/𝐒𝐫𝐢𝐣𝐢𝐭𝐚-𝐃𝐚𝐬-shares-her-feedback-after-successfully-completing-𝐖𝐞𝐛-𝐆𝐫𝐚𝐩𝐡𝐢𝐜-.mp4",
@@ -300,7 +311,7 @@
           "description": "Digital marketing is one of the most intelligent career decisions for a novice these days. You are in the right direction when you need an online digital marketing course in Kharagpur. Many students, working professionals, and business owners in Kharagpur now prefer to learn digital marketing from home because it is flexible, affordable, and skill-focused. […]\nThe post How Beginners Can Learn Online Digital Marketing Course in Kharagpur appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-beginners-can-learn-online-digital-marketing-in-kharagpur/",
           "publishedOn": "2026-01-27T13:51:03.000Z",
-          "wordCount": 3540,
+          "wordCount": 4288,
           "title": "How Beginners Can Learn Online Digital Marketing Course in Kharagpur",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.56.55-PM-1024x576.webp"
         },
@@ -310,7 +321,7 @@
           "description": "When you are a student or a job seeker and want to develop your career in digital marketing, you will have to make one of the most significant choices you will make in your life Digital marketing course in Hooghly skills are in high demand today, and studying them at the proper institute can help you […]\nThe post How to Choose the Best Digital Marketing Institute in Hooghly appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-to-choose-the-best-digital-marketing-institute-in-hooghly/",
           "publishedOn": "2026-01-21T14:02:03.000Z",
-          "wordCount": 4061,
+          "wordCount": 4047,
           "title": "How to Choose the Best Digital Marketing Institute in Hooghly",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/Digital-marketing-course-in-hugli-1024x576.webp"
         }
@@ -364,7 +375,18 @@
       "title": "Acesoftech Academy",
       "feedUrl": "https://www.acesoftech.com/feed/",
       "siteUrl": "https://www.acesoftech.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.acesoftech.com/?p=98793",
+          "author": "admin",
+          "description": "Introduction In today’s digital-first world, a website is often the first impression of a business. An attractive, responsive, and user-friendly website not only builds credibility but also increases customer engagement and conversions. Website design plays a crucial role in creating visually appealing layouts, smooth navigation, and seamless user experiences. With businesses in Kolkata rapidly shifting… Continue reading Website Design Course in Kolkata – Build Creative & Professional Web Design Skills\nThe post Website Design Course in Kolkata – Build Creative & Professional Web Design Skills appeared first on Acesoftech Academy.",
+          "link": "https://www.acesoftech.com/website-design-course-in-kolkata-build-creative-professional-web-design-skills/",
+          "publishedOn": "2026-02-17T10:37:34.000Z",
+          "wordCount": 7432,
+          "title": "Website Design Course in Kolkata – Build Creative & Professional Web Design Skills",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
