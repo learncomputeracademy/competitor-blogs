@@ -43,12 +43,22 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=39731",
+          "author": "Poulami Dalal",
+          "description": "Will AI Replace Web Developers in 2026? The Future Career Guide Last updated: February 2026 • Reviewed & Updated by Industry Experts If AI builds websites, automates repetitive tasks, and fixes bugs in less than a second, the question is, “Will web developers still have a future?” With the emergence of AI code generator tools ... Read more\nThe post Will AI Replace Web Developers in 2026? appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/will-ai-replace-web-developers/",
+          "publishedOn": "2026-02-19T12:09:30.000Z",
+          "wordCount": 3219,
+          "title": "Will AI Replace Web Developers in 2026?",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/02/Will-AI-replace-web-developers-1100x619.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=39584",
           "author": "Poulami Dalal",
           "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. How to Become a Google Ads Specialist: Complete 2026 Guide Last updated: February 2026 | Updated ... Read more\nThe post How to Become a Google Ads Specialist: Complete 2026 Guide appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/become-a-google-ads-specialist/",
           "publishedOn": "2026-02-18T12:53:31.000Z",
-          "wordCount": 3771,
+          "wordCount": 3876,
           "title": "How to Become a Google Ads Specialist: Complete 2026 Guide",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/02/How-to-become-a-Google-Ads-Specialist-1100x619.png"
         },
@@ -131,16 +141,6 @@
           "wordCount": 3961,
           "title": "What to Do After 12th Arts?",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2024/01/What-to-do-after-12th-Arts-1100x619.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=32894",
-          "author": "Poulami Dalal",
-          "description": "Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. Online Courses After 12th: Best Career Options for Students After Boards Last updated: February 2026 | ... Read more\nThe post Online Courses After 12th appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/online-courses-after-12th/",
-          "publishedOn": "2026-02-10T07:45:05.000Z",
-          "wordCount": 4347,
-          "title": "Online Courses After 12th",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2025/12/Online-courses-after-12th.png"
         }
       ]
     },
@@ -208,16 +208,6 @@
           "wordCount": 3479,
           "title": "Make a Living Out of Your Gaming Passion: Learn Game Development at Moople",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/01/Untitled-design-3.png"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=15486",
-          "author": "Farhat Jabeen",
-          "description": "People don’t usually wake up one morning and randomly decide, “I’ll become an animator today.” It often starts with a film, a game, or even a quirky advert that sparks something inside. Maybe it was Toy Story when you were a kid, or the latest Pixar masterpiece, or a video game that made you feel […]\nThe post Thinking of a Career in Animation? Why 3D Modelling is Your First Step appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/thinking-of-a-career-in-animation-why-3d-modelling-is-your-first-step/",
-          "publishedOn": "2026-01-21T10:06:43.000Z",
-          "wordCount": 3337,
-          "title": "Thinking of a Career in Animation? Why 3D Modelling is Your First Step",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/01/Untitled-design-2-1.png"
         }
       ]
     },
@@ -234,7 +224,7 @@
           "publishedOn": "2026-02-18T20:21:03.000Z",
           "wordCount": 6443,
           "title": "Final Cut Pro Video Editing Software Windows (Complete Guide 2026)",
-          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2026/02/focused-editor-woman-works-video-montage-creative-software-scaled.jpg"
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/02/focused-editor-woman-works-video-montage-creative-software-scaled.jpg"
         },
         {
           "id": "https://www.blog.creativeitinstitute.com/?p=2082",
@@ -244,7 +234,7 @@
           "publishedOn": "2026-02-18T17:37:52.000Z",
           "wordCount": 6286,
           "title": "Careers in Graphic Design: A Complete Guide for Creative Minds",
-          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2026/02/graphics-design.png"
+          "imageUrl": "https://www.blog.creativeitinstitute.com/wp-content/uploads/2026/02/graphics-design.png"
         },
         {
           "id": "https://www.blog.creativeitinstitute.com/?p=2079",
@@ -264,7 +254,7 @@
           "publishedOn": "2026-02-17T19:20:41.000Z",
           "wordCount": 6645,
           "title": "Future of Digital Marketing with AI in 2026",
-          "imageUrl": "http://www.blog.creativeitinstitute.com/wp-content/uploads/2026/02/image.jpeg"
+          "imageUrl": "https://www.blog.creativeitinstitute.com/wp-content/uploads/2026/02/image.jpeg"
         }
       ]
     },
@@ -273,6 +263,16 @@
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=5574",
+          "author": "Tanmay Das",
+          "description": "What if I told you that 2026 is the best year to start a career in digital marketing? While experienced marketers are struggling to keep up, a huge new opportunity called GEO (Generative Engine Optimisation) has emerged. Currently, 80% of consumers rely on AI-generated results for nearly half of their searches. However, only a few […]\nThe post From SEO to GEO: Why Traditional SEO is Evolving and How You Can Master the New Wave? appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/from-seo-to-geo-why-traditional-seo-is-evolving-and-how-you-can-master-the-new-wave/",
+          "publishedOn": "2026-02-19T13:27:10.000Z",
+          "wordCount": 8090,
+          "title": "From SEO to GEO: Why Traditional SEO is Evolving and How You Can Master the New Wave?",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/02/From-SEO-to-GEO.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=5526",
           "author": "Tanmay Das",
@@ -296,7 +296,7 @@
           "description": "It would be difficult to decide on a career after graduation or school, particularly if you are creative and want to acquire a talent that can help you land a genuine job. Barrackpore is rapidly becoming a powerful educational centre for students interested in advanced graphic design courses, visual communication, and digital media. The graphic […]\nThe post Top 10 Graphic Design Institutes in Barrackpore with Placement Support appeared first on 99EEDU.",
           "link": "https://99eedu.com/top-10-graphic-design-institutes-in-barrackpore-with-placement-support/",
           "publishedOn": "2026-02-17T09:23:50.000Z",
-          "wordCount": 4266,
+          "wordCount": 4267,
           "title": "Top 10 Graphic Design Institutes in Barrackpore with Placement Support",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-17-at-5.52.07-PM-1024x576.webp"
         },
@@ -306,7 +306,7 @@
           "description": "Choosing the proper online digital marketing course in Durgapur is an important choice for students, job seekers, and working professionals who want to develop a secure and future-ready career.  Learning digital marketing is now a necessary career investment due to firms going online and actively seeking qualified marketers. This guide is written to help you […]\nThe post How to Choose the Right Online Digital Marketing Course in Durgapur appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-to-choose-the-right-online-digital-marketing-course-in-durgapur/",
           "publishedOn": "2026-02-13T09:25:04.000Z",
-          "wordCount": 3283,
+          "wordCount": 3284,
           "title": "How to Choose the Right Online Digital Marketing Course in Durgapur",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-02-at-6.40.52-PM-1024x576.webp"
         },
@@ -316,7 +316,7 @@
           "description": "Digital marketing has become one of the most important skills to be possessed by students, freshers and working professionals in the digital-first world. This is done with a guide to the students in Chandannagar who are interested in learning Digital Marketing Training Online in Chandannagar, its functionality, what they will learn and how it can […]\nThe post Complete Guide to Digital Marketing Training Online in Chandannagar appeared first on 99EEDU.",
           "link": "https://99eedu.com/complete-guide-to-digital-marketing-training-online-in-chandannagar/",
           "publishedOn": "2026-01-29T13:31:10.000Z",
-          "wordCount": 3663,
+          "wordCount": 3664,
           "title": "Complete Guide to Digital Marketing Training Online in Chandannagar",
           "enclosure": {
             "url": "https://99eedu.com/wp-content/uploads/2026/01/𝐒𝐫𝐢𝐣𝐢𝐭𝐚-𝐃𝐚𝐬-shares-her-feedback-after-successfully-completing-𝐖𝐞𝐛-𝐆𝐫𝐚𝐩𝐡𝐢𝐜-.mp4",
@@ -331,19 +331,9 @@
           "description": "Digital marketing is one of the most intelligent career decisions for a novice these days. You are in the right direction when you need an online digital marketing course in Kharagpur. Many students, working professionals, and business owners in Kharagpur now prefer to learn digital marketing from home because it is flexible, affordable, and skill-focused. […]\nThe post How Beginners Can Learn Online Digital Marketing Course in Kharagpur appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-beginners-can-learn-online-digital-marketing-in-kharagpur/",
           "publishedOn": "2026-01-27T13:51:03.000Z",
-          "wordCount": 3540,
+          "wordCount": 3541,
           "title": "How Beginners Can Learn Online Digital Marketing Course in Kharagpur",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-5.56.55-PM-1024x576.webp"
-        },
-        {
-          "id": "https://99eedu.com/?p=4594",
-          "author": "99superadmin",
-          "description": "When you are a student or a job seeker and want to develop your career in digital marketing, you will have to make one of the most significant choices you will make in your life Digital marketing course in Hooghly skills are in high demand today, and studying them at the proper institute can help you […]\nThe post How to Choose the Best Digital Marketing Institute in Hooghly appeared first on 99EEDU.",
-          "link": "https://99eedu.com/how-to-choose-the-best-digital-marketing-institute-in-hooghly/",
-          "publishedOn": "2026-01-21T14:02:03.000Z",
-          "wordCount": 4061,
-          "title": "How to Choose the Best Digital Marketing Institute in Hooghly",
-          "imageUrl": "https://99eedu.com/wp-content/uploads/2025/12/Digital-marketing-course-in-hugli-1024x576.webp"
         }
       ]
     },
