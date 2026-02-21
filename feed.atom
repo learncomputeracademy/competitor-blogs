@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-20T02:04:13.544Z</id>
+    <id>urn:2026-02-21T01:58:35.493Z</id>
     <title>Blogs</title>
-    <updated>2026-02-20T02:04:13.544Z</updated>
+    <updated>2026-02-21T01:58:35.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Freshers in Kolkata Can Get MERN Stack Developer Jobs]]></title>
+        <id>https://www.w3webschool.com/blog/?p=39795</id>
+        <link href="https://www.w3webschool.com/blog/mern-stack-developer-jobs/"/>
+        <updated>2026-02-20T11:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. How Freshers in Kolkata Can Get MERN Stack Developer Jobs Last updated: February 2026 | Updated ... Read more
+The post How Freshers in Kolkata Can Get MERN Stack Developer Jobs appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From SEO to GEO: Why Traditional SEO is Evolving and How You Can Master the New Wave?]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5574</id>
@@ -204,17 +215,6 @@ The post What to do after 12th? appeared first on W3webschool Blog.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What to Do After 12th Arts?]]></title>
-        <id>https://www.w3webschool.com/blog/?p=5206</id>
-        <link href="https://www.w3webschool.com/blog/what-to-do-after-12th-arts/"/>
-        <updated>2026-02-10T12:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. What to Do After 12th Arts? Best Career Options for Students Last updated: February 2026 | ... Read more
-The post What to Do After 12th Arts? appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can Commerce or Arts Students Learn Character Animation?]]></title>
         <id>https://www.moople.in/blog/?p=15597</id>
         <link href="https://www.moople.in/blog/can-commerce-or-arts-students-learn-character-animation/"/>
@@ -344,28 +344,6 @@ The post How Beginners Can Learn Online Digital Marketing Course in Kharagpur ap
 The post Data science or Data analytics: What Should You Learn First? first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Swarup Kr Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make a Living Out of Your Gaming Passion: Learn Game Development at Moople]]></title>
-        <id>https://www.moople.in/blog/?p=15504</id>
-        <link href="https://www.moople.in/blog/make-a-living-out-of-your-gaming-passion-learn-game-development-at-moople/"/>
-        <updated>2026-01-22T10:07:21.000Z</updated>
-        <summary type="html"><![CDATA[All gamers are familiar with the excitement of holding a controller or clicking a mouse button during an intense game. The excitement of navigating through levels, redeeming rewards, or winning over an impossible boss is a feeling that cannot be paralleled.  To most youths in India, gaming is not merely a hobby. It is a […]
-The post Make a Living Out of Your Gaming Passion: Learn Game Development at Moople appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide to React Native Development Course and its Opportunities]]></title>
-        <id>https://weaversweb.academy/?p=6219</id>
-        <link href="https://weaversweb.academy/a-complete-guide-to-react-native-development-course-and-its-opportunities/"/>
-        <updated>2026-01-22T08:19:39.000Z</updated>
-        <summary type="html"><![CDATA[In a growing, digitally dependent market, brands want to offer more convenience to their customers. One of the best ways to achieve this is to provide their service through mobile apps. From selecting our favourite apparel to shopping for groceries for a month, we can do everything with a tap on the screen. This is […]
-The post A Complete Guide to React Native Development Course and its Opportunities appeared first on Weavers Web Academy.]]></summary>
-        <author>
-            <name>Administrator</name>
         </author>
     </entry>
 </feed>
