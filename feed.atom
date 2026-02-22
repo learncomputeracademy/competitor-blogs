@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-21T01:58:35.493Z</id>
+    <id>urn:2026-02-22T02:08:08.806Z</id>
     <title>Blogs</title>
-    <updated>2026-02-21T01:58:35.493Z</updated>
+    <updated>2026-02-22T02:08:08.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Graphic Designer in Kolkata]]></title>
+        <id>https://www.w3webschool.com/blog/?p=39910</id>
+        <link href="https://www.w3webschool.com/blog/graphic-designer-in-kolkata/"/>
+        <updated>2026-02-21T10:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. How to Become a Graphic Designer in Kolkata: Complete Career Guide Last updated: February 2026 | ... Read more
+The post How to Become a Graphic Designer in Kolkata appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Video Editing Be a Full-Time Career? Salary, Freelancing & YouTube Opportunities]]></title>
+        <id>https://www.moople.in/blog/?p=15610</id>
+        <link href="https://www.moople.in/blog/can-video-editing-be-a-full-time-career-salary-freelancing-youtube-opportunities/"/>
+        <updated>2026-02-21T05:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Are you an individual having a knack for editing videos to create interesting content? Do you love mixing images, footage, audio files, and music to create meaningful outcomes? Then you have a great chance to prosper as a good video editor. Today, with the boom and increased demand for YouTube and with the advent of […]
+The post Can Video Editing Be a Full-Time Career? Salary, Freelancing & YouTube Opportunities appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Freshers in Kolkata Can Get MERN Stack Developer Jobs]]></title>
         <id>https://www.w3webschool.com/blog/?p=39795</id>
@@ -204,17 +226,6 @@ The post 5 Government Sites Every Indian Student Should Know in 2026 first appea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What to do after 12th?]]></title>
-        <id>https://www.w3webschool.com/blog/?p=39335</id>
-        <link href="https://www.w3webschool.com/blog/what-to-do-after-12th/"/>
-        <updated>2026-02-11T11:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Confused about the right career move? Get clear, honest guidance based on real industry experience — no sales calls, just the right direction. Get Free Career Guidance Takes less than 30 seconds Your details stay private. No spam, ever. What to Do After 12th? Best Career Options for Students After Boards Last updated: February 2026 ... Read more
-The post What to do after 12th? appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can Commerce or Arts Students Learn Character Animation?]]></title>
         <id>https://www.moople.in/blog/?p=15597</id>
         <link href="https://www.moople.in/blog/can-commerce-or-arts-students-learn-character-animation/"/>
@@ -333,17 +344,6 @@ The post BBA in Digital Marketing: Why It Is a Smart Career Choice for Students 
 The post How Beginners Can Learn Online Digital Marketing Course in Kharagpur appeared first on 99EEDU.]]></summary>
         <author>
             <name>99superadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data science or Data analytics: What Should You Learn First?]]></title>
-        <id>https://www.webskittersacademy.in/?p=18279</id>
-        <link href="https://www.webskittersacademy.in/data-science-or-analytics-what-should-you-learn-first/"/>
-        <updated>2026-01-23T07:53:43.000Z</updated>
-        <summary type="html"><![CDATA[The short answer is that you should learn Data Analytics first, as it teaches you the fundamentals, including SQL, Python and data visualisation.This makes enrolling in a data analytics course in Kolkata an ideal starting point for beginners. Once you build a strong foundation, you can then advance to Data Science, where you will learn… Continue reading Data science or Data analytics: What Should You Learn First?
-The post Data science or Data analytics: What Should You Learn First? first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Swarup Kr Saha</name>
         </author>
     </entry>
 </feed>
