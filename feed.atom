@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-23T02:08:47.084Z</id>
+    <id>urn:2026-02-25T02:07:22.596Z</id>
     <title>Blogs</title>
-    <updated>2026-02-23T02:08:47.084Z</updated>
+    <updated>2026-02-25T02:07:22.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Start Video Editing: (Beginner-Friendly Guide)]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2096</id>
+        <link href="https://www.blog.creativeitinstitute.com/dev-creativeitinstitute-com-how-to-start-video-editing/"/>
+        <updated>2026-02-24T23:49:35.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Video Editing. One of the strongest digital skills that you can acquire today is…
+The post How to Start Video Editing: (Beginner-Friendly Guide) appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>iammdshiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Film Editing Courses After 12th: Eligibility, Duration, Fees & Career Scope]]></title>
+        <id>https://www.moople.in/blog/?p=15629</id>
+        <link href="https://www.moople.in/blog/film-editing-courses-after-12th-eligibility-duration-fees-career-scope/"/>
+        <updated>2026-02-23T05:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a passion for Filmmaking? Do you plan to turn your passion for storytelling into a thriving career? Then, the Film Editing courses are the perfect gateway to turn your passion into a thriving profession. Film Editing isn’t just a technical aspect of filmmaking, its pure storytelling magic. With the boom of the […]
+The post Film Editing Courses After 12th: Eligibility, Duration, Fees & Career Scope appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Become a Graphic Designer in Kolkata]]></title>
         <id>https://www.w3webschool.com/blog/?p=39910</id>
@@ -36,6 +58,17 @@ The post Can Video Editing Be a Full-Time Career? Salary, Freelancing & YouTube 
 The post How Freshers in Kolkata Can Get MERN Stack Developer Jobs appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do You Need YouTube SEO?]]></title>
+        <id>https://www.webskittersacademy.in/?p=18428</id>
+        <link href="https://www.webskittersacademy.in/why-do-you-need-youtube-seo/"/>
+        <updated>2026-02-20T08:02:31.000Z</updated>
+        <summary type="html"><![CDATA[In a sea of 14 billion videos, the best way of being found is YouTube SEO. There’s a reason why YouTube channels like PewDiePie, Dude Perfect, and Markiplier enjoy soaring popularity. Their videos consistently perform well against the signals that YouTube measures. YouTube’s algorithm looks at audience retention, interaction, session time, click-through rate, and multiple… Continue reading Why Do You Need YouTube SEO?
+The post Why Do You Need YouTube SEO? first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
         </author>
     </entry>
     <entry>
