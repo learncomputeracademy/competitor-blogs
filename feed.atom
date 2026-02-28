@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T02:02:32.161Z</id>
+    <id>urn:2026-02-28T01:52:41.570Z</id>
     <title>Blogs</title>
-    <updated>2026-02-27T02:02:32.161Z</updated>
+    <updated>2026-02-28T01:52:41.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Marketing vs Traditional Marketing]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2118</id>
+        <link href="https://www.blog.creativeitinstitute.com/digital-marketing-vs-traditional-marketing/"/>
+        <updated>2026-02-27T07:30:57.000Z</updated>
+        <summary type="html"><![CDATA[In 2026, the big question isn’t whether digital or traditional marketing is “better.” Instead, it’s about…
+The post Digital Marketing vs Traditional Marketing appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>AurkoJosephPalma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Learn AngularJS in 2026: A Practical Guide for Future Developers]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5834</id>
+        <link href="https://www.karmickinstitute.com/resources/why-learn-angularjs-in-2026/"/>
+        <updated>2026-02-27T05:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Is it still worth it to learn AngularJS in 2026? The short answer is– yes, if your goal is to become job-ready and start earning faster. Now, your next potential query might be why should I learn AngularJS in 2026? The answer is if you want to earn a high salary, a future-proof job, and […]
+The post Why You Should Learn AngularJS in 2026: A Practical Guide for Future Developers appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nervous for Your Interview? Data Analytics Questions That Helps]]></title>
         <id>https://www.webskittersacademy.in/?p=18436</id>
@@ -21,10 +43,10 @@ The post Nervous for Your Interview? Data Analytics Questions That Helps first a
         <id>https://www.w3webschool.com/blog/?p=40113</id>
         <link href="https://www.w3webschool.com/blog/digital-marketing-interview-questions/"/>
         <updated>2026-02-26T12:53:44.000Z</updated>
-        <summary type="html"><![CDATA[Home / Blog / Digital Marketing Interview Questions NEW FOR 2026 Top 40 Digital Marketing Interview Questions 2026 Practical Guide Poulami Dalal Content Writer • 20 min read Download PDF #InterviewPrep #Frontend2026 #CareerGrowth Table of Contents Are you preparing for digital marketing jobs in 2026? It’s not revising the answers anymore! It’s all about smart ... Read more
+        <summary type="html"><![CDATA[Home / Digital Marketing Interview Questions Top 40 Digital Marketing Interview Questions 2026 Practical Guide Poulami Dalal Content Writer • 20 min read Download Interview PDF (2026) Instant download • No spam SEO PPC Social Media Analytics Table of Contents Are you preparing for digital marketing jobs in 2026? It’s not revising the answers anymore! ... Read more
 The post Digital Marketing Interview Questions for 2026 appeared first on W3webschool Blog.]]></summary>
         <author>
-            <name>W3 WEB SCHOOL</name>
+            <name>Poulami Dalal</name>
         </author>
     </entry>
     <entry>
@@ -355,28 +377,6 @@ The post How Can You Master Responsive Web Design Using CSS Flexbox and Grid app
 The post How Are Hybrid 2D–3D Animation Techniques Incorporated into Present Curriculam? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Swarnali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete Guide to Digital Marketing Training Online in Chandannagar]]></title>
-        <id>https://99eedu.com/?p=4719</id>
-        <link href="https://99eedu.com/complete-guide-to-digital-marketing-training-online-in-chandannagar/"/>
-        <updated>2026-01-29T13:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Digital marketing has become one of the most important skills to be possessed by students, freshers and working professionals in the digital-first world. This is done with a guide to the students in Chandannagar who are interested in learning Digital Marketing Training Online in Chandannagar, its functionality, what they will learn and how it can […]
-The post Complete Guide to Digital Marketing Training Online in Chandannagar appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>99superadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlearn to Relearn: A Shift towards AI in Digital Marketing]]></title>
-        <id>https://www.webskittersacademy.in/?p=18304</id>
-        <link href="https://www.webskittersacademy.in/unlearn-to-relearn-a-shift-towards-ai-in-digital-marketing/"/>
-        <updated>2026-01-29T08:12:49.000Z</updated>
-        <summary type="html"><![CDATA[Is it really time for digital marketers to unlearn to relearn? Well, there’s no denying the fact that AI is transforming the way we experience things. And, the role of AI in digital marketing is one of the most debated topics among digital marketers. Some say AI is very beneficial, while others say it’s not.… Continue reading Unlearn to Relearn: A Shift towards AI in Digital Marketing
-The post Unlearn to Relearn: A Shift towards AI in Digital Marketing first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>
