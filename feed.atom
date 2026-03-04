@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T02:07:41.191Z</id>
+    <id>urn:2026-03-04T02:01:09.637Z</id>
     <title>Blogs</title>
-    <updated>2026-03-03T02:07:41.191Z</updated>
+    <updated>2026-03-04T02:01:09.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -311,17 +311,6 @@ The post A Complete Digital Marketing Roadmap in 2026 appeared first on Karmick 
 The post Android vs iOS Development – Which Career Path is Right for You? appeared first on Weavers Web Academy.]]></summary>
         <author>
             <name>Administrator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can You Master Responsive Web Design Using CSS Flexbox and Grid]]></title>
-        <id>https://www.moople.in/blog/?p=15565</id>
-        <link href="https://www.moople.in/blog/how-can-you-master-responsive-web-design-using-css-flexbox-and-grid/"/>
-        <updated>2026-02-02T09:24:50.000Z</updated>
-        <summary type="html"><![CDATA[If you have ever opened a site on your phone and needed to zoom and pan just to read a sentence, you already know why layout skills matter. People bounce between mobiles, tablets, laptops, and wide monitors without thinking. Your layout has to feel natural on all of them. That promise belongs to responsive web […]
-The post How Can You Master Responsive Web Design Using CSS Flexbox and Grid appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Swarnali</name>
         </author>
     </entry>
 </feed>
