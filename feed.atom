@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-06T02:04:06.341Z</id>
+    <id>urn:2026-03-07T01:56:38.101Z</id>
     <title>Blogs</title>
-    <updated>2026-03-06T02:04:06.341Z</updated>
+    <updated>2026-03-07T01:56:38.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Courses for IT & Non-IT Students: Must-Have Certifications to Master the 2026 Job Market]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5921</id>
+        <link href="https://www.karmickinstitute.com/resources/top-5-courses-for-it-non-it-students/"/>
+        <updated>2026-03-06T10:37:48.000Z</updated>
+        <summary type="html"><![CDATA[What are the top courses for IT and non-IT students? It is data science with Gen AI & ML, data analytics, web design with UI/UX, and digital marketing with AI. But out of these, which one is the best IT course for you? Let’s understand each field and pick the best for a high-growth career!  […]
+The post Top 5 Courses for IT & Non-IT Students: Must-Have Certifications to Master the 2026 Job Market appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Online Digital Marketing Course in Siliguri – Complete Guide for 2026]]></title>
+        <id>https://99eedu.com/?p=4826</id>
+        <link href="https://99eedu.com/advanced-online-digital-marketing-course-in-siliguri-complete-guide-for-2026/"/>
+        <updated>2026-03-06T07:46:40.000Z</updated>
+        <summary type="html"><![CDATA[The demand for online digital capabilities is growing as businesses go online. A developed course in digital marketing in Siliguri assists the learners to know major areas, such as search engine optimisation, Google Adwords, social media marketing, performance marketing, and automated intelligence. Students, job seekers, freelancers, and business owners should be able to develop employment prospects in […]
+The post Advanced Online Digital Marketing Course in Siliguri – Complete Guide for 2026 appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>99superadmin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Marketing For Clinics]]></title>
         <id>https://www.w3webschool.com/blog/?p=40764</id>
@@ -300,17 +322,6 @@ The post Can Commerce or Arts Students Learn Character Animation? appeared first
 The post Top 10 computer courses in Kolkata for 2026 in Demand – Complete Guide first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).]]></summary>
         <author>
             <name>Mousumi Mukherjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Digital Marketing Roadmap in 2026]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=5526</id>
-        <link href="https://www.karmickinstitute.com/resources/a-complete-digital-marketing-roadmap-in-2026/"/>
-        <updated>2026-02-05T13:39:46.000Z</updated>
-        <summary type="html"><![CDATA[It’s 2026 already, and the digital marketing world isn’t just evolving, it’s being rewritten completely. If you are transitioning into this field, a clear digital marketing roadmap is one of the most effective ways to navigate the industry.  Digital marketing is expected to add over 20 million new global jobs this year alone. Although the […]
-The post A Complete Digital Marketing Roadmap in 2026 appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
 </feed>
