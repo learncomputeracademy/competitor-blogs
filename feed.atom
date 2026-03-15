@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-14T02:00:40.254Z</id>
+    <id>urn:2026-03-15T02:25:45.247Z</id>
     <title>Blogs</title>
-    <updated>2026-03-14T02:00:40.254Z</updated>
+    <updated>2026-03-15T02:25:45.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Job-Oriented Online Digital Marketing Training in Kharagpur]]></title>
+        <id>https://99eedu.com/?p=4839</id>
+        <link href="https://99eedu.com/job-oriented-online-digital-marketing-training-in-kharagpur/"/>
+        <updated>2026-03-14T09:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Many students and professionals today want to learn how businesses promote products and services online. Several of the practical skills taught in digital marketing training in Kharagpur include SEO, social media marketing, paid advertising and content marketing. Institutions such as 99Eedu Institute conduct systematised courses that enable students to understand the real-life online marketing strategies […]
+The post Job-Oriented Online Digital Marketing Training in Kharagpur appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>99superadmin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inspiring Student Success Stories from W3 Web School (Digital Marketing)]]></title>
         <id>https://www.w3webschool.com/blog/?p=41512</id>
@@ -322,17 +333,6 @@ The post Top 10 Graphic Design Institutes in Barrackpore with Placement Support 
 The post Why a Python Django Course Is Still the Smartest Career Move in 2026 first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose the Right Online Digital Marketing Course in Durgapur]]></title>
-        <id>https://99eedu.com/?p=4741</id>
-        <link href="https://99eedu.com/how-to-choose-the-right-online-digital-marketing-course-in-durgapur/"/>
-        <updated>2026-02-13T09:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Choosing the proper online digital marketing course in Durgapur is an important choice for students, job seekers, and working professionals who want to develop a secure and future-ready career.  Learning digital marketing is now a necessary career investment due to firms going online and actively seeking qualified marketers. This guide is written to help you […]
-The post How to Choose the Right Online Digital Marketing Course in Durgapur appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>99superadmin</name>
         </author>
     </entry>
 </feed>
