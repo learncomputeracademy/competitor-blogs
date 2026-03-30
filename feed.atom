@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-29T02:27:41.486Z</id>
+    <id>urn:2026-03-30T02:30:06.618Z</id>
     <title>Blogs</title>
-    <updated>2026-03-29T02:27:41.486Z</updated>
+    <updated>2026-03-30T02:30:06.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Content Writing Tools for SEO Best Results]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2285</id>
+        <link href="https://blog.creativeitinstitute.com/content-writing-tools-for-seo/"/>
+        <updated>2026-03-29T11:12:22.000Z</updated>
+        <summary type="html"><![CDATA[During the digital stage, content has become one of the biggest tools of online growth. Companies,…
+The post Content Writing Tools for SEO Best Results appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>rumana.ruhi09</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 30+ UI UX Designer Interview Questions for Freshers]]></title>
         <id>https://www.w3webschool.com/blog/?p=10554</id>
@@ -201,17 +212,6 @@ The post Online Digital Marketing Course in Haldia with Internship & Placement S
 The post Full Stack Developer Course Syllabus [2026 Updated] appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://www.acesoftech.com/test/</id>
-        <link href="https://www.acesoftech.com/test/"/>
-        <updated>2026-03-19T05:59:37.000Z</updated>
-        <summary type="html"><![CDATA[resers
-The post test appeared first on Acesoftech Academy.]]></summary>
-        <author>
-            <name>Acesoftech Academy</name>
         </author>
     </entry>
     <entry>
@@ -432,17 +432,6 @@ The post Cinematography Shots: What Are They, and How Should You Use Them? (Full
 The post Editing Tik Tok Videos: Beginner to Pro Guide. appeared first on Creative IT Institute Blog.]]></summary>
         <author>
             <name>dolonpal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Online Digital Marketing Course in Durgapur with Placement Support]]></title>
-        <id>https://99eedu.com/?p=4798</id>
-        <link href="https://99eedu.com/top-online-digital-marketing-course-in-durgapur-with-placement-support/"/>
-        <updated>2026-02-28T08:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Digital marketing is no longer a “big city” career option. Today, students and professionals in Durgapur are building successful careers in SEO, social media marketing, performance advertising, and freelancing, all from their hometown. If you are searching for a Digital Marketing Course in Durgapur, this detailed guide will help you understand what truly matters: curriculum […]
-The post Top Online Digital Marketing Course in Durgapur with Placement Support appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>Yeash</name>
         </author>
     </entry>
 </feed>
