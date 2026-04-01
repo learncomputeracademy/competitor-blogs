@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-31T02:25:11.265Z</id>
+    <id>urn:2026-04-01T02:35:55.955Z</id>
     <title>Blogs</title>
-    <updated>2026-03-31T02:25:11.265Z</updated>
+    <updated>2026-04-01T02:35:55.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Does Shopify Work? A Complete Beginner’s Guide]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2294</id>
+        <link href="https://blog.creativeitinstitute.com/how-does-shopify-work/"/>
+        <updated>2026-03-31T07:03:52.000Z</updated>
+        <summary type="html"><![CDATA[If you have ever thought about selling products online but felt overwhelmed by technology, Shopify was…
+The post How Does Shopify Work? A Complete Beginner’s Guide appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>smritiakter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Graphic Designer: A Complete Step-by-Step Guide]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2292</id>
+        <link href="https://blog.creativeitinstitute.com/how-to-become-a-graphic-designer-guide/"/>
+        <updated>2026-03-31T06:24:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Graphic Design as a Career One major reason people choose graphic design as a…
+The post How to Become a Graphic Designer: A Complete Step-by-Step Guide appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>MaksudaAkter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online Digital Marketing Course in Midnapore – 2026 Guide]]></title>
+        <id>https://99eedu.com/?p=4965</id>
+        <link href="https://99eedu.com/online-digital-marketing-course-in-midnapore-2026-guide/"/>
+        <updated>2026-03-30T13:20:20.000Z</updated>
+        <summary type="html"><![CDATA[A digital marketing course in Midnapore by 99Eedu Institute gives students and working professionals the chance to learn practical skills like SEO, social media marketing, and Google Ads right from the comfort of their home. In 2026, the demand for these skills is growing, as more businesses shift online and remote job opportunities continue to […]
+The post Online Digital Marketing Course in Midnapore – 2026 Guide appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>Yeash</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Content Writing Tools for SEO Best Results]]></title>
         <id>https://blog.creativeitinstitute.com/?p=2285</id>
@@ -399,17 +432,6 @@ The post Advanced Online Digital Marketing Course in Siliguri – Complete Guide
 The post Laptop Requirements for Video Editing Students appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Certified Online Digital Marketing Course in Asansol]]></title>
-        <id>https://99eedu.com/?p=4815</id>
-        <link href="https://99eedu.com/certified-online-digital-marketing-course-in-asansol/"/>
-        <updated>2026-03-02T13:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Students, professionals, and job seekers may develop useful skills in SEO, social media, Google Ads, and analytics by enrolling in a digital marketing course in Asansol. This article describes what digital marketing is, how to learn it online, the specifics of the curriculum, the advantages of certification, the range of job options, and how to […]
-The post Certified Online Digital Marketing Course in Asansol appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>Yeash</name>
         </author>
     </entry>
 </feed>
