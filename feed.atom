@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T02:33:05.088Z</id>
+    <id>urn:2026-04-11T02:11:55.675Z</id>
     <title>Blogs</title>
-    <updated>2026-04-10T02:33:05.088Z</updated>
+    <updated>2026-04-11T02:11:55.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -14,6 +14,17 @@
 The post Top 10 Web Designing Courses in Chandigarh [2026 Updated] appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Online Digital Marketing Course in Krishnanagar with Fees]]></title>
+        <id>https://99eedu.com/?p=5006</id>
+        <link href="https://99eedu.com/best-online-digital-marketing-course-in-krishnanagar-with-fees/"/>
+        <updated>2026-04-08T13:18:35.000Z</updated>
+        <summary type="html"><![CDATA[If you’re planning to take a digital marketing course in Krishnanagar, 99Eedu Institute is definitely worth checking out. The course isn’t just about theory—you’ll actually practise things like SEO, Google Ads, and social media on real projects. It’s a good choice if you genuinely want to develop a profession because the programmes are simple to […]
+The post Best Online Digital Marketing Course in Krishnanagar with Fees appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>Yeash</name>
         </author>
     </entry>
     <entry>
@@ -553,17 +564,6 @@ The post Top 200 Most Asked Node JS Interview Questions for Freshers first appea
 The post Job-Oriented Online Digital Marketing Training in Kharagpur appeared first on 99EEDU.]]></summary>
         <author>
             <name>Yeash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking About a Career in Data Analytics? Here’s What You Should Know]]></title>
-        <id>https://www.webskittersacademy.in/?p=18543</id>
-        <link href="https://www.webskittersacademy.in/career-in-data-analytics/"/>
-        <updated>2026-03-12T07:14:39.000Z</updated>
-        <summary type="html"><![CDATA[The LinkedIn Economic Graph reports that there are 1.3 million AI-related job opportunities available globally. So, if you are considering a career in data analytics, you’re looking at one of the most in-demand jobs available, where there’s a serious talent gap. In fact, data analytics comes under the “new collar” roles, which are redefining the… Continue reading Thinking About a Career in Data Analytics? Here’s What You Should Know
-The post Thinking About a Career in Data Analytics? Here’s What You Should Know first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>
