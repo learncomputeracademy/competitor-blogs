@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-12T02:34:37.970Z</id>
+    <id>urn:2026-04-13T02:39:43.642Z</id>
     <title>Blogs</title>
-    <updated>2026-04-12T02:34:37.970Z</updated>
+    <updated>2026-04-13T02:39:43.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Video Editing Business: A Complete Beginner-to-Pro Guide]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2360</id>
+        <link href="https://blog.creativeitinstitute.com/dev-creativeitinstitute-com-video-editing-business/"/>
+        <updated>2026-04-12T21:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Video Editing Business is one of the most intelligent solutions to transform creative abilities into a…
+The post How to Start a Video Editing Business: A Complete Beginner-to-Pro Guide appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>iammdshiful</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Web Designing Courses in Chandigarh [2026 Updated]]]></title>
         <id>https://www.w3webschool.com/blog/?p=42395</id>
@@ -314,17 +325,6 @@ The post How to Become a Video Editor appeared first on Creative IT Institute Bl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Does Shopify Work? A Complete Beginner’s Guide]]></title>
-        <id>https://blog.creativeitinstitute.com/?p=2294</id>
-        <link href="https://blog.creativeitinstitute.com/how-does-shopify-work/"/>
-        <updated>2026-03-31T07:03:52.000Z</updated>
-        <summary type="html"><![CDATA[If you have ever thought about selling products online but felt overwhelmed by technology, Shopify was…
-The post How Does Shopify Work? A Complete Beginner’s Guide appeared first on Creative IT Institute Blog.]]></summary>
-        <author>
-            <name>smritiakter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Choose the Perfect Niche for your YouTube Channel?]]></title>
         <id>https://www.webskittersacademy.in/?p=18578</id>
         <link href="https://www.webskittersacademy.in/how-to-choose-the-perfect-niche-for-your-youtube-channel/"/>
@@ -553,17 +553,6 @@ The post Top 5 Professional Courses After BA to Enter the IT Industry first appe
 The post Top 200 Most Asked Node JS Interview Questions for Freshers first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job-Oriented Online Digital Marketing Training in Kharagpur]]></title>
-        <id>https://99eedu.com/?p=4839</id>
-        <link href="https://99eedu.com/job-oriented-online-digital-marketing-training-in-kharagpur/"/>
-        <updated>2026-03-14T09:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Many students and professionals today want to learn how businesses promote products and services online. Several of the practical skills taught in digital marketing training in Kharagpur include SEO, social media marketing, paid advertising and content marketing. Institutions such as 99Eedu Institute conduct systematised courses that enable students to understand the real-life online marketing strategies […]
-The post Job-Oriented Online Digital Marketing Training in Kharagpur appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>Yeash</name>
         </author>
     </entry>
 </feed>
