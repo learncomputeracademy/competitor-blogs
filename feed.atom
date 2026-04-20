@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-19T02:39:48.426Z</id>
+    <id>urn:2026-04-20T02:40:07.153Z</id>
     <title>Blogs</title>
-    <updated>2026-04-19T02:39:48.426Z</updated>
+    <updated>2026-04-20T02:40:07.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Business With Shopify: A Complete Step-by-Step Guide for Beginners]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2404</id>
+        <link href="https://blog.creativeitinstitute.com/how-to-start-a-business-with-shopify/"/>
+        <updated>2026-04-19T16:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Starting a business used to mean big money, physical shops, and lots of risk. Today, things…
+The post How to Start a Business With Shopify: A Complete Step-by-Step Guide for Beginners appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>smritiakter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Job in Digital Marketing: A Complete Beginner’s Guide]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2401</id>
+        <link href="https://blog.creativeitinstitute.com/how-to-get-a-job-in-digital-marketing/"/>
+        <updated>2026-04-19T08:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Digital marketing is one of the fastest-growing career fields in the world today. Every business needs…
+The post How to Get a Job in Digital Marketing: A Complete Beginner’s Guide appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>smritiakter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraphQL vs REST: Which API‑First Approach Should You Learn?]]></title>
         <id>https://www.webskittersacademy.in/?p=18702</id>
@@ -309,28 +331,6 @@ The post Types of Graphic Design Careers: A Complete Career Guide appeared first
         <updated>2026-04-03T04:17:08.000Z</updated>
         <summary type="html"><![CDATA[Blender is one of the most powerful free animation software programs in the world. It is…
 The post How to Animate in Blender: A Step-by-Step Beginner’s Guide appeared first on Creative IT Institute Blog.]]></summary>
-        <author>
-            <name>MaksudaAkter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Forecast SEO Growth (Beginner to Advanced Guide)]]></title>
-        <id>https://blog.creativeitinstitute.com/?p=2330</id>
-        <link href="https://blog.creativeitinstitute.com/forecast-seo-growth/"/>
-        <updated>2026-04-02T18:09:48.000Z</updated>
-        <summary type="html"><![CDATA[SEO growth forecasting helps you predict how much traffic, leads or sales your website can gain…
-The post How to Forecast SEO Growth (Beginner to Advanced Guide) appeared first on Creative IT Institute Blog.]]></summary>
-        <author>
-            <name>smritiakter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animation as a Career: A Complete Guide for Creative Minds]]></title>
-        <id>https://blog.creativeitinstitute.com/?p=2324</id>
-        <link href="https://blog.creativeitinstitute.com/animation-as-a-career-guide/"/>
-        <updated>2026-04-02T15:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Animation is one of the most exciting career options in today’s creative world. It combines…
-The post Animation as a Career: A Complete Guide for Creative Minds appeared first on Creative IT Institute Blog.]]></summary>
         <author>
             <name>MaksudaAkter</name>
         </author>
