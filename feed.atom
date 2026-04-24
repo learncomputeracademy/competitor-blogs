@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T02:36:54.870Z</id>
+    <id>urn:2026-04-24T02:37:28.236Z</id>
     <title>Blogs</title>
-    <updated>2026-04-23T02:36:54.870Z</updated>
+    <updated>2026-04-24T02:37:28.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is a Digital Marketing Strategist?]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2605</id>
+        <link href="https://blog.creativeitinstitute.com/what-is-a-digital-marketing-strategist/"/>
+        <updated>2026-04-23T04:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Definition of the Role: Digital Marketing Strategist A digital marketing strategist is a professional who…
+The post What Is a Digital Marketing Strategist? appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>Mazeda Akter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlocking Success with a Simple Content Marketing Strategy]]></title>
         <id>https://blog.creativeitinstitute.com/?p=2596</id>
@@ -47,17 +58,6 @@ The post Email Marketing Strategy: The Complete Guide for 2026 appeared first on
 The post How to Increase Email Open Rates appeared first on Creative IT Institute Blog.]]></summary>
         <author>
             <name>Hira Mone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 UI UX Design Courses in Nagpur [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42666</id>
-        <link href="https://www.w3webschool.com/blog/ui-ux-design-courses-in-nagpur/"/>
-        <updated>2026-04-22T10:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Home / UI UX Design Courses in Nagpur Top 10 UI UX Design Courses in Nagpur [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you looking for the best job-ready UI UX Design Courses in Nagpur that make you ready for the real job market? ... Read more
-The post Top 10 UI UX Design Courses in Nagpur [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
     <entry>
@@ -138,36 +138,14 @@ The post Grow Instagram Followers: Practical Guide for 2026 Success appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Marketer Guide: Beginner to Pro]]></title>
-        <id>https://blog.creativeitinstitute.com/?p=2484</id>
-        <link href="https://blog.creativeitinstitute.com/what-does-a-digital-marketer-do-beginner-to-pro-guide-for-2026/"/>
-        <updated>2026-04-21T18:09:50.000Z</updated>
-        <summary type="html"><![CDATA[What Does a Digital Marketer Do? A Complete Beginner-to-Pro Guide In the modern world, businesses cannot…
-The post Digital Marketer Guide: Beginner to Pro appeared first on Creative IT Institute Blog.]]></summary>
+        <title type="html"><![CDATA[Placement-Based Online Digital Marketing Course in Barrackpore]]></title>
+        <id>https://99eedu.com/?p=5091</id>
+        <link href="https://99eedu.com/placement-based-online-digital-marketing-course-in-barrackpore/"/>
+        <updated>2026-04-21T10:49:58.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking to learn digital marketing in Barrackpore, 99Eedu Institute offers a hands-on online program with live projects, SEO training, certifications, and real job assistance. Located near Kolkata, this affordable digital marketing course in Barrackpore stands out as the best digital marketing institute in Barrackpore, blending online flexibility with placement assistance and support in […]
+The post Placement-Based Online Digital Marketing Course in Barrackpore appeared first on 99EEDU.]]></summary>
         <author>
-            <name>Hira Mone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Web Designing Courses in Dehradun [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42638</id>
-        <link href="https://www.w3webschool.com/blog/web-designing-courses-in-dehradun/"/>
-        <updated>2026-04-21T10:42:48.000Z</updated>
-        <summary type="html"><![CDATA[Home / Web Designing Courses in Dehradun Top 10 Web Designing Courses in Dehradun [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you looking for the best Web Designing Courses in Dehradun that make you ready for the latest job market? You are then at ... Read more
-The post Top 10 Web Designing Courses in Dehradun [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 UI UX Design Courses in Ahmedabad [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42604</id>
-        <link href="https://www.w3webschool.com/blog/ui-ux-design-courses-in-ahmedabad/"/>
-        <updated>2026-04-20T10:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Home / UI UX Design Courses in Ahmedabad Top 10 UI UX Design Courses in Ahmedabad [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you trying to find some of the best UI UX Design courses in Ahmedabad? Stop searching now, I have got you ... Read more
-The post Top 10 UI UX Design Courses in Ahmedabad [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
+            <name>Yeash</name>
         </author>
     </entry>
     <entry>
@@ -226,17 +204,6 @@ The post Best Power BI Course in Kolkata with Placement Support appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Web Designing Courses in Jaipur [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42584</id>
-        <link href="https://www.w3webschool.com/blog/web-designing-courses-in-jaipur/"/>
-        <updated>2026-04-17T11:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Home / Web Designing Courses in Jaipur Top 10 Web Designing Courses in Jaipur [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Searching for the best Web Designing Courses in Jaipur that actually make you industry-ready? You have landed exactly where you need to be.  Jaipur ... Read more
-The post Top 10 Web Designing Courses in Jaipur [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fix Blender Rendering Issues Fast (Beginner Guide)]]></title>
         <id>https://www.moople.in/blog/?p=15804</id>
         <link href="https://www.moople.in/blog/fix-blender-rendering-issues-fast-beginner-guide/"/>
@@ -245,17 +212,6 @@ The post Top 10 Web Designing Courses in Jaipur [2026 Updated] appeared first on
 The post Fix Blender Rendering Issues Fast (Beginner Guide) appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 UI UX Design Courses in Hyderabad [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42552</id>
-        <link href="https://www.w3webschool.com/blog/ui-ux-design-courses-in-hyderabad/"/>
-        <updated>2026-04-16T11:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Home / UI UX Design Courses in Hyderabad Top 10 UI UX Design Courses in Hyderabad [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Finding the best UI UX Design Courses in Hyderabad? Stop searching then! You are at the right place.  Hyderabad, the Cybercity of ... Read more
-The post Top 10 UI UX Design Courses in Hyderabad [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
     <entry>
@@ -281,28 +237,6 @@ The post Why Real-Time Data Analytics is the Next Big Skill first appeared on We
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Web Designing Courses in Hyderabad [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42509</id>
-        <link href="https://www.w3webschool.com/blog/web-designing-courses-in-hyderabad/"/>
-        <updated>2026-04-14T11:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Home / Web Designing Courses in Hyderabad Top 10 Web Designing Courses in Hyderabad [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Ready to build your professional career with advanced Web Designing Courses in Hyderabad? Then you are exactly where you need to be. W3 Web ... Read more
-The post Top 10 Web Designing Courses in Hyderabad [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 UI UX Design Courses in Mumbai [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42451</id>
-        <link href="https://www.w3webschool.com/blog/ui-ux-design-courses-in-mumbai/"/>
-        <updated>2026-04-13T11:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Home / UI UX Design Courses in Mumbai Top 10 UI UX Design Courses in Mumbai [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you looking for the highly demanding UI UX Design Courses in Mumbai? Then you are at the right place. Mumbai, the ... Read more
-The post Top 10 UI UX Design Courses in Mumbai [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Generative AI Learning Path: Beginner to Advanced Guide in 2026]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=6440</id>
         <link href="https://www.karmickinstitute.com/resources/gen-ai-learning-path-beginner-to-advanced-guide-in-2026/"/>
@@ -325,17 +259,6 @@ The post How Automation Testing Courses Help You Stay Relevant in the AI Era? ap
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Web Designing Courses in Chandigarh [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42395</id>
-        <link href="https://www.w3webschool.com/blog/web-designing-courses-in-chandigarh/"/>
-        <updated>2026-04-09T12:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Home / Web Designing Courses in Chandigarh Top 10 Web Designing Courses in Chandigarh [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you looking for the most industry-led Web Designing Courses in Chandigarh? Then, you’re at the right place.  Chandigarh has become one of the ... Read more
-The post Top 10 Web Designing Courses in Chandigarh [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Online Digital Marketing Course in Krishnanagar with Fees]]></title>
         <id>https://99eedu.com/?p=5006</id>
         <link href="https://99eedu.com/best-online-digital-marketing-course-in-krishnanagar-with-fees/"/>
@@ -355,28 +278,6 @@ The post Best Online Digital Marketing Course in Krishnanagar with Fees appeared
 The post Why Game Development is a Good Career Option for Indian Freshers? first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 UI UX Design Courses in Nashik [2026 Updated]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42342</id>
-        <link href="https://www.w3webschool.com/blog/ui-ux-design-courses-in-nashik/"/>
-        <updated>2026-04-08T11:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Home / UI UX Design courses in Nashik Top 10 UI UX Design Courses in Nashik [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you searching for the most popular UI UX Design Courses in Nashik? Then, you’re at the right place.  Nashik has become ... Read more
-The post Top 10 UI UX Design Courses in Nashik [2026 Updated] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Courses that Offer Immediate Jobs in 2026 [High-Salary]]]></title>
-        <id>https://www.w3webschool.com/blog/?p=42305</id>
-        <link href="https://www.w3webschool.com/blog/courses-that-offer-immediate-jobs/"/>
-        <updated>2026-04-07T12:22:04.000Z</updated>
-        <summary type="html"><![CDATA[Home / Courses that Offer Immediate Jobs 10 Fast-Track Courses that Offer Immediate Jobs in 2026 Poulami Dalal Content Writer • 20 min read Table of Contents Are you tired of spending your time on a degree course, but still can’t get a job? Feeling confused about what skills help you secure a high-paying job ... Read more
-The post 10 Courses that Offer Immediate Jobs in 2026 [High-Salary] appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
     <entry>
