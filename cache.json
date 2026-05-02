@@ -202,124 +202,27 @@
       ]
     },
     {
-      "title": "Creative IT Institute Blog",
-      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://www.blog.creativeitinstitute.com/",
-      "articles": [
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2605",
-          "author": "Mazeda Akter",
-          "description": "Introduction Definition of the Role: Digital Marketing Strategist A digital marketing strategist is a professional who…\nThe post What Is a Digital Marketing Strategist? appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/what-is-a-digital-marketing-strategist/",
-          "publishedOn": "2026-04-23T04:08:22.000Z",
-          "wordCount": 6224,
-          "title": "What Is a Digital Marketing Strategist?",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/a-professional-digital-marketing-strategist.jpg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2596",
-          "author": "Mazeda Akter",
-          "description": "Introduction In today’s digital world, creating a buzz about your business isn’t just about having a…\nThe post Unlocking Success with a Simple Content Marketing Strategy appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/unlocking-success-with-a-simple-content-marketing-strategy/",
-          "publishedOn": "2026-04-22T14:42:45.000Z",
-          "wordCount": 6071,
-          "title": "Unlocking Success with a Simple Content Marketing Strategy",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/a-professional-content-marketing-strategist.jpg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2574",
-          "author": "Mazeda Akter",
-          "description": "Introduction Email Marketing Email marketing continues to be one of the most reliable ways to reach…\nThe post Email Marketing Strategy: The Complete Guide for 2026 appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/email-marketing-strategy-the-complete-guide-for-2026/",
-          "publishedOn": "2026-04-22T13:04:25.000Z",
-          "wordCount": 6636,
-          "title": "Email Marketing Strategy: The Complete Guide for 2026",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/email-marketing.jpg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2580",
-          "author": "Hira Mone",
-          "description": "What Is Email Open Rate? How to Increase Email Open Rates is the foundation of successful…\nThe post How to Increase Email Open Rates appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/how-to-increase-email-open-rates-proven-2026-guide/",
-          "publishedOn": "2026-04-22T12:15:19.000Z",
-          "wordCount": 6240,
-          "title": "How to Increase Email Open Rates",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-9.jpeg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2543",
-          "author": "Mazeda Akter",
-          "description": "Google Click Advertising (Google Ads / PPC) Introduction Getting noticed online isn’t just about creating great…\nThe post Google Click Advertising Explained: Boost Your Brand Visibility appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/google-click-advertising-ppc/",
-          "publishedOn": "2026-04-22T10:18:36.000Z",
-          "wordCount": 6552,
-          "title": "Google Click Advertising Explained: Boost Your Brand Visibility",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/google-ads-click-or-ppc-.jpg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2563",
-          "author": "MafuzaAkter",
-          "description": "Introduction Social media has become one of the most powerful tools for small brands to grow…\nThe post Social Media Marketing Strategy for Small Brands appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/social-media-marketing-strategy-for-small-brands/",
-          "publishedOn": "2026-04-22T09:15:44.000Z",
-          "wordCount": 5876,
-          "title": "Social Media Marketing Strategy for Small Brands",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-151414-2.png"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2535",
-          "author": "Hira Mone",
-          "description": "Understanding Online Lead Generation How to Generate Leads Online means attracting the right audience through blogs,…\nThe post How to Generate Leads Online appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/how-to-generate-leads-online-effective-strategies-guide/",
-          "publishedOn": "2026-04-22T06:42:35.000Z",
-          "wordCount": 6176,
-          "title": "How to Generate Leads Online",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-5.jpeg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2512",
-          "author": "Mazeda Akter",
-          "description": "AI In Digital Marketing The Rise of AI in Business Introduction In today’s world, everything is…\nThe post AI In Digital marketing appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/ai-in-digital-marketing/",
-          "publishedOn": "2026-04-22T06:16:18.000Z",
-          "wordCount": 6430,
-          "title": "AI In Digital marketing",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-3.jpeg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2515",
-          "author": "Hira Mone",
-          "description": "Introduction: The Digital Shift How to Generate Leads Online is the key to embracing the digital…\nThe post Why Is Digital Marketing Important appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/why-is-digital-marketing-important/",
-          "publishedOn": "2026-04-21T21:03:26.000Z",
-          "wordCount": 5986,
-          "title": "Why Is Digital Marketing Important",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-4.jpeg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2501",
-          "author": "Hira Mone",
-          "description": "How to Grow Followers on Instagram: A Practical Guide Introduction Grow Instagram followers is more than…\nThe post Grow Instagram Followers: Practical Guide for 2026 Success appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/grow-instagram-followers-practical-guide-for-2026-success/",
-          "publishedOn": "2026-04-21T20:05:15.000Z",
-          "wordCount": 5885,
-          "title": "Grow Instagram Followers: Practical Guide for 2026 Success",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-1.png"
-        }
-      ]
-    },
-    {
       "title": "Explore Relevant Resources for Tech Skill Development",
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=6711",
+          "author": "Tanmay Das",
+          "description": "Thinking of building a career in SEO or PPC, you might be confused and overwhelmed right now. With the digital ad market set to hit $177 billion, both SEO and PPC are incredibly lucrative. Don’t worry! This blog breaks down the reality of both fields, the entry-level pay scales, and why 2026 is the most […]\nThe post SEO vs PPC Career Opportunities: Salary, Skills, & Future Scope (2026 Guide) appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/seo-vs-ppc-career-opportunities-salary-skills-future-scope-2026-guide/",
+          "publishedOn": "2026-05-01T12:36:28.000Z",
+          "wordCount": 7981,
+          "title": "SEO vs PPC Career Opportunities: Salary, Skills, & Future Scope (2026 Guide)",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/05/SEO-or-PPC-Which-is-Your-Future.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=6520",
           "author": "Tanmay Das",
           "description": "Want to explore how to learn SQL? This blog is your step-by-step guide to mastering this programming language. Let’s dive in! Is it even worth learning SQL in 2026 when AI can efficiently ‘write the code’? We often get this question asked by many students, professionals, and career switchers. If you are also confused, here […]\nThe post How to Learn SQL? Complete Guide to Learning SQL for Data Analytics in 2026 appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/sql-learning-complete-guide-for-data-analytics-in-2026/",
           "publishedOn": "2026-04-24T13:14:57.000Z",
-          "wordCount": 7744,
+          "wordCount": 7739,
           "title": "How to Learn SQL? Complete Guide to Learning SQL for Data Analytics in 2026",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/04/SQL-learning-roadmap-for-Data-Analytics-in-2026.webp"
         },
@@ -329,7 +232,7 @@
           "description": "Are you looking for the best Power BI course in Kolkata to fast-track your career into the high-growth data analytics field? If you are seeking the Power BI full course to capitalise on the 11.5 million new jobs expected in the data sector, you have found the perfect guide to help you get started! Companies […]\nThe post Best Power BI Course in Kolkata with Placement Support appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/best-power-bi-course-in-kolkata-with-placement/",
           "publishedOn": "2026-04-17T11:53:27.000Z",
-          "wordCount": 8257,
+          "wordCount": 8252,
           "title": "Best Power BI Course in Kolkata with Placement Support",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/04/Best-Power-BI-Course-in-Kolkata-with-Placement-Support.webp"
         },
@@ -339,7 +242,7 @@
           "description": "If I say that there is one skill that requires you to spend only six months to learn and can increase your lifetime earning potential by 56%? Yes, you read that right! With entry-level Gen AI roles in India now starting at ₹8 to ₹15 LPA, the Generative AI learning path from beginner to advanced […]\nThe post Generative AI Learning Path: Beginner to Advanced Guide in 2026 appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/gen-ai-learning-path-beginner-to-advanced-guide-in-2026/",
           "publishedOn": "2026-04-13T10:53:27.000Z",
-          "wordCount": 8004,
+          "wordCount": 7999,
           "title": "Generative AI Learning Path: Beginner to Advanced Guide in 2026",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/04/Gen-AI-learning-path.webp"
         }
@@ -351,12 +254,22 @@
       "siteUrl": "https://99eedu.com/",
       "articles": [
         {
+          "id": "https://99eedu.com/?p=5139",
+          "author": "Yeash",
+          "description": "Looking for a digital marketing course in Habra that actually prepares you for real work? 99Eedu Institute focuses on practical, career-oriented training so you can build skills with confidence. You’ll gain skills that employers are actively looking for, along with certification and placement support to help you step into the job market. Whether you’re a […]\nThe post Online Digital Marketing Course in Habra – Career Opportunities appeared first on 99EEDU.",
+          "link": "https://99eedu.com/online-digital-marketing-course-in-habra-career-opportunities/",
+          "publishedOn": "2026-05-01T10:54:40.000Z",
+          "wordCount": 5272,
+          "title": "Online Digital Marketing Course in Habra – Career Opportunities",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-7.00.10-PM-1024x576.webp"
+        },
+        {
           "id": "https://99eedu.com/?p=5091",
           "author": "Yeash",
           "description": "If you’re looking to learn digital marketing in Barrackpore, 99Eedu Institute offers a hands-on online program with live projects, SEO training, certifications, and real job assistance. Located near Kolkata, this affordable digital marketing course in Barrackpore stands out as the best digital marketing institute in Barrackpore, blending online flexibility with placement assistance and support in […]\nThe post Placement-Based Online Digital Marketing Course in Barrackpore appeared first on 99EEDU.",
           "link": "https://99eedu.com/placement-based-online-digital-marketing-course-in-barrackpore/",
           "publishedOn": "2026-04-21T10:49:58.000Z",
-          "wordCount": 4603,
+          "wordCount": 5340,
           "title": "Placement-Based Online Digital Marketing Course in Barrackpore",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-6.08.40-PM-1024x576.webp"
         },
@@ -366,7 +279,7 @@
           "description": "Students in Raniganj, ready to build your digital marketing future? At 99Eedu Institute, our beginner-friendly Digital Marketing Course in Raniganj teaches you real-world SEO basics, social media growth tactics, Google Ads from scratch, and trending AI tools. Land your first digital marketing job in 2026 with these budget-friendly online courses loaded with hands-on projects, legit […]\nThe post Online Digital Marketing Course in Raniganj for Beginners appeared first on 99EEDU.",
           "link": "https://99eedu.com/online-digital-marketing-course-in-raniganj-for-beginners/",
           "publishedOn": "2026-04-20T05:23:59.000Z",
-          "wordCount": 3797,
+          "wordCount": 4539,
           "title": "Online Digital Marketing Course in Raniganj for Beginners",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-21-at-6.41.48-PM-1024x576.webp"
         },
