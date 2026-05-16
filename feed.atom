@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-15T03:29:08.206Z</id>
+    <id>urn:2026-05-16T02:52:25.479Z</id>
     <title>Blogs</title>
-    <updated>2026-05-15T03:29:08.206Z</updated>
+    <updated>2026-05-16T02:52:25.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IT Layoffs 2026 and Why AI Upskilling is Needed to Stay Relevant Today]]></title>
+        <id>https://www.webskittersacademy.in/?p=18856</id>
+        <link href="https://www.webskittersacademy.in/it-layoffs-2026-and-why-ai-upskilling-is-needed/"/>
+        <updated>2026-05-15T07:50:49.000Z</updated>
+        <summary type="html"><![CDATA[The year 2026 is all about digitalisation and automation. This shift is bringing major transformations to the IT industry and making the job market more competitive than ever before. In just the first two months of 2026, nearly 30,000 jobs have already been cut across the global tech sector, highlighting how rapidly the industry is… Continue reading IT Layoffs 2026 and Why AI Upskilling is Needed to Stay Relevant Today
+The post IT Layoffs 2026 and Why AI Upskilling is Needed to Stay Relevant Today first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Marketing Course & Job Opportunities After 12th]]></title>
         <id>https://www.moople.in/blog/?p=15908</id>
@@ -476,17 +487,6 @@ The post Best Power BI Course in Kolkata with Placement Support appeared first o
 The post Fix Blender Rendering Issues Fast (Beginner Guide) appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Join an Online Digital Marketing Course in Berhampore]]></title>
-        <id>https://99eedu.com/?p=5068</id>
-        <link href="https://99eedu.com/how-to-join-an-online-digital-marketing-course-in-berhampore/"/>
-        <updated>2026-04-16T06:13:08.000Z</updated>
-        <summary type="html"><![CDATA[If you are looking to join a digital marketing course in Berhampore, the process is now easier than ever, with trusted institutes like 99Eedu Institute offering flexible, career-focused online training. To enrol, you simply need to research a reliable institute, check the course modules, attend a demo class, and complete online registration. A quality online […]
-The post How to Join an Online Digital Marketing Course in Berhampore appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>Yeash</name>
         </author>
     </entry>
 </feed>
