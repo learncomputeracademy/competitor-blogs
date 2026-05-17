@@ -34,16 +34,6 @@
           "wordCount": 12555,
           "title": "Why Digital Skills Are More Important Than Ever",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/04/Why-Digital-Skills-Are-More-Important-Than-Ever.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=18702",
-          "author": "Ayan Sarkar",
-          "description": "APIs have been a transformative aspect of modern app development. According to SQ Magazine’s report, in 2026, around 83% of businesses are using APIs to increase ROI on their digital assets. This is how important API development has become. And, the debate of GraphQL vs REST has always been the talk of the town. As… Continue reading GraphQL vs REST: Which API‑First Approach Should You Learn?\nThe post GraphQL vs REST: Which API‑First Approach Should You Learn? first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/graphql-vs-rest/",
-          "publishedOn": "2026-04-17T12:23:57.000Z",
-          "wordCount": 12836,
-          "title": "GraphQL vs REST: Which API‑First Approach Should You Learn?",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/04/GraphQL-vs-REST-Which-APIFirst-Approach-Should-You-Learn-1.jpg"
         }
       ]
     },
@@ -160,12 +150,22 @@
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
         {
+          "id": "https://www.moople.in/blog/?p=15916",
+          "author": "Farhat Jabeen",
+          "description": "The digital content industry is growing faster than ever. From YouTube creators and OTT platforms to advertising agencies and gaming studios, businesses today depend heavily on video content to connect with audiences. Behind every engaging video is a skilled editor who transforms raw footage into compelling stories. This is why enrolling in a Video Editing […]\nThe post Video Editing Course 2026 appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/video-editing-course-2026/",
+          "publishedOn": "2026-05-16T10:39:26.000Z",
+          "wordCount": 3808,
+          "title": "Video Editing Course 2026",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/05/Untitled-design-87.png"
+        },
+        {
           "id": "https://www.moople.in/blog/?p=15908",
           "author": "Farhat Jabeen",
           "description": "The digital world is growing faster than ever. Every business today wants a strong online presence, from local shops to global brands. This rapid shift has created huge demand for skilled digital marketers. For students looking for a modern and future-ready career, enrolling in a digital marketing course after 12th can open the door to […]\nThe post  Digital Marketing Course & Job Opportunities After 12th appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/digital-marketing-course-job-opportunities-after-12th/",
           "publishedOn": "2026-05-14T09:16:13.000Z",
-          "wordCount": 3676,
+          "wordCount": 3670,
           "title": "Digital Marketing Course & Job Opportunities After 12th",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/05/Untitled-design-72.png"
         },
@@ -175,7 +175,7 @@
           "description": "The entertainment and media industry is growing faster than ever. From blockbuster films and OTT platforms to YouTube content and advertising campaigns, skilled filmmakers are now in high demand. If you are passionate about storytelling, cinematography, editing, or directing, choosing a filmmaking course after 12th can open the door to an exciting and creative future. […]\nThe post Film Making Course After 12th: Your Guide to a Creative Career appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/film-making-course-after-12th-your-guide-to-a-creative-career/",
           "publishedOn": "2026-05-14T06:33:02.000Z",
-          "wordCount": 3586,
+          "wordCount": 3580,
           "title": "Film Making Course After 12th: Your Guide to a Creative Career",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/05/Course-After-12th.png"
         },
@@ -185,7 +185,7 @@
           "description": "In today’s digital world, cyber threats are increasing at an unprecedented rate. From banking apps to social media platforms, every online system needs protection. That is why a cyber security course has become one of the most in-demand career paths for students after 12th. Businesses, governments, hospitals, and even schools are looking for skilled professionals […]\nThe post BSc Cyber Security Course Details: Everything Students Need to Know appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/bsc-cyber-security-course-details-everything-students-need-to-know/",
           "publishedOn": "2026-05-12T10:23:05.000Z",
-          "wordCount": 3340,
+          "wordCount": 3334,
           "title": "BSc Cyber Security Course Details: Everything Students Need to Know",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/05/1.png"
         },
@@ -195,7 +195,7 @@
           "description": "A question every creative student asks You’ve just finished school. You enjoy design, videos, maybe even editing reels or creating posters. But there’s a voice in your head (or maybe your parents’ voice) asking: “Is this a stable career?” “Can you actually earn well from creativity?” Here’s the truth—the digital world runs on content, and […]\nThe post What Jobs Can You Get After Completing a BSc. in Multimedia, Design, and Web Development Course? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/what-jobs-can-you-get-after-completing-a-bsc-in-multimedia-design-and-web-development-course/",
           "publishedOn": "2026-04-22T07:27:46.000Z",
-          "wordCount": 2940,
+          "wordCount": 2934,
           "title": "What Jobs Can You Get After Completing a BSc. in Multimedia, Design, and Web Development Course?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/04/Untitled-design-49.png"
         },
@@ -205,126 +205,9 @@
           "description": "The Big Question: Speed vs Stability A student once asked me, “Should I start earning quickly or invest more time in a bigger career later?” That single question sums up the dilemma between a BSc in Animation and a Diploma in Animation. Here’s the reality: The animation industry doesn’t reward degrees—it rewards skills. But the […]\nThe post BSc in Animation vs Diploma: Which One Pays Off Faster? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/bsc-in-animation-vs-diploma-which-one-pays-off-faster/",
           "publishedOn": "2026-04-20T09:40:36.000Z",
-          "wordCount": 2728,
+          "wordCount": 2722,
           "title": "BSc in Animation vs Diploma: Which One Pays Off Faster?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/04/12312.jpg"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=15804",
-          "author": "Farhat Jabeen",
-          "description": "When Creativity Meets Frustration You’ve spent hours building your 3D scene—perfect lighting, detailed textures, smooth animation. Then comes the final step: rendering. And suddenly—everything slows down. Frames take forever. The output looks noisy. Sometimes, Blender crashes altogether. This is where most beginners get stuck. But here’s the bigger picture: Rendering challenges aren’t just technical problems—they’re […]\nThe post Fix Blender Rendering Issues Fast (Beginner Guide) appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/fix-blender-rendering-issues-fast-beginner-guide/",
-          "publishedOn": "2026-04-17T07:28:24.000Z",
-          "wordCount": 2712,
-          "title": "Fix Blender Rendering Issues Fast (Beginner Guide)",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/04/Picture1.png"
-        }
-      ]
-    },
-    {
-      "title": "Creative IT Institute Blog",
-      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
-      "siteUrl": "https://www.blog.creativeitinstitute.com/",
-      "articles": [
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2605",
-          "author": "Mazeda Akter",
-          "description": "Introduction Definition of the Role: Digital Marketing Strategist A digital marketing strategist is a professional who…\nThe post What Is a Digital Marketing Strategist? appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/what-is-a-digital-marketing-strategist/",
-          "publishedOn": "2026-04-23T04:08:22.000Z",
-          "wordCount": 6224,
-          "title": "What Is a Digital Marketing Strategist?",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/a-professional-digital-marketing-strategist.jpg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2596",
-          "author": "Mazeda Akter",
-          "description": "Introduction In today’s digital world, creating a buzz about your business isn’t just about having a…\nThe post Unlocking Success with a Simple Content Marketing Strategy appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/unlocking-success-with-a-simple-content-marketing-strategy/",
-          "publishedOn": "2026-04-22T14:42:45.000Z",
-          "wordCount": 6071,
-          "title": "Unlocking Success with a Simple Content Marketing Strategy",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/a-professional-content-marketing-strategist.jpg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2574",
-          "author": "Mazeda Akter",
-          "description": "Introduction Email Marketing Email marketing continues to be one of the most reliable ways to reach…\nThe post Email Marketing Strategy: The Complete Guide for 2026 appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/email-marketing-strategy-the-complete-guide-for-2026/",
-          "publishedOn": "2026-04-22T13:04:25.000Z",
-          "wordCount": 6636,
-          "title": "Email Marketing Strategy: The Complete Guide for 2026",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/email-marketing.jpg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2580",
-          "author": "Hira Mone",
-          "description": "What Is Email Open Rate? How to Increase Email Open Rates is the foundation of successful…\nThe post How to Increase Email Open Rates appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/how-to-increase-email-open-rates-proven-2026-guide/",
-          "publishedOn": "2026-04-22T12:15:19.000Z",
-          "wordCount": 6240,
-          "title": "How to Increase Email Open Rates",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-9.jpeg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2543",
-          "author": "Mazeda Akter",
-          "description": "Google Click Advertising (Google Ads / PPC) Introduction Getting noticed online isn’t just about creating great…\nThe post Google Click Advertising Explained: Boost Your Brand Visibility appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/google-click-advertising-ppc/",
-          "publishedOn": "2026-04-22T10:18:36.000Z",
-          "wordCount": 6552,
-          "title": "Google Click Advertising Explained: Boost Your Brand Visibility",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/google-ads-click-or-ppc-.jpg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2563",
-          "author": "MafuzaAkter",
-          "description": "Introduction Social media has become one of the most powerful tools for small brands to grow…\nThe post Social Media Marketing Strategy for Small Brands appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/social-media-marketing-strategy-for-small-brands/",
-          "publishedOn": "2026-04-22T09:15:44.000Z",
-          "wordCount": 5876,
-          "title": "Social Media Marketing Strategy for Small Brands",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-151414-2.png"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2535",
-          "author": "Hira Mone",
-          "description": "Understanding Online Lead Generation How to Generate Leads Online means attracting the right audience through blogs,…\nThe post How to Generate Leads Online appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/how-to-generate-leads-online-effective-strategies-guide/",
-          "publishedOn": "2026-04-22T06:42:35.000Z",
-          "wordCount": 6176,
-          "title": "How to Generate Leads Online",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-5.jpeg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2512",
-          "author": "Mazeda Akter",
-          "description": "AI In Digital Marketing The Rise of AI in Business Introduction In today’s world, everything is…\nThe post AI In Digital marketing appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/ai-in-digital-marketing/",
-          "publishedOn": "2026-04-22T06:16:18.000Z",
-          "wordCount": 6430,
-          "title": "AI In Digital marketing",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-3.jpeg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2515",
-          "author": "Hira Mone",
-          "description": "Introduction: The Digital Shift How to Generate Leads Online is the key to embracing the digital…\nThe post Why Is Digital Marketing Important appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/why-is-digital-marketing-important/",
-          "publishedOn": "2026-04-21T21:03:26.000Z",
-          "wordCount": 5986,
-          "title": "Why Is Digital Marketing Important",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-4.jpeg"
-        },
-        {
-          "id": "https://blog.creativeitinstitute.com/?p=2501",
-          "author": "Hira Mone",
-          "description": "How to Grow Followers on Instagram: A Practical Guide Introduction Grow Instagram followers is more than…\nThe post Grow Instagram Followers: Practical Guide for 2026 Success appeared first on Creative IT Institute Blog.",
-          "link": "https://blog.creativeitinstitute.com/grow-instagram-followers-practical-guide-for-2026-success/",
-          "publishedOn": "2026-04-21T20:05:15.000Z",
-          "wordCount": 5885,
-          "title": "Grow Instagram Followers: Practical Guide for 2026 Success",
-          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/04/image-1.png"
         }
       ]
     },
@@ -362,16 +245,6 @@
           "wordCount": 7789,
           "title": "How to Learn SQL? Complete Guide to Learning SQL for Data Analytics in 2026",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/04/SQL-learning-roadmap-for-Data-Analytics-in-2026.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=6465",
-          "author": "Tanmay Das",
-          "description": "Are you looking for the best Power BI course in Kolkata to fast-track your career into the high-growth data analytics field? If you are seeking the Power BI full course to capitalise on the 11.5 million new jobs expected in the data sector, you have found the perfect guide to help you get started! Companies […]\nThe post Best Power BI Course in Kolkata with Placement Support appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/best-power-bi-course-in-kolkata-with-placement/",
-          "publishedOn": "2026-04-17T11:53:27.000Z",
-          "wordCount": 8404,
-          "title": "Best Power BI Course in Kolkata with Placement Support",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/04/Best-Power-BI-Course-in-Kolkata-with-Placement-Support.webp"
         }
       ]
     },
@@ -386,7 +259,7 @@
           "description": "If you are searching for an online digital marketing course in Alipurduar and wondering where to actually begin, 99Eedu Institute is one of the names worth looking at seriously. The course is designed for beginners, students, fresh graduates, and working professionals who want hands-on digital marketing skills through online learning. The curriculum covers everything that […]\nThe post Online Digital Marketing Course in Alipurduar for Freshers appeared first on 99EEDU.",
           "link": "https://99eedu.com/online-digital-marketing-course-in-alipurduar-for-freshers/",
           "publishedOn": "2026-05-12T13:38:25.000Z",
-          "wordCount": 6129,
+          "wordCount": 5392,
           "title": "Online Digital Marketing Course in Alipurduar for Freshers",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/05/Digital-marketing-course-in-Alipurduar-1024x576.webp"
         },
@@ -426,7 +299,7 @@
           "description": "If you’re looking to learn digital marketing in Barrackpore, 99Eedu Institute offers a hands-on online program with live projects, SEO training, certifications, and real job assistance. Located near Kolkata, this affordable digital marketing course in Barrackpore stands out as the best digital marketing institute in Barrackpore, blending online flexibility with placement assistance and support in […]\nThe post Placement-Based Online Digital Marketing Course in Barrackpore appeared first on 99EEDU.",
           "link": "https://99eedu.com/placement-based-online-digital-marketing-course-in-barrackpore/",
           "publishedOn": "2026-04-21T10:49:58.000Z",
-          "wordCount": 5341,
+          "wordCount": 4603,
           "title": "Placement-Based Online Digital Marketing Course in Barrackpore",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-6.08.40-PM-1024x576.webp"
         },
@@ -446,7 +319,18 @@
       "title": "Blogs | Academy of Web Technologies & Information Management (AWTIM)",
       "feedUrl": "https://awtim.com/blog/feed/",
       "siteUrl": "https://awtim.com/blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://awtim.com/blog/?p=395",
+          "author": "Webmaster Akash",
+          "description": "An ultimade guide on “SEO glossary: 60+ SEO terms and definitions for 2026”  by Academy of Web Technologies & Information\nThe post SEO glossary: 60+ SEO terms and definitions for 2026 first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).",
+          "link": "https://awtim.com/blog/seo-glossary-60-seo-terms-and-definitions-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=seo-glossary-60-seo-terms-and-definitions-for-2026",
+          "publishedOn": "2026-05-16T07:01:12.000Z",
+          "wordCount": 6016,
+          "title": "SEO glossary: 60+ SEO terms and definitions for 2026",
+          "imageUrl": "https://awtim.com/blog/wp-content/uploads/2024/07/awtim-bloglogo-24.png"
+        }
+      ]
     },
     {
       "title": "Best IT Training Institute in Kolkata – Weavers Web Academy",
