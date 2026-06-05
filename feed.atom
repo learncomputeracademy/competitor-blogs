@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-04T03:58:54.314Z</id>
+    <id>urn:2026-06-05T03:42:41.495Z</id>
     <title>Blogs</title>
-    <updated>2026-06-04T03:58:54.314Z</updated>
+    <updated>2026-06-05T03:42:41.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is Coding Mandatory in Cyber Security?]]></title>
+        <id>https://www.moople.in/blog/?p=16178</id>
+        <link href="https://www.moople.in/blog/is-coding-mandatory-in-cyber-security/"/>
+        <updated>2026-06-04T12:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Cyber security has become one of the fastest-growing career fields in the world. As cyber threats continue to increase, organizations need skilled professionals to protect their systems, networks, and sensitive data. However, many students considering a BSc in Cyber Security often have one important question: Is coding mandatory in cyber security? The simple answer is […]
+The post Is Coding Mandatory in Cyber Security? appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the Latest Web Design Trends that You Should Know?]]></title>
+        <id>https://weaversweb.academy/?p=8562</id>
+        <link href="https://weaversweb.academy/what-are-the-latest-web-design-trends-that-you-should-know/"/>
+        <updated>2026-06-04T08:16:21.000Z</updated>
+        <summary type="html"><![CDATA[Website design trends have changed significantly over the years. Businesses know the importance of websites in the modern landscape. It acts as the face of the brand, creating the first point of trust in the journey between the brand and the customer. The design and other elements often determine whether a business gains or loses […]
+The post What are the Latest Web Design Trends that You Should Know? appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
+        <author>
+            <name>C9QXINzrukjG4lXN7o</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How 3D Animation Training Empowers Future Lighting Artists]]></title>
         <id>https://www.moople.in/blog/?p=16156</id>
@@ -314,6 +336,17 @@ The post Online Digital Marketing Course in Serampore with Live Projects appeare
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top 10 Video Editing Institutes in Kolkata [2026 Updated]]]></title>
+        <id>https://www.w3webschool.com/blog/?p=43079</id>
+        <link href="https://www.w3webschool.com/blog/video-editing-institutes-in-kolkata/"/>
+        <updated>2026-05-08T12:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Home / Video Editing Institutes in Kolkata Top 10 Video Editing Institutes in Kolkata [2026 Updated] Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you looking for the most popular and best Video editing institutes in Kolkata? Then you are at the right place. Kolkata’s video editing ... Read more
+The post Top 10 Video Editing Institutes in Kolkata [2026 Updated] appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Choose a React Native Course to Make A Career in Mobile App Development?]]></title>
         <id>https://weaversweb.academy/?p=8156</id>
         <link href="https://weaversweb.academy/why-choose-a-react-native-course-to-make-a-career-in-mobile-app-development/"/>
@@ -322,28 +355,6 @@ The post Online Digital Marketing Course in Serampore with Live Projects appeare
 The post Why Choose a React Native Course to Make A Career in Mobile App Development? appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
         <author>
             <name>C9QXINzrukjG4lXN7o</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Alekhya Made a Strong Comeback with React JS Training]]></title>
-        <id>https://www.webskittersacademy.in/?p=18808</id>
-        <link href="https://www.webskittersacademy.in/how-alekhya-made-a-strong-comeback-with-react-js-training/"/>
-        <updated>2026-05-06T10:07:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s a common misconception among fresh graduates that they will be able to handle a technical job without any prior training. A lot of them try and often face heavy challenges. Alekhya Roy, currently a React developer, started his career like most students do. He completed his degree and immediately began his first job, expecting… Continue reading How Alekhya Made a Strong Comeback with React JS Training
-The post How Alekhya Made a Strong Comeback with React JS Training first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start a Career in Data Science in 2026?]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=6757</id>
-        <link href="https://www.karmickinstitute.com/resources/how-to-start-a-career-in-data-science-in-2026/"/>
-        <updated>2026-05-06T06:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Want to learn how to start a career in data science, and feeling overwhelmed about where to begin? This blog breaks down the exact steps you need to take to become a data scientist commanding a big salary package this year! Woah! We are almost halfway through 2026, and data science is making incredible strides […]
-The post How to Start a Career in Data Science in 2026? appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
 </feed>
