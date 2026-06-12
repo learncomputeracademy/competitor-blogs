@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-11T03:56:51.517Z</id>
+    <id>urn:2026-06-12T03:56:04.716Z</id>
     <title>Blogs</title>
-    <updated>2026-06-11T03:56:51.517Z</updated>
+    <updated>2026-06-12T03:56:04.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web Development Course]]></title>
+        <id>https://www.moople.in/blog/?p=16311</id>
+        <link href="https://www.moople.in/blog/web-development-course/"/>
+        <updated>2026-06-11T09:54:49.000Z</updated>
+        <summary type="html"><![CDATA[The digital world runs on websites, web applications, and online platforms. From e-commerce stores and educational portals to banking systems and social media platforms, almost every business today depends on web technologies. As companies continue their digital transformation journey, the demand for skilled web developers is growing faster than ever. If you are a student […]
+The post Web Development Course appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Which Is the Best Digital Marketing Course in Kolkata for Guaranteed Career Growth]]></title>
         <id>https://99eedu.com/?p=5293</id>
