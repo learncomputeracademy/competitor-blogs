@@ -11,7 +11,7 @@
           "description": "Many students are drawn to technology careers but often struggle to identify the right path. Some explore software development, while others look for opportunities in emerging fields with strong long-term growth. iOS development has become one such career choice. The demand for skilled iOS professionals continues to rise as businesses invest in applications for Apple’s… Continue reading How to Become an iOS Developer: Lessons from Sagnik’s Journey\nThe post How to Become an iOS Developer: Lessons from Sagnik’s Journey first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/how-to-become-an-ios-developer/",
           "publishedOn": "2026-06-08T07:21:52.000Z",
-          "wordCount": 14180,
+          "wordCount": 15160,
           "title": "How to Become an iOS Developer: Lessons from Sagnik’s Journey",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/06/How-to-Become-an-iOS-Developer-Lessons-from-Sagniks-Journey-1.jpg"
         },
@@ -34,16 +34,6 @@
           "wordCount": 14792,
           "title": "Roadmap to a Rewarding Data Analytics Career: Top SQL Interview Questions for Freshers",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/06/Roadmap-to-a-Rewarding-Data-Analytics-Career-Top-SQL-Interview-Questions-for-Freshers.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=18885",
-          "author": "Ayan Sarkar",
-          "description": "The job market is rapidly evolving with the rise of AI and data-driven technologies. From healthcare and finance to ecommerce and marketing, businesses now depend on data-driven insights to make smarter decisions. This shift has driven demand for skilled data professionals across industries. As per a study, there will be a 36% surge in high-paying… Continue reading Data Science Course Syllabus, Fees, and More\nThe post Data Science Course Syllabus, Fees, and More first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/data-science-course-syllabus-fees-and-more/",
-          "publishedOn": "2026-05-21T08:28:24.000Z",
-          "wordCount": 14546,
-          "title": "Data Science Course Syllabus, Fees, and More",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/05/Webskitters-Logo.jpg"
         }
       ]
     },
@@ -52,6 +42,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=43210",
+          "author": "Poulami Dalal",
+          "description": "Home / Digital Marketing Roadmap Digital Marketing Roadmap for 2026: A Beginner’s Guide to Online Mastery Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you confused about how to start your digital marketing career? With rising automation, AI tool usage, and fast-transforming digital trends, many beginners just ... Read more\nThe post Digital Marketing Roadmap for 2026: A Guide to Online Mastery appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/digital-marketing-roadmap/",
+          "publishedOn": "2026-06-19T11:25:35.000Z",
+          "wordCount": 3315,
+          "title": "Digital Marketing Roadmap for 2026: A Guide to Online Mastery",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/06/Digital-Marketing-Roadmap.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=43159",
           "author": "Poulami Dalal",
@@ -208,16 +208,6 @@
           "wordCount": 3934,
           "title": "Is the BSc in Multimedia Better Than the BCA Course?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/05/ChatGPT-Image-May-22-2026-04_18_18-PM-1024x683.png"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=15951",
-          "author": "Farhat Jabeen",
-          "description": "The gaming industry is growing faster than ever. From mobile games and PC titles to VR experiences and esports, game development has become one of the most exciting creative careers for students today. If you are passionate about gaming, storytelling, animation, or digital creativity, joining a 3D Game Design Course can open the door to […]\nThe post 3D Game Design Course – 2026  appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/3d-game-design-course-2026/",
-          "publishedOn": "2026-05-21T13:26:46.000Z",
-          "wordCount": 4975,
-          "title": "3D Game Design Course – 2026",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/05/Untitled-design-97.png"
         }
       ]
     },
@@ -227,12 +217,22 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=7151",
+          "author": "Tanmay Das",
+          "description": "Looking to learn statistics for data analytics, but confused where to start? Don’t worry, most beginners feel the same. At this point, the best part is that you have picked the right career at the right time. As the Indian analytics market is set to hit $21 billion by 2030, there is a massive opening […]\nThe post How To Learn Statistics For Data Analytics – A Complete Guide For Beginners appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/how-to-learn-statistics-for-data-analytics/",
+          "publishedOn": "2026-06-19T06:17:49.000Z",
+          "wordCount": 7874,
+          "title": "How To Learn Statistics For Data Analytics – A Complete Guide For Beginners",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/06/How-To-Learn-Statistics-For-Data-Analytics.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=7135",
           "author": "Tanmay Das",
           "description": "With the global market projected to hit $924 billion by 2032 and analyst roles surging 25% faster than other occupations, learning data analytics can undeniably lead you to an in-demand, high-paying path in 2026 and beyond.  Most people think that the data analytics field is just for computer science graduates or math geniuses: it is […]\nThe post Why Learn Data Analytics in 2026 – A Complete Guide appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/why-learn-data-analytics-in-2026-a-complete-guide/",
           "publishedOn": "2026-06-16T05:26:29.000Z",
-          "wordCount": 7942,
+          "wordCount": 7825,
           "title": "Why Learn Data Analytics in 2026 – A Complete Guide",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/06/Why-Learn-Data-Analytics-in-2026.webp"
         },
@@ -279,7 +279,7 @@
           "description": "If you’re searching for the top digital marketing course in Kolkata with real-world training and solid placement support, 99Eedu Institute is consistently mentioned as one of the most recommended choices in 2026 — known for its industry-aligned curriculum, hands-on live project training, personalised mentorship, and a structured placement process that genuinely goes beyond just handing […]\nThe post Top Digital Marketing Course in Kolkata with Practical Training & Placement Support appeared first on 99EEDU.",
           "link": "https://99eedu.com/top-digital-marketing-course-in-kolkata-with-practical-training-placement-support/",
           "publishedOn": "2026-06-13T11:18:49.000Z",
-          "wordCount": 8610,
+          "wordCount": 7897,
           "title": "Top Digital Marketing Course in Kolkata with Practical Training & Placement Support",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/06/Top-digital-marketing-course-in-kolkata-1024x576.webp"
         },
@@ -289,7 +289,7 @@
           "description": "If you’re looking for the best digital marketing course in Kolkata, you’ve likely compared several training institutes—but understanding what truly sets 99Edu Institute apart can help you make a more informed career decision. With hundreds of course options and even more opinions online, choosing the right digital marketing programme in Kolkata feels harder than it […]\nThe post Which Is the Best Digital Marketing Course in Kolkata for Guaranteed Career Growth appeared first on 99EEDU.",
           "link": "https://99eedu.com/which-is-the-best-digital-marketing-course-in-kolkata-for-guaranteed-career-growth/",
           "publishedOn": "2026-06-09T13:58:38.000Z",
-          "wordCount": 7113,
+          "wordCount": 6400,
           "title": "Which Is the Best Digital Marketing Course in Kolkata for Guaranteed Career Growth",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/06/Best-digital-marketing-course-in-Kolkata-1024x576.webp"
         },
@@ -299,7 +299,7 @@
           "description": "The best digital marketing institute in Kolkata is one that teaches real skills through live projects, not just slides and theory. 99Eedu Institute focuses on practical training, business-relevant projects, and mentorship from working professionals — making it a strong choice for students, freshers, and career switchers looking for job-ready digital marketing skills in 2026. Why should […]\nThe post How to Choose the Right Digital Marketing Institute in Kolkata in 2026 appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-to-choose-the-right-digital-marketing-institute-in-kolkata-in-2026/",
           "publishedOn": "2026-06-02T10:41:27.000Z",
-          "wordCount": 6874,
+          "wordCount": 6162,
           "title": "How to Choose the Right Digital Marketing Institute in Kolkata in 2026",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/06/Digital-Marketing-institute-in-Kolkata-1024x576.webp"
         },
