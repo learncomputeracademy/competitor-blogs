@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-25T03:31:49.609Z</id>
+    <id>urn:2026-06-26T03:38:57.809Z</id>
     <title>Blogs</title>
-    <updated>2026-06-25T03:31:49.609Z</updated>
+    <updated>2026-06-26T03:38:57.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is ROAS in Digital Marketing: The Definitive 2026 Guide]]></title>
+        <id>https://www.w3webschool.com/blog/?p=43374</id>
+        <link href="https://www.w3webschool.com/blog/roas-in-digital-marketing/"/>
+        <updated>2026-06-25T11:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Home / ROAS in Digital Marketing Understanding ROAS in Digital Marketing & How to Calculate it Poulami Dalal Content Writer • 20 min read Book Free Demo Class Table of Contents Are you spending thousands on ads, but not sure if your campaigns are generating profitable returns in real? Most of the businesses focus only ... Read more
+The post What is ROAS in Digital Marketing: The Definitive 2026 Guide appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Entity-Based SEO? Beginner’s Guide for Digital Marketing Students]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=7192</id>
+        <link href="https://www.karmickinstitute.com/resources/what-is-entity-based-seo/"/>
+        <updated>2026-06-25T10:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Ever wonder why some websites show up in Google’s AI overviews consistently, while other brands, even with compelling content packed with keywords and appealing images, barely make it to the second page? That’s entity-based SEO. It is how search engines now understand what content is talking about instead of just matching keywords typed by the […]
+The post What Is Entity-Based SEO? Beginner’s Guide for Digital Marketing Students appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Rank in AI Overview for Better Visibility in 2026]]></title>
         <id>https://www.w3webschool.com/blog/?p=43352</id>
@@ -388,17 +410,6 @@ The post The Technical SEO Roadmap: A Student’s Guide to Landing the First Dig
 The post Best Online Digital Marketing Course in Cooch Behar appeared first on 99EEDU.]]></summary>
         <author>
             <name>Yeash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Differences Between Professional, Advanced, and Expert Level IT Training Courses]]></title>
-        <id>https://weaversweb.academy/?p=8453</id>
-        <link href="https://weaversweb.academy/key-differences-between-professional-advanced-and-expert-training/"/>
-        <updated>2026-05-27T07:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Breaking into the IT field without a traditional tech degree is always difficult. However, as a general graduate, you might dream of being a part of a reputable IT company that pays well and gives you the opportunity to work on different projects. A lack of technical knowledge across various IT areas might prevent you […]
-The post Key Differences Between Professional, Advanced, and Expert Level IT Training Courses appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
-        <author>
-            <name>C9QXINzrukjG4lXN7o</name>
         </author>
     </entry>
 </feed>
