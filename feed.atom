@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-28T03:46:58.499Z</id>
+    <id>urn:2026-06-29T03:53:32.620Z</id>
     <title>Blogs</title>
-    <updated>2026-06-28T03:46:58.499Z</updated>
+    <updated>2026-06-29T03:53:32.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -399,17 +399,6 @@ The post UI and UX Design Course 2026 appeared first on Moople-Institute of Anim
 The post Roadmap to a Rewarding Data Analytics Career: Top SQL Interview Questions for Freshers first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Cyber Security a Stable Career? A Complete Guide for Students]]></title>
-        <id>https://www.moople.in/blog/?p=16114</id>
-        <link href="https://www.moople.in/blog/is-cyber-security-a-stable-career-a-complete-guide-for-students/"/>
-        <updated>2026-05-30T11:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Choosing the right career is one of the biggest decisions students and parents face today. With industries changing rapidly because of technology and artificial intelligence, many students wonder whether traditional jobs will still exist in the future. This is why careers in cybersecurity are getting massive attention worldwide. But one important question still remains: Is […]
-The post Is Cyber Security a Stable Career? A Complete Guide for Students appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
         </author>
     </entry>
 </feed>
