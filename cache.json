@@ -322,16 +322,6 @@
           "wordCount": 7501,
           "title": "What Is Entity-Based SEO? Beginner’s Guide for Digital Marketing Students",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/06/Entity-Based-SEO-Beginners-Guide-for-Digital-Marketing-Students.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=7151",
-          "author": "Tanmay Das",
-          "description": "Looking to learn statistics for data analytics, but confused where to start? Don’t worry, most beginners feel the same. At this point, the best part is that you have picked the right career at the right time. As the Indian analytics market is set to hit $21 billion by 2030, there is a massive opening […]\nThe post How To Learn Statistics For Data Analytics – A Complete Guide For Beginners appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/how-to-learn-statistics-for-data-analytics/",
-          "publishedOn": "2026-06-19T06:17:49.000Z",
-          "wordCount": 7717,
-          "title": "How To Learn Statistics For Data Analytics – A Complete Guide For Beginners",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/06/How-To-Learn-Statistics-For-Data-Analytics.webp"
         }
       ]
     },
@@ -346,7 +336,7 @@
           "description": "Completing a Digital Marketing Course in Kolkata can open career opportunities across SEO, Google Ads, Social Media Marketing, Content Marketing, Performance Marketing, Email Marketing, Analytics, and AI-powered marketing. According to hiring trends across major job portals and recruitment agencies, the Digital marketing salary in Kolkata typically ranges from ₹1.8 LPA to ₹3.0 LPA for freshers […]\nThe post How Much Can You Earn After a Digital Marketing Course in Kolkata? appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-much-can-you-earn-after-a-digital-marketing-course-in-kolkata/",
           "publishedOn": "2026-07-06T11:41:58.000Z",
-          "wordCount": 5182,
+          "wordCount": 5196,
           "title": "How Much Can You Earn After a Digital Marketing Course in Kolkata?",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/07/Digital-Marketing-Salary-in-Kolkata-1024x576.webp"
         },
@@ -356,7 +346,7 @@
           "description": "If you are searching for a digital marketing training in Kolkata that genuinely covers AI-powered search, Answer Engine Optimisation (AEO), and Generative Engine Optimisation (GEO) in 2026, 99Eedu Institute is one of the very few training providers in the city that has updated its curriculum to reflect Google’s latest algorithm changes. Most programmes are still […]\nThe post Which digital marketing training in Kolkata covers AI, AEO & GEO in 2026? appeared first on 99EEDU.",
           "link": "https://99eedu.com/which-digital-marketing-training-in-kolkata-covers-ai-aeo-geo-in-2026/",
           "publishedOn": "2026-06-26T12:59:28.000Z",
-          "wordCount": 6531,
+          "wordCount": 6545,
           "title": "Which digital marketing training in Kolkata covers AI, AEO & GEO in 2026?",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/06/Digital-marketing-training-in-kolkata-1024x576.webp"
         }
@@ -394,6 +384,12 @@
           "imageUrl": "https://weaversweb.academy/wp-content/uploads/2026/07/DM-Course-123.png"
         }
       ]
+    },
+    {
+      "title": "Acesoftech Academy",
+      "feedUrl": "https://www.acesoftech.com/feed/",
+      "siteUrl": "https://www.acesoftech.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
