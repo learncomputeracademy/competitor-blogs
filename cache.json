@@ -1,53 +1,6 @@
 {
   "sources": [
     {
-      "title": "Webskitters Academy",
-      "feedUrl": "https://www.webskittersacademy.in/feed/",
-      "siteUrl": "https://www.webskittersacademy.in",
-      "articles": [
-        {
-          "id": "https://www.webskittersacademy.in/?p=20038",
-          "author": "Ayan Sarkar",
-          "description": "“Will AI replace digital marketers?” It’s a question that’s becoming increasingly common as artificial intelligence transforms the way businesses connect with customers today. From generating content and optimising ad campaigns to analysing consumer behaviour, AI is changing how marketing teams plan, execute, and measure their strategies. However, AI isn’t replacing marketers; it is redefining their… Continue reading AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job\nThe post AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/ai-powered-digital-marketing/",
-          "publishedOn": "2026-07-21T08:41:50.000Z",
-          "wordCount": 14920,
-          "title": "AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/07/AI-Powered-Digital-Marketing-How-AI-Tools-Are-Changing-the-Marketers-Job.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=20031",
-          "author": "Ayan Sarkar",
-          "description": "Modern applications need to be built, tested, and updated quickly without affecting performance or user experience. Companies expect faster software releases, fewer errors, and reliable systems. As software development continues to evolve, many students and aspiring IT professionals are asking the same question: What is DevOps? It is a modern approach that brings development and… Continue reading What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers\nThe post What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/devops-guide-for-beginners/",
-          "publishedOn": "2026-07-13T11:39:39.000Z",
-          "wordCount": 13408,
-          "title": "What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/07/What-Is-DevOps-A-Complete-Beginners-Guide-for-Aspiring-Engineers.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=19981",
-          "author": "Ayan Sarkar",
-          "description": "Artificial Intelligence is evolving at a breathtaking pace, and 2026 is shaping up to be one of the most exciting years for AI-driven careers. From AI-powered chatbots and content creation tools to autonomous agents capable of planning and executing complex tasks, the AI industry is expanding far beyond what many imagined just a few years… Continue reading Generative AI vs Agentic AI: Which Course Should You Choose?\nThe post Generative AI vs Agentic AI: Which Course Should You Choose? first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/generative-ai-vs-agentic-ai/",
-          "publishedOn": "2026-07-06T12:04:16.000Z",
-          "wordCount": 14605,
-          "title": "Generative AI vs Agentic AI: Which Course Should You Choose?",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/07/Generative-AI-vs-Agentic-AI-Which-Cours.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=19913",
-          "author": "Ayan Sarkar",
-          "description": "“Should I learn Python or Java?” Many students planning a career in technology keep asking themselves this question after graduation. With artificial intelligence, automation, cloud computing, and software development creating new opportunities, selecting the right programming language can feel overwhelming. The reality is that both languages continue to play a major role in the technology… Continue reading Python vs Java: Which Programming Language Should You Learn in 2026?\nThe post Python vs Java: Which Programming Language Should You Learn in 2026? first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/python-vs-java-which-language-is-better/",
-          "publishedOn": "2026-06-29T11:23:42.000Z",
-          "wordCount": 14096,
-          "title": "Python vs Java: Which Programming Language Should You Learn in 2026?",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/06/Python-vs-Java-Which-Programming-Language-Should-You-Learn-in-2026-1.jpg"
-        }
-      ]
-    },
-    {
       "title": "W3webschool Blog",
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
@@ -356,7 +309,7 @@
           "description": "Completing a Digital Marketing Course in Kolkata can open career opportunities across SEO, Google Ads, Social Media Marketing, Content Marketing, Performance Marketing, Email Marketing, Analytics, and AI-powered marketing. According to hiring trends across major job portals and recruitment agencies, the Digital marketing salary in Kolkata typically ranges from ₹1.8 LPA to ₹3.0 LPA for freshers […]\nThe post How Much Can You Earn After a Digital Marketing Course in Kolkata? appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-much-can-you-earn-after-a-digital-marketing-course-in-kolkata/",
           "publishedOn": "2026-07-06T11:41:58.000Z",
-          "wordCount": 5916,
+          "wordCount": 5196,
           "title": "How Much Can You Earn After a Digital Marketing Course in Kolkata?",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/07/Digital-Marketing-Salary-in-Kolkata-1024x576.webp"
         }
