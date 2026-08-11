@@ -11,7 +11,7 @@
           "description": "“Can someone without a technical background build a successful career in data?” If this question has crossed your mind, you’re not alone. As businesses continue to rely on data to make informed decisions, the demand for skilled professionals who can manage and organise it continues to grow. Companies generate massive volumes of data every day… Continue reading What Is Data Engineering? A Beginner’s Guide for Non-Tech Students\nThe post What Is Data Engineering? A Beginner’s Guide for Non-Tech Students first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/data-engineering-for-non-tech-students/",
           "publishedOn": "2026-07-31T12:17:18.000Z",
-          "wordCount": 14065,
+          "wordCount": 15123,
           "title": "What Is Data Engineering? A Beginner’s Guide for Non-Tech Students",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/07/What-Is-Data-Engineering-A-Beginners-Guide-for-Non-Tech-Students.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "“Will AI replace digital marketers?” It’s a question that’s becoming increasingly common as artificial intelligence transforms the way businesses connect with customers today. From generating content and optimising ad campaigns to analysing consumer behaviour, AI is changing how marketing teams plan, execute, and measure their strategies. However, AI isn’t replacing marketers; it is redefining their… Continue reading AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job\nThe post AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/ai-powered-digital-marketing/",
           "publishedOn": "2026-07-21T08:41:50.000Z",
-          "wordCount": 13867,
+          "wordCount": 14927,
           "title": "AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/07/AI-Powered-Digital-Marketing-How-AI-Tools-Are-Changing-the-Marketers-Job.jpg"
         },
@@ -31,7 +31,7 @@
           "description": "Modern applications need to be built, tested, and updated quickly without affecting performance or user experience. Companies expect faster software releases, fewer errors, and reliable systems. As software development continues to evolve, many students and aspiring IT professionals are asking the same question: What is DevOps? It is a modern approach that brings development and… Continue reading What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers\nThe post What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/devops-guide-for-beginners/",
           "publishedOn": "2026-07-13T11:39:39.000Z",
-          "wordCount": 13410,
+          "wordCount": 14468,
           "title": "What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/07/What-Is-DevOps-A-Complete-Beginners-Guide-for-Aspiring-Engineers.jpg"
         }
@@ -42,6 +42,16 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
+        {
+          "id": "https://www.w3webschool.com/blog/?p=43932",
+          "author": "W3 WEB SCHOOL",
+          "description": "How Can We Build a Full Stack Developer Portfolio? Introduction Among the most significant worries of new developers is how to develop a portfolio even when they lack professional experience. Most newbies are under the impression that they have to work full-time before developing an impressive portfolio. However, the truth is that you can develop ... Read more\nThe post How Can We Build a Full-Stack Developer Portfolio Without Professional Experience? appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/full-stack-developer-portfolio/",
+          "publishedOn": "2026-08-10T05:03:19.000Z",
+          "wordCount": 2555,
+          "title": "How Can We Build a Full-Stack Developer Portfolio Without Professional Experience?",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/full-stack-developer-blog-pic.png"
+        },
         {
           "id": "https://www.w3webschool.com/blog/?p=43874",
           "author": "Poulami Dalal",
@@ -71,6 +81,73 @@
           "wordCount": 2239,
           "title": "What Is an Executive MBA? A Complete Guide for Leaders and Managers",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/07/What-Is-an-Executive-MBA.png"
+        }
+      ]
+    },
+    {
+      "title": "Moople-Institute of Animation  Design",
+      "feedUrl": "https://www.moople.in/blog/feed/",
+      "siteUrl": "https://www.moople.in/blog/",
+      "articles": [
+        {
+          "id": "https://www.moople.in/blog/?p=17057",
+          "author": "Farhat Jabeen",
+          "description": "If you have ever paused a film to study how a character’s hair moves, or replayed a game trailer to see how the light hits a sword, you already think like an animator. The question most students in Kolkata ask next is more practical: which animation course in Kolkata actually gets you job-ready, and how […]\nThe post Animation Course in Kolkata: From Learning to Placement appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/animation-course-in-kolkata-from-learning-to-placement/",
+          "publishedOn": "2026-08-10T07:44:42.000Z",
+          "wordCount": 4869,
+          "title": "Animation Course in Kolkata: From Learning to Placement",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/From-Learning-to-Placement.png"
+        },
+        {
+          "id": "https://www.moople.in/blog/?p=16975",
+          "author": "Farhat Jabeen",
+          "description": "If you’ve been searching for the best Cyber Security college in Kolkata, you’ve probably noticed that most websites either oversell themselves or drown you in jargon without answering your actual questions — what will I study, how much does it cost, and will I actually get a job afterward? This guide is written to fix […]\nThe post Best Cyber Security College in Kolkata appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/best-cyber-security-college-in-kolkata/",
+          "publishedOn": "2026-08-05T10:28:50.000Z",
+          "wordCount": 4176,
+          "title": "Best Cyber Security College in Kolkata",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-05T132707.157.png"
+        },
+        {
+          "id": "https://www.moople.in/blog/?p=16936",
+          "author": "Farhat Jabeen",
+          "description": "The visual appeal of any animated film, game, or CGI sequence depends heavily on lighting. It is lighting that creates mood, adds realism, directs the audience’s attention, and transforms a simple 3D scene into a cinematic masterpiece. While enrolling in a VFX & filmmaking course helps students understand the technical foundation of visual effects, becoming […]\nThe post Essential Skills for Lighting Artists After Completing a VFX & Film Making Course appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/essential-skills-for-lighting-artists-after-completing-a-vfx-film-making-course/",
+          "publishedOn": "2026-07-27T08:01:58.000Z",
+          "wordCount": 3493,
+          "title": "Essential Skills for Lighting Artists After Completing a VFX & Film Making Course",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/07/Untitled-design-2026-07-27T123837.454.png"
+        },
+        {
+          "id": "https://www.moople.in/blog/?p=16918",
+          "author": "Farhat Jabeen",
+          "description": "In today’s digital world, every business needs a professional website to attract customers and grow online. From startups and e-commerce brands to educational institutions and multinational companies, websites have become the foundation of every successful business. This growing demand has created exciting career opportunities for skilled website designers. If you’re looking for a creative and […]\nThe post How Website Design Classes Can Help You Build a Successful Career appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/how-website-design-classes-can-help-you-build-a-successful-career/",
+          "publishedOn": "2026-07-23T12:10:52.000Z",
+          "wordCount": 3901,
+          "title": "How Website Design Classes Can Help You Build a Successful Career",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/07/Untitled-design-2026-07-23T170356.741.png"
+        },
+        {
+          "id": "https://www.moople.in/blog/?p=16879",
+          "author": "Farhat Jabeen",
+          "description": "The demand for skilled 3D animation professionals is growing rapidly across films, gaming, advertising, architecture, OTT platforms, and digital content creation. If you’re passionate about storytelling, character creation, or visual effects, enrolling in an advanced 3D animation course can be the first step toward building a successful creative career. Today, companies don’t just look for […]\nThe post Advanced 3D Animation Course in Kolkata with Placement appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/best-advanced-3d-animation-course-in-kolkata-with-placement/",
+          "publishedOn": "2026-07-21T10:37:23.000Z",
+          "wordCount": 3823,
+          "title": "Advanced 3D Animation Course in Kolkata with Placement",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/07/Untitled-design-2026-07-21T145204.884.png"
+        },
+        {
+          "id": "https://www.moople.in/blog/?p=16790",
+          "author": "Farhat Jabeen",
+          "description": "In today’s digital-first world, visual content has become the language of communication. From social media advertisements and websites to movie posters and product packaging, almost every digital design starts with Adobe Photoshop. If you’re looking for a Photoshop full Course that can transform your creativity into a rewarding career, now is the perfect time to […]\nThe post Photoshop Full Course in Kolkata appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/photoshop-full-course-in-kolkata/",
+          "publishedOn": "2026-07-15T08:39:52.000Z",
+          "wordCount": 3773,
+          "title": "Photoshop Full Course in Kolkata",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/07/Photoshop.png"
         }
       ]
     },
@@ -187,6 +264,16 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=7734",
+          "author": "Tanmay Das",
+          "description": "Hey everyone, At Karmick Institute, we usually prefer to let our students’ career stories do the talking. But when heavy words like “scam” and questions like “Is Karmick Institute genuine?” or “Is the IIT certification really worth it?” start floating around online—often posted by competitors trying to pull us down or people venting after a […]\nThe post Is Karmick Institute Genuine? The Truth About Our IIT Patna Certification, Reviews, & Placements appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/is-karmick-institute-genuine/",
+          "publishedOn": "2026-08-10T13:48:26.000Z",
+          "wordCount": 5616,
+          "title": "Is Karmick Institute Genuine? The Truth About Our IIT Patna Certification, Reviews, & Placements",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/08/IMAGE-of-students-working-together-in-a-classroom-or-lab-at-campus.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=7548",
           "author": "Tanmay Das",
           "description": "You can build job-ready frontend development skills in six months by learning in the right order — HTML and CSS in month one, JavaScript in months two and three, a framework such as React in month four, and two to three portfolio projects across months five and six. The roadmap below breaks it down month […]\nThe post How to Master Frontend Development in 6 Months – Complete 2026 Roadmap appeared first on Karmick Institute.",
@@ -209,7 +296,7 @@
           "description": "If you want to build a real career in digital marketing in 2026, you can’t skip SEO, GEO, and Answer Engine Optimization (AEO) anymore. The way people look for information has changed. Google Search is still there, but plenty of people now ask ChatGPT, scroll through Google AI Overview, search on Gemini, or just ask […]\nThe post SEO vs GEO vs AEO: What Digital Marketing Students Need to Know in 2026 appeared first on 99EEDU.",
           "link": "https://99eedu.com/answer-engine-optimization/",
           "publishedOn": "2026-07-30T14:07:20.000Z",
-          "wordCount": 6383,
+          "wordCount": 6958,
           "title": "SEO vs GEO vs AEO: What Digital Marketing Students Need to Know in 2026",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/07/Answer-Engine-Optimization-1024x576.webp"
         }
@@ -257,6 +344,12 @@
           "imageUrl": "https://weaversweb.academy/wp-content/uploads/2026/07/React-JS-Course.png"
         }
       ]
+    },
+    {
+      "title": "Acesoftech Academy",
+      "feedUrl": "https://www.acesoftech.com/feed/",
+      "siteUrl": "https://www.acesoftech.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
