@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-11T01:41:08.117Z</id>
+    <id>urn:2026-08-12T01:52:15.044Z</id>
     <title>Blogs</title>
-    <updated>2026-08-11T01:41:08.117Z</updated>
+    <updated>2026-08-12T01:52:15.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Career Opportunities After a Graphic Design Course in Kolkata]]></title>
+        <id>https://www.moople.in/blog/?p=17089</id>
+        <link href="https://www.moople.in/blog/career-opportunities-after-a-graphic-design-course-in-kolkata/"/>
+        <updated>2026-08-11T09:39:48.000Z</updated>
+        <summary type="html"><![CDATA[If you’re weighing whether a graphic design course in Kolkata is worth your time and money, you’re really asking a bigger question: will it actually lead to a job? It’s a fair question. Kolkata has always had a strong creative culture, from its advertising agencies on Park Street to a growing base of design studios […]
+The post Career Opportunities After a Graphic Design Course in Kolkata appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Ultimate Guide: What’s the Difference Between WordPress.com vs WordPress.org?]]></title>
+        <id>https://awtim.com/blog/?p=501</id>
+        <link href="https://awtim.com/blog/whats-the-difference-between-wordpress-com-vs-wordpress-org/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whats-the-difference-between-wordpress-com-vs-wordpress-org"/>
+        <updated>2026-08-11T09:08:35.000Z</updated>
+        <summary type="html"><![CDATA[An Ultimate Guide in 2026: ‘What’s the Difference Between WordPress.com vs WordPress.org?’ – by Academy of Web Technologies & Information
+The post An Ultimate Guide: What’s the Difference Between WordPress.com vs WordPress.org? first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).]]></summary>
+        <author>
+            <name>Webmaster Akash</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Karmick Institute Genuine? The Truth About Our IIT Patna Certification, Reviews, & Placements]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=7734</id>
@@ -311,17 +333,6 @@ The post Photoshop Full Course in Kolkata appeared first on Moople-Institute of 
 The post What are Some Vital Frontend Development Skills with High Future Demand? appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
         <author>
             <name>C9QXINzrukjG4lXN7o</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers]]></title>
-        <id>https://www.webskittersacademy.in/?p=20031</id>
-        <link href="https://www.webskittersacademy.in/devops-guide-for-beginners/"/>
-        <updated>2026-07-13T11:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Modern applications need to be built, tested, and updated quickly without affecting performance or user experience. Companies expect faster software releases, fewer errors, and reliable systems. As software development continues to evolve, many students and aspiring IT professionals are asking the same question: What is DevOps? It is a modern approach that brings development and… Continue reading What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers
-The post What Is DevOps? A Complete Beginner’s Guide for Aspiring Engineers first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>
