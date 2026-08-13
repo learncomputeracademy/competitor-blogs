@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T01:52:15.044Z</id>
+    <id>urn:2026-08-13T01:54:18.999Z</id>
     <title>Blogs</title>
-    <updated>2026-08-12T01:52:15.044Z</updated>
+    <updated>2026-08-13T01:54:18.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Data Analytics Future Scope in India: Career Opportunities, Salary, Skills & Industry Demand]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=7754</id>
+        <link href="https://www.karmickinstitute.com/resources/data-analytics-future-scope-in-india-career-opportunities-salary-skills-industry-demand/"/>
+        <updated>2026-08-12T07:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Thinking about a career in data analytics, but not sure if the job market in India is actually hiring? Here is the short answer: yes, absolutely.  The Indian data analytics market is booming at a 25%+ CAGR (compound annual growth rate), projected to hit $28 billion from $3.3 billion in the coming decade. This has […]
+The post Data Analytics Future Scope in India: Career Opportunities, Salary, Skills & Industry Demand appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Career Opportunities After a Graphic Design Course in Kolkata]]></title>
         <id>https://www.moople.in/blog/?p=17089</id>
@@ -322,17 +333,6 @@ The post What Is an Executive MBA? A Complete Guide for Leaders and Managers app
 The post Photoshop Full Course in Kolkata appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Some Vital Frontend Development Skills with High Future Demand?]]></title>
-        <id>https://weaversweb.academy/?p=8711</id>
-        <link href="https://weaversweb.academy/what-are-some-vital-frontend-development-skills-with-high-future-demand/"/>
-        <updated>2026-07-14T11:10:47.000Z</updated>
-        <summary type="html"><![CDATA[The process of front-end website development has changed greatly over the decades. These changes have only improved the website development process, making the site’s user experience smoother. You can understand the difference by comparing a site from the early 2000s to a modern-day site. Instead of static HTML tables and flashy animations, modern sites possess […]
-The post What are Some Vital Frontend Development Skills with High Future Demand? appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
-        <author>
-            <name>C9QXINzrukjG4lXN7o</name>
         </author>
     </entry>
 </feed>
