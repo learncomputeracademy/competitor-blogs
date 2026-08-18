@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T01:13:14.873Z</id>
+    <id>urn:2026-08-18T01:09:26.470Z</id>
     <title>Blogs</title>
-    <updated>2026-08-17T01:13:14.873Z</updated>
+    <updated>2026-08-18T01:09:26.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 7 Data Analytics Tools You Must Master in 2026]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=7782</id>
+        <link href="https://www.karmickinstitute.com/resources/top-7-data-analytics-tools-you-must-master-in-2026/"/>
+        <updated>2026-08-17T10:41:20.000Z</updated>
+        <summary type="html"><![CDATA[What are the top data analytics tools? The most in-demand data analytics tools to master in 2026 include SQL, Python, Power BI, Tableau, Advanced Excel, R, and cloud-based platforms. If you are looking for a future-proof career, you are on the right career path, as data and AI are the perfect field to be in.  […]
+The post Top 7 Data Analytics Tools You Must Master in 2026 appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Students Prefer Digital Marketing Courses in Kolkata Over Online Programs]]></title>
         <id>https://99eedu.com/?p=5381</id>
