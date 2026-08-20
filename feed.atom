@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T01:10:57.729Z</id>
+    <id>urn:2026-08-20T01:10:00.805Z</id>
     <title>Blogs</title>
-    <updated>2026-08-19T01:10:57.729Z</updated>
+    <updated>2026-08-20T01:10:00.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[VFX Course Fees in Kolkata: Diploma vs Degree Costs]]></title>
+        <id>https://www.moople.in/blog/?p=17102</id>
+        <link href="https://www.moople.in/blog/vfx-course-fees-in-kolkata-diploma-vs-degree-costs/"/>
+        <updated>2026-08-19T10:11:35.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve started researching VFX course fees in Kolkata, you’ve probably noticed something frustrating: every institute quotes a different number, and none of them explain what that number actually includes. One brochure says ₹90,000. Another says ₹3.5 lakh. A university degree page says ₹6 lakh over three years. Are these even the same thing? They’re […]
+The post VFX Course Fees in Kolkata: Diploma vs Degree Costs appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 AI Marketing Skills You Need to Land a Digital Marketing Job Today]]></title>
+        <id>https://www.webskittersacademy.in/?p=20230</id>
+        <link href="https://www.webskittersacademy.in/ai-marketing-skills-to-land-a-digital-marketing-job/"/>
+        <updated>2026-08-19T07:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Digital marketing is changing quickly. AI is now influencing how brands create content, analyse customer behaviour, personalise campaigns, and reach audiences. According to Salesforce’s State of Marketing, 75% of marketing organisations now use at least one form of AI. They use it for activities such as content personalisation, campaign prediction, or visual creation. This change… Continue reading 7 AI Marketing Skills You Need to Land a Digital Marketing Job Today
+The post 7 AI Marketing Skills You Need to Land a Digital Marketing Job Today first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEO with TOOLS and without TOOLS]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2748</id>
+        <link href="https://blog.creativeitinstitute.com/ai-with-vs-without-seo/"/>
+        <updated>2026-08-18T23:37:33.000Z</updated>
+        <summary type="html"><![CDATA[INTRODUCTION AI Tools for SEO: Smarter Strategies for Businesses in Bangladesh In today’s competitive online landscape,…
+The post  SEO with TOOLS and without TOOLS appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>MahmudaRahman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 7 Data Analytics Tools You Must Master in 2026]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=7782</id>
@@ -116,6 +149,39 @@ The post How Can We Build a Full-Stack Developer Portfolio Without Professional 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Conduct SEO Keyword Research: A Practical Step-by-Step Guide]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2741</id>
+        <link href="https://blog.creativeitinstitute.com/how-to-do-keyword-research/"/>
+        <updated>2026-08-08T16:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Strong search visibility starts with understanding what people search for. That’s why keyword research is…
+The post How to Conduct SEO Keyword Research: A Practical Step-by-Step Guide appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>ShanazShikha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Your Google Rankings in 2026: A Practical SEO Guide]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2733</id>
+        <link href="https://blog.creativeitinstitute.com/how-to-improve-website-ranking-on-google-in-2026/"/>
+        <updated>2026-08-08T09:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Getting a website onto the first page of Google is a major objective for many…
+The post How to Improve Your Google Rankings in 2026: A Practical SEO Guide appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>ShanazShikha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Essential Steps of Web Development: A Complete Process Guide (2026)]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2725</id>
+        <link href="https://blog.creativeitinstitute.com/steps-of-web-development-process-guide/"/>
+        <updated>2026-08-06T13:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Discover the 7 crucial steps of the web development process. Learn how to plan, design, code, test, and launch a successful website with this comprehensive step-by-step guide for 2026.
+The post The 7 Essential Steps of Web Development: A Complete Process Guide (2026) appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>AfrozaAkhter</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Best Cyber Security College in Kolkata]]></title>
         <id>https://www.moople.in/blog/?p=16975</id>
         <link href="https://www.moople.in/blog/best-cyber-security-college-in-kolkata/"/>
@@ -135,6 +201,17 @@ The post Best Cyber Security College in Kolkata appeared first on Moople-Institu
 The post What Is Data Engineering? A Beginner’s Guide for Non-Tech Students first appeared on Webskitters Academy.]]></summary>
         <author>
             <name>Ayan Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI for Business (2026): A Practical Growth Guide]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2713</id>
+        <link href="https://blog.creativeitinstitute.com/ai-for-business-practical-guide-2026/"/>
+        <updated>2026-07-30T15:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to use AI for business in 2026. Learn proven strategies, real-world application frameworks, and actionable steps to boost productivity and drive bottom-line growth
+The post AI for Business (2026): A Practical Growth Guide appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>AfrozaAkhter</name>
         </author>
     </entry>
     <entry>
@@ -171,6 +248,50 @@ The post Top 10 Video Editing Courses in Mumbai [2026 Updated] appeared first on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lead Generation for Local Businesses: What to Do First, Second, and Next in 2026]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2678</id>
+        <link href="https://blog.creativeitinstitute.com/lead-generation-for-local-businesses/"/>
+        <updated>2026-07-28T17:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Lead generation for local businesses means getting nearby people to contact you. They find you. They…
+The post Lead Generation for Local Businesses: What to Do First, Second, and Next in 2026 appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>WahidHasanKutubuddin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local SEO Lead Generation: How Local Customers Find You and Choose You in 2026]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2671</id>
+        <link href="https://blog.creativeitinstitute.com/local-seo-lead-generation/"/>
+        <updated>2026-07-28T17:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Local SEO lead generation refers to the process of using local search. It helps to attract…
+The post Local SEO Lead Generation: How Local Customers Find You and Choose You in 2026 appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>WahidHasanKutubuddin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use AI in Marketing: Practical Applications That Actually Work (2026)]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2697</id>
+        <link href="https://blog.creativeitinstitute.com/how-to-use-ai-in-marketing/"/>
+        <updated>2026-07-28T16:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Discover practical and proven ways to use AI in marketing for 2026. Learn how top brands leverage artificial intelligence to automate workflows, personalize customer journeys, and drive real ROI.
+The post How to Use AI in Marketing: Practical Applications That Actually Work (2026) appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>AfrozaAkhter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Email Marketing Work? The 2026 Guide]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2686</id>
+        <link href="https://blog.creativeitinstitute.com/how-does-email-marketing-work/"/>
+        <updated>2026-07-27T15:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Learn how email marketing works step-by-step. Discover proven strategies to build your list, automate campaigns, and grow your business in 2026.
+The post How Does Email Marketing Work? The 2026 Guide appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>AfrozaAkhter</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Essential Skills for Lighting Artists After Completing a VFX & Film Making Course]]></title>
         <id>https://www.moople.in/blog/?p=16936</id>
         <link href="https://www.moople.in/blog/essential-skills-for-lighting-artists-after-completing-a-vfx-film-making-course/"/>
@@ -204,6 +325,17 @@ The post Best Institute for Performance Marketing Training in Kolkata for Future
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Do SEO Services Work? An Honest Look at What to Expect in 2026]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2663</id>
+        <link href="https://blog.creativeitinstitute.com/do-seo-services-work/"/>
+        <updated>2026-07-24T07:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Category: SEO · Buyer’s Guide · 12 min readPublished: June 11, 2026 · Last updated June…
+The post Do SEO Services Work? An Honest Look at What to Expect in 2026 appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>AfrozaAkhter</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Website Design Classes Can Help You Build a Successful Career]]></title>
         <id>https://www.moople.in/blog/?p=16918</id>
         <link href="https://www.moople.in/blog/how-website-design-classes-can-help-you-build-a-successful-career/"/>
@@ -212,28 +344,6 @@ The post Best Institute for Performance Marketing Training in Kolkata for Future
 The post How Website Design Classes Can Help You Build a Successful Career appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced 3D Animation Course in Kolkata with Placement]]></title>
-        <id>https://www.moople.in/blog/?p=16879</id>
-        <link href="https://www.moople.in/blog/best-advanced-3d-animation-course-in-kolkata-with-placement/"/>
-        <updated>2026-07-21T10:37:23.000Z</updated>
-        <summary type="html"><![CDATA[The demand for skilled 3D animation professionals is growing rapidly across films, gaming, advertising, architecture, OTT platforms, and digital content creation. If you’re passionate about storytelling, character creation, or visual effects, enrolling in an advanced 3D animation course can be the first step toward building a successful creative career. Today, companies don’t just look for […]
-The post Advanced 3D Animation Course in Kolkata with Placement appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job]]></title>
-        <id>https://www.webskittersacademy.in/?p=20038</id>
-        <link href="https://www.webskittersacademy.in/ai-powered-digital-marketing/"/>
-        <updated>2026-07-21T08:41:50.000Z</updated>
-        <summary type="html"><![CDATA[“Will AI replace digital marketers?” It’s a question that’s becoming increasingly common as artificial intelligence transforms the way businesses connect with customers today. From generating content and optimising ad campaigns to analysing consumer behaviour, AI is changing how marketing teams plan, execute, and measure their strategies. However, AI isn’t replacing marketers; it is redefining their… Continue reading AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job
-The post AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>

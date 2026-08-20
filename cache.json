@@ -6,24 +6,24 @@
       "siteUrl": "https://www.webskittersacademy.in",
       "articles": [
         {
+          "id": "https://www.webskittersacademy.in/?p=20230",
+          "author": "Ayan Sarkar",
+          "description": "Digital marketing is changing quickly. AI is now influencing how brands create content, analyse customer behaviour, personalise campaigns, and reach audiences. According to Salesforce’s State of Marketing, 75% of marketing organisations now use at least one form of AI. They use it for activities such as content personalisation, campaign prediction, or visual creation. This change… Continue reading 7 AI Marketing Skills You Need to Land a Digital Marketing Job Today\nThe post 7 AI Marketing Skills You Need to Land a Digital Marketing Job Today first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/ai-marketing-skills-to-land-a-digital-marketing-job/",
+          "publishedOn": "2026-08-19T07:58:17.000Z",
+          "wordCount": 14278,
+          "title": "7 AI Marketing Skills You Need to Land a Digital Marketing Job Today",
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/08/7-AI-Marketing-Skills-You-Need-to-Land-a-Digital-Marketing-Job-Today.jpg"
+        },
+        {
           "id": "https://www.webskittersacademy.in/?p=20150",
           "author": "Ayan Sarkar",
           "description": "“Can someone without a technical background build a successful career in data?” If this question has crossed your mind, you’re not alone. As businesses continue to rely on data to make informed decisions, the demand for skilled professionals who can manage and organise it continues to grow. Companies generate massive volumes of data every day… Continue reading What Is Data Engineering? A Beginner’s Guide for Non-Tech Students\nThe post What Is Data Engineering? A Beginner’s Guide for Non-Tech Students first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/data-engineering-for-non-tech-students/",
           "publishedOn": "2026-07-31T12:17:18.000Z",
-          "wordCount": 14099,
+          "wordCount": 14109,
           "title": "What Is Data Engineering? A Beginner’s Guide for Non-Tech Students",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/07/What-Is-Data-Engineering-A-Beginners-Guide-for-Non-Tech-Students.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=20038",
-          "author": "Ayan Sarkar",
-          "description": "“Will AI replace digital marketers?” It’s a question that’s becoming increasingly common as artificial intelligence transforms the way businesses connect with customers today. From generating content and optimising ad campaigns to analysing consumer behaviour, AI is changing how marketing teams plan, execute, and measure their strategies. However, AI isn’t replacing marketers; it is redefining their… Continue reading AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job\nThe post AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/ai-powered-digital-marketing/",
-          "publishedOn": "2026-07-21T08:41:50.000Z",
-          "wordCount": 13901,
-          "title": "AI-Powered Digital Marketing: How AI Tools Are Changing the Marketer’s Job",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/07/AI-Powered-Digital-Marketing-How-AI-Tools-Are-Changing-the-Marketers-Job.jpg"
         }
       ]
     },
@@ -90,12 +90,22 @@
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
         {
+          "id": "https://www.moople.in/blog/?p=17102",
+          "author": "Farhat Jabeen",
+          "description": "If you’ve started researching VFX course fees in Kolkata, you’ve probably noticed something frustrating: every institute quotes a different number, and none of them explain what that number actually includes. One brochure says ₹90,000. Another says ₹3.5 lakh. A university degree page says ₹6 lakh over three years. Are these even the same thing? They’re […]\nThe post VFX Course Fees in Kolkata: Diploma vs Degree Costs appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/vfx-course-fees-in-kolkata-diploma-vs-degree-costs/",
+          "publishedOn": "2026-08-19T10:11:35.000Z",
+          "wordCount": 4424,
+          "title": "VFX Course Fees in Kolkata: Diploma vs Degree Costs",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-19T150320.108.png"
+        },
+        {
           "id": "https://www.moople.in/blog/?p=17089",
           "author": "Farhat Jabeen",
           "description": "If you’re weighing whether a graphic design course in Kolkata is worth your time and money, you’re really asking a bigger question: will it actually lead to a job? It’s a fair question. Kolkata has always had a strong creative culture, from its advertising agencies on Park Street to a growing base of design studios […]\nThe post Career Opportunities After a Graphic Design Course in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/career-opportunities-after-a-graphic-design-course-in-kolkata/",
           "publishedOn": "2026-08-11T09:39:48.000Z",
-          "wordCount": 6880,
+          "wordCount": 6878,
           "title": "Career Opportunities After a Graphic Design Course in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-11T121605.235.png"
         },
@@ -105,7 +115,7 @@
           "description": "If you have ever paused a film to study how a character’s hair moves, or replayed a game trailer to see how the light hits a sword, you already think like an animator. The question most students in Kolkata ask next is more practical: which animation course in Kolkata actually gets you job-ready, and how […]\nThe post Animation Course in Kolkata: From Learning to Placement appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/animation-course-in-kolkata-from-learning-to-placement/",
           "publishedOn": "2026-08-10T07:44:42.000Z",
-          "wordCount": 4870,
+          "wordCount": 4868,
           "title": "Animation Course in Kolkata: From Learning to Placement",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/From-Learning-to-Placement.png"
         },
@@ -115,7 +125,7 @@
           "description": "If you’ve been searching for the best Cyber Security college in Kolkata, you’ve probably noticed that most websites either oversell themselves or drown you in jargon without answering your actual questions — what will I study, how much does it cost, and will I actually get a job afterward? This guide is written to fix […]\nThe post Best Cyber Security College in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-cyber-security-college-in-kolkata/",
           "publishedOn": "2026-08-05T10:28:50.000Z",
-          "wordCount": 4177,
+          "wordCount": 4175,
           "title": "Best Cyber Security College in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-05T132707.157.png"
         },
@@ -125,7 +135,7 @@
           "description": "The visual appeal of any animated film, game, or CGI sequence depends heavily on lighting. It is lighting that creates mood, adds realism, directs the audience’s attention, and transforms a simple 3D scene into a cinematic masterpiece. While enrolling in a VFX & filmmaking course helps students understand the technical foundation of visual effects, becoming […]\nThe post Essential Skills for Lighting Artists After Completing a VFX & Film Making Course appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/essential-skills-for-lighting-artists-after-completing-a-vfx-film-making-course/",
           "publishedOn": "2026-07-27T08:01:58.000Z",
-          "wordCount": 3494,
+          "wordCount": 3502,
           "title": "Essential Skills for Lighting Artists After Completing a VFX & Film Making Course",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/07/Untitled-design-2026-07-27T123837.454.png"
         },
@@ -135,19 +145,116 @@
           "description": "In today’s digital world, every business needs a professional website to attract customers and grow online. From startups and e-commerce brands to educational institutions and multinational companies, websites have become the foundation of every successful business. This growing demand has created exciting career opportunities for skilled website designers. If you’re looking for a creative and […]\nThe post How Website Design Classes Can Help You Build a Successful Career appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-website-design-classes-can-help-you-build-a-successful-career/",
           "publishedOn": "2026-07-23T12:10:52.000Z",
-          "wordCount": 3902,
+          "wordCount": 3900,
           "title": "How Website Design Classes Can Help You Build a Successful Career",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/07/Untitled-design-2026-07-23T170356.741.png"
+        }
+      ]
+    },
+    {
+      "title": "Creative IT Institute Blog",
+      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
+      "articles": [
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2748",
+          "author": "MahmudaRahman",
+          "description": "INTRODUCTION AI Tools for SEO: Smarter Strategies for Businesses in Bangladesh In today’s competitive online landscape,…\nThe post  SEO with TOOLS and without TOOLS appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/ai-with-vs-without-seo/",
+          "publishedOn": "2026-08-18T23:37:33.000Z",
+          "wordCount": 7392,
+          "title": "SEO with TOOLS and without TOOLS",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/08/AI-with-and-without-SEO.jpg"
         },
         {
-          "id": "https://www.moople.in/blog/?p=16879",
-          "author": "Farhat Jabeen",
-          "description": "The demand for skilled 3D animation professionals is growing rapidly across films, gaming, advertising, architecture, OTT platforms, and digital content creation. If you’re passionate about storytelling, character creation, or visual effects, enrolling in an advanced 3D animation course can be the first step toward building a successful creative career. Today, companies don’t just look for […]\nThe post Advanced 3D Animation Course in Kolkata with Placement appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/best-advanced-3d-animation-course-in-kolkata-with-placement/",
-          "publishedOn": "2026-07-21T10:37:23.000Z",
-          "wordCount": 3824,
-          "title": "Advanced 3D Animation Course in Kolkata with Placement",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/07/Untitled-design-2026-07-21T145204.884.png"
+          "id": "https://blog.creativeitinstitute.com/?p=2741",
+          "author": "ShanazShikha",
+          "description": "Introduction Strong search visibility starts with understanding what people search for. That’s why keyword research is…\nThe post How to Conduct SEO Keyword Research: A Practical Step-by-Step Guide appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/how-to-do-keyword-research/",
+          "publishedOn": "2026-08-08T16:52:41.000Z",
+          "wordCount": 6925,
+          "title": "How to Conduct SEO Keyword Research: A Practical Step-by-Step Guide",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/08/01_seo_blog_writing.webp"
+        },
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2733",
+          "author": "ShanazShikha",
+          "description": "Introduction Getting a website onto the first page of Google is a major objective for many…\nThe post How to Improve Your Google Rankings in 2026: A Practical SEO Guide appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/how-to-improve-website-ranking-on-google-in-2026/",
+          "publishedOn": "2026-08-08T09:19:28.000Z",
+          "wordCount": 7829,
+          "title": "How to Improve Your Google Rankings in 2026: A Practical SEO Guide",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/08/on_page_seo.webp"
+        },
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2725",
+          "author": "AfrozaAkhter",
+          "description": "Discover the 7 crucial steps of the web development process. Learn how to plan, design, code, test, and launch a successful website with this comprehensive step-by-step guide for 2026.\nThe post The 7 Essential Steps of Web Development: A Complete Process Guide (2026) appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/steps-of-web-development-process-guide/",
+          "publishedOn": "2026-08-06T13:48:34.000Z",
+          "wordCount": 7316,
+          "title": "The 7 Essential Steps of Web Development: A Complete Process Guide (2026)",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/08/web-development-.jpg"
+        },
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2713",
+          "author": "AfrozaAkhter",
+          "description": "Discover how to use AI for business in 2026. Learn proven strategies, real-world application frameworks, and actionable steps to boost productivity and drive bottom-line growth\nThe post AI for Business (2026): A Practical Growth Guide appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/ai-for-business-practical-guide-2026/",
+          "publishedOn": "2026-07-30T15:43:05.000Z",
+          "wordCount": 8387,
+          "title": "AI for Business (2026): A Practical Growth Guide",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/07/13391.jpg"
+        },
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2678",
+          "author": "WahidHasanKutubuddin",
+          "description": "Lead generation for local businesses means getting nearby people to contact you. They find you. They…\nThe post Lead Generation for Local Businesses: What to Do First, Second, and Next in 2026 appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/lead-generation-for-local-businesses/",
+          "publishedOn": "2026-07-28T17:53:52.000Z",
+          "wordCount": 8818,
+          "title": "Lead Generation for Local Businesses: What to Do First, Second, and Next in 2026",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/07/lead-generation-local-businesses-featured.webp"
+        },
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2671",
+          "author": "WahidHasanKutubuddin",
+          "description": "Local SEO lead generation refers to the process of using local search. It helps to attract…\nThe post Local SEO Lead Generation: How Local Customers Find You and Choose You in 2026 appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/local-seo-lead-generation/",
+          "publishedOn": "2026-07-28T17:44:01.000Z",
+          "wordCount": 8588,
+          "title": "Local SEO Lead Generation: How Local Customers Find You and Choose You in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2697",
+          "author": "AfrozaAkhter",
+          "description": "Discover practical and proven ways to use AI in marketing for 2026. Learn how top brands leverage artificial intelligence to automate workflows, personalize customer journeys, and drive real ROI.\nThe post How to Use AI in Marketing: Practical Applications That Actually Work (2026) appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/how-to-use-ai-in-marketing/",
+          "publishedOn": "2026-07-28T16:14:40.000Z",
+          "wordCount": 7117,
+          "title": "How to Use AI in Marketing: Practical Applications That Actually Work (2026)",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/07/image-4.jpeg"
+        },
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2686",
+          "author": "AfrozaAkhter",
+          "description": "Learn how email marketing works step-by-step. Discover proven strategies to build your list, automate campaigns, and grow your business in 2026.\nThe post How Does Email Marketing Work? The 2026 Guide appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/how-does-email-marketing-work/",
+          "publishedOn": "2026-07-27T15:44:33.000Z",
+          "wordCount": 7016,
+          "title": "How Does Email Marketing Work? The 2026 Guide",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/07/278.jpg"
+        },
+        {
+          "id": "https://blog.creativeitinstitute.com/?p=2663",
+          "author": "AfrozaAkhter",
+          "description": "Category: SEO · Buyer’s Guide · 12 min readPublished: June 11, 2026 · Last updated June…\nThe post Do SEO Services Work? An Honest Look at What to Expect in 2026 appeared first on Creative IT Institute Blog.",
+          "link": "https://blog.creativeitinstitute.com/do-seo-services-work/",
+          "publishedOn": "2026-07-24T07:01:12.000Z",
+          "wordCount": 7239,
+          "title": "Do SEO Services Work? An Honest Look at What to Expect in 2026",
+          "imageUrl": "https://blog.creativeitinstitute.com/wp-content/uploads/2026/07/how_to_do_email_marketing_2.jpg"
         }
       ]
     },
@@ -162,7 +269,7 @@
           "description": "What are the top data analytics tools? The most in-demand data analytics tools to master in 2026 include SQL, Python, Power BI, Tableau, Advanced Excel, R, and cloud-based platforms. If you are looking for a future-proof career, you are on the right career path, as data and AI are the perfect field to be in.  […]\nThe post Top 7 Data Analytics Tools You Must Master in 2026 appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/top-7-data-analytics-tools-you-must-master-in-2026/",
           "publishedOn": "2026-08-17T10:41:20.000Z",
-          "wordCount": 7188,
+          "wordCount": 7545,
           "title": "Top 7 Data Analytics Tools You Must Master in 2026",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/08/7-Data-Analytics-Tools-You-Must-Master-in-2026.webp"
         },
@@ -172,7 +279,7 @@
           "description": "Thinking about a career in data analytics, but not sure if the job market in India is actually hiring? Here is the short answer: yes, absolutely.  The Indian data analytics market is booming at a 25%+ CAGR (compound annual growth rate), projected to hit $28 billion from $3.3 billion in the coming decade. This has […]\nThe post Data Analytics Future Scope in India: Career Opportunities, Salary, Skills & Industry Demand appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/data-analytics-future-scope-in-india-career-opportunities-salary-skills-industry-demand/",
           "publishedOn": "2026-08-12T07:47:21.000Z",
-          "wordCount": 7516,
+          "wordCount": 7873,
           "title": "Data Analytics Future Scope in India: Career Opportunities, Salary, Skills & Industry Demand",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/08/future-scope-of-Data-Analytics.webp"
         },
@@ -182,7 +289,7 @@
           "description": "Hey everyone, At Karmick Institute, we usually prefer to let our students’ career stories do the talking. But when heavy words like “scam” and questions like “Is Karmick Institute genuine?” or “Is the IIT certification really worth it?” start floating around online—often posted by competitors trying to pull us down or people venting after a […]\nThe post Is Karmick Institute Genuine? The Truth About Our IIT Patna Certification, Reviews, & Placements appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/is-karmick-institute-genuine/",
           "publishedOn": "2026-08-10T13:48:26.000Z",
-          "wordCount": 5581,
+          "wordCount": 5938,
           "title": "Is Karmick Institute Genuine? The Truth About Our IIT Patna Certification, Reviews, & Placements",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/08/IMAGE-of-students-working-together-in-a-classroom-or-lab-at-campus.webp"
         },
@@ -192,7 +299,7 @@
           "description": "You can build job-ready frontend development skills in six months by learning in the right order — HTML and CSS in month one, JavaScript in months two and three, a framework such as React in month four, and two to three portfolio projects across months five and six. The roadmap below breaks it down month […]\nThe post How to Master Frontend Development in 6 Months – Complete 2026 Roadmap appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/how-to-master-frontend-development-in-6-months/",
           "publishedOn": "2026-07-30T13:08:05.000Z",
-          "wordCount": 6845,
+          "wordCount": 7202,
           "title": "How to Master Frontend Development in 6 Months – Complete 2026 Roadmap",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/07/complete-2026-Roadmap-to-master-frontend-web-development.webp"
         }
@@ -209,7 +316,7 @@
           "description": "If you’re searching for an online digital marketing course in Kolkata, one of the first questions you’ll face is whether to learn through self-paced videos, join a live classroom or a hybrid programme. While online courses give you the freedom to learn at your own pace, many beginners find it easier to build real skills […]\nThe post Why Students Prefer Digital Marketing Courses in Kolkata Over Online Programs appeared first on 99EEDU.",
           "link": "https://99eedu.com/why-students-prefer-digital-marketing-courses-in-kolkata-over-online-programs/",
           "publishedOn": "2026-08-14T13:51:22.000Z",
-          "wordCount": 6087,
+          "wordCount": 5285,
           "title": "Why Students Prefer Digital Marketing Courses in Kolkata Over Online Programs",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/08/Online-digital-marketing-course-in-Kolkata-1024x576.webp"
         },
@@ -219,7 +326,7 @@
           "description": "If you want to build a real career in digital marketing in 2026, you can’t skip SEO, GEO, and Answer Engine Optimization (AEO) anymore. The way people look for information has changed. Google Search is still there, but plenty of people now ask ChatGPT, scroll through Google AI Overview, search on Gemini, or just ask […]\nThe post SEO vs GEO vs AEO: What Digital Marketing Students Need to Know in 2026 appeared first on 99EEDU.",
           "link": "https://99eedu.com/answer-engine-optimization/",
           "publishedOn": "2026-07-30T14:07:20.000Z",
-          "wordCount": 6249,
+          "wordCount": 6167,
           "title": "SEO vs GEO vs AEO: What Digital Marketing Students Need to Know in 2026",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/07/Answer-Engine-Optimization-1024x576.webp"
         }
