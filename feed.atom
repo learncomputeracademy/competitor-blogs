@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-21T01:14:26.455Z</id>
+    <id>urn:2026-08-22T01:10:29.225Z</id>
     <title>Blogs</title>
-    <updated>2026-08-21T01:14:26.455Z</updated>
+    <updated>2026-08-22T01:10:29.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEO Content Writing: How to Create Content That Ranks]]></title>
+        <id>https://blog.creativeitinstitute.com/?p=2800</id>
+        <link href="https://blog.creativeitinstitute.com/seo-content-writing/"/>
+        <updated>2026-08-21T19:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Introduction SEO Content Writing is the process of creating helpful, relevant, and optimized content that ranks…
+The post SEO Content Writing: How to Create Content That Ranks appeared first on Creative IT Institute Blog.]]></summary>
+        <author>
+            <name>MahmudaRahman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose Digital Marketing Training in Dumdum]]></title>
+        <id>https://99eedu.com/?p=5652</id>
+        <link href="https://99eedu.com/how-to-choose-digital-marketing-training-in-dumdum/"/>
+        <updated>2026-08-21T13:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right digital marketing training in Dumdum is easier when you look beyond course fees and promotional claims. A lot of institutes promise the same outcomes — what actually sets them apart is the quality of training and hands-on experience behind it. Before enrolling, check the syllabus carefully and find out who will teach […]
+The post How to Choose Digital Marketing Training in Dumdum appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>Yeash</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Tools for YouTube Marketing in Bangladesh: A Complete Guide]]></title>
         <id>https://blog.creativeitinstitute.com/?p=2785</id>
@@ -39,12 +61,12 @@ The post Algorithm-Based SEO Recommendation Tool for Bangladesh appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Marketing Salary in Kolkata]]></title>
+        <title type="html"><![CDATA[Digital Marketing Salary in Kolkata (2026): Freshers, Experienced Professionals & Career Growth Guide]]></title>
         <id>https://www.w3webschool.com/blog/?p=44088</id>
         <link href="https://www.w3webschool.com/blog/digital-marketing-salary-in-kolkata/"/>
         <updated>2026-08-20T11:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Updated for 2026 • Career Guide • Kolkata Job Market Digital Marketing Salary in Kolkata (2026): Freshers, Experienced Professionals & Career Growth Guide Planning to start a career in digital marketing? Your first core question is likely, “How much salary can I earn in Kolkata?” The answer depends on your practical skills, experience level, specialization, ... Read more
-The post Digital Marketing Salary in Kolkata appeared first on W3webschool Blog.]]></summary>
+        <summary type="html"><![CDATA[Career Guide • Updated for 2026 • Kolkata Market Digital Marketing Salary in Kolkata (2026): Freshers & Experienced Salary Guide Wondering how much a digital marketer earns in Kolkata in 2026? Based on current hiring trends, industry demand, and salary benchmarks, freshers typically earn ₹18,000–₹30,000 per month, while experienced professionals can earn ₹50,000–₹1,00,000+ per month, ... Read more
+The post Digital Marketing Salary in Kolkata (2026): Freshers, Experienced Professionals & Career Growth Guide appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>W3 WEB SCHOOL</name>
         </author>
@@ -113,6 +135,17 @@ The post  SEO with TOOLS and without TOOLS appeared first on Creative IT Instit
 The post Top 7 Data Analytics Tools You Must Master in 2026 appeared first on Karmick Institute.]]></summary>
         <author>
             <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Students Prefer Digital Marketing Courses in Kolkata Over Online Programs]]></title>
+        <id>https://99eedu.com/?p=5381</id>
+        <link href="https://99eedu.com/why-students-prefer-digital-marketing-courses-in-kolkata-over-online-programs/"/>
+        <updated>2026-08-14T13:51:22.000Z</updated>
+        <summary type="html"><![CDATA[If you’re searching for an online digital marketing course in Kolkata, one of the first questions you’ll face is whether to learn through self-paced videos, join a live classroom or a hybrid programme. While online courses give you the freedom to learn at your own pace, many beginners find it easier to build real skills […]
+The post Why Students Prefer Digital Marketing Courses in Kolkata Over Online Programs appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>99superadmin</name>
         </author>
     </entry>
     <entry>
@@ -270,6 +303,17 @@ The post AI for Business (2026): A Practical Growth Guide appeared first on Crea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SEO vs GEO vs AEO: What Digital Marketing Students Need to Know in 2026]]></title>
+        <id>https://99eedu.com/?p=5590</id>
+        <link href="https://99eedu.com/answer-engine-optimization/"/>
+        <updated>2026-07-30T14:07:20.000Z</updated>
+        <summary type="html"><![CDATA[If you want to build a real career in digital marketing in 2026, you can’t skip SEO, GEO, and Answer Engine Optimization (AEO) anymore. The way people look for information has changed. Google Search is still there, but plenty of people now ask ChatGPT, scroll through Google AI Overview, search on Gemini, or just ask […]
+The post SEO vs GEO vs AEO: What Digital Marketing Students Need to Know in 2026 appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>99superadmin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Master Frontend Development in 6 Months – Complete 2026 Roadmap]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=7548</id>
         <link href="https://www.karmickinstitute.com/resources/how-to-master-frontend-development-in-6-months/"/>
@@ -289,17 +333,6 @@ The post How to Master Frontend Development in 6 Months – Complete 2026 Roadma
 The post Top 10 Video Editing Courses in Mumbai [2026 Updated] appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lead Generation for Local Businesses: What to Do First, Second, and Next in 2026]]></title>
-        <id>https://blog.creativeitinstitute.com/?p=2678</id>
-        <link href="https://blog.creativeitinstitute.com/lead-generation-for-local-businesses/"/>
-        <updated>2026-07-28T17:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Lead generation for local businesses means getting nearby people to contact you. They find you. They…
-The post Lead Generation for Local Businesses: What to Do First, Second, and Next in 2026 appeared first on Creative IT Institute Blog.]]></summary>
-        <author>
-            <name>WahidHasanKutubuddin</name>
         </author>
     </entry>
     <entry>
@@ -333,17 +366,6 @@ The post Top 10 Video Editing Courses in Bangalore [2026 Updated] appeared first
 The post Best Institute for Performance Marketing Training in Kolkata for Future Marketers appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
         <author>
             <name>C9QXINzrukjG4lXN7o</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Website Design Classes Can Help You Build a Successful Career]]></title>
-        <id>https://www.moople.in/blog/?p=16918</id>
-        <link href="https://www.moople.in/blog/how-website-design-classes-can-help-you-build-a-successful-career/"/>
-        <updated>2026-07-23T12:10:52.000Z</updated>
-        <summary type="html"><![CDATA[In today’s digital world, every business needs a professional website to attract customers and grow online. From startups and e-commerce brands to educational institutions and multinational companies, websites have become the foundation of every successful business. This growing demand has created exciting career opportunities for skilled website designers. If you’re looking for a creative and […]
-The post How Website Design Classes Can Help You Build a Successful Career appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
         </author>
     </entry>
 </feed>
