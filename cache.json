@@ -6,12 +6,32 @@
       "siteUrl": "https://www.webskittersacademy.in",
       "articles": [
         {
+          "id": "https://www.webskittersacademy.in/?p=21236",
+          "author": "Ayan Sarkar",
+          "description": "If you are learning DevOps today, you may have noticed that the field is starting to look a little different. Developers still need reliable infrastructure, automated deployments, cloud environments, and monitoring. However, many companies are finding better ways to put those capabilities behind simple, self-service platforms. That shift is already happening at scale. According to… Continue reading How Platform Engineering Is Quietly Replacing Traditional DevOps Roles\nThe post How Platform Engineering Is Quietly Replacing Traditional DevOps Roles first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/platform-engineering-vs-devops/",
+          "publishedOn": "2026-08-31T07:55:13.000Z",
+          "wordCount": 15421,
+          "title": "How Platform Engineering Is Quietly Replacing Traditional DevOps Roles",
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/08/How-Platform-Engineering-Is-Quietly-Replacing-Traditional-DevOps-Roles.jpg"
+        },
+        {
+          "id": "https://www.webskittersacademy.in/?p=20787",
+          "author": "Ayan Sarkar",
+          "description": "Have you recently opened your favourite shopping website? The first thing that answered your query may not have been a human but a chatbot. Across industries, businesses are increasingly investing in AI to improve customer experiences and streamline everyday workflows. But AI is moving beyond simply answering questions. These systems can now plan tasks, use… Continue reading How to Become an Agentic AI Developer: Skills, Tools & Career Roadmap for 2026\nThe post How to Become an Agentic AI Developer: Skills, Tools & Career Roadmap for 2026 first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/agentic-ai-developer-roadmap/",
+          "publishedOn": "2026-08-18T07:25:59.000Z",
+          "wordCount": 16240,
+          "title": "How to Become an Agentic AI Developer: Skills, Tools & Career Roadmap for 2026",
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/08/How-to-Become-an-Agentic-AI-Developer-Skills-Tools-Career-Roadmap-for-2026.jpg"
+        },
+        {
           "id": "https://www.webskittersacademy.in/?p=20767",
           "author": "Ayan Sarkar",
           "description": "That simple skill has now become part of how businesses work with generative AI. And the market around it is growing. Fortune Business Insights estimates that the global prompt engineering market will grow to about $6.7 billion by 2034. That growth certainly makes prompt engineering look like an attractive career option. But there is another… Continue reading Prompt Engineering Career: Is It Worth Pursuing in 2026?\nThe post Prompt Engineering Career: Is It Worth Pursuing in 2026? first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/prompt-engineering-career/",
           "publishedOn": "2026-08-12T12:43:01.000Z",
-          "wordCount": 15633,
+          "wordCount": 15650,
           "title": "Prompt Engineering Career: Is It Worth Pursuing in 2026?",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/08/Prompt-Engineering-Career-Is-It-Worth-Pursuing-in-2026-.jpg"
         },
@@ -28,124 +48,27 @@
       ]
     },
     {
-      "title": "W3webschool Blog",
-      "feedUrl": "https://www.w3webschool.com/blog/feed/",
-      "siteUrl": "https://www.w3webschool.com/blog",
-      "articles": [
-        {
-          "id": "https://www.w3webschool.com/blog/?p=45688",
-          "author": "W3 WEB SCHOOL",
-          "description": "Digital Marketing Jobs in Kolkata (2026): Salary, Skills, Top Companies & Career Guide Last Updated: 29 August 2026 Written by: W3 Web School Editorial Team Reviewed by: Senior Digital Marketing Trainer (8+ Years Experience) A few years ago, most freshers in Kolkata looked for jobs in BPOs, sales or traditional office roles. Today, the situation ... Read more\nThe post Digital Marketing Jobs in Kolkata (2026): Salary, Skills, Top Companies & Career Guide appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/digital-marketing-jobs-in-kolkata/",
-          "publishedOn": "2026-08-29T15:15:54.000Z",
-          "wordCount": 20331,
-          "title": "Digital Marketing Jobs in Kolkata (2026): Salary, Skills, Top Companies & Career Guide",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/digital-marketing-jobs-in-kolkata-2026-salary-hiring-trends-career-guide.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=3941",
-          "author": "Poulami Dalal",
-          "description": "Written By: W3 Web School Editorial Team Reviewed By: SEO Professionals Last Updated: August 29, 2026 Reading Time: 10 Minutes Digital Marketing Course After 12th [2026 Guide] Choosing the right career after Class 12 is one of the biggest decisions for any student. If you’re searching for the best Digital Marketing Course After 12th, you’re ... Read more\nThe post Digital Marketing Course After 12th in Kolkata [2026 Guide] appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/digital-marketing-course-after-12th/",
-          "publishedOn": "2026-08-29T00:00:15.000Z",
-          "wordCount": 13424,
-          "title": "Digital Marketing Course After 12th in Kolkata [2026 Guide]",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2023/06/1006884-1003877-1002538-1001373-cbse-board-exams-class-10.webp"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=45564",
-          "author": "Poulami Dalal",
-          "description": "Written By: W3 Web School Editorial Team Reviewed By: SEO Professionals Last Updated: August 28, 2026 Reading Time: 14 Minutes UI UX Design Roadmap for Beginners: Complete 2026 Guide Starting a professional career in design can sometimes feel confusing when you have no idea what to learn first. A well-structured UI UX Design Roadmap assists ... Read more\nThe post UI UX Design Roadmap for Beginners: Complete 2026 Guide appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/ui-ux-design-roadmap/",
-          "publishedOn": "2026-08-28T12:48:38.000Z",
-          "wordCount": 15111,
-          "title": "UI UX Design Roadmap for Beginners: Complete 2026 Guide",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/UI-UX-Design-Roadmap-for-Beginners.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=3905",
-          "author": "W3 WEB SCHOOL",
-          "description": "Digital Marketing Course Duration (2026): How Long Does It Take to Complete? Choosing the right digital marketing course isn’t just about the syllabus or fees—course duration also plays an important role in how effectively you learn and apply digital marketing skills. While some training programs promise quick completion, others offer longer, project-based learning to help ... Read more\nThe post Digital Marketing Course Duration (2026): How Long Does It Take to Complete? appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/digital-marketing-course-duration/",
-          "publishedOn": "2026-08-28T06:59:24.000Z",
-          "wordCount": 11131,
-          "title": "Digital Marketing Course Duration (2026): How Long Does It Take to Complete?",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/digital-marketing-course-duration-2026-guide-w3webschool.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=45434",
-          "author": "W3 WEB SCHOOL",
-          "description": "Digital Marketing Course Eligibility (2026): Who Can Join, Qualification, Age Limit & Career Scope Choosing the right career starts with understanding whether you’re eligible to pursue it. If you’re wondering who can join a digital marketing course, what qualifications are required or whether there’s any age limit, you’re not alone. These are some of the ... Read more\nThe post Digital Marketing Course Eligibility (2026): Who Can Join, Qualification, Age Limit & Career Scope appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/digital-marketing-course-eligibility/",
-          "publishedOn": "2026-08-27T15:49:31.000Z",
-          "wordCount": 14815,
-          "title": "Digital Marketing Course Eligibility (2026): Who Can Join, Qualification, Age Limit & Career Scope",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/digital-marketing-career-roadmap-after-10th-12th-graduation.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=45210",
-          "author": "Poulami Dalal",
-          "description": "Written By: W3 Web School Editorial Team Reviewed By: SEO Professionals Last Updated: August 25, 2026 Reading Time: 15–18 Minutes MERN Stack Developer Salary in Kolkata (2026): Freshers & Experienced If you are thinking about starting a professional career in web development, knowing the MERN Stack Developer Salary in Kolkata can guide you to set ... Read more\nThe post MERN Stack Developer Salary in Kolkata (2026): Freshers & Experienced appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/mern-stack-developer-salary-in-kolkata/",
-          "publishedOn": "2026-08-26T12:51:08.000Z",
-          "wordCount": 13076,
-          "title": "MERN Stack Developer Salary in Kolkata (2026): Freshers & Experienced",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/MERN-Stack-Developer-Salary-in-Kolkata.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=45111",
-          "author": "Poulami Dalal",
-          "description": "UI UX Design Course Fees in Kolkata (2026): Fees, Duration & Career Scope Written By: W3 Web School Editorial Team Reviewed By: SEO Professionals Last Updated: August 25, 2026 Reading Time: 15–18 Minutes If you are looking for the UI UX Design Course Fees in Kolkata, you will know that fees can vary from ₹10,000 ... Read more\nThe post UI UX Design Course Fees in Kolkata: Fees, Duration & Career Scope (2026) appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/ui-ux-design-course-fees-in-kolkata/",
-          "publishedOn": "2026-08-25T13:09:51.000Z",
-          "wordCount": 12302,
-          "title": "UI UX Design Course Fees in Kolkata: Fees, Duration & Career Scope (2026)",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/UI-UX-Design-Course-Fees-in-Kolkata.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=45149",
-          "author": "W3 WEB SCHOOL",
-          "description": "How to Choose the Best Digital Marketing Course in Kolkata (2026): 15 Things to Check Before Joining Finding the right digital marketing course can be confusing, especially when almost every institute claims to offer the best digital marketing training, updated course syllabus, and guaranteed placement support. While these factors are important, choosing a course based ... Read more\nThe post How to Choose the Best Digital Marketing Course in Kolkata (2026): 15 Things to Check Before Joining appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/how-to-choose-digital-marketing-course-in-kolkata/",
-          "publishedOn": "2026-08-25T12:32:38.000Z",
-          "wordCount": 24779,
-          "title": "How to Choose the Best Digital Marketing Course in Kolkata (2026): 15 Things to Check Before Joining",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/how-to-choose-best-digital-marketing-course-in-kolkata.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=45009",
-          "author": "W3 WEB SCHOOL",
-          "description": "Best AI SEO Tools in 2026 (Tested & Compared): Features, Pricing, Pros & Cons Written By: W3 Web School Editorial Team Reviewed By: SEO Professionals Last Updated: August 25, 2026 Reading Time: 18–22 Minutes Best AI SEO Tools in 2026: Comprehensive Feature, Pricing & Optimization Guide Finding the right AI SEO tool shouldn’t mean paying ... Read more\nThe post Best AI SEO Tools in 2026 (Tested & Compared): Features, Pricing, Pros & Cons appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/best-ai-seo-tools/",
-          "publishedOn": "2026-08-25T05:33:13.000Z",
-          "wordCount": 20732,
-          "title": "Best AI SEO Tools in 2026 (Tested & Compared): Features, Pricing, Pros & Cons",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/best-ai-seo-tools-2026.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=4018",
-          "author": "Poulami Dalal",
-          "description": "Digital Marketing Course Syllabus (2026): Complete Modules, AI Tools & Career Skills Planning to learn digital marketing but unsure what you’ll actually study? This complete guide explains the latest Digital Marketing Course Syllabus (2026), including every module, AI tools, live projects, practical assignments, certifications and job-ready skills that leading institutes teach. Whether you’re a student, ... Read more\nThe post Digital Marketing Course Syllabus (2026): Complete Modules, AI Tools & Career Skills appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/digital-marketing-course-syllabus/",
-          "publishedOn": "2026-08-24T07:00:27.000Z",
-          "wordCount": 27061,
-          "title": "Digital Marketing Course Syllabus (2026): Complete Modules, AI Tools & Career Skills",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/digital-marketing-course-syllabus-2026-kolkata.png"
-        }
-      ]
-    },
-    {
       "title": "Moople-Institute of Animation  Design",
       "feedUrl": "https://www.moople.in/blog/feed/",
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
+        {
+          "id": "https://www.moople.in/blog/?p=17367",
+          "author": "Farhat Jabeen",
+          "description": "If you’ve searched for the Advanced Graphic Design AI Course in Guwahati, you’re probably standing at one of two points: you’ve just finished school or college and want a career that pays for creativity, or you’re already working and want to add AI design skills before your job description changes without your permission. Both are […]\nThe post Best Advanced Graphic Design AI Course in Guwahati appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/best-advanced-graphic-design-ai-course-in-guwahati/",
+          "publishedOn": "2026-08-31T10:48:53.000Z",
+          "wordCount": 4433,
+          "title": "Best Advanced Graphic Design AI Course in Guwahati",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Advanced-Graphic-Design-and-AI-Course-1024x538.png"
+        },
         {
           "id": "https://www.moople.in/blog/?p=17315",
           "author": "Farhat Jabeen",
           "description": "If you’ve been scrolling reels, ads, and YouTube intros wondering “who actually makes this stuff,” the answer is usually a motion graphic artist who also knows how to use AI tools to work faster. That mix of skills is exactly what a good Motion Graphic Video Editing & AI Course in Guwahati should teach you, […]\nThe post Top Motion Graphic Video Editing & AI Course in Guwahati appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/top-motion-graphic-video-editing-ai-course-in-guwahati/",
           "publishedOn": "2026-08-29T10:42:00.000Z",
-          "wordCount": 4262,
+          "wordCount": 4261,
           "title": "Top Motion Graphic Video Editing & AI Course in Guwahati",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Motion-Graphic-Video-Editing-AI-Course-in-Guwahati-1024x538.png"
         },
@@ -155,7 +78,7 @@
           "description": "If you’ve just finished Class 12 and you’re weighing your options, chances are the BCA course in Kolkata has already come up in a few conversations — with parents, teachers, or seniors who took the same route. It’s one of the most searched-for degree programs among Kolkata students who like computers but aren’t sure they […]\nThe post BCA Course in Kolkata: Complete Guide to Fees, Colleges, and Career Scope appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/bca-course-in-kolkata-complete-guide-to-fees-colleges-and-career-scope/",
           "publishedOn": "2026-08-28T10:54:10.000Z",
-          "wordCount": 4336,
+          "wordCount": 4335,
           "title": "BCA Course in Kolkata: Complete Guide to Fees, Colleges, and Career Scope",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/bca-course-in-kolkata-1024x539.png"
         },
@@ -165,7 +88,7 @@
           "description": "If you’re based in Guwahati and searching for a UI UX Design & AI Course, you’ve probably noticed two things. First, almost every job posting for a design role now asks for “AI-assisted workflow” experience. Second, most local course listings talk about software tools but say very little about what actually happens after you finish […]\nThe post Why Choose a UI UX Design & AI Course in Guwahati for a Future-Proof Career? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/why-choose-a-ui-ux-design-ai-course-in-guwahati-for-a-future-proof-career/",
           "publishedOn": "2026-08-27T10:09:09.000Z",
-          "wordCount": 4168,
+          "wordCount": 4167,
           "title": "Why Choose a UI UX Design & AI Course in Guwahati for a Future-Proof Career?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Why-Choose-a-UI-UX-Design-AI-Course-in-Guwahati-for-a-Future-Proof-Career.png"
         },
@@ -175,7 +98,7 @@
           "description": "Learning game development can feel overwhelming when you are starting from zero. You may need to understand game mechanics, 3D modelling, animation, level design, scripting, physics, user interfaces and a game engine such as Unity—all at the same time. This is where AI is changing the learning experience. Today, AI tools can explain unfamiliar code, […]\nThe post How AI Tools Help Beginners Learn Game Development Faster appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-ai-tools-help-beginners-learn-game-development-faster/",
           "publishedOn": "2026-08-24T09:03:34.000Z",
-          "wordCount": 4584,
+          "wordCount": 4583,
           "title": "How AI Tools Help Beginners Learn Game Development Faster",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/How-AI-Tools-Help-Beginners-Learn-Game-Development-Faster-1-1024x605.png"
         },
@@ -185,7 +108,7 @@
           "description": "Digital marketing has changed more in the last two years than it did in the previous ten. Google’s Search Generative Experience, AI ad-bidding tools, and content generators like ChatGPT have quietly rewritten how brands find customers online. If you’re a student or working professional in Kolkata searching for an AI digital marketing course in Kolkata, […]\nThe post Best AI Digital Marketing Course in Kolkata with Placement appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-ai-digital-marketing-course-in-kolkata-with-placement/",
           "publishedOn": "2026-08-20T09:17:19.000Z",
-          "wordCount": 4721,
+          "wordCount": 4720,
           "title": "Best AI Digital Marketing Course in Kolkata with Placement",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-20T114308.488.png"
         },
@@ -195,7 +118,7 @@
           "description": "If you’ve started researching VFX course fees in Kolkata, you’ve probably noticed something frustrating: every institute quotes a different number, and none of them explain what that number actually includes. One brochure says ₹90,000. Another says ₹3.5 lakh. A university degree page says ₹6 lakh over three years. Are these even the same thing? They’re […]\nThe post VFX Course Fees in Kolkata: Diploma vs Degree Costs appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/vfx-course-fees-in-kolkata-diploma-vs-degree-costs/",
           "publishedOn": "2026-08-19T10:11:35.000Z",
-          "wordCount": 4434,
+          "wordCount": 4433,
           "title": "VFX Course Fees in Kolkata: Diploma vs Degree Costs",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-19T150320.108.png"
         },
@@ -205,7 +128,7 @@
           "description": "If you’re weighing whether a graphic design course in Kolkata is worth your time and money, you’re really asking a bigger question: will it actually lead to a job? It’s a fair question. Kolkata has always had a strong creative culture, from its advertising agencies on Park Street to a growing base of design studios […]\nThe post Career Opportunities After a Graphic Design Course in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/career-opportunities-after-a-graphic-design-course-in-kolkata/",
           "publishedOn": "2026-08-11T09:39:48.000Z",
-          "wordCount": 6888,
+          "wordCount": 6887,
           "title": "Career Opportunities After a Graphic Design Course in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-11T121605.235.png"
         },
@@ -215,7 +138,7 @@
           "description": "If you have ever paused a film to study how a character’s hair moves, or replayed a game trailer to see how the light hits a sword, you already think like an animator. The question most students in Kolkata ask next is more practical: which animation course in Kolkata actually gets you job-ready, and how […]\nThe post Animation Course in Kolkata: From Learning to Placement appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/animation-course-in-kolkata-from-learning-to-placement/",
           "publishedOn": "2026-08-10T07:44:42.000Z",
-          "wordCount": 4878,
+          "wordCount": 4877,
           "title": "Animation Course in Kolkata: From Learning to Placement",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/From-Learning-to-Placement.png"
         },
@@ -225,7 +148,7 @@
           "description": "If you’ve been searching for the best Cyber Security college in Kolkata, you’ve probably noticed that most websites either oversell themselves or drown you in jargon without answering your actual questions — what will I study, how much does it cost, and will I actually get a job afterward? This guide is written to fix […]\nThe post Best Cyber Security College in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-cyber-security-college-in-kolkata/",
           "publishedOn": "2026-08-05T10:28:50.000Z",
-          "wordCount": 4185,
+          "wordCount": 4184,
           "title": "Best Cyber Security College in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-05T132707.157.png"
         }
@@ -329,43 +252,6 @@
       ]
     },
     {
-      "title": "Explore Relevant Resources for Tech Skill Development",
-      "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
-      "siteUrl": "https://www.karmickinstitute.com/resources/",
-      "articles": [
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=7782",
-          "author": "Tanmay Das",
-          "description": "What are the top data analytics tools? The most in-demand data analytics tools to master in 2026 include SQL, Python, Power BI, Tableau, Advanced Excel, R, and cloud-based platforms. If you are looking for a future-proof career, you are on the right career path, as data and AI are the perfect field to be in.  […]\nThe post Top 7 Data Analytics Tools You Must Master in 2026 appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/top-7-data-analytics-tools-you-must-master-in-2026/",
-          "publishedOn": "2026-08-17T10:41:20.000Z",
-          "wordCount": 7552,
-          "title": "Top 7 Data Analytics Tools You Must Master in 2026",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/08/7-Data-Analytics-Tools-You-Must-Master-in-2026.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=7754",
-          "author": "Tanmay Das",
-          "description": "Thinking about a career in data analytics, but not sure if the job market in India is actually hiring? Here is the short answer: yes, absolutely.  The Indian data analytics market is booming at a 25%+ CAGR (compound annual growth rate), projected to hit $28 billion from $3.3 billion in the coming decade. This has […]\nThe post Data Analytics Future Scope in India: Career Opportunities, Salary, Skills & Industry Demand appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/data-analytics-future-scope-in-india-career-opportunities-salary-skills-industry-demand/",
-          "publishedOn": "2026-08-12T07:47:21.000Z",
-          "wordCount": 7880,
-          "title": "Data Analytics Future Scope in India: Career Opportunities, Salary, Skills & Industry Demand",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/08/future-scope-of-Data-Analytics.webp"
-        },
-        {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=7734",
-          "author": "Tanmay Das",
-          "description": "Hey everyone, At Karmick Institute, we usually prefer to let our students’ career stories do the talking. But when heavy words like “scam” and questions like “Is Karmick Institute genuine?” or “Is the IIT certification really worth it?” start floating around online—often posted by competitors trying to pull us down or people venting after a […]\nThe post Is Karmick Institute Genuine? The Truth About Our IIT Patna Certification, Reviews, & Placements appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/is-karmick-institute-genuine/",
-          "publishedOn": "2026-08-10T13:48:26.000Z",
-          "wordCount": 5959,
-          "title": "Is Karmick Institute Genuine? The Truth About Our IIT Patna Certification, Reviews, & Placements",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/08/IMAGE-of-students-working-together-in-a-classroom-or-lab-at-campus.webp"
-        }
-      ]
-    },
-    {
       "title": "99EEDU",
       "feedUrl": "https://99eedu.com/feed/",
       "siteUrl": "https://99eedu.com/",
@@ -423,12 +309,6 @@
       "title": "Best IT Training Institute in Kolkata – Weavers Web Academy",
       "feedUrl": "https://weaversweb.academy/feed/",
       "siteUrl": "https://weaversweb.academy/",
-      "articles": []
-    },
-    {
-      "title": "Acesoftech Academy",
-      "feedUrl": "https://www.acesoftech.com/feed/",
-      "siteUrl": "https://www.acesoftech.com",
       "articles": []
     }
   ],
