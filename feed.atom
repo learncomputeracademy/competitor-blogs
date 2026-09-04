@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-03T03:08:53.114Z</id>
+    <id>urn:2026-09-04T03:08:56.463Z</id>
     <title>Blogs</title>
-    <updated>2026-09-03T03:08:53.114Z</updated>
+    <updated>2026-09-04T03:08:56.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BSc in Cyber Security vs B.Tech Cyber Security: Full Comparison]]></title>
+        <id>https://www.moople.in/blog/?p=17424</id>
+        <link href="https://www.moople.in/blog/bsc-in-cyber-security-vs-b-tech-cyber-security-full-comparison/"/>
+        <updated>2026-09-03T11:26:56.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve been researching a career in cyber security, you’ve probably noticed that two degrees keep showing up: BSc in Cyber Security and BTech in Cyber Security. They sound similar, they both lead to jobs in the same industry, and yet they are structured very differently — and picking the wrong one for your goals […]
+The post BSc in Cyber Security vs B.Tech Cyber Security: Full Comparison appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 7 Best AI Presentation Software for Teachers & Busy Educators]]></title>
         <id>https://www.w3webschool.com/blog/?p=46056</id>
@@ -465,28 +476,6 @@ The post How to Improve Your Google Rankings in 2026: A Practical SEO Guide appe
 The post The 7 Essential Steps of Web Development: A Complete Process Guide (2026) appeared first on Creative IT Institute Blog.]]></summary>
         <author>
             <name>AfrozaAkhter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Cyber Security College in Kolkata]]></title>
-        <id>https://www.moople.in/blog/?p=16975</id>
-        <link href="https://www.moople.in/blog/best-cyber-security-college-in-kolkata/"/>
-        <updated>2026-08-05T10:28:50.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve been searching for the best Cyber Security college in Kolkata, you’ve probably noticed that most websites either oversell themselves or drown you in jargon without answering your actual questions — what will I study, how much does it cost, and will I actually get a job afterward? This guide is written to fix […]
-The post Best Cyber Security College in Kolkata appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 AI Marketing Skills You Need to Land a Digital Marketing Job Today]]></title>
-        <id>https://www.webskittersacademy.in/?p=20230</id>
-        <link href="https://www.webskittersacademy.in/ai-marketing-skills-to-land-a-digital-marketing-job/"/>
-        <updated>2026-08-05T07:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Digital marketing is changing quickly. AI is now influencing how brands create content, analyse customer behaviour, personalise campaigns, and reach audiences. According to Salesforce’s State of Marketing, 75% of marketing organisations now use at least one form of AI. They use it for activities such as content personalisation, campaign prediction, or visual creation. This change… Continue reading 7 AI Marketing Skills You Need to Land a Digital Marketing Job Today
-The post 7 AI Marketing Skills You Need to Land a Digital Marketing Job Today first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>

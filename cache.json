@@ -11,7 +11,7 @@
           "description": "If you are learning DevOps today, you may have noticed that the field is starting to look a little different. Developers still need reliable infrastructure, automated deployments, cloud environments, and monitoring. However, many companies are finding better ways to put those capabilities behind simple, self-service platforms. That shift is already happening at scale. According to… Continue reading How Platform Engineering Is Quietly Replacing Traditional DevOps Roles\nThe post How Platform Engineering Is Quietly Replacing Traditional DevOps Roles first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/platform-engineering-vs-devops/",
           "publishedOn": "2026-08-31T07:55:13.000Z",
-          "wordCount": 15333,
+          "wordCount": 14288,
           "title": "How Platform Engineering Is Quietly Replacing Traditional DevOps Roles",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/08/How-Platform-Engineering-Is-Quietly-Replacing-Traditional-DevOps-Roles.jpg"
         },
@@ -31,19 +31,9 @@
           "description": "That simple skill has now become part of how businesses work with generative AI. And the market around it is growing. Fortune Business Insights estimates that the global prompt engineering market will grow to about $6.7 billion by 2034. That growth certainly makes prompt engineering look like an attractive career option. But there is another… Continue reading Prompt Engineering Career: Is It Worth Pursuing in 2026?\nThe post Prompt Engineering Career: Is It Worth Pursuing in 2026? first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/prompt-engineering-career/",
           "publishedOn": "2026-08-12T12:43:01.000Z",
-          "wordCount": 15562,
+          "wordCount": 14470,
           "title": "Prompt Engineering Career: Is It Worth Pursuing in 2026?",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/08/Prompt-Engineering-Career-Is-It-Worth-Pursuing-in-2026-.jpg"
-        },
-        {
-          "id": "https://www.webskittersacademy.in/?p=20230",
-          "author": "Ayan Sarkar",
-          "description": "Digital marketing is changing quickly. AI is now influencing how brands create content, analyse customer behaviour, personalise campaigns, and reach audiences. According to Salesforce’s State of Marketing, 75% of marketing organisations now use at least one form of AI. They use it for activities such as content personalisation, campaign prediction, or visual creation. This change… Continue reading 7 AI Marketing Skills You Need to Land a Digital Marketing Job Today\nThe post 7 AI Marketing Skills You Need to Land a Digital Marketing Job Today first appeared on Webskitters Academy.",
-          "link": "https://www.webskittersacademy.in/ai-marketing-skills-to-land-a-digital-marketing-job/",
-          "publishedOn": "2026-08-05T07:58:17.000Z",
-          "wordCount": 14431,
-          "title": "7 AI Marketing Skills You Need to Land a Digital Marketing Job Today",
-          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/08/7-AI-Marketing-Skills-You-Need-to-Land-a-Digital-Marketing-Job-Today.jpg"
         }
       ]
     },
@@ -160,14 +150,24 @@
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
         {
+          "id": "https://www.moople.in/blog/?p=17424",
+          "author": "Farhat Jabeen",
+          "description": "If you’ve been researching a career in cyber security, you’ve probably noticed that two degrees keep showing up: BSc in Cyber Security and BTech in Cyber Security. They sound similar, they both lead to jobs in the same industry, and yet they are structured very differently — and picking the wrong one for your goals […]\nThe post BSc in Cyber Security vs B.Tech Cyber Security: Full Comparison appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/bsc-in-cyber-security-vs-b-tech-cyber-security-full-comparison/",
+          "publishedOn": "2026-09-03T11:26:56.000Z",
+          "wordCount": 4752,
+          "title": "BSc in Cyber Security vs B.Tech Cyber Security: Full Comparison",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-1.png"
+        },
+        {
           "id": "https://www.moople.in/blog/?p=17401",
           "author": "Farhat Jabeen",
           "description": "If you have spent any time on animation forums or YouTube tutorials in the last two years, you have probably seen the same debate repeating itself: is AI going to replace animators? The honest answer, based on how studios and freelancers are actually using these tools today, is no — but it is changing what […]\nThe post How AI Tools Are Helping Animators Work Faster and Smarter appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-ai-tools-are-helping-animators-work-faster-and-smarter/",
           "publishedOn": "2026-09-02T11:49:22.000Z",
-          "wordCount": 4691,
+          "wordCount": 4686,
           "title": "How AI Tools Are Helping Animators Work Faster and Smarter",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/How-AI-Tools-Are-Helping-Animators-Work-Faster-and-Smarter.png"
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-2.png"
         },
         {
           "id": "https://www.moople.in/blog/?p=17367",
@@ -175,7 +175,7 @@
           "description": "If you’ve searched for the Advanced Graphic Design AI Course in Guwahati, you’re probably standing at one of two points: you’ve just finished school or college and want a career that pays for creativity, or you’re already working and want to add AI design skills before your job description changes without your permission. Both are […]\nThe post Best Advanced Graphic Design AI Course in Guwahati appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-advanced-graphic-design-ai-course-in-guwahati/",
           "publishedOn": "2026-08-31T10:48:53.000Z",
-          "wordCount": 4563,
+          "wordCount": 4558,
           "title": "Best Advanced Graphic Design AI Course in Guwahati",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Advanced-Graphic-Design-and-AI-Course-1024x538.png"
         },
@@ -185,7 +185,7 @@
           "description": "If you’ve been scrolling reels, ads, and YouTube intros wondering “who actually makes this stuff,” the answer is usually a motion graphic artist who also knows how to use AI tools to work faster. That mix of skills is exactly what a good Motion Graphic Video Editing & AI Course in Guwahati should teach you, […]\nThe post Top Motion Graphic Video Editing & AI Course in Guwahati appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/top-motion-graphic-video-editing-ai-course-in-guwahati/",
           "publishedOn": "2026-08-29T10:42:00.000Z",
-          "wordCount": 4262,
+          "wordCount": 4257,
           "title": "Top Motion Graphic Video Editing & AI Course in Guwahati",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Motion-Graphic-Video-Editing-AI-Course-in-Guwahati-1024x538.png"
         },
@@ -195,7 +195,7 @@
           "description": "If you’ve just finished Class 12 and you’re weighing your options, chances are the BCA course in Kolkata has already come up in a few conversations — with parents, teachers, or seniors who took the same route. It’s one of the most searched-for degree programs among Kolkata students who like computers but aren’t sure they […]\nThe post BCA Course in Kolkata: Complete Guide to Fees, Colleges, and Career Scope appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/bca-course-in-kolkata-complete-guide-to-fees-colleges-and-career-scope/",
           "publishedOn": "2026-08-28T10:54:10.000Z",
-          "wordCount": 4336,
+          "wordCount": 4331,
           "title": "BCA Course in Kolkata: Complete Guide to Fees, Colleges, and Career Scope",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/bca-course-in-kolkata-1024x539.png"
         },
@@ -205,7 +205,7 @@
           "description": "If you’re based in Guwahati and searching for a UI UX Design & AI Course, you’ve probably noticed two things. First, almost every job posting for a design role now asks for “AI-assisted workflow” experience. Second, most local course listings talk about software tools but say very little about what actually happens after you finish […]\nThe post Why Choose a UI UX Design & AI Course in Guwahati for a Future-Proof Career? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/why-choose-a-ui-ux-design-ai-course-in-guwahati-for-a-future-proof-career/",
           "publishedOn": "2026-08-27T10:09:09.000Z",
-          "wordCount": 4168,
+          "wordCount": 4163,
           "title": "Why Choose a UI UX Design & AI Course in Guwahati for a Future-Proof Career?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Why-Choose-a-UI-UX-Design-AI-Course-in-Guwahati-for-a-Future-Proof-Career.png"
         },
@@ -215,7 +215,7 @@
           "description": "Learning game development can feel overwhelming when you are starting from zero. You may need to understand game mechanics, 3D modelling, animation, level design, scripting, physics, user interfaces and a game engine such as Unity—all at the same time. This is where AI is changing the learning experience. Today, AI tools can explain unfamiliar code, […]\nThe post How AI Tools Help Beginners Learn Game Development Faster appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-ai-tools-help-beginners-learn-game-development-faster/",
           "publishedOn": "2026-08-24T09:03:34.000Z",
-          "wordCount": 4584,
+          "wordCount": 4579,
           "title": "How AI Tools Help Beginners Learn Game Development Faster",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/How-AI-Tools-Help-Beginners-Learn-Game-Development-Faster-1-1024x605.png"
         },
@@ -225,7 +225,7 @@
           "description": "Digital marketing has changed more in the last two years than it did in the previous ten. Google’s Search Generative Experience, AI ad-bidding tools, and content generators like ChatGPT have quietly rewritten how brands find customers online. If you’re a student or working professional in Kolkata searching for an AI digital marketing course in Kolkata, […]\nThe post Best AI Digital Marketing Course in Kolkata with Placement appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-ai-digital-marketing-course-in-kolkata-with-placement/",
           "publishedOn": "2026-08-20T09:17:19.000Z",
-          "wordCount": 4721,
+          "wordCount": 4716,
           "title": "Best AI Digital Marketing Course in Kolkata with Placement",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-20T114308.488.png"
         },
@@ -235,7 +235,7 @@
           "description": "If you’ve started researching VFX course fees in Kolkata, you’ve probably noticed something frustrating: every institute quotes a different number, and none of them explain what that number actually includes. One brochure says ₹90,000. Another says ₹3.5 lakh. A university degree page says ₹6 lakh over three years. Are these even the same thing? They’re […]\nThe post VFX Course Fees in Kolkata: Diploma vs Degree Costs appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/vfx-course-fees-in-kolkata-diploma-vs-degree-costs/",
           "publishedOn": "2026-08-19T10:11:35.000Z",
-          "wordCount": 4434,
+          "wordCount": 4429,
           "title": "VFX Course Fees in Kolkata: Diploma vs Degree Costs",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-19T150320.108.png"
         },
@@ -245,7 +245,7 @@
           "description": "If you’re weighing whether a graphic design course in Kolkata is worth your time and money, you’re really asking a bigger question: will it actually lead to a job? It’s a fair question. Kolkata has always had a strong creative culture, from its advertising agencies on Park Street to a growing base of design studios […]\nThe post Career Opportunities After a Graphic Design Course in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/career-opportunities-after-a-graphic-design-course-in-kolkata/",
           "publishedOn": "2026-08-11T09:39:48.000Z",
-          "wordCount": 6888,
+          "wordCount": 6883,
           "title": "Career Opportunities After a Graphic Design Course in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-11T121605.235.png"
         },
@@ -255,19 +255,9 @@
           "description": "If you have ever paused a film to study how a character’s hair moves, or replayed a game trailer to see how the light hits a sword, you already think like an animator. The question most students in Kolkata ask next is more practical: which animation course in Kolkata actually gets you job-ready, and how […]\nThe post Animation Course in Kolkata: From Learning to Placement appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/animation-course-in-kolkata-from-learning-to-placement/",
           "publishedOn": "2026-08-10T07:44:42.000Z",
-          "wordCount": 4889,
+          "wordCount": 4884,
           "title": "Animation Course in Kolkata: From Learning to Placement",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/From-Learning-to-Placement.png"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=16975",
-          "author": "Farhat Jabeen",
-          "description": "If you’ve been searching for the best Cyber Security college in Kolkata, you’ve probably noticed that most websites either oversell themselves or drown you in jargon without answering your actual questions — what will I study, how much does it cost, and will I actually get a job afterward? This guide is written to fix […]\nThe post Best Cyber Security College in Kolkata appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/best-cyber-security-college-in-kolkata/",
-          "publishedOn": "2026-08-05T10:28:50.000Z",
-          "wordCount": 4185,
-          "title": "Best Cyber Security College in Kolkata",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Untitled-design-2026-08-05T132707.157.png"
         }
       ]
     },
