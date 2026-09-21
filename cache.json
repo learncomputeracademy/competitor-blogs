@@ -11,7 +11,7 @@
           "description": "AI is starting to do more than answer questions. It can plan tasks, use tools, and take action across different systems. That shift is creating new possibilities for businesses and new career opportunities for people learning AI. Microsoft found that 32% of managers plan to hire AI agent specialists within the next 12 to 18… Continue reading 5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career\nThe post 5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/agentic-ai-use-cases-businesses-careers/",
           "publishedOn": "2026-09-17T11:14:11.000Z",
-          "wordCount": 15814,
+          "wordCount": 14733,
           "title": "5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/09/5-Real-World-Agentic-AI-Use-Cases-Businesses-Are-Deploying--And-What-It-Means-for-Your-Career.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "Generative AI has moved far beyond a technology people experiment with for fun. It is now being used to create content, write code, analyse information, support business processes, and build new digital experiences. Stanford HAI reports that generative AI reached 53% adoption among the population in just three years, faster than personal computers or the… Continue reading The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths\nThe post The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/generative-ai-guide/",
           "publishedOn": "2026-09-10T10:21:36.000Z",
-          "wordCount": 15934,
+          "wordCount": 14861,
           "title": "The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/09/The-Ultimate-Guide-to-Generative-AI-in-2027-Concepts-Tools-Career-Paths.jpg"
         },
@@ -300,6 +300,12 @@
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/How-AI-Tools-Help-Beginners-Learn-Game-Development-Faster-1-1024x605.png"
         }
       ]
+    },
+    {
+      "title": "Creative IT Institute Blog",
+      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
+      "articles": []
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
