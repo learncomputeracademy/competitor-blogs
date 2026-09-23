@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-22T03:31:24.476Z</id>
+    <id>urn:2026-09-23T03:31:19.477Z</id>
     <title>Blogs</title>
-    <updated>2026-09-22T03:31:24.476Z</updated>
+    <updated>2026-09-23T03:31:19.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose]]></title>
+        <id>https://www.moople.in/blog/?p=17711</id>
+        <link href="https://www.moople.in/blog/game-design-courses-in-kolkata-what-to-study-what-to-expect-and-how-to-choose/"/>
+        <updated>2026-09-22T06:47:41.000Z</updated>
+        <summary type="html"><![CDATA[If you’re searching for game design courses in Kolkata, you’re probably trying to answer one question: which programme will actually get me job-ready in the gaming industry, and not just hand me a certificate? Short answer — look for a course that is built around a portfolio, not a syllabus. In this industry, nobody hires […]
+The post Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEO Course Syllabus 2026: Modules, Tools, Duration & Career Scope]]></title>
         <id>https://www.w3webschool.com/blog/?p=4785</id>
@@ -399,17 +410,6 @@ The post How to Choose Digital Marketing Training in Barasat appeared first on 9
 The post Why Choose a UI UX Design & AI Course in Guwahati for a Future-Proof Career? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Swarnali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Tools Help Beginners Learn Game Development Faster]]></title>
-        <id>https://www.moople.in/blog/?p=17210</id>
-        <link href="https://www.moople.in/blog/how-ai-tools-help-beginners-learn-game-development-faster/"/>
-        <updated>2026-08-24T09:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Learning game development can feel overwhelming when you are starting from zero. You may need to understand game mechanics, 3D modelling, animation, level design, scripting, physics, user interfaces and a game engine such as Unity—all at the same time. This is where AI is changing the learning experience. Today, AI tools can explain unfamiliar code, […]
-The post How AI Tools Help Beginners Learn Game Development Faster appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
         </author>
     </entry>
 </feed>
