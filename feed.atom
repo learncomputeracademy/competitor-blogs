@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-23T03:31:19.477Z</id>
+    <id>urn:2026-09-24T03:21:25.692Z</id>
     <title>Blogs</title>
-    <updated>2026-09-23T03:31:19.477Z</updated>
+    <updated>2026-09-24T03:21:25.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GA4 Events vs. Conversions: How Website Actions Are Tracked]]></title>
+        <id>https://www.moople.in/blog/?p=17733</id>
+        <link href="https://www.moople.in/blog/ga4-events-vs-conversions-how-website-actions-are-tracked/"/>
+        <updated>2026-09-23T08:08:49.000Z</updated>
+        <summary type="html"><![CDATA[If you’re serious about a career in analytics or performance marketing, understanding how Google Analytics 4 tracks user behaviour isn’t optional — it’s foundational. One question that trips up almost every beginner (and more than a few working professionals) is the difference between GA4 events and conversions. They sound similar, they live in the same […]
+The post GA4 Events vs. Conversions: How Website Actions Are Tracked appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose]]></title>
         <id>https://www.moople.in/blog/?p=17711</id>
