@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-24T03:21:25.692Z</id>
+    <id>urn:2026-09-25T03:38:45.691Z</id>
     <title>Blogs</title>
-    <updated>2026-09-24T03:21:25.692Z</updated>
+    <updated>2026-09-25T03:38:45.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System]]></title>
+        <id>https://www.moople.in/blog/?p=17745</id>
+        <link href="https://www.moople.in/blog/ui-ux-design-course-what-kolkata-students-should-know-about-the-8pt-grid-system/"/>
+        <updated>2026-09-24T10:51:41.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve started exploring UI design or you’re researching a ui ux designing course, you’ve probably come across the term “8pt grid system” more than once. It shows up in design tutorials, Figma templates, and portfolio reviews — but very few explanations actually tell you why it matters or whether it’s worth building a habit […]
+The post UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GA4 Events vs. Conversions: How Website Actions Are Tracked]]></title>
         <id>https://www.moople.in/blog/?p=17733</id>
@@ -14,6 +25,17 @@
 The post GA4 Events vs. Conversions: How Website Actions Are Tracked appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Google AI Overviews and Why Should Students Care?]]></title>
+        <id>https://99eedu.com/?p=5835</id>
+        <link href="https://99eedu.com/what-are-google-ai-overviews-and-why-should-students-care/"/>
+        <updated>2026-09-22T14:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask Google a question today, and the first thing you read often isn’t a website. It’s a paragraph a machine wrote. Students copy those paragraphs into assignments, college shortlists, and interview notes every day. Sometimes they’re right. Sometimes they aren’t, and Google doesn’t say which. At 99Eedu Institute, we watch this habit spread among 12th […]
+The post What Are Google AI Overviews and Why Should Students Care? appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>Yeash</name>
         </author>
     </entry>
     <entry>

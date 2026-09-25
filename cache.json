@@ -11,7 +11,7 @@
           "description": "AI is starting to do more than answer questions. It can plan tasks, use tools, and take action across different systems. That shift is creating new possibilities for businesses and new career opportunities for people learning AI. Microsoft found that 32% of managers plan to hire AI agent specialists within the next 12 to 18… Continue reading 5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career\nThe post 5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/agentic-ai-use-cases-businesses-careers/",
           "publishedOn": "2026-09-17T11:14:11.000Z",
-          "wordCount": 14733,
+          "wordCount": 15800,
           "title": "5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/09/5-Real-World-Agentic-AI-Use-Cases-Businesses-Are-Deploying--And-What-It-Means-for-Your-Career.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "Generative AI has moved far beyond a technology people experiment with for fun. It is now being used to create content, write code, analyse information, support business processes, and build new digital experiences. Stanford HAI reports that generative AI reached 53% adoption among the population in just three years, faster than personal computers or the… Continue reading The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths\nThe post The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/generative-ai-guide/",
           "publishedOn": "2026-09-10T10:21:36.000Z",
-          "wordCount": 14863,
+          "wordCount": 15922,
           "title": "The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/09/The-Ultimate-Guide-to-Generative-AI-in-2027-Concepts-Tools-Career-Paths.jpg"
         },
@@ -31,7 +31,7 @@
           "description": "If you are learning DevOps today, you may have noticed that the field is starting to look a little different. Developers still need reliable infrastructure, automated deployments, cloud environments, and monitoring. However, many companies are finding better ways to put those capabilities behind simple, self-service platforms. That shift is already happening at scale. According to… Continue reading How Platform Engineering Is Quietly Replacing Traditional DevOps Roles\nThe post How Platform Engineering Is Quietly Replacing Traditional DevOps Roles first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/platform-engineering-vs-devops/",
           "publishedOn": "2026-08-31T07:55:13.000Z",
-          "wordCount": 14965,
+          "wordCount": 14951,
           "title": "How Platform Engineering Is Quietly Replacing Traditional DevOps Roles",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/08/How-Platform-Engineering-Is-Quietly-Replacing-Traditional-DevOps-Roles.jpg"
         }
@@ -150,12 +150,22 @@
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
         {
+          "id": "https://www.moople.in/blog/?p=17745",
+          "author": "Farhat Jabeen",
+          "description": "If you’ve started exploring UI design or you’re researching a ui ux designing course, you’ve probably come across the term “8pt grid system” more than once. It shows up in design tutorials, Figma templates, and portfolio reviews — but very few explanations actually tell you why it matters or whether it’s worth building a habit […]\nThe post UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/ui-ux-design-course-what-kolkata-students-should-know-about-the-8pt-grid-system/",
+          "publishedOn": "2026-09-24T10:51:41.000Z",
+          "wordCount": 2979,
+          "title": "UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-24.png"
+        },
+        {
           "id": "https://www.moople.in/blog/?p=17733",
           "author": "Farhat Jabeen",
           "description": "If you’re serious about a career in analytics or performance marketing, understanding how Google Analytics 4 tracks user behaviour isn’t optional — it’s foundational. One question that trips up almost every beginner (and more than a few working professionals) is the difference between GA4 events and conversions. They sound similar, they live in the same […]\nThe post GA4 Events vs. Conversions: How Website Actions Are Tracked appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/ga4-events-vs-conversions-how-website-actions-are-tracked/",
           "publishedOn": "2026-09-23T08:08:49.000Z",
-          "wordCount": 3186,
+          "wordCount": 3181,
           "title": "GA4 Events vs. Conversions: How Website Actions Are Tracked",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/aaaa.png"
         },
@@ -165,7 +175,7 @@
           "description": "If you’re searching for game design courses in Kolkata, you’re probably trying to answer one question: which programme will actually get me job-ready in the gaming industry, and not just hand me a certificate? Short answer — look for a course that is built around a portfolio, not a syllabus. In this industry, nobody hires […]\nThe post Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/game-design-courses-in-kolkata-what-to-study-what-to-expect-and-how-to-choose/",
           "publishedOn": "2026-09-22T06:47:41.000Z",
-          "wordCount": 2956,
+          "wordCount": 2951,
           "title": "Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-21.png"
         },
@@ -175,7 +185,7 @@
           "description": "Students searching for game design courses want to understand what game designers actually do, what skills they need, what tools they use, and whether learning game design can help them build a career in the gaming industry. If you enjoy games and often wonder why a particular level feels challenging, why a character behaves a […]\nThe post What Does a Game Designer Actually Do? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/what-does-a-game-designer-actually-do/",
           "publishedOn": "2026-09-18T08:21:10.000Z",
-          "wordCount": 3404,
+          "wordCount": 3399,
           "title": "What Does a Game Designer Actually Do?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-18.png"
         },
@@ -185,7 +195,7 @@
           "description": "Most people who sign up for UI UX classes arrive with the same mental image: a designer arranging pretty buttons in Figma. Then, three weeks in, they’re sketching twelve versions of a checkout screen because the first eleven made users hesitate. That gap between “making it look good” and “making it work” is the real […]\nThe post UI UX Classes in Kolkata: What You Actually Learn, What It Costs, and How to Pick the Right One appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/ui-ux-classes-in-kolkata-what-you-actually-learn-what-it-costs-and-how-to-pick-the-right-one/",
           "publishedOn": "2026-09-17T08:45:01.000Z",
-          "wordCount": 3251,
+          "wordCount": 3246,
           "title": "UI UX Classes in Kolkata: What You Actually Learn, What It Costs, and How to Pick the Right One",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-15.png"
         },
@@ -195,7 +205,7 @@
           "description": "Most people who search for a Premiere Pro course in Kolkata want the same three answers: what will I actually be able to edit when I finish, how long will it take, and what will it cost me? So let’s deal with those first, and then get into the details that separate a course worth […]\nThe post Premiere Pro Course in Kolkata: What You Learn, What It Costs, and How to Pick the Right One appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/premiere-pro-course-in-kolkata-what-you-learn-what-it-costs-and-how-to-pick-the-right-one/",
           "publishedOn": "2026-09-16T10:33:02.000Z",
-          "wordCount": 3354,
+          "wordCount": 3349,
           "title": "Premiere Pro Course in Kolkata: What You Learn, What It Costs, and How to Pick the Right One",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-11.png"
         },
@@ -205,7 +215,7 @@
           "description": "Choosing a BCA training institute in Kolkata is one of those decisions that quietly shapes the next four to five years of your career. Get it right, and you walk out with real coding ability, a solid degree, and a shot at decent placements. Get it wrong, and you end up with a certificate that […]\nThe post Best BCA Degree Course in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-bca-degree-course-in-kolkata/",
           "publishedOn": "2026-09-15T09:07:20.000Z",
-          "wordCount": 3271,
+          "wordCount": 3266,
           "title": "Best BCA Degree Course in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Best-BCA-Degree-Course-in-Kolkata.png"
         },
@@ -215,7 +225,7 @@
           "description": "Choosing a graphic design institute is one of those decisions that quietly shapes the next five to ten years of your career. Get it right, and you walk out with a portfolio that opens doors. Get it wrong, and you spend a year learning software shortcuts that any YouTube playlist could have taught you. If […]\nThe post Best Graphic Design Institute in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-graphic-design-institute-in-kolkata/",
           "publishedOn": "2026-09-14T12:06:05.000Z",
-          "wordCount": 3115,
+          "wordCount": 3110,
           "title": "Best Graphic Design Institute in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-8.png"
         },
@@ -225,7 +235,7 @@
           "description": "If you’re a student in Kolkata trying to break into the creative industry, you’ve probably typed “graphic design course vs multimedia course” into Google more than once, only to end up more confused than before. That confusion is normal. Both fields overlap on the surface — both involve visuals, both need software skills, and both […]\nThe post Graphic Design vs. Multimedia Design Course: Which Is Better? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/graphic-design-vs-multimedia-design-course-which-is-better/",
           "publishedOn": "2026-09-14T07:06:23.000Z",
-          "wordCount": 4261,
+          "wordCount": 4256,
           "title": "Graphic Design vs. Multimedia Design Course: Which Is Better?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-7.png"
         },
@@ -235,7 +245,7 @@
           "description": "If you have ever paused a movie to stare at a dragon’s scales or a spaceship’s hull, you have already appreciated the work of a 3D modeller. Advanced 3D Modelling is the skill that turns a flat sketch or a director’s idea into a fully three-dimensional asset that can be lit, animated, and rendered for […]\nThe post How Advanced 3D Modelling Shapes VFX Careers appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-advanced-3d-modelling-shapes-vfx-careers/",
           "publishedOn": "2026-09-09T11:45:48.000Z",
-          "wordCount": 4571,
+          "wordCount": 4566,
           "title": "How Advanced 3D Modelling Shapes VFX Careers",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-6.png"
         },
@@ -245,7 +255,7 @@
           "description": "If you’ve searched for a web design course in Kolkata, you’ve probably also typed “is web design a good career” into Google at 1 AM, wondering if it’s worth the time and money. That’s a fair question, and it deserves a straight answer, not marketing fluff. Here’s the honest picture: India’s IT and digital services […]\nThe post Top Career Opportunities After a Web Design Course in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/top-career-opportunities-after-a-web-design-course-in-kolkata/",
           "publishedOn": "2026-09-07T10:10:20.000Z",
-          "wordCount": 4611,
+          "wordCount": 4606,
           "title": "Top Career Opportunities After a Web Design Course in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-4.png"
         },
@@ -255,7 +265,7 @@
           "description": "If you’ve been researching a career in cyber security, you’ve probably noticed that two degrees keep showing up: BSc in Cyber Security and BTech in Cyber Security. They sound similar, they both lead to jobs in the same industry, and yet they are structured very differently — and picking the wrong one for your goals […]\nThe post BSc in Cyber Security vs B.Tech Cyber Security: Full Comparison appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/bsc-in-cyber-security-vs-b-tech-cyber-security-full-comparison/",
           "publishedOn": "2026-09-03T11:26:56.000Z",
-          "wordCount": 4770,
+          "wordCount": 4765,
           "title": "BSc in Cyber Security vs B.Tech Cyber Security: Full Comparison",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-1.png"
         },
@@ -265,7 +275,7 @@
           "description": "If you have spent any time on animation forums or YouTube tutorials in the last two years, you have probably seen the same debate repeating itself: is AI going to replace animators? The honest answer, based on how studios and freelancers are actually using these tools today, is no — but it is changing what […]\nThe post How AI Tools Are Helping Animators Work Faster and Smarter appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-ai-tools-are-helping-animators-work-faster-and-smarter/",
           "publishedOn": "2026-09-02T11:49:22.000Z",
-          "wordCount": 4704,
+          "wordCount": 4699,
           "title": "How AI Tools Are Helping Animators Work Faster and Smarter",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-2.png"
         },
@@ -275,7 +285,7 @@
           "description": "If you’ve searched for the Advanced Graphic Design AI Course in Guwahati, you’re probably standing at one of two points: you’ve just finished school or college and want a career that pays for creativity, or you’re already working and want to add AI design skills before your job description changes without your permission. Both are […]\nThe post Best Advanced Graphic Design AI Course in Guwahati appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-advanced-graphic-design-ai-course-in-guwahati/",
           "publishedOn": "2026-08-31T10:48:53.000Z",
-          "wordCount": 4534,
+          "wordCount": 4529,
           "title": "Best Advanced Graphic Design AI Course in Guwahati",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Advanced-Graphic-Design-and-AI-Course-1024x538.png"
         },
@@ -285,7 +295,7 @@
           "description": "If you’ve been scrolling reels, ads, and YouTube intros wondering “who actually makes this stuff,” the answer is usually a motion graphic artist who also knows how to use AI tools to work faster. That mix of skills is exactly what a good Motion Graphic Video Editing & AI Course in Guwahati should teach you, […]\nThe post Top Motion Graphic Video Editing & AI Course in Guwahati appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/top-motion-graphic-video-editing-ai-course-in-guwahati/",
           "publishedOn": "2026-08-29T10:42:00.000Z",
-          "wordCount": 4273,
+          "wordCount": 4268,
           "title": "Top Motion Graphic Video Editing & AI Course in Guwahati",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Motion-Graphic-Video-Editing-AI-Course-in-Guwahati-1024x538.png"
         },
@@ -295,7 +305,7 @@
           "description": "If you’ve just finished Class 12 and you’re weighing your options, chances are the BCA course in Kolkata has already come up in a few conversations — with parents, teachers, or seniors who took the same route. It’s one of the most searched-for degree programs among Kolkata students who like computers but aren’t sure they […]\nThe post BCA Course in Kolkata: Complete Guide to Fees, Colleges, and Career Scope appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/bca-course-in-kolkata-complete-guide-to-fees-colleges-and-career-scope/",
           "publishedOn": "2026-08-28T10:54:10.000Z",
-          "wordCount": 4356,
+          "wordCount": 4351,
           "title": "BCA Course in Kolkata: Complete Guide to Fees, Colleges, and Career Scope",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/bca-course-in-kolkata-1024x539.png"
         },
@@ -305,7 +315,7 @@
           "description": "If you’re based in Guwahati and searching for a UI UX Design & AI Course, you’ve probably noticed two things. First, almost every job posting for a design role now asks for “AI-assisted workflow” experience. Second, most local course listings talk about software tools but say very little about what actually happens after you finish […]\nThe post Why Choose a UI UX Design & AI Course in Guwahati for a Future-Proof Career? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/why-choose-a-ui-ux-design-ai-course-in-guwahati-for-a-future-proof-career/",
           "publishedOn": "2026-08-27T10:09:09.000Z",
-          "wordCount": 4165,
+          "wordCount": 4160,
           "title": "Why Choose a UI UX Design & AI Course in Guwahati for a Future-Proof Career?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/08/Why-Choose-a-UI-UX-Design-AI-Course-in-Guwahati-for-a-Future-Proof-Career.png"
         }
@@ -328,7 +338,7 @@
           "description": "Digital marketing with AI means using tools like AI-driven analytics, automated ad targeting, and predictive customer insights to run smarter campaigns, and it’s creating fresh career paths in India like SEO specialist, performance marketer, and marketing analyst. Today, digital marketing is one of the most in-demand career opportunities in India, and the numbers back it […]\nThe post Career Opportunities After Learning Digital Marketing With AI appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/career-opportunities-after-learning-digital-marketing-with-ai/",
           "publishedOn": "2026-09-17T05:45:10.000Z",
-          "wordCount": 7894,
+          "wordCount": 7880,
           "title": "Career Opportunities After Learning Digital Marketing With AI",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/09/Top-Career-Opportunities-After-Learning-Digital-Marketing-With-AI.webp"
         },
@@ -359,6 +369,16 @@
       "feedUrl": "https://99eedu.com/feed/",
       "siteUrl": "https://99eedu.com/",
       "articles": [
+        {
+          "id": "https://99eedu.com/?p=5835",
+          "author": "Yeash",
+          "description": "Ask Google a question today, and the first thing you read often isn’t a website. It’s a paragraph a machine wrote. Students copy those paragraphs into assignments, college shortlists, and interview notes every day. Sometimes they’re right. Sometimes they aren’t, and Google doesn’t say which. At 99Eedu Institute, we watch this habit spread among 12th […]\nThe post What Are Google AI Overviews and Why Should Students Care? appeared first on 99EEDU.",
+          "link": "https://99eedu.com/what-are-google-ai-overviews-and-why-should-students-care/",
+          "publishedOn": "2026-09-22T14:00:11.000Z",
+          "wordCount": 5258,
+          "title": "What Are Google AI Overviews and Why Should Students Care?",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2026/09/Google-AI-Overviews-for-students-1024x576.webp"
+        },
         {
           "id": "https://99eedu.com/?p=5817",
           "author": "Yeash",
