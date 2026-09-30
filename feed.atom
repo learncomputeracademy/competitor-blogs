@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-29T04:28:04.319Z</id>
+    <id>urn:2026-09-30T04:11:49.502Z</id>
     <title>Blogs</title>
-    <updated>2026-09-29T04:28:04.319Z</updated>
+    <updated>2026-09-30T04:11:49.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027]]></title>
+        <id>https://www.webskittersacademy.in/?p=21615</id>
+        <link href="https://www.webskittersacademy.in/data-analyst-job-readiness-checklist/"/>
+        <updated>2026-09-29T10:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Sending out dozens of resumes with no interview calls? The tech job landscape is always evolving – certifications that were relevant five years ago carry little weight today. Firms increasingly reject candidates who know the menu of a software program but cannot solve a real problem. They want logical thinkers who can make sense of… Continue reading The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027
+The post The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027 first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered Digital Marketing Campaign in 7 Steps?]]></title>
+        <id>https://www.webskittersacademy.in/?p=21602</id>
+        <link href="https://www.webskittersacademy.in/ai-powered-marketing-campaign/"/>
+        <updated>2026-09-28T14:05:50.000Z</updated>
+        <summary type="html"><![CDATA[AI is changing the way marketers plan and run campaigns. Instead of relying only on manual research, content planning, and performance reports, marketers can use artificial intelligence (AI) to study audience behaviour, identify patterns, create content variations, personalise messages, and spot optimisation opportunities. According to McKinsey & Company, 86% of marketers are excited to launch… Continue reading How to Build an AI-Powered Digital Marketing Campaign in 7 Steps?
+The post How to Build an AI-Powered Digital Marketing Campaign in 7 Steps? first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agentic Editing for Multicam Shoots: How Agents Handle Syncing]]></title>
         <id>https://www.w3webschool.com/blog/?p=46960</id>
@@ -58,17 +80,6 @@ The post What Is Generative AI? A Complete Beginner’s Guide (2026) appeared fi
 The post Video Editing Tools for Businesses: The Complete Guide appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>W3 WEB SCHOOL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance Marketing vs Digital Marketing: What’s the Difference?]]></title>
-        <id>https://weaversweb.academy/?p=9193</id>
-        <link href="https://weaversweb.academy/performance-marketing-vs-digital-marketing-whats-the-difference/"/>
-        <updated>2026-09-25T10:17:31.000Z</updated>
-        <summary type="html"><![CDATA[The course of marketing has changed in various ways over the years, and it is currently at a crucial juncture. More than newspapers and television advertisements, brands count on online marketing methods to reach their target audience. From websites to social media platforms, many channels are utilised today to promote a brand, its products, and […]
-The post Performance Marketing vs Digital Marketing: What’s the Difference? appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
-        <author>
-            <name>C9QXINzrukjG4lXN7o</name>
         </author>
     </entry>
     <entry>
@@ -399,28 +410,6 @@ The post SQL for Data Analysts: How to Solve Real-World Data Analyst Problems Us
 The post Where can I take a digital marketing course in Sodepur? appeared first on 99EEDU.]]></summary>
         <author>
             <name>Yeash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Advanced Graphic Design AI Course in Guwahati]]></title>
-        <id>https://www.moople.in/blog/?p=17367</id>
-        <link href="https://www.moople.in/blog/best-advanced-graphic-design-ai-course-in-guwahati/"/>
-        <updated>2026-08-31T10:48:53.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve searched for the Advanced Graphic Design AI Course in Guwahati, you’re probably standing at one of two points: you’ve just finished school or college and want a career that pays for creativity, or you’re already working and want to add AI design skills before your job description changes without your permission. Both are […]
-The post Best Advanced Graphic Design AI Course in Guwahati appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Shruti Agrawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Platform Engineering Is Quietly Replacing Traditional DevOps Roles]]></title>
-        <id>https://www.webskittersacademy.in/?p=21236</id>
-        <link href="https://www.webskittersacademy.in/platform-engineering-vs-devops/"/>
-        <updated>2026-08-31T07:55:13.000Z</updated>
-        <summary type="html"><![CDATA[If you are learning DevOps today, you may have noticed that the field is starting to look a little different. Developers still need reliable infrastructure, automated deployments, cloud environments, and monitoring. However, many companies are finding better ways to put those capabilities behind simple, self-service platforms. That shift is already happening at scale. According to… Continue reading How Platform Engineering Is Quietly Replacing Traditional DevOps Roles
-The post How Platform Engineering Is Quietly Replacing Traditional DevOps Roles first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>
