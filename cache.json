@@ -11,7 +11,7 @@
           "description": "Sending out dozens of resumes with no interview calls? The tech job landscape is always evolving – certifications that were relevant five years ago carry little weight today. Firms increasingly reject candidates who know the menu of a software program but cannot solve a real problem. They want logical thinkers who can make sense of… Continue reading The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027\nThe post The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027 first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/data-analyst-job-readiness-checklist/",
           "publishedOn": "2026-09-29T10:50:53.000Z",
-          "wordCount": 15164,
+          "wordCount": 14107,
           "title": "The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/09/The-Data-Analyst-Job-Readiness-Checklist-10-Skills-Recruiters-Screen-For-in-2027.jpg"
         },
@@ -278,16 +278,6 @@
           "wordCount": 4597,
           "title": "Top Career Opportunities After a Web Design Course in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-4.png"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=17424",
-          "author": "Farhat Jabeen",
-          "description": "If you’ve been researching a career in cyber security, you’ve probably noticed that two degrees keep showing up: BSc in Cyber Security and BTech in Cyber Security. They sound similar, they both lead to jobs in the same industry, and yet they are structured very differently — and picking the wrong one for your goals […]\nThe post BSc in Cyber Security vs B.Tech Cyber Security: Full Comparison appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/bsc-in-cyber-security-vs-b-tech-cyber-security-full-comparison/",
-          "publishedOn": "2026-09-03T11:26:56.000Z",
-          "wordCount": 4756,
-          "title": "BSc in Cyber Security vs B.Tech Cyber Security: Full Comparison",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-1.png"
         }
       ]
     },
@@ -385,7 +375,18 @@
       "title": "Blogs | Academy of Web Technologies & Information Management (AWTIM)",
       "feedUrl": "https://awtim.com/blog/feed/",
       "siteUrl": "https://awtim.com/blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://awtim.com/blog/?p=521",
+          "author": "Webmaster Akash",
+          "description": "Essential guide to “Best E-Commerce Course in Kolkata in 2026“ The digital landscape has fundamentally transformed how businesses operate, and\nThe post Best E-Commerce Course in Kolkata in 2026 first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).",
+          "link": "https://awtim.com/blog/best-e-commerce-course-in-kolkata-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=best-e-commerce-course-in-kolkata-in-2026",
+          "publishedOn": "2026-10-02T09:09:49.000Z",
+          "wordCount": 6195,
+          "title": "Best E-Commerce Course in Kolkata in 2026",
+          "imageUrl": "https://awtim.com/blog/wp-content/uploads/2026/10/Essential-guide-to-Best-E-Commerce-Course-in-Kolkata-in-2026.jpg"
+        }
+      ]
     },
     {
       "title": "Acesoftech Academy",
