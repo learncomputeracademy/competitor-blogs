@@ -11,7 +11,7 @@
           "description": "Sending out dozens of resumes with no interview calls? The tech job landscape is always evolving – certifications that were relevant five years ago carry little weight today. Firms increasingly reject candidates who know the menu of a software program but cannot solve a real problem. They want logical thinkers who can make sense of… Continue reading The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027\nThe post The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027 first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/data-analyst-job-readiness-checklist/",
           "publishedOn": "2026-09-29T10:50:53.000Z",
-          "wordCount": 14107,
+          "wordCount": 15143,
           "title": "The Data Analyst Job-Readiness Checklist: 10 Skills Recruiters Screen For in 2027",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/09/The-Data-Analyst-Job-Readiness-Checklist-10-Skills-Recruiters-Screen-For-in-2027.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "AI is changing the way marketers plan and run campaigns. Instead of relying only on manual research, content planning, and performance reports, marketers can use artificial intelligence (AI) to study audience behaviour, identify patterns, create content variations, personalise messages, and spot optimisation opportunities. According to McKinsey & Company, 86% of marketers are excited to launch… Continue reading How to Build an AI-Powered Digital Marketing Campaign in 7 Steps?\nThe post How to Build an AI-Powered Digital Marketing Campaign in 7 Steps? first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/ai-powered-marketing-campaign/",
           "publishedOn": "2026-09-28T14:05:50.000Z",
-          "wordCount": 14036,
+          "wordCount": 15067,
           "title": "How to Build an AI-Powered Digital Marketing Campaign in 7 Steps?",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/09/How-to-Build-an-AI-Powered-Digital-Marketing-Campaign-in-7-Steps.jpg"
         },
@@ -31,7 +31,7 @@
           "description": "AI is starting to do more than answer questions. It can plan tasks, use tools, and take action across different systems. That shift is creating new possibilities for businesses and new career opportunities for people learning AI. Microsoft found that 32% of managers plan to hire AI agent specialists within the next 12 to 18… Continue reading 5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career\nThe post 5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/agentic-ai-use-cases-businesses-careers/",
           "publishedOn": "2026-09-17T11:14:11.000Z",
-          "wordCount": 16461,
+          "wordCount": 15419,
           "title": "5 Real-World Agentic AI Use Cases Businesses Are Deploying – And What It Means for Your Career",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/09/5-Real-World-Agentic-AI-Use-Cases-Businesses-Are-Deploying--And-What-It-Means-for-Your-Career.jpg"
         },
@@ -160,12 +160,22 @@
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
         {
+          "id": "https://www.moople.in/blog/?p=17806",
+          "author": "Farhat Jabeen",
+          "description": "AI is not ending careers in 3D animation and VFX, but it is rewriting the entry-level job description. Repetitive work such as roto cleanup, denoising, previs mock-ups and texture variations is getting faster. Fundamentals, taste and pipeline knowledge are becoming the things that set you apart. If you are 18–30 and comparing 3d animation and […]\nThe post How AI Is Changing 3D Animation and VFX Careers appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/how-ai-is-changing-3d-animation-and-vfx-careers/",
+          "publishedOn": "2026-10-05T11:12:33.000Z",
+          "wordCount": 2970,
+          "title": "How AI Is Changing 3D Animation and VFX Careers",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/10/Untitled-design.png"
+        },
+        {
           "id": "https://www.moople.in/blog/?p=17756",
           "author": "Farhat Jabeen",
           "description": "Your page looks perfect in the browser, yet Google shows a blank snippet or leaves it out of the index. In many cases, JavaScript is the reason. If you are studying a Diploma in Digital Marketing with AI, this is one of the technical topics that separates people who only publish content from people who […]\nThe post JavaScript SEO: Why Some Website Content Is Difficult to Crawl appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/javascript-seo-why-some-website-content-is-difficult-to-crawl/",
           "publishedOn": "2026-09-28T11:19:21.000Z",
-          "wordCount": 3250,
+          "wordCount": 3252,
           "title": "JavaScript SEO: Why Some Website Content Is Difficult to Crawl",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-26.png"
         },
@@ -175,7 +185,7 @@
           "description": "If you’ve started exploring UI design or you’re researching a ui ux designing course, you’ve probably come across the term “8pt grid system” more than once. It shows up in design tutorials, Figma templates, and portfolio reviews — but very few explanations actually tell you why it matters or whether it’s worth building a habit […]\nThe post UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/ui-ux-design-course-what-kolkata-students-should-know-about-the-8pt-grid-system/",
           "publishedOn": "2026-09-24T10:51:41.000Z",
-          "wordCount": 2970,
+          "wordCount": 2972,
           "title": "UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-24.png"
         },
@@ -185,7 +195,7 @@
           "description": "If you’re serious about a career in analytics or performance marketing, understanding how Google Analytics 4 tracks user behaviour isn’t optional — it’s foundational. One question that trips up almost every beginner (and more than a few working professionals) is the difference between GA4 events and conversions. They sound similar, they live in the same […]\nThe post GA4 Events vs. Conversions: How Website Actions Are Tracked appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/ga4-events-vs-conversions-how-website-actions-are-tracked/",
           "publishedOn": "2026-09-23T08:08:49.000Z",
-          "wordCount": 3172,
+          "wordCount": 3174,
           "title": "GA4 Events vs. Conversions: How Website Actions Are Tracked",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/aaaa.png"
         },
@@ -195,7 +205,7 @@
           "description": "If you’re searching for game design courses in Kolkata, you’re probably trying to answer one question: which programme will actually get me job-ready in the gaming industry, and not just hand me a certificate? Short answer — look for a course that is built around a portfolio, not a syllabus. In this industry, nobody hires […]\nThe post Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/game-design-courses-in-kolkata-what-to-study-what-to-expect-and-how-to-choose/",
           "publishedOn": "2026-09-22T06:47:41.000Z",
-          "wordCount": 2942,
+          "wordCount": 2944,
           "title": "Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-21.png"
         },
@@ -205,7 +215,7 @@
           "description": "Students searching for game design courses want to understand what game designers actually do, what skills they need, what tools they use, and whether learning game design can help them build a career in the gaming industry. If you enjoy games and often wonder why a particular level feels challenging, why a character behaves a […]\nThe post What Does a Game Designer Actually Do? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/what-does-a-game-designer-actually-do/",
           "publishedOn": "2026-09-18T08:21:10.000Z",
-          "wordCount": 3390,
+          "wordCount": 3392,
           "title": "What Does a Game Designer Actually Do?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-18.png"
         },
@@ -215,7 +225,7 @@
           "description": "Most people who sign up for UI UX classes arrive with the same mental image: a designer arranging pretty buttons in Figma. Then, three weeks in, they’re sketching twelve versions of a checkout screen because the first eleven made users hesitate. That gap between “making it look good” and “making it work” is the real […]\nThe post UI UX Classes in Kolkata: What You Actually Learn, What It Costs, and How to Pick the Right One appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/ui-ux-classes-in-kolkata-what-you-actually-learn-what-it-costs-and-how-to-pick-the-right-one/",
           "publishedOn": "2026-09-17T08:45:01.000Z",
-          "wordCount": 3237,
+          "wordCount": 3239,
           "title": "UI UX Classes in Kolkata: What You Actually Learn, What It Costs, and How to Pick the Right One",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-15.png"
         },
@@ -225,7 +235,7 @@
           "description": "Most people who search for a Premiere Pro course in Kolkata want the same three answers: what will I actually be able to edit when I finish, how long will it take, and what will it cost me? So let’s deal with those first, and then get into the details that separate a course worth […]\nThe post Premiere Pro Course in Kolkata: What You Learn, What It Costs, and How to Pick the Right One appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/premiere-pro-course-in-kolkata-what-you-learn-what-it-costs-and-how-to-pick-the-right-one/",
           "publishedOn": "2026-09-16T10:33:02.000Z",
-          "wordCount": 3340,
+          "wordCount": 3342,
           "title": "Premiere Pro Course in Kolkata: What You Learn, What It Costs, and How to Pick the Right One",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-11.png"
         },
@@ -235,7 +245,7 @@
           "description": "Choosing a BCA training institute in Kolkata is one of those decisions that quietly shapes the next four to five years of your career. Get it right, and you walk out with real coding ability, a solid degree, and a shot at decent placements. Get it wrong, and you end up with a certificate that […]\nThe post Best BCA Degree Course in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-bca-degree-course-in-kolkata/",
           "publishedOn": "2026-09-15T09:07:20.000Z",
-          "wordCount": 3257,
+          "wordCount": 3259,
           "title": "Best BCA Degree Course in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Best-BCA-Degree-Course-in-Kolkata.png"
         },
@@ -245,7 +255,7 @@
           "description": "Choosing a graphic design institute is one of those decisions that quietly shapes the next five to ten years of your career. Get it right, and you walk out with a portfolio that opens doors. Get it wrong, and you spend a year learning software shortcuts that any YouTube playlist could have taught you. If […]\nThe post Best Graphic Design Institute in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/best-graphic-design-institute-in-kolkata/",
           "publishedOn": "2026-09-14T12:06:05.000Z",
-          "wordCount": 3101,
+          "wordCount": 3103,
           "title": "Best Graphic Design Institute in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-8.png"
         },
@@ -255,7 +265,7 @@
           "description": "If you’re a student in Kolkata trying to break into the creative industry, you’ve probably typed “graphic design course vs multimedia course” into Google more than once, only to end up more confused than before. That confusion is normal. Both fields overlap on the surface — both involve visuals, both need software skills, and both […]\nThe post Graphic Design vs. Multimedia Design Course: Which Is Better? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/graphic-design-vs-multimedia-design-course-which-is-better/",
           "publishedOn": "2026-09-14T07:06:23.000Z",
-          "wordCount": 4247,
+          "wordCount": 4249,
           "title": "Graphic Design vs. Multimedia Design Course: Which Is Better?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-7.png"
         },
@@ -265,7 +275,7 @@
           "description": "If you have ever paused a movie to stare at a dragon’s scales or a spaceship’s hull, you have already appreciated the work of a 3D modeller. Advanced 3D Modelling is the skill that turns a flat sketch or a director’s idea into a fully three-dimensional asset that can be lit, animated, and rendered for […]\nThe post How Advanced 3D Modelling Shapes VFX Careers appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-advanced-3d-modelling-shapes-vfx-careers/",
           "publishedOn": "2026-09-09T11:45:48.000Z",
-          "wordCount": 4557,
+          "wordCount": 4559,
           "title": "How Advanced 3D Modelling Shapes VFX Careers",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-6.png"
         },
@@ -275,7 +285,7 @@
           "description": "If you’ve searched for a web design course in Kolkata, you’ve probably also typed “is web design a good career” into Google at 1 AM, wondering if it’s worth the time and money. That’s a fair question, and it deserves a straight answer, not marketing fluff. Here’s the honest picture: India’s IT and digital services […]\nThe post Top Career Opportunities After a Web Design Course in Kolkata appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/top-career-opportunities-after-a-web-design-course-in-kolkata/",
           "publishedOn": "2026-09-07T10:10:20.000Z",
-          "wordCount": 4597,
+          "wordCount": 4599,
           "title": "Top Career Opportunities After a Web Design Course in Kolkata",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/09/Untitled-design-4.png"
         }
@@ -293,6 +303,16 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=8412",
+          "author": "Tanmay Das",
+          "description": "Ever noticed how one Instagram ad seems to follow you around for days, while another sits on a hoarding you pass every morning? That’s performance marketing vs traditional marketing in one picture. Both are marketing, just very different kinds.  Both performance marketing and traditional marketing aim to win customers, but they do it in completely […]\nThe post Performance Marketing vs Traditional Marketing: Key Differences appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/performance-marketing-vs-traditional-marketing-key-differences/",
+          "publishedOn": "2026-10-06T04:35:00.000Z",
+          "wordCount": 7985,
+          "title": "Performance Marketing vs Traditional Marketing: Key Differences",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/10/Performance-Marketing-vs-Traditional-Marketing.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=8383",
           "author": "Tanmay Das",
           "description": "Ever wondered how ChatGPT writes a whole paragraph in seconds, or how that AI tool produces a logo after you give it only a few words? That’s generative AI, and honestly, it’s expanding fast.  Gen AI went from a new thing to a tech used by 53% of the world’s population. Put simply, generative AI […]\nThe post What Is Generative AI? A Complete Beginner’s Guide (2026) appeared first on Karmick Institute.",
@@ -308,7 +328,7 @@
           "description": "Digital marketing with AI means using tools like AI-driven analytics, automated ad targeting, and predictive customer insights to run smarter campaigns, and it’s creating fresh career paths in India like SEO specialist, performance marketer, and marketing analyst. Today, digital marketing is one of the most in-demand career opportunities in India, and the numbers back it […]\nThe post Career Opportunities After Learning Digital Marketing With AI appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/career-opportunities-after-learning-digital-marketing-with-ai/",
           "publishedOn": "2026-09-17T05:45:10.000Z",
-          "wordCount": 7898,
+          "wordCount": 7884,
           "title": "Career Opportunities After Learning Digital Marketing With AI",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/09/Top-Career-Opportunities-After-Learning-Digital-Marketing-With-AI.webp"
         },
