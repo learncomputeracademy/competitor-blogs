@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-06T05:05:17.935Z</id>
+    <id>urn:2026-10-07T04:32:08.567Z</id>
     <title>Blogs</title>
-    <updated>2026-10-06T05:05:17.935Z</updated>
+    <updated>2026-10-07T04:32:08.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UI UX Designing Course in Kolkata: Learn Semantic Colour Systems for Digital Products]]></title>
+        <id>https://www.moople.in/blog/?p=17820</id>
+        <link href="https://www.moople.in/blog/ui-ux-designing-course-in-kolkata-learn-semantic-colour-systems-for-digital-products/"/>
+        <updated>2026-10-06T07:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask a working product designer what separates a polished interface from an amateur one, and colour comes up fast. The issue is rarely which blue they picked. It’s whether every colour in the product has a job. A UI UX design course in Kolkata should teach you that difference, because it’s what teams look for […]
+The post UI UX Designing Course in Kolkata: Learn Semantic Colour Systems for Digital Products appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Performance Marketing vs Traditional Marketing: Key Differences]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8412</id>
@@ -388,17 +399,6 @@ The post How Advanced 3D Modelling Shapes VFX Careers appeared first on Moople-I
 The post 50 Digital Marketing Interview Questions for Freshers or Intermediates appeared first on Karmick Institute.]]></summary>
         <author>
             <name>Tanmay Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Career Opportunities After a Web Design Course in Kolkata]]></title>
-        <id>https://www.moople.in/blog/?p=17473</id>
-        <link href="https://www.moople.in/blog/top-career-opportunities-after-a-web-design-course-in-kolkata/"/>
-        <updated>2026-09-07T10:10:20.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve searched for a web design course in Kolkata, you’ve probably also typed “is web design a good career” into Google at 1 AM, wondering if it’s worth the time and money. That’s a fair question, and it deserves a straight answer, not marketing fluff. Here’s the honest picture: India’s IT and digital services […]
-The post Top Career Opportunities After a Web Design Course in Kolkata appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Pooja Sharma</name>
         </author>
     </entry>
 </feed>
