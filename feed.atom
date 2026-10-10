@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-09T04:46:08.913Z</id>
+    <id>urn:2026-10-10T04:31:33.493Z</id>
     <title>Blogs</title>
-    <updated>2026-10-09T04:46:08.913Z</updated>
+    <updated>2026-10-10T04:31:33.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Data Engineer Roadmap 2027: A Step-by-Step Learning Path]]></title>
+        <id>https://www.webskittersacademy.in/?p=21683</id>
+        <link href="https://www.webskittersacademy.in/data-engineer-roadmap/"/>
+        <updated>2026-10-09T14:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Data is everywhere, be it in an application, a transaction, customer interaction, or an AI system. However, raw data doesn’t automatically become useful. To make it so, someone has to collect it, clean it, transform it, store it, and make it usable.  That someone is a data engineer.  But the most interesting fact is that the opportunity of being a data engineer… Continue reading Data Engineer Roadmap 2027: A Step-by-Step Learning Path
+The post Data Engineer Roadmap 2027: A Step-by-Step Learning Path first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 AI Data Analysis Tools to Master in 2026 (Tested & Compared)]]></title>
+        <id>https://www.w3webschool.com/blog/?p=47025</id>
+        <link href="https://www.w3webschool.com/blog/ai-data-analysis-tools/"/>
+        <updated>2026-10-09T12:53:53.000Z</updated>
+        <summary type="html"><![CDATA[Top 10 AI Data Analysis Tools to Master in 2026 Poulami Dalal Digital Marketing Trainer & Content Writer 9 Min Read • Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Data analysis is changing fast. In the past, analysts spent hours cleaning spreadsheets, writing formulas, building dashboards, and searching ... Read more
+The post Top 10 AI Data Analysis Tools to Master in 2026 (Tested & Compared) appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best AI Tools for UI/UX Designers in 2027]]></title>
         <id>https://www.webskittersacademy.in/?p=21675</id>
@@ -377,39 +399,6 @@ The post 10 Best Digital Marketing Institutes in Kolkata (2026): Fees, Courses &
 The post Performance Marketing Course in Kolkata: Fees, Duration, Syllabus & Career Opportunities (2026) appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Shaheel Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Digital Marketing Courses in Indore (2026): Fees, Syllabus & Placements]]></title>
-        <id>https://www.w3webschool.com/blog/?p=5263</id>
-        <link href="https://www.w3webschool.com/blog/digital-marketing-courses-in-indore/"/>
-        <updated>2026-09-10T20:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Home / Blog / 10 Best Digital Marketing Courses in Indore 10 Best Digital Marketing Courses in Indore (2026): Fees, Syllabus & Placements Looking for a digital marketing course in Indore but unsure which one fits your career goals? We’ve compared 10 popular options based on course fees, duration, syllabus, practical training, learning mode, certifications ... Read more
-The post 10 Best Digital Marketing Courses in Indore (2026): Fees, Syllabus & Placements appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose Digital Marketing Training in Shyambazar]]></title>
-        <id>https://99eedu.com/?p=5755</id>
-        <link href="https://99eedu.com/how-to-choose-digital-marketing-training-in-shyambazar/"/>
-        <updated>2026-09-10T10:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Every second student I meet in Shyambazar this year is asking the same question: which institute is actually worth the money? I hear this at 99Eedu Institute almost every week — from 12th pass-outs, from college students juggling a semester and a side hustle, from freshers who got rejected twice and want a real skill […]
-The post How to Choose Digital Marketing Training in Shyambazar appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>Yeash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths]]></title>
-        <id>https://www.webskittersacademy.in/?p=21540</id>
-        <link href="https://www.webskittersacademy.in/generative-ai-guide/"/>
-        <updated>2026-09-10T10:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI has moved far beyond a technology people experiment with for fun. It is now being used to create content, write code, analyse information, support business processes, and build new digital experiences. Stanford HAI reports that generative AI reached 53% adoption among the population in just three years, faster than personal computers or the… Continue reading The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths
-The post The Ultimate Guide to Generative AI in 2027: Concepts, Tools & Career Paths first appeared on Webskitters Academy.]]></summary>
-        <author>
-            <name>Ayan Sarkar</name>
         </author>
     </entry>
 </feed>
