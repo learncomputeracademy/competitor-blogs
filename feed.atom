@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-12T04:32:34.489Z</id>
+    <id>urn:2026-10-13T05:39:13.733Z</id>
     <title>Blogs</title>
-    <updated>2026-10-12T04:32:34.489Z</updated>
+    <updated>2026-10-13T05:39:13.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Rotoscoping in VFX? Process, Tools and Applications]]></title>
+        <id>https://www.moople.in/blog/?p=17890</id>
+        <link href="https://www.moople.in/blog/what-is-rotoscoping-in-vfx-process-tools-and-applications/"/>
+        <updated>2026-10-12T09:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Rotoscoping is the VFX technique of tracing over live-action footage frame by frame to isolate a subject or create animation. In modern visual effects, it usually means drawing precise shapes around an actor, prop or object so that element can be separated from its background. Compositors then place it into a new scene or apply […]
+The post What Is Rotoscoping in VFX? Process, Tools and Applications appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Engineer Roadmap 2027: A Step-by-Step Learning Path]]></title>
         <id>https://www.webskittersacademy.in/?p=21683</id>
