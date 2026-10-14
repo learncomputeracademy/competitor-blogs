@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-13T05:39:13.733Z</id>
+    <id>urn:2026-10-14T03:42:21.349Z</id>
     <title>Blogs</title>
-    <updated>2026-10-13T05:39:13.733Z</updated>
+    <updated>2026-10-14T03:42:21.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Website Development Course in Kolkata: Core Web Vitals (LCP, INP, CLS) Explained]]></title>
+        <id>https://www.moople.in/blog/?p=17920</id>
+        <link href="https://www.moople.in/blog/website-development-course-in-kolkata-core-web-vitals-lcp-inp-cls-explained/"/>
+        <updated>2026-10-13T09:40:33.000Z</updated>
+        <summary type="html"><![CDATA[A good website development course in Kolkata should teach you more than HTML, CSS and JavaScript. It should teach you to build sites that load fast, respond instantly and stay stable while people use them. Google measures exactly that with Core Web Vitals, and usability testing is how you find out whether real people experience […]
+The post Website Development Course in Kolkata: Core Web Vitals (LCP, INP, CLS) Explained appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Rotoscoping in VFX? Process, Tools and Applications]]></title>
         <id>https://www.moople.in/blog/?p=17890</id>
@@ -353,28 +364,6 @@ The post Performance Marketing Skills You Need to Get Hired in 2027 appeared fir
         <updated>2026-09-15T09:07:20.000Z</updated>
         <summary type="html"><![CDATA[Choosing a BCA training institute in Kolkata is one of those decisions that quietly shapes the next four to five years of your career. Get it right, and you walk out with real coding ability, a solid degree, and a shot at decent placements. Get it wrong, and you end up with a certificate that […]
 The post Best BCA Degree Course in Kolkata appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Graphic Design Institute in Kolkata]]></title>
-        <id>https://www.moople.in/blog/?p=17575</id>
-        <link href="https://www.moople.in/blog/best-graphic-design-institute-in-kolkata/"/>
-        <updated>2026-09-14T12:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Choosing a graphic design institute is one of those decisions that quietly shapes the next five to ten years of your career. Get it right, and you walk out with a portfolio that opens doors. Get it wrong, and you spend a year learning software shortcuts that any YouTube playlist could have taught you. If […]
-The post Best Graphic Design Institute in Kolkata appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graphic Design vs. Multimedia Design Course: Which Is Better?]]></title>
-        <id>https://www.moople.in/blog/?p=17549</id>
-        <link href="https://www.moople.in/blog/graphic-design-vs-multimedia-design-course-which-is-better/"/>
-        <updated>2026-09-14T07:06:23.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a student in Kolkata trying to break into the creative industry, you’ve probably typed “graphic design course vs multimedia course” into Google more than once, only to end up more confused than before. That confusion is normal. Both fields overlap on the surface — both involve visuals, both need software skills, and both […]
-The post Graphic Design vs. Multimedia Design Course: Which Is Better? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
         </author>
