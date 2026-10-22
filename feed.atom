@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-21T03:28:55.907Z</id>
+    <id>urn:2026-10-22T03:28:08.557Z</id>
     <title>Blogs</title>
-    <updated>2026-10-21T03:28:55.907Z</updated>
+    <updated>2026-10-22T03:28:08.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -287,28 +287,6 @@ The post UI/UX Design Course: What Kolkata Students Should Know About the 8pt Gr
         <updated>2026-09-23T08:08:49.000Z</updated>
         <summary type="html"><![CDATA[If you’re serious about a career in analytics or performance marketing, understanding how Google Analytics 4 tracks user behaviour isn’t optional — it’s foundational. One question that trips up almost every beginner (and more than a few working professionals) is the difference between GA4 events and conversions. They sound similar, they live in the same […]
 The post GA4 Events vs. Conversions: How Website Actions Are Tracked appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Google AI Overviews and Why Should Students Care?]]></title>
-        <id>https://99eedu.com/?p=5835</id>
-        <link href="https://99eedu.com/what-are-google-ai-overviews-and-why-should-students-care/"/>
-        <updated>2026-09-22T14:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask Google a question today, and the first thing you read often isn’t a website. It’s a paragraph a machine wrote. Students copy those paragraphs into assignments, college shortlists, and interview notes every day. Sometimes they’re right. Sometimes they aren’t, and Google doesn’t say which. At 99Eedu Institute, we watch this habit spread among 12th […]
-The post What Are Google AI Overviews and Why Should Students Care? appeared first on 99EEDU.]]></summary>
-        <author>
-            <name>Yeash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose]]></title>
-        <id>https://www.moople.in/blog/?p=17711</id>
-        <link href="https://www.moople.in/blog/game-design-courses-in-kolkata-what-to-study-what-to-expect-and-how-to-choose/"/>
-        <updated>2026-09-22T06:47:41.000Z</updated>
-        <summary type="html"><![CDATA[If you’re searching for game design courses in Kolkata, you’re probably trying to answer one question: which programme will actually get me job-ready in the gaming industry, and not just hand me a certificate? Short answer — look for a course that is built around a portfolio, not a syllabus. In this industry, nobody hires […]
-The post Game Design Courses in Kolkata: What to Study, What to Expect, and How to Choose appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
         </author>
