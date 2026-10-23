@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-22T03:28:08.557Z</id>
+    <id>urn:2026-10-23T03:33:19.497Z</id>
     <title>Blogs</title>
-    <updated>2026-10-22T03:28:08.557Z</updated>
+    <updated>2026-10-23T03:33:19.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Diploma in 3D Modelling & Design with AI]]></title>
+        <id>https://www.moople.in/blog/?p=17987</id>
+        <link href="https://www.moople.in/blog/diploma-in-3d-modelling-design-with-ai/"/>
+        <updated>2026-10-22T10:00:33.000Z</updated>
+        <summary type="html"><![CDATA[A Diploma in 3D Modelling & Design with AI is a short, skills-first programme where you learn to build 3D props and characters, unwrap and texture them, and use AI tools to speed up parts of the workflow. At Moople Institute, the programme is listed on the website as 3D Modelling & AI and runs […]
+The post Diploma in 3D Modelling & Design with AI appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skills Required for a Cyber Security Career: Programming, Networking and Tools]]></title>
         <id>https://www.moople.in/blog/?p=17963</id>
@@ -25,6 +36,17 @@ The post Skills Required for a Cyber Security Career: Programming, Networking an
 The post How Does Performance Marketing Work? Step-by-Step Performance Marketing Process Explained appeared first on Karmick Institute.]]></summary>
         <author>
             <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Software Testing: What QA Testers Must Learn in 2027]]></title>
+        <id>https://www.webskittersacademy.in/?p=21712</id>
+        <link href="https://www.webskittersacademy.in/ai-software-testing-skills/"/>
+        <updated>2026-10-16T10:03:21.000Z</updated>
+        <summary type="html"><![CDATA[A common scenario: You are part of a QA team to release a major software update. You have taken help from AI to write the code, generate test cases, and analyze the latest results. Everything seems technically sound and ready. Then, suddenly, a customer notices that a discount is applied twice at the checkout under a specific combination of… Continue reading AI in Software Testing: What QA Testers Must Learn in 2027
+The post AI in Software Testing: What QA Testers Must Learn in 2027 first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
         </author>
     </entry>
     <entry>
@@ -276,17 +298,6 @@ The post Video Editing Tools for Businesses: The Complete Guide appeared first o
         <updated>2026-09-24T10:51:41.000Z</updated>
         <summary type="html"><![CDATA[If you’ve started exploring UI design or you’re researching a ui ux designing course, you’ve probably come across the term “8pt grid system” more than once. It shows up in design tutorials, Figma templates, and portfolio reviews — but very few explanations actually tell you why it matters or whether it’s worth building a habit […]
 The post UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GA4 Events vs. Conversions: How Website Actions Are Tracked]]></title>
-        <id>https://www.moople.in/blog/?p=17733</id>
-        <link href="https://www.moople.in/blog/ga4-events-vs-conversions-how-website-actions-are-tracked/"/>
-        <updated>2026-09-23T08:08:49.000Z</updated>
-        <summary type="html"><![CDATA[If you’re serious about a career in analytics or performance marketing, understanding how Google Analytics 4 tracks user behaviour isn’t optional — it’s foundational. One question that trips up almost every beginner (and more than a few working professionals) is the difference between GA4 events and conversions. They sound similar, they live in the same […]
-The post GA4 Events vs. Conversions: How Website Actions Are Tracked appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
         </author>
