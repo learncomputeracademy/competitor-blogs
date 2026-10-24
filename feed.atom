@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-23T03:33:19.497Z</id>
+    <id>urn:2026-10-24T03:27:28.150Z</id>
     <title>Blogs</title>
-    <updated>2026-10-23T03:33:19.497Z</updated>
+    <updated>2026-10-24T03:27:28.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BBA in Digital Marketing Course: How AI and Machine Learning Power Predictive Marketing]]></title>
+        <id>https://www.moople.in/blog/?p=18010</id>
+        <link href="https://www.moople.in/blog/bba-in-digital-marketing-course-how-ai-and-machine-learning-power-predictive-marketing/"/>
+        <updated>2026-10-23T10:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask a marketing manager what changed most in the last few years and you will rarely hear “more platforms.” You will hear “less guessing.” Teams that once judged a campaign after the budget was spent now estimate, beforehand, who is likely to buy, who is about to leave and which message deserves the money. That […]
+The post BBA in Digital Marketing Course: How AI and Machine Learning Power Predictive Marketing appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative AI vs Traditional AI vs Machine Learning: What’s the Difference?]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8464</id>
+        <link href="https://www.karmickinstitute.com/resources/generative-ai-vs-traditional-ai-vs-machine-learning-whats-the-difference/"/>
+        <updated>2026-10-23T05:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning is an AI that learns from what it has seen before, just like you get better at spotting spam after a few annoying calls. Generative AI goes a little further: it doesn’t just recognise patterns; it uses them to create something new, like an email, a song, or a piece of code, all […]
+The post Generative AI vs Traditional AI vs Machine Learning: What’s the Difference? appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Diploma in 3D Modelling & Design with AI]]></title>
         <id>https://www.moople.in/blog/?p=17987</id>
@@ -289,17 +311,6 @@ The post What Is Generative AI? A Complete Beginner’s Guide (2026) appeared fi
 The post Video Editing Tools for Businesses: The Complete Guide appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>W3 WEB SCHOOL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System]]></title>
-        <id>https://www.moople.in/blog/?p=17745</id>
-        <link href="https://www.moople.in/blog/ui-ux-design-course-what-kolkata-students-should-know-about-the-8pt-grid-system/"/>
-        <updated>2026-09-24T10:51:41.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve started exploring UI design or you’re researching a ui ux designing course, you’ve probably come across the term “8pt grid system” more than once. It shows up in design tutorials, Figma templates, and portfolio reviews — but very few explanations actually tell you why it matters or whether it’s worth building a habit […]
-The post UI/UX Design Course: What Kolkata Students Should Know About the 8pt Grid System appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
         </author>
     </entry>
 </feed>
