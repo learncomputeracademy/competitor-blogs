@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-29T04:34:20.687Z</id>
+    <id>urn:2026-10-30T04:34:25.163Z</id>
     <title>Blogs</title>
-    <updated>2026-10-29T04:34:20.687Z</updated>
+    <updated>2026-10-30T04:34:25.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cyber Security Course with Hands-On Penetration Testing and Vulnerability Assessment]]></title>
+        <id>https://www.moople.in/blog/?p=18057</id>
+        <link href="https://www.moople.in/blog/cyber-security-course-penetration-testing-vulnerability-assessment/"/>
+        <updated>2026-10-29T09:41:37.000Z</updated>
+        <summary type="html"><![CDATA[A cyber security course that only explains firewalls on slides won’t prepare you for the job. The useful ones put you in front of a Kali Linux terminal, give you a deliberately vulnerable lab, and ask you to find what’s broken before an attacker does. If you’re between 18 and 30 and comparing options in […]
+The post Cyber Security Course with Hands-On Penetration Testing and Vulnerability Assessment appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical SEO Plan for Agriculture Businesses]]></title>
+        <id>https://www.w3webschool.com/blog/?p=47196</id>
+        <link href="https://www.w3webschool.com/blog/seo-plan-for-agriculture-businesses/"/>
+        <updated>2026-10-28T13:10:30.000Z</updated>
+        <summary type="html"><![CDATA[A Practical SEO Plan for Agriculture Businesses A farm, greenhouse, seed supplier or agricultural consultant can have excellent products and still struggle to reach new customers online. A practical SEO plan helps people find the right information at the moment they are searching, whether they need a local supplier, crop advice or a reliable source ... Read more
+The post A Practical SEO Plan for Agriculture Businesses appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AI Is Changing VFX: What You Learn in a Diploma in VFX with AI]]></title>
         <id>https://www.moople.in/blog/?p=18038</id>
@@ -14,17 +36,6 @@
 The post How AI Is Changing VFX: What You Learn in a Diploma in VFX with AI appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 AI Content Optimization Tools in 2026 (Free & Paid)]]></title>
-        <id>https://www.w3webschool.com/blog/?p=47196</id>
-        <link href="https://www.w3webschool.com/blog/ai-content-optimization-tools/"/>
-        <updated>2026-10-26T12:47:30.000Z</updated>
-        <summary type="html"><![CDATA[10 AI Content Optimization Tools in 2026 (Free & Paid) Poulami Dalal Digital Marketing Trainer & Content Writer 9 Min Read Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Making good content is not just about writing the right words. Your content should answer user queries, match search intent, ... Read more
-The post 10 AI Content Optimization Tools in 2026 (Free & Paid) appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
     <entry>
