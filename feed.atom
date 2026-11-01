@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-31T04:17:02.223Z</id>
+    <id>urn:2026-11-01T04:38:01.516Z</id>
     <title>Blogs</title>
-    <updated>2026-10-31T04:17:02.223Z</updated>
+    <updated>2026-11-01T04:38:01.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is the Average BCA Course Fees in Kolkata?]]></title>
+        <id>https://www.moople.in/blog/?p=18083</id>
+        <link href="https://www.moople.in/blog/average-bca-course-fees-in-kolkata/"/>
+        <updated>2026-10-31T07:13:59.000Z</updated>
+        <summary type="html"><![CDATA[The average BCA course fees in Kolkata work out to roughly ₹1 lakh to ₹5 lakh for the full degree. Most private colleges sit between ₹1.2 lakh and ₹3.5 lakh, government-aided colleges cost far less, and premium private universities cost more. These figures come from 2026 listings on public college portals and Moople’s own course […]
+The post What Is the Average BCA Course Fees in Kolkata? appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyber Security Course with Hands-On Penetration Testing and Vulnerability Assessment]]></title>
         <id>https://www.moople.in/blog/?p=18057</id>
@@ -289,17 +300,6 @@ The post Performance Marketing vs Traditional Marketing: Key Differences appeare
 The post How AI Is Changing 3D Animation and VFX Careers appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best E-Commerce Course in Kolkata in 2026]]></title>
-        <id>https://awtim.com/blog/?p=521</id>
-        <link href="https://awtim.com/blog/best-e-commerce-course-in-kolkata-in-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=best-e-commerce-course-in-kolkata-in-2026"/>
-        <updated>2026-10-02T09:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Essential guide to “Best E-Commerce Course in Kolkata in 2026“ The digital landscape has fundamentally transformed how businesses operate, and
-The post Best E-Commerce Course in Kolkata in 2026 first appeared on Blogs | Academy of Web Technologies & Information Management (AWTIM).]]></summary>
-        <author>
-            <name>Webmaster Akash</name>
         </author>
     </entry>
 </feed>
