@@ -53,16 +53,6 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
-          "id": "https://www.w3webschool.com/blog/?p=47196",
-          "author": "Poulami Dalal",
-          "description": "A Practical SEO Plan for Agriculture Businesses A farm, greenhouse, seed supplier or agricultural consultant can have excellent products and still struggle to reach new customers online. A practical SEO plan helps people find the right information at the moment they are searching, whether they need a local supplier, crop advice or a reliable source ... Read more\nThe post A Practical SEO Plan for Agriculture Businesses appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/seo-plan-for-agriculture-businesses/",
-          "publishedOn": "2026-10-28T13:10:30.000Z",
-          "wordCount": 3665,
-          "title": "A Practical SEO Plan for Agriculture Businesses",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/10/Agriculture-SEO-Plan_-Grow-Online-Visibility.png"
-        },
-        {
           "id": "https://www.w3webschool.com/blog/?p=47151",
           "author": "Poulami Dalal",
           "description": "Top 10 AI Hashtag Generator Tools to Master in 2026 [Free & Paid] Poulami Dalal Digital Marketing Trainer & Content Writer 9 Min Read Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Social media posts need more than attractive images and catchy captions. They also need to reach the ... Read more\nThe post 10 Best AI Hashtag Generator Tools in 2026 (Free & Paid) appeared first on W3webschool Blog.",
@@ -108,7 +98,7 @@
           "description": "10 Best AI Audio Enhancers in 2026: Free & Paid Tools Compared Poulami Dalal Digital Marketing Trainer & Content Writer 10 Min Read • Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Are you tired of producing poor-quality audio files? Have you ever noticed that low volume, background noise, ... Read more\nThe post 10 Best AI Audio Enhancers in 2026 appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/ai-audio-enhancer/",
           "publishedOn": "2026-10-07T12:55:22.000Z",
-          "wordCount": 19470,
+          "wordCount": 19361,
           "title": "10 Best AI Audio Enhancers in 2026",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2024/11/AI-Audio-Enhancers.png"
         }
@@ -260,6 +250,12 @@
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/10/Untitled-design.png"
         }
       ]
+    },
+    {
+      "title": "Creative IT Institute Blog",
+      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com/",
+      "articles": []
     },
     {
       "title": "Explore Relevant Resources for Tech Skill Development",
