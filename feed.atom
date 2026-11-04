@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-03T05:30:18.386Z</id>
+    <id>urn:2026-11-04T04:58:53.476Z</id>
     <title>Blogs</title>
-    <updated>2026-11-03T05:30:18.386Z</updated>
+    <updated>2026-11-04T04:58:53.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Can AI Replace Graphic Designers? Why a Graphic Design Certificate Course Matters]]></title>
+        <id>https://www.moople.in/blog/?p=18096</id>
+        <link href="https://www.moople.in/blog/can-ai-replace-graphic-designers-why-a-graphic-design-certificate-course-matters/"/>
+        <updated>2026-11-03T09:08:15.000Z</updated>
+        <summary type="html"><![CDATA[No, AI is unlikely to replace graphic designers entirely. It is already replacing some tasks: quick background removal, resizing banners, generating rough mood images. The people who struggle will be those who only knew how to push buttons. Designers who can judge, direct and refine will do fine, and a structured graphic design certificate course […]
+The post Can AI Replace Graphic Designers? Why a Graphic Design Certificate Course Matters appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is the Average BCA Course Fees in Kolkata?]]></title>
         <id>https://www.moople.in/blog/?p=18083</id>
@@ -278,17 +289,6 @@ The post UI UX Designing Course in Kolkata: Learn Semantic Colour Systems for Di
 The post Performance Marketing vs Traditional Marketing: Key Differences appeared first on Karmick Institute.]]></summary>
         <author>
             <name>Tanmay Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing 3D Animation and VFX Careers]]></title>
-        <id>https://www.moople.in/blog/?p=17806</id>
-        <link href="https://www.moople.in/blog/how-ai-is-changing-3d-animation-and-vfx-careers/"/>
-        <updated>2026-10-05T11:12:33.000Z</updated>
-        <summary type="html"><![CDATA[AI is not ending careers in 3D animation and VFX, but it is rewriting the entry-level job description. Repetitive work such as roto cleanup, denoising, previs mock-ups and texture variations is getting faster. Fundamentals, taste and pipeline knowledge are becoming the things that set you apart. If you are 18–30 and comparing 3d animation and […]
-The post How AI Is Changing 3D Animation and VFX Careers appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
         </author>
     </entry>
 </feed>
