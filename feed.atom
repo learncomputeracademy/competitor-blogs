@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-04T04:58:53.476Z</id>
+    <id>urn:2026-11-05T05:20:00.399Z</id>
     <title>Blogs</title>
-    <updated>2026-11-04T04:58:53.476Z</updated>
+    <updated>2026-11-05T05:20:00.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -14,6 +14,17 @@
 The post Can AI Replace Graphic Designers? Why a Graphic Design Certificate Course Matters appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Google Ads Get Clicks but No Leads (and Fixes)]]></title>
+        <id>https://99eedu.com/?p=5923</id>
+        <link href="https://99eedu.com/why-your-google-ads-get-clicks-but-no-leads-and-fixes/"/>
+        <updated>2026-11-03T09:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Google Ads clicks, but no leads, usually means the ad worked and something after the click broke. It almost always comes down to one of five things: tracking, wrong traffic, a mismatched ad, a weak landing page, or slow follow-up. At 99Eedu Institute in Kolkata, we teach beginners to check them in a fixed order, so […]
+The post Why Your Google Ads Get Clicks but No Leads (and Fixes) appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>Yeash</name>
         </author>
     </entry>
     <entry>
@@ -267,28 +278,6 @@ The post 10 Best AI Audio Enhancers in 2026 appeared first on W3webschool Blog.]
 The post 2D Animation Course: How to Fix Stiff Character Animation appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI UX Designing Course in Kolkata: Learn Semantic Colour Systems for Digital Products]]></title>
-        <id>https://www.moople.in/blog/?p=17820</id>
-        <link href="https://www.moople.in/blog/ui-ux-designing-course-in-kolkata-learn-semantic-colour-systems-for-digital-products/"/>
-        <updated>2026-10-06T07:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask a working product designer what separates a polished interface from an amateur one, and colour comes up fast. The issue is rarely which blue they picked. It’s whether every colour in the product has a job. A UI UX design course in Kolkata should teach you that difference, because it’s what teams look for […]
-The post UI UX Designing Course in Kolkata: Learn Semantic Colour Systems for Digital Products appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance Marketing vs Traditional Marketing: Key Differences]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8412</id>
-        <link href="https://www.karmickinstitute.com/resources/performance-marketing-vs-traditional-marketing-key-differences/"/>
-        <updated>2026-10-06T04:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever noticed how one Instagram ad seems to follow you around for days, while another sits on a hoarding you pass every morning? That’s performance marketing vs traditional marketing in one picture. Both are marketing, just very different kinds.  Both performance marketing and traditional marketing aim to win customers, but they do it in completely […]
-The post Performance Marketing vs Traditional Marketing: Key Differences appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
         </author>
     </entry>
 </feed>
