@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-07T04:49:15.770Z</id>
+    <id>urn:2026-11-08T04:40:28.351Z</id>
     <title>Blogs</title>
-    <updated>2026-11-07T04:49:15.770Z</updated>
+    <updated>2026-11-08T04:40:28.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -267,17 +267,6 @@ The post Website Development Course in Kolkata: Core Web Vitals (LCP, INP, CLS) 
 The post What Is Rotoscoping in VFX? Process, Tools and Applications appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 AI Data Analysis Tools to Master in 2026 (Tested & Compared)]]></title>
-        <id>https://www.w3webschool.com/blog/?p=47025</id>
-        <link href="https://www.w3webschool.com/blog/ai-data-analysis-tools/"/>
-        <updated>2026-10-09T12:53:53.000Z</updated>
-        <summary type="html"><![CDATA[Top 10 AI Data Analysis Tools to Master in 2026 Poulami Dalal Digital Marketing Trainer & Content Writer 9 Min Read • Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Data analysis is changing fast. In the past, analysts spent hours cleaning spreadsheets, writing formulas, building dashboards, and searching ... Read more
-The post Top 10 AI Data Analysis Tools to Master in 2026 (Tested & Compared) appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
 </feed>
