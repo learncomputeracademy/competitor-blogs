@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-10T06:05:10.628Z</id>
+    <id>urn:2026-11-11T04:52:45.052Z</id>
     <title>Blogs</title>
-    <updated>2026-11-10T06:05:10.628Z</updated>
+    <updated>2026-11-11T04:52:45.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,7 +13,7 @@
         <summary type="html"><![CDATA[Most freshers run Facebook lead generation ads the same way: boost a post, spend a ₹2,000 Daily budget, get three likes and zero leads. That pattern is painfully common. The fix isn’t a bigger budget. It’s a proper setup: one clear offer, the right campaign objective, a short form and a fast reply. 99Eedu Institute […]
 The post How to Generate Leads With Meta Ads: Step-by-Step appeared first on 99EEDU.]]></summary>
         <author>
-            <name>99superadmin</name>
+            <name>Yeash</name>
         </author>
     </entry>
     <entry>
@@ -254,17 +254,6 @@ The post Data Engineer Roadmap 2027: A Step-by-Step Learning Path first appeared
         <updated>2026-10-13T09:40:33.000Z</updated>
         <summary type="html"><![CDATA[A good website development course in Kolkata should teach you more than HTML, CSS and JavaScript. It should teach you to build sites that load fast, respond instantly and stay stable while people use them. Google measures exactly that with Core Web Vitals, and usability testing is how you find out whether real people experience […]
 The post Website Development Course in Kolkata: Core Web Vitals (LCP, INP, CLS) Explained appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Rotoscoping in VFX? Process, Tools and Applications]]></title>
-        <id>https://www.moople.in/blog/?p=17890</id>
-        <link href="https://www.moople.in/blog/what-is-rotoscoping-in-vfx-process-tools-and-applications/"/>
-        <updated>2026-10-12T09:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Rotoscoping is the VFX technique of tracing over live-action footage frame by frame to isolate a subject or create animation. In modern visual effects, it usually means drawing precise shapes around an actor, prop or object so that element can be separated from its background. Compositors then place it into a new scene or apply […]
-The post What Is Rotoscoping in VFX? Process, Tools and Applications appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
         </author>
