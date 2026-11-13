@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-12T05:54:46.745Z</id>
+    <id>urn:2026-11-13T05:17:00.575Z</id>
     <title>Blogs</title>
-    <updated>2026-11-12T05:54:46.745Z</updated>
+    <updated>2026-11-13T05:17:00.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Animation Bachelor Degree: From Digital Storytelling to VFX Production]]></title>
+        <id>https://www.moople.in/blog/?p=18134</id>
+        <link href="https://www.moople.in/blog/animation-bachelor-degree-from-digital-storytelling-to-vfx-production/"/>
+        <updated>2026-11-12T09:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Plenty of students finish Class 12 with a sketchbook full of characters and no idea whether drawing can pay the bills. An animation bachelor degree is the long-form answer to that doubt. It gives you four years to move from basic drawing to a finished short film and a portfolio, instead of a few months […]
+The post Animation Bachelor Degree: From Digital Storytelling to VFX Production appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can AI Replace Graphic Designers in 2027? The Honest Answer]]></title>
+        <id>https://99eedu.com/?p=5960</id>
+        <link href="https://99eedu.com/can-ai-replace-graphic-designers-in-2027-the-honest-answer/"/>
+        <updated>2026-11-11T13:58:04.000Z</updated>
+        <summary type="html"><![CDATA[If you are a student or fresher, you have probably wondered: can AI replace graphic designers in 2027? No, but it is changing what a designer’s job looks like. AI can make a poster, a logo idea, or a full layout in minutes, and that can feel scary when you are still learning. But a […]
+The post Can AI Replace Graphic Designers in 2027? The Honest Answer appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>Yeash</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI in Data Analytics: 10 Skills Every Future Data Analyst Should Learn]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8522</id>
@@ -232,17 +254,6 @@ The post Top Software Taught in an Animation Degree Course: Blender, Maya, After
         <updated>2026-10-15T10:00:12.000Z</updated>
         <summary type="html"><![CDATA[10 Best Link to Video Converter Tools: Free and Paid Options Poulami Dalal Digital Marketing Trainer & Content Writer 10 Min Read Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Need to convert a video link into a file you can watch or edit? A link to video converter ... Read more
 The post 10 Best Link to Video Converter Tools (Free & Paid) appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best AI Tools for Image Compression in 2026]]></title>
-        <id>https://www.w3webschool.com/blog/?p=14139</id>
-        <link href="https://www.w3webschool.com/blog/ai-tools-for-image-compression/"/>
-        <updated>2026-10-14T13:00:20.000Z</updated>
-        <summary type="html"><![CDATA[10 Best AI Tools for Image Compression in 2026 Poulami Dalal Digital Marketing Trainer & Content Writer 10 Min Read • Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Are you facing upload delay issues while trying to load your images? Have you ever considered these delay issues that ... Read more
-The post 10 Best AI Tools for Image Compression in 2026 appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
         </author>
