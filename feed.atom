@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-13T05:17:00.575Z</id>
+    <id>urn:2026-11-14T05:06:21.293Z</id>
     <title>Blogs</title>
-    <updated>2026-11-13T05:17:00.575Z</updated>
+    <updated>2026-11-14T05:06:21.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8527</id>
+        <link href="https://www.karmickinstitute.com/resources/learn-python-for-data-analytics-step-by-step-roadmap-for-beginners/"/>
+        <updated>2026-11-13T05:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Ever spent half your day fixing one broken formula or pasting the same data again and again? Yeah, spreadsheets can be exhausting because they were never really built for handling large amounts of data.  That’s exactly why so many data professionals have switched to Python for analytics. The job market agrees, too, as the U.S. […]
+The post Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Trending IT Courses: Which Ones Will Stay in Demand Till 2030?]]></title>
+        <id>https://weaversweb.academy/?p=9365</id>
+        <link href="https://weaversweb.academy/top-trending-it-courses-which-ones-will-stay-in-demand-till-2030/"/>
+        <updated>2026-11-12T10:40:16.000Z</updated>
+        <summary type="html"><![CDATA[The process of finding a job in the IT field has changed greatly over the last few decades. Gone are the days when you had to learn one discipline or a software tool and start applying for jobs. The situation has changed greatly, with the market constantly evolving amid technological upgrades. The advent of AI […]
+The post Top Trending IT Courses: Which Ones Will Stay in Demand Till 2030? appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
+        <author>
+            <name>C9QXINzrukjG4lXN7o</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animation Bachelor Degree: From Digital Storytelling to VFX Production]]></title>
         <id>https://www.moople.in/blog/?p=18134</id>
@@ -245,17 +267,6 @@ The post How Does Performance Marketing Work? Step-by-Step Performance Marketing
 The post Top Software Taught in an Animation Degree Course: Blender, Maya, After Effects and ZBrush appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Link to Video Converter Tools (Free & Paid)]]></title>
-        <id>https://www.w3webschool.com/blog/?p=17988</id>
-        <link href="https://www.w3webschool.com/blog/link-to-video-converter/"/>
-        <updated>2026-10-15T10:00:12.000Z</updated>
-        <summary type="html"><![CDATA[10 Best Link to Video Converter Tools: Free and Paid Options Poulami Dalal Digital Marketing Trainer & Content Writer 10 Min Read Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Need to convert a video link into a file you can watch or edit? A link to video converter ... Read more
-The post 10 Best Link to Video Converter Tools (Free & Paid) appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>Poulami Dalal</name>
         </author>
     </entry>
 </feed>
