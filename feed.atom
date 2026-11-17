@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-14T05:06:21.293Z</id>
+    <id>urn:2026-11-17T06:45:01.876Z</id>
     <title>Blogs</title>
-    <updated>2026-11-14T05:06:21.293Z</updated>
+    <updated>2026-11-17T06:45:01.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python for Machine Learning: How Much Python Do You Need Before Starting?]]></title>
+        <id>https://www.webskittersacademy.in/?p=21878</id>
+        <link href="https://www.webskittersacademy.in/python-for-machine-learning/"/>
+        <updated>2026-11-16T10:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Learning Python for machine learning doesn’t require you to gain years of programming experience. If you’re choosing a career in ML, a basic understanding of Python, a few programming concepts, and the ability to work with data can help. For example, you are teaching a computer to recognize spam emails. So, what you actually need… Continue reading Python for Machine Learning: How Much Python Do You Need Before Starting?
+The post Python for Machine Learning: How Much Python Do You Need Before Starting? first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Animation and Visual Effects Courses: From Digital Sculpting to Final Rendering]]></title>
+        <id>https://www.moople.in/blog/?p=18191</id>
+        <link href="https://www.moople.in/blog/3d-animation-vfx-courses-in-kolkata/"/>
+        <updated>2026-11-16T07:07:32.000Z</updated>
+        <summary type="html"><![CDATA[3D animation and visual effects courses teach you to build digital characters, environments and film-grade effects, then carry a shot from an empty viewport to a finished frame. If you’re 18 to 30 and weighing this as a career in Kolkata, it’s realistic. The condition is that you pick a course covering the whole production […]
+The post 3D Animation and Visual Effects Courses: From Digital Sculpting to Final Rendering appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8527</id>
@@ -243,28 +265,6 @@ The post Diploma in 3D Modelling & Design with AI appeared first on Moople-Insti
         <updated>2026-10-19T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[If you are going through BSc cyber security course details, the syllabus can look like a long list of unrelated subjects. It is really one idea taught in layers: understand how systems talk, learn to write and read code, then use tools to find and fix weak spots. A BSc cyber security course is generally […]
 The post Skills Required for a Cyber Security Career: Programming, Networking and Tools appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Performance Marketing Work? Step-by-Step Performance Marketing Process Explained]]></title>
-        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8459</id>
-        <link href="https://www.karmickinstitute.com/resources/how-does-performance-marketing-work-step-by-step-performance-marketing-process-explained/"/>
-        <updated>2026-10-16T12:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Performance marketing is a way of advertising where you pay only when a specific action happens, like a click, a lead, a sign-up or a sale. The performance marketing process works in a loop: set a goal, pick your channels, launch ads, track KPIs and metrics, then keep refining based on what the numbers say. […]
-The post How Does Performance Marketing Work? Step-by-Step Performance Marketing Process Explained appeared first on Karmick Institute.]]></summary>
-        <author>
-            <name>Tanmay Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Software Taught in an Animation Degree Course: Blender, Maya, After Effects and ZBrush]]></title>
-        <id>https://www.moople.in/blog/?p=17950</id>
-        <link href="https://www.moople.in/blog/top-software-taught-in-an-animation-degree-course-blender-maya-after-effects-and-zbrush/"/>
-        <updated>2026-10-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An animation degree course teaches you to think like an animator first and operate software second. Still, the software is how your ideas reach the screen. Most programmes, including a BSc in animation and filmmaking, build their practical training around four tools: Blender for all-round 3D, Maya for character animation and rigging, After Effects for […]
-The post Top Software Taught in an Animation Degree Course: Blender, Maya, After Effects and ZBrush appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
         </author>
