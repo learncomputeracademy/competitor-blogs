@@ -1,19 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-17T06:45:01.876Z</id>
+    <id>urn:2026-11-18T06:03:06.866Z</id>
     <title>Blogs</title>
-    <updated>2026-11-17T06:45:01.876Z</updated>
+    <updated>2026-11-18T06:03:06.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Python for Machine Learning: How Much Python Do You Need Before Starting?]]></title>
-        <id>https://www.webskittersacademy.in/?p=21878</id>
-        <link href="https://www.webskittersacademy.in/python-for-machine-learning/"/>
-        <updated>2026-11-16T10:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Learning Python for machine learning doesn’t require you to gain years of programming experience. If you’re choosing a career in ML, a basic understanding of Python, a few programming concepts, and the ability to work with data can help. For example, you are teaching a computer to recognize spam emails. So, what you actually need… Continue reading Python for Machine Learning: How Much Python Do You Need Before Starting?
-The post Python for Machine Learning: How Much Python Do You Need Before Starting? first appeared on Webskitters Academy.]]></summary>
+        <title type="html"><![CDATA[Power BI vs Tableau for Beginners: A Complete Guide]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8541</id>
+        <link href="https://www.karmickinstitute.com/resources/power-bi-vs-tableau-for-beginners/"/>
+        <updated>2026-11-18T05:21:53.000Z</updated>
+        <summary type="html"><![CDATA[So, you have decided to get into data analytics. Great career move, but when you Google “what data analytics tools to learn first”, two names show up everywhere, i.e. Power BI and Tableau. While Power BI have surpassed over 30 million monthly active users, Tableau has over 1 million users with 500 user groups. On […]
+The post Power BI vs Tableau for Beginners: A Complete Guide appeared first on Karmick Institute.]]></summary>
         <author>
-            <name>Ayan Sarkar</name>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Image to Link Converter Tools (Free & Paid)]]></title>
+        <id>https://www.w3webschool.com/blog/?p=47629</id>
+        <link href="https://www.w3webschool.com/blog/image-to-link-converter-tools/"/>
+        <updated>2026-11-17T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Home Blog AI Tools Image to Link Converter 10 Best Image to Link Converter Tools (Free & Paid) Written by Poulami Dalal Digital Marketing Trainer & Content Writer Published on: November 17, 2026 Updated on: November 17, 2026 Reading time: 11 min read On this page What is an Image to Link Converter? Benefits of ... Read more
+The post 10 Best Image to Link Converter Tools (Free & Paid) appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short-Term Courses After Graduation for Better Career Opportunities]]></title>
+        <id>https://weaversweb.academy/?p=9399</id>
+        <link href="https://weaversweb.academy/short-term-courses-after-graduation-for-better-career-opportunities/"/>
+        <updated>2026-11-17T10:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Graduation feels like a big achievement for all of us. After years of never-ending classes, boring exams and haunting assignments, you finally have the degree in your hand. But soon, another question comes up. What should you be learning next in order to get a good job? A degree gives you good knowledge, but nowadays, […]
+The post Short-Term Courses After Graduation for Better Career Opportunities appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.]]></summary>
+        <author>
+            <name>C9QXINzrukjG4lXN7o</name>
         </author>
     </entry>
     <entry>
@@ -83,6 +105,17 @@ The post AI in Data Analytics: 10 Skills Every Future Data Analyst Should Learn 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MLOps Engineer Roadmap: What to Learn, in Order]]></title>
+        <id>https://www.webskittersacademy.in/?p=21890</id>
+        <link href="https://www.webskittersacademy.in/mlops-engineer-roadmap/"/>
+        <updated>2026-11-10T13:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Businesses can use machine learning to predict customer needs, detect fraud, and recommend products. But building a model alone won’t help. While a model can be made ready to use, its effectiveness relies on how well it performs after going live. The right type of deployment requires a business to thoroughly test, launch, track, and… Continue reading MLOps Engineer Roadmap: What to Learn, in Order
+The post MLOps Engineer Roadmap: What to Learn, in Order first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Generate Leads With Meta Ads: Step-by-Step]]></title>
         <id>https://99eedu.com/?p=5944</id>
         <link href="https://99eedu.com/how-to-generate-leads-with-meta-ads-step-by-step/"/>
@@ -124,6 +157,17 @@ The post Why an Advanced Diploma in Game Design & Development with AI Is the Sma
 The post Performance Marketing Funnel Explained: TOFU, MOFU, BOFU Guide appeared first on Karmick Institute.]]></summary>
         <author>
             <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Machine Learning: How Much Python Do You Need Before Starting?]]></title>
+        <id>https://www.webskittersacademy.in/?p=21878</id>
+        <link href="https://www.webskittersacademy.in/python-for-machine-learning/"/>
+        <updated>2026-11-04T10:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Learning Python for machine learning doesn’t require you to gain years of programming experience. If you’re choosing a career in ML, a basic understanding of Python, a few programming concepts, and the ability to work with data can help. For example, you are teaching a computer to recognize spam emails. So, what you actually need… Continue reading Python for Machine Learning: How Much Python Do You Need Before Starting?
+The post Python for Machine Learning: How Much Python Do You Need Before Starting? first appeared on Webskitters Academy.]]></summary>
+        <author>
+            <name>Ayan Sarkar</name>
         </author>
     </entry>
     <entry>
@@ -254,17 +298,6 @@ The post AI in Software Testing: What QA Testers Must Learn in 2027 first appear
         <updated>2026-10-22T10:00:33.000Z</updated>
         <summary type="html"><![CDATA[A Diploma in 3D Modelling & Design with AI is a short, skills-first programme where you learn to build 3D props and characters, unwrap and texture them, and use AI tools to speed up parts of the workflow. At Moople Institute, the programme is listed on the website as 3D Modelling & AI and runs […]
 The post Diploma in 3D Modelling & Design with AI appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skills Required for a Cyber Security Career: Programming, Networking and Tools]]></title>
-        <id>https://www.moople.in/blog/?p=17963</id>
-        <link href="https://www.moople.in/blog/skills-required-for-a-cyber-security-career-programming-networking-and-tools/"/>
-        <updated>2026-10-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are going through BSc cyber security course details, the syllabus can look like a long list of unrelated subjects. It is really one idea taught in layers: understand how systems talk, learn to write and read code, then use tools to find and fix weak spots. A BSc cyber security course is generally […]
-The post Skills Required for a Cyber Security Career: Programming, Networking and Tools appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
         </author>

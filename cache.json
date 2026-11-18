@@ -6,11 +6,21 @@
       "siteUrl": "https://www.webskittersacademy.in",
       "articles": [
         {
+          "id": "https://www.webskittersacademy.in/?p=21890",
+          "author": "Ayan Sarkar",
+          "description": "Businesses can use machine learning to predict customer needs, detect fraud, and recommend products. But building a model alone won’t help. While a model can be made ready to use, its effectiveness relies on how well it performs after going live. The right type of deployment requires a business to thoroughly test, launch, track, and… Continue reading MLOps Engineer Roadmap: What to Learn, in Order\nThe post MLOps Engineer Roadmap: What to Learn, in Order first appeared on Webskitters Academy.",
+          "link": "https://www.webskittersacademy.in/mlops-engineer-roadmap/",
+          "publishedOn": "2026-11-10T13:59:51.000Z",
+          "wordCount": 14083,
+          "title": "MLOps Engineer Roadmap: What to Learn, in Order",
+          "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/11/MLOps-Engineer-Roadmap-What-to-Learn-in-Order.jpg"
+        },
+        {
           "id": "https://www.webskittersacademy.in/?p=21878",
           "author": "Ayan Sarkar",
           "description": "Learning Python for machine learning doesn’t require you to gain years of programming experience. If you’re choosing a career in ML, a basic understanding of Python, a few programming concepts, and the ability to work with data can help. For example, you are teaching a computer to recognize spam emails. So, what you actually need… Continue reading Python for Machine Learning: How Much Python Do You Need Before Starting?\nThe post Python for Machine Learning: How Much Python Do You Need Before Starting? first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/python-for-machine-learning/",
-          "publishedOn": "2026-11-16T10:54:43.000Z",
+          "publishedOn": "2026-11-04T10:54:43.000Z",
           "wordCount": 13846,
           "title": "Python for Machine Learning: How Much Python Do You Need Before Starting?",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/11/Python-for-Machine-Learning-How-Much-Python-Do-You-Need-Before-Starting.jpg"
@@ -43,12 +53,22 @@
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
         {
+          "id": "https://www.w3webschool.com/blog/?p=47629",
+          "author": "Poulami Dalal",
+          "description": "Home Blog AI Tools Image to Link Converter 10 Best Image to Link Converter Tools (Free & Paid) Written by Poulami Dalal Digital Marketing Trainer & Content Writer Published on: November 17, 2026 Updated on: November 17, 2026 Reading time: 11 min read On this page What is an Image to Link Converter? Benefits of ... Read more\nThe post 10 Best Image to Link Converter Tools (Free & Paid) appeared first on W3webschool Blog.",
+          "link": "https://www.w3webschool.com/blog/image-to-link-converter-tools/",
+          "publishedOn": "2026-11-17T11:59:00.000Z",
+          "wordCount": 8764,
+          "title": "10 Best Image to Link Converter Tools (Free & Paid)",
+          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/11/10-Best-Image-to-Link-Converter-Tools.png"
+        },
+        {
           "id": "https://www.w3webschool.com/blog/?p=47151",
           "author": "Poulami Dalal",
           "description": "Top 10 AI Hashtag Generator Tools to Master in 2026 [Free & Paid] Poulami Dalal Digital Marketing Trainer & Content Writer 9 Min Read Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Social media posts need more than attractive images and catchy captions. They also need to reach the ... Read more\nThe post 10 Best AI Hashtag Generator Tools in 2026 (Free & Paid) appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/ai-hashtag-generator-tools/",
           "publishedOn": "2026-10-24T12:45:42.000Z",
-          "wordCount": 12899,
+          "wordCount": 13590,
           "title": "10 Best AI Hashtag Generator Tools in 2026 (Free & Paid)",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/10/10-Best-AI-Hashtag-Generator-Tools-in-2026.png"
         }
@@ -168,16 +188,6 @@
           "wordCount": 3026,
           "title": "Diploma in 3D Modelling & Design with AI",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/10/with-AI.png"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=17963",
-          "author": "Farhat Jabeen",
-          "description": "If you are going through BSc cyber security course details, the syllabus can look like a long list of unrelated subjects. It is really one idea taught in layers: understand how systems talk, learn to write and read code, then use tools to find and fix weak spots. A BSc cyber security course is generally […]\nThe post Skills Required for a Cyber Security Career: Programming, Networking and Tools appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/skills-required-for-a-cyber-security-career-programming-networking-and-tools/",
-          "publishedOn": "2026-10-19T11:00:00.000Z",
-          "wordCount": 3390,
-          "title": "Skills Required for a Cyber Security Career: Programming, Networking and Tools",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/10/Untitled-design-2026-10-15T142745.384.png"
         }
       ]
     },
@@ -193,12 +203,22 @@
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
         {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=8541",
+          "author": "Tanmay Das",
+          "description": "So, you have decided to get into data analytics. Great career move, but when you Google “what data analytics tools to learn first”, two names show up everywhere, i.e. Power BI and Tableau. While Power BI have surpassed over 30 million monthly active users, Tableau has over 1 million users with 500 user groups. On […]\nThe post Power BI vs Tableau for Beginners: A Complete Guide appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/power-bi-vs-tableau-for-beginners/",
+          "publishedOn": "2026-11-18T05:21:53.000Z",
+          "wordCount": 7503,
+          "title": "Power BI vs Tableau for Beginners: A Complete Guide",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/Power-BI-vs-Tableau-A-complete-beginners-guide.webp"
+        },
+        {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=8527",
           "author": "Tanmay Das",
           "description": "Ever spent half your day fixing one broken formula or pasting the same data again and again? Yeah, spreadsheets can be exhausting because they were never really built for handling large amounts of data.  That’s exactly why so many data professionals have switched to Python for analytics. The job market agrees, too, as the U.S. […]\nThe post Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/learn-python-for-data-analytics-step-by-step-roadmap-for-beginners/",
           "publishedOn": "2026-11-13T05:22:56.000Z",
-          "wordCount": 7117,
+          "wordCount": 7084,
           "title": "Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/Learn-Python-for-Data-Analytics.webp"
         },
@@ -208,7 +228,7 @@
           "description": "Remember when “data analyst” just meant someone who was good with Excel?  Honestly, those days are long gone. Now, AI can pull the report, tidy the messy spreadsheet, and spot the trend before you’ve even opened your laptop. So the real question that fresh graduates and career-switchers are asking right now isn’t “should I become […]\nThe post AI in Data Analytics: 10 Skills Every Future Data Analyst Should Learn appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/ai-in-data-analytics-10-skills-every-future-data-analyst-should-learn/",
           "publishedOn": "2026-11-11T05:43:29.000Z",
-          "wordCount": 7912,
+          "wordCount": 7934,
           "title": "AI in Data Analytics: 10 Skills Every Future Data Analyst Should Learn",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/10-AI-Skills-Every-Aspiring-Data-Analyst-Should-Learn.webp"
         },
@@ -218,7 +238,7 @@
           "description": "A performance marketing funnel is simply the path someone takes from seeing an ad for the first time to finally making the purchase. It has three stages: TOFU (top of funnel, where people first see a brand), MOFU (middle of funnel, where they start weighing it) and BOFU (bottom of funnel, where they make the […]\nThe post Performance Marketing Funnel Explained: TOFU, MOFU, BOFU Guide appeared first on Karmick Institute.",
           "link": "https://www.karmickinstitute.com/resources/performance-marketing-funnel-explained-tofu-mofu-bofu-guide/",
           "publishedOn": "2026-11-05T06:18:12.000Z",
-          "wordCount": 7344,
+          "wordCount": 7325,
           "title": "Performance Marketing Funnel Explained: TOFU, MOFU, BOFU Guide",
           "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/Performance-Marketing-Funnels.webp"
         },
@@ -245,7 +265,7 @@
           "description": "If you are a student or fresher, you have probably wondered: can AI replace graphic designers in 2027? No, but it is changing what a designer’s job looks like. AI can make a poster, a logo idea, or a full layout in minutes, and that can feel scary when you are still learning. But a […]\nThe post Can AI Replace Graphic Designers in 2027? The Honest Answer appeared first on 99EEDU.",
           "link": "https://99eedu.com/can-ai-replace-graphic-designers-in-2027-the-honest-answer/",
           "publishedOn": "2026-11-11T13:58:04.000Z",
-          "wordCount": 6178,
+          "wordCount": 7661,
           "title": "Can AI Replace Graphic Designers in 2027? The Honest Answer",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/11/AI-replace-graphic-designers-1024x576.webp"
         },
@@ -255,7 +275,7 @@
           "description": "Most freshers run Facebook lead generation ads the same way: boost a post, spend a ₹2,000 Daily budget, get three likes and zero leads. That pattern is painfully common. The fix isn’t a bigger budget. It’s a proper setup: one clear offer, the right campaign objective, a short form and a fast reply. 99Eedu Institute […]\nThe post How to Generate Leads With Meta Ads: Step-by-Step appeared first on 99EEDU.",
           "link": "https://99eedu.com/how-to-generate-leads-with-meta-ads-step-by-step/",
           "publishedOn": "2026-11-06T13:19:54.000Z",
-          "wordCount": 6442,
+          "wordCount": 7925,
           "title": "How to Generate Leads With Meta Ads: Step-by-Step",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/11/Facebook-lead-generation-ads-1024x576.webp"
         },
@@ -265,7 +285,7 @@
           "description": "Google Ads clicks, but no leads, usually means the ad worked and something after the click broke. It almost always comes down to one of five things: tracking, wrong traffic, a mismatched ad, a weak landing page, or slow follow-up. At 99Eedu Institute in Kolkata, we teach beginners to check them in a fixed order, so […]\nThe post Why Your Google Ads Get Clicks but No Leads (and Fixes) appeared first on 99EEDU.",
           "link": "https://99eedu.com/why-your-google-ads-get-clicks-but-no-leads-and-fixes/",
           "publishedOn": "2026-11-03T09:01:18.000Z",
-          "wordCount": 7441,
+          "wordCount": 8924,
           "title": "Why Your Google Ads Get Clicks but No Leads (and Fixes)",
           "imageUrl": "https://99eedu.com/wp-content/uploads/2026/11/Google-Ads-clicks-but-no-leads-1024x576.webp"
         }
@@ -283,12 +303,22 @@
       "siteUrl": "https://weaversweb.academy/",
       "articles": [
         {
+          "id": "https://weaversweb.academy/?p=9399",
+          "author": "C9QXINzrukjG4lXN7o",
+          "description": "Graduation feels like a big achievement for all of us. After years of never-ending classes, boring exams and haunting assignments, you finally have the degree in your hand. But soon, another question comes up. What should you be learning next in order to get a good job? A degree gives you good knowledge, but nowadays, […]\nThe post Short-Term Courses After Graduation for Better Career Opportunities appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.",
+          "link": "https://weaversweb.academy/short-term-courses-after-graduation-for-better-career-opportunities/",
+          "publishedOn": "2026-11-17T10:44:25.000Z",
+          "wordCount": 4895,
+          "title": "Short-Term Courses After Graduation for Better Career Opportunities",
+          "imageUrl": "https://weaversweb.academy/wp-content/uploads/2026/11/short-term-course-1.webp"
+        },
+        {
           "id": "https://weaversweb.academy/?p=9365",
           "author": "C9QXINzrukjG4lXN7o",
           "description": "The process of finding a job in the IT field has changed greatly over the last few decades. Gone are the days when you had to learn one discipline or a software tool and start applying for jobs. The situation has changed greatly, with the market constantly evolving amid technological upgrades. The advent of AI […]\nThe post Top Trending IT Courses: Which Ones Will Stay in Demand Till 2030? appeared first on Best IT Training Institute in Kolkata - Weavers Web Academy.",
           "link": "https://weaversweb.academy/top-trending-it-courses-which-ones-will-stay-in-demand-till-2030/",
           "publishedOn": "2026-11-12T10:40:16.000Z",
-          "wordCount": 4721,
+          "wordCount": 4722,
           "title": "Top Trending IT Courses: Which Ones Will Stay in Demand Till 2030?",
           "imageUrl": "https://weaversweb.academy/wp-content/uploads/2026/11/Top-Trending-IT-Courses-1.webp"
         }
