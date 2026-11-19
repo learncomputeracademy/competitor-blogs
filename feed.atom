@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-18T06:03:06.866Z</id>
+    <id>urn:2026-11-19T06:04:17.952Z</id>
     <title>Blogs</title>
-    <updated>2026-11-18T06:03:06.866Z</updated>
+    <updated>2026-11-19T06:04:17.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Tracking Update: 5 Things to Check Before Black Friday]]></title>
+        <id>https://99eedu.com/?p=6000</id>
+        <link href="https://99eedu.com/meta-tracking-update-5-things-to-check-before-black-friday/"/>
+        <updated>2026-11-18T13:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Your ads can win the click and still lose the report. That happens when tracking breaks, and Black Friday is the worst week to find out. This Meta Pixel Update checklist gives you five checks that protect your sales data: Pixel, Conversions API, deduplication, match quality and consent.99Eedu Institute wrote this guide for students, freshers […]
+The post Meta Tracking Update: 5 Things to Check Before Black Friday appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>Yeash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Is Workflow Automation Important in Digital Marketing Strategy?]]></title>
+        <id>https://www.moople.in/blog/?p=18249</id>
+        <link href="https://www.moople.in/blog/why-is-workflow-automation-important-in-digital-marketing-strategy/"/>
+        <updated>2026-11-18T07:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Workflow automation is important in digital marketing because it hands repetitive, rule-based work to software, so marketers can spend their time on strategy, creativity and analysis. It also makes campaigns faster, more consistent and easier to measure. For anyone weighing a BBA in digital marketing course in Kolkata, this is one of the practical skills […]
+The post Why Is Workflow Automation Important in Digital Marketing Strategy? appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated UI UX Design Course Syllabus 2026 | Ultimate Guide]]></title>
+        <id>https://www.w3webschool.com/blog/?p=32692</id>
+        <link href="https://www.w3webschool.com/blog/ui-ux-design-course-syllabus/"/>
+        <updated>2026-11-18T07:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Home › UI UX Design › UI UX Design Course Syllabus UI UX Design Course Syllabus (2026 Guide) By Poulami Dalal, Verified Digital Marketing Trainer & Blog Specialist Reviewed by: Bholanath Hore, UI UX Design Trainer Published: 23 Mar 2026 Updated: 18 Nov 2026 13 min read W3 Web School is a training institute; this ... Read more
+The post Updated UI UX Design Course Syllabus 2026 | Ultimate Guide appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Marketing Course Syllabus (2026): Complete Modules, AI Tools & Career Skills]]></title>
+        <id>https://www.w3webschool.com/blog/?p=4018</id>
+        <link href="https://www.w3webschool.com/blog/digital-marketing-course-syllabus/"/>
+        <updated>2026-11-18T07:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Digital Marketing Course Syllabus (2026): Complete Modules, AI Tools & Career Skills By Poulami Dalal Reviewed by: Ankit Singh, Digital Marketing Trainer Published: 24 Aug 2026 Updated: 18 Nov 2026 15 min read W3 Web School is a training institute; this guide reflects our own curriculum approach. Planning to learn digital marketing but unsure what ... Read more
+The post Digital Marketing Course Syllabus (2026): Complete Modules, AI Tools & Career Skills appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power BI vs Tableau for Beginners: A Complete Guide]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8541</id>
