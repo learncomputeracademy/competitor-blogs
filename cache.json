@@ -11,7 +11,7 @@
           "description": "Businesses can use machine learning to predict customer needs, detect fraud, and recommend products. But building a model alone won’t help. While a model can be made ready to use, its effectiveness relies on how well it performs after going live. The right type of deployment requires a business to thoroughly test, launch, track, and… Continue reading MLOps Engineer Roadmap: What to Learn, in Order\nThe post MLOps Engineer Roadmap: What to Learn, in Order first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/mlops-engineer-roadmap/",
           "publishedOn": "2026-11-10T13:59:51.000Z",
-          "wordCount": 15898,
+          "wordCount": 14880,
           "title": "MLOps Engineer Roadmap: What to Learn, in Order",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/11/MLOps-Engineer-Roadmap-What-to-Learn-in-Order.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "Learning Python for machine learning doesn’t require you to gain years of programming experience. If you’re choosing a career in ML, a basic understanding of Python, a few programming concepts, and the ability to work with data can help. For example, you are teaching a computer to recognize spam emails. So, what you actually need… Continue reading Python for Machine Learning: How Much Python Do You Need Before Starting?\nThe post Python for Machine Learning: How Much Python Do You Need Before Starting? first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/python-for-machine-learning/",
           "publishedOn": "2026-11-04T10:54:43.000Z",
-          "wordCount": 14657,
+          "wordCount": 14643,
           "title": "Python for Machine Learning: How Much Python Do You Need Before Starting?",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/11/Python-for-Machine-Learning-How-Much-Python-Do-You-Need-Before-Starting.jpg"
         },
@@ -31,7 +31,7 @@
           "description": "Can freshers get a Data Analyst job without professional experience?  Yes, there’s one effective way: build a portfolio that demonstrates all the practical skills you have for data analysis, explains your business understanding, and showcases your problem-solving ability.  Beginners can learn from data analyst portfolio projects how they collect, clean, analyze, and visualize data to… Continue reading Data Analyst Portfolio Projects: 5 Ideas for Freshers\nThe post Data Analyst Portfolio Projects: 5 Ideas for Freshers first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/data-analyst-portfolio-projects/",
           "publishedOn": "2026-10-26T06:13:23.000Z",
-          "wordCount": 15837,
+          "wordCount": 14819,
           "title": "Data Analyst Portfolio Projects: 5 Ideas for Freshers",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/10/Data-Analyst-Portfolio-Projects-5-Ideas-for-Freshers.jpg"
         }
@@ -68,7 +68,7 @@
           "description": "Home › UI UX Design › UI UX Design Course Syllabus UI UX Design Course Syllabus 2026: Modules, Tools & Projects Written by Poulami Dalal · Reviewed by Bholanath Hore, UI UX Design Trainer · Last updated 21 November 2026 · Reading time: about 14 minutes Do you want to know what an updated UI ... Read more\nThe post Updated UI UX Design Course Syllabus 2026 | Ultimate Guide appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/ui-ux-design-course-syllabus/",
           "publishedOn": "2026-11-21T08:45:39.000Z",
-          "wordCount": 8449,
+          "wordCount": 8366,
           "title": "Updated UI UX Design Course Syllabus 2026 | Ultimate Guide",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/03/UI-UX-Design-Course-Syllabus.png"
         },
@@ -121,16 +121,6 @@
           "wordCount": 8764,
           "title": "10 Best Image to Link Converter Tools (Free & Paid)",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/11/10-Best-Image-to-Link-Converter-Tools.png"
-        },
-        {
-          "id": "https://www.w3webschool.com/blog/?p=47151",
-          "author": "Poulami Dalal",
-          "description": "Top 10 AI Hashtag Generator Tools to Master in 2026 [Free & Paid] Poulami Dalal Digital Marketing Trainer & Content Writer 9 Min Read Updated October 2026 SHARE: SUMMARIZE THIS POST USING AI ChatGPT Claude Gemini Perplexity Copilot Social media posts need more than attractive images and catchy captions. They also need to reach the ... Read more\nThe post 10 Best AI Hashtag Generator Tools in 2026 (Free & Paid) appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/ai-hashtag-generator-tools/",
-          "publishedOn": "2026-10-24T12:45:42.000Z",
-          "wordCount": 13590,
-          "title": "10 Best AI Hashtag Generator Tools in 2026 (Free & Paid)",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/10/10-Best-AI-Hashtag-Generator-Tools-in-2026.png"
         }
       ]
     },
@@ -252,49 +242,189 @@
       ]
     },
     {
-      "title": "Explore Relevant Resources for Tech Skill Development",
-      "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
-      "siteUrl": "https://www.karmickinstitute.com/resources/",
+      "title": "Laravel Blog",
+      "feedUrl": "https://www.blog.creativeitinstitute.com/feed/",
+      "siteUrl": "https://www.blog.creativeitinstitute.com",
       "articles": [
         {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=8541",
-          "author": "Tanmay Das",
-          "description": "So, you have decided to get into data analytics. Great career move, but when you Google “what data analytics tools to learn first”, two names show up everywhere, i.e. Power BI and Tableau. While Power BI have surpassed over 30 million monthly active users, Tableau has over 1 million users with 500 user groups. On […]\nThe post Power BI vs Tableau for Beginners: A Complete Guide appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/power-bi-vs-tableau-for-beginners/",
-          "publishedOn": "2026-11-18T05:21:53.000Z",
-          "wordCount": 7503,
-          "title": "Power BI vs Tableau for Beginners: A Complete Guide",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/Power-BI-vs-Tableau-A-complete-beginners-guide.webp"
+          "id": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-4",
+          "author": null,
+          "description": "AI vs human creativity in content marketing is changing the world faster than ever before. From business operations to education.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-4",
+          "publishedOn": "2026-11-21T14:30:00.000Z",
+          "wordCount": 7412,
+          "title": "AI vs Human Creativity in Content Marketing: Who Will Win the Future?",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01abd160337.webp"
         },
         {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=8527",
-          "author": "Tanmay Das",
-          "description": "Ever spent half your day fixing one broken formula or pasting the same data again and again? Yeah, spreadsheets can be exhausting because they were never really built for handling large amounts of data.  That’s exactly why so many data professionals have switched to Python for analytics. The job market agrees, too, as the U.S. […]\nThe post Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/learn-python-for-data-analytics-step-by-step-roadmap-for-beginners/",
-          "publishedOn": "2026-11-13T05:22:56.000Z",
-          "wordCount": 7084,
-          "title": "Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/Learn-Python-for-Data-Analytics.webp"
+          "id": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-3",
+          "author": null,
+          "description": "The internet is experiencing an unprecedented flood of AI-generated material. Because virtually every business has access to similar large language models, publishing high volumes of generic articles no longer creates a competitive advantage. Instead, audiences quickly tune out repetitive \"AI trash,\" while search engines enforce stricter quality standards. Under Google’s helpful content approach and E-E-A-T principles—Experience.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-3",
+          "publishedOn": "2026-11-21T14:26:00.000Z",
+          "wordCount": 3814,
+          "title": "AI vs Human Creativity: Who Wins the Future of Content Marketing!",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01aaed2859d.webp"
         },
         {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=8522",
-          "author": "Tanmay Das",
-          "description": "Remember when “data analyst” just meant someone who was good with Excel?  Honestly, those days are long gone. Now, AI can pull the report, tidy the messy spreadsheet, and spot the trend before you’ve even opened your laptop. So the real question that fresh graduates and career-switchers are asking right now isn’t “should I become […]\nThe post AI in Data Analytics: 10 Skills Every Future Data Analyst Should Learn appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/ai-in-data-analytics-10-skills-every-future-data-analyst-should-learn/",
-          "publishedOn": "2026-11-11T05:43:29.000Z",
-          "wordCount": 7920,
-          "title": "AI in Data Analytics: 10 Skills Every Future Data Analyst Should Learn",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/10-AI-Skills-Every-Aspiring-Data-Analyst-Should-Learn.webp"
+          "id": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-2",
+          "author": null,
+          "description": "AI vs Human Creativity: Who Wins the Future Artificial intelligence can help businesses write their own posts and analyze their customers’ data.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-2",
+          "publishedOn": "2026-11-21T14:25:00.000Z",
+          "wordCount": 5445,
+          "title": "AI vs Human Creativity: Who Wins the Future of Content Marketing?",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01aa494c7da.webp"
         },
         {
-          "id": "https://www.karmickinstitute.com/?post_type=resources&p=8518",
-          "author": "Tanmay Das",
-          "description": "A performance marketing funnel is simply the path someone takes from seeing an ad for the first time to finally making the purchase. It has three stages: TOFU (top of funnel, where people first see a brand), MOFU (middle of funnel, where they start weighing it) and BOFU (bottom of funnel, where they make the […]\nThe post Performance Marketing Funnel Explained: TOFU, MOFU, BOFU Guide appeared first on Karmick Institute.",
-          "link": "https://www.karmickinstitute.com/resources/performance-marketing-funnel-explained-tofu-mofu-bofu-guide/",
-          "publishedOn": "2026-11-05T06:18:12.000Z",
-          "wordCount": 7325,
-          "title": "Performance Marketing Funnel Explained: TOFU, MOFU, BOFU Guide",
-          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/Performance-Marketing-Funnels.webp"
+          "id": "https://www.blog.creativeitinstitute.com/seo-for-small-businesses",
+          "author": null,
+          "description": "Learn how SEO for small businesses can boost visibility, attract local customers, and drive steady growth. Practical steps you can start today.",
+          "link": "https://www.blog.creativeitinstitute.com/seo-for-small-businesses",
+          "publishedOn": "2026-11-21T14:20:00.000Z",
+          "wordCount": 4796,
+          "title": "How Small Businesses Can Grow Through Search Engine Optimization (SEO)",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01a8869d462.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity",
+          "author": null,
+          "description": "In the world of content marketing, time is extremely valuable.AI vs human creativity in content marketing Businesses need to publish fresh and engaging content regularly to remain visible in search engines and stay connected with their audiences.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity",
+          "publishedOn": "2026-11-21T14:19:00.000Z",
+          "wordCount": 7360,
+          "title": "AI vs Human Creativity in Content Marketing: Who Will Win the Future?",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01a9969ad4b.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/the-future-of-digital-marketing-careers-what-skills-will-marketers-need-in-the-ai-era",
+          "author": null,
+          "description": "Still wondering which AI skills to learn as a marketer? Explore AI literacy, automation, SEO, creativity, and critical thinking to stay competitive. Discover how modern marketers can combine core marketing fundamentals with emerging AI tools to understand customers, build stronger strategies, and future-proof their careers.",
+          "link": "https://www.blog.creativeitinstitute.com/the-future-of-digital-marketing-careers-what-skills-will-marketers-need-in-the-ai-era",
+          "publishedOn": "2026-11-20T19:42:00.000Z",
+          "wordCount": 4095,
+          "title": "The Future of Digital Marketing Careers: What Skills Will Marketers Need in the AI Era?",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b00a3ec5e3ec.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-4",
+          "author": null,
+          "description": "",
+          "link": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-4",
+          "publishedOn": "2026-11-20T18:23:17.000Z",
+          "wordCount": 3545,
+          "title": "AI In Business : Future Trends &amp; Impact",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0090159ce8d.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business-2",
+          "author": null,
+          "description": "Discover how Artificial Intelligence In Business is transforming modern companies through intelligent automation, business intelligence tools, and smarter decision-making. Explore how AI improves customer experience, powers AI in e-commerce, supports AI for small businesses, and boosts productivity. Learn how human-AI collaboration helps businesses reduce costs, streamline operations, and achieve sustainable growth.",
+          "link": "https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business-2",
+          "publishedOn": "2026-11-20T13:47:21.000Z",
+          "wordCount": 2899,
+          "title": "Artificial Intelligence in Business: How AI Is Reshaping the Future",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b004f696361b.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-2",
+          "author": null,
+          "description": "Artificial intelligence is transforming the future of business through automation, smarter decision-making and personalized customer experiences. Discover how AI is reshaping industries, creating new opportunities and helping businesses prepare for the digital future.",
+          "link": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-2",
+          "publishedOn": "2026-11-20T13:28:41.000Z",
+          "wordCount": 2475,
+          "title": "How Artificial Intelligence Is Transforming Modern Business",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b004b09035b4.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/ai-reshaping-future-of-business-2",
+          "author": null,
+          "description": "Artificial Intelligence (AI) content generation is transforming digital communication by enabling rapid text, image, and video creation. Modern AI tools leverage machine learning models to synthesize vast datasets, producing high-quality content for marketing, entertainment, and education. While these technologies boost productivity and lower costs, they also present challenges regarding originality, and copyright. Balancing human creativity with AI efficiency is essential for the future.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-reshaping-future-of-business-2",
+          "publishedOn": "2026-11-20T13:09:48.000Z",
+          "wordCount": 4230,
+          "title": "How AI is Transforming the Modern Business World",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b00469c142ba.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business-is-reshaping-operations-customer-experience-and-strategy",
+          "author": null,
+          "description": "Artificial intelligence is moving from experimental use to everyday operations, changing how organizations compete, work, and serve customers. Drawing on the latest enterprise insights, this article explores how businesses are leveraging AI for smarter workflows, better decision-making, and personalized customer experiences while navigating the critical risks of governance and workforce transformation.",
+          "link": "https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business-is-reshaping-operations-customer-experience-and-strategy",
+          "publishedOn": "2026-11-20T12:50:26.000Z",
+          "wordCount": 3799,
+          "title": "How Artificial Intelligence Is Reshaping the Future of Business",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0042125a1d7.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/ai-reshaping-future-of-business",
+          "author": null,
+          "description": "Discover how artificial intelligence is reshaping business in 2026: adoption data, jobs, risks and practical steps to start, with Bangladesh insights.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-reshaping-future-of-business",
+          "publishedOn": "2026-11-20T12:49:25.000Z",
+          "wordCount": 3570,
+          "title": "How Artificial Intelligence Is Reshaping the Future of Business",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0041d4c77b8.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/ai-reshaping-business-future",
+          "author": null,
+          "description": "Artificial Intelligence is transforming modern businesses by improving customer service, marketing, decision-making, and productivity. Discover how AI helps companies reduce costs, increase efficiency, overcome challenges, and prepare for the future of business.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-reshaping-business-future",
+          "publishedOn": "2026-11-20T12:44:37.000Z",
+          "wordCount": 2956,
+          "title": "How Artificial Intelligence Is Reshaping the Future of Business",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0040b54ee3a.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/ai-reshaping-business",
+          "author": null,
+          "description": "Discover how artificial intelligence is transforming modern businesses through smarter customer service, automated operations, data-driven decisions, and personalized marketing. Explore AI opportunities, challenges, and its impact on the future of work.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-reshaping-business",
+          "publishedOn": "2026-11-20T12:40:30.000Z",
+          "wordCount": 3045,
+          "title": "How AI Is Transforming the Future of Business",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b003fbccc080.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business",
+          "author": null,
+          "description": "Artificial intelligence in business is no longer a futuristic idea. It is a practical tool driving automation, smarter data-driven decisions, and better customer experiences. Explore how AI supports digital transformation, why human-AI collaboration matters, and what the future of AI in business looks like, along with the privacy, ethics, and workforce challenges companies must address to adopt AI responsibly and stay competitive. A practical guide for businesses of every size.",
+          "link": "https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business",
+          "publishedOn": "2026-11-20T09:49:45.000Z",
+          "wordCount": 3580,
+          "title": "Artificial Intelligence in Business: Shaping the Future",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0017b8631c1.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/artificial-intelligence-for-business-growth",
+          "author": null,
+          "description": "Artificial intelligence for business growth is no longer limited to technology giants. From small online stores to banks and factories, companies now use machine learning, workflow automation and generative AI to work faster and decide better. This guide explains how AI is reshaping the future of business, what McKinsey's 2025 research reveals about adoption and results, which risks need care, and a simple six-step roadmap any team can follow to get started with confidence.",
+          "link": "https://www.blog.creativeitinstitute.com/artificial-intelligence-for-business-growth",
+          "publishedOn": "2026-11-19T19:08:43.000Z",
+          "wordCount": 5378,
+          "title": "Artificial Intelligence for Business Growth: How AI Is Reshaping the Future of Business",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b007fb82e77c.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business",
+          "author": null,
+          "description": "Discover how Artificial Intelligence is changing the future of business through automation, better customer service, predictive analytics, and improved business growth.",
+          "link": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business",
+          "publishedOn": "2026-11-19T18:20:00.000Z",
+          "wordCount": 3015,
+          "title": "How Artificial Intelligence Is Reshaping the Future of Business",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6aff3e87b6eb5.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-ai-moves-past-routine-tasks-reshape-modern-business",
+          "author": null,
+          "description": "Artificial intelligence is no longer limited to handling repetitive tasks. Explore how intelligent workflows, predictive analytics, and smart automation are reshaping strategy and growth in modern business.",
+          "link": "https://www.blog.creativeitinstitute.com/how-ai-moves-past-routine-tasks-reshape-modern-business",
+          "publishedOn": "2026-11-16T05:00:00.000Z",
+          "wordCount": 3024,
+          "title": "How AI Moves Past Automation to Reshape Modern Business",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6aff49f12cc30.webp"
         }
       ]
     },
