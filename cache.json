@@ -11,7 +11,7 @@
           "description": "Businesses can use machine learning to predict customer needs, detect fraud, and recommend products. But building a model alone won’t help. While a model can be made ready to use, its effectiveness relies on how well it performs after going live. The right type of deployment requires a business to thoroughly test, launch, track, and… Continue reading MLOps Engineer Roadmap: What to Learn, in Order\nThe post MLOps Engineer Roadmap: What to Learn, in Order first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/mlops-engineer-roadmap/",
           "publishedOn": "2026-11-10T13:59:51.000Z",
-          "wordCount": 15931,
+          "wordCount": 14894,
           "title": "MLOps Engineer Roadmap: What to Learn, in Order",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/11/MLOps-Engineer-Roadmap-What-to-Learn-in-Order.jpg"
         },
@@ -21,7 +21,7 @@
           "description": "Learning Python for machine learning doesn’t require you to gain years of programming experience. If you’re choosing a career in ML, a basic understanding of Python, a few programming concepts, and the ability to work with data can help. For example, you are teaching a computer to recognize spam emails. So, what you actually need… Continue reading Python for Machine Learning: How Much Python Do You Need Before Starting?\nThe post Python for Machine Learning: How Much Python Do You Need Before Starting? first appeared on Webskitters Academy.",
           "link": "https://www.webskittersacademy.in/python-for-machine-learning/",
           "publishedOn": "2026-11-04T10:54:43.000Z",
-          "wordCount": 14657,
+          "wordCount": 14643,
           "title": "Python for Machine Learning: How Much Python Do You Need Before Starting?",
           "imageUrl": "https://www.webskittersacademy.in/wp-content/uploads/2026/11/Python-for-Machine-Learning-How-Much-Python-Do-You-Need-Before-Starting.jpg"
         }
@@ -32,16 +32,6 @@
       "feedUrl": "https://www.w3webschool.com/blog/feed/",
       "siteUrl": "https://www.w3webschool.com/blog",
       "articles": [
-        {
-          "id": "https://www.w3webschool.com/blog/?p=48141",
-          "author": "Poulami Dalal",
-          "description": "Web Hosting Guide Hostinger Is Retiring Its cPanel Reseller Hosting – What Are the Best Alternatives? Hostinger’s decision to discontinue its cPanel reseller hosting service means that many web designers, freelancers, and hosting businesses need another place for their customers’ sites to live. Hosting Guide November 2026 5 min read The May announcement gave time ... Read more\nThe post Hostinger is retiring its cPanel reseller hosting – what are the best alternatives? appeared first on W3webschool Blog.",
-          "link": "https://www.w3webschool.com/blog/hostinger-is-retiring-its-cpanel-reseller-hosting/",
-          "publishedOn": "2026-11-25T06:28:49.000Z",
-          "wordCount": 6049,
-          "title": "Hostinger is retiring its cPanel reseller hosting – what are the best alternatives?",
-          "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/11/Guest-Blog.png"
-        },
         {
           "id": "https://www.w3webschool.com/blog/?p=3905",
           "author": "W3 WEB SCHOOL",
@@ -98,7 +88,7 @@
           "description": "UI UX Design Course Syllabus: 10 Modules, Tools and Practice Tasks By Poulami Dalal · Reviewed by Bholanath Hore · Updated November 2026 · 10 min read What should a complete UI UX design course teach? This guide lays out the full syllabus module by module, with a practice task for each, the tools you ... Read more\nThe post Updated UI UX Design Course Syllabus 2026 | Ultimate Guide appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/ui-ux-design-course-syllabus/",
           "publishedOn": "2026-11-21T08:45:39.000Z",
-          "wordCount": 6494,
+          "wordCount": 6498,
           "title": "Updated UI UX Design Course Syllabus 2026 | Ultimate Guide",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/03/UI-UX-Design-Course-Syllabus.png"
         },
@@ -108,7 +98,7 @@
           "description": "UI UX Design Roadmap for Beginners: Complete 2026 Guide Written by Poulami Dalal · Reviewed by Bholanath Hore, UI UX Design Trainer · Last updated 21 November 2026 · Reading time: about 13 minutes Starting a career in design can feel confusing when you have no idea what to learn first. A well-structured UI UX ... Read more\nThe post UI UX Design Roadmap for Beginners: Complete 2026 Guide appeared first on W3webschool Blog.",
           "link": "https://www.w3webschool.com/blog/ui-ux-design-roadmap/",
           "publishedOn": "2026-11-21T05:55:38.000Z",
-          "wordCount": 8054,
+          "wordCount": 8058,
           "title": "UI UX Design Roadmap for Beginners: Complete 2026 Guide",
           "imageUrl": "https://www.w3webschool.com/blog/wp-content/uploads/2026/08/UI-UX-Design-Roadmap-for-Beginners.png"
         },
@@ -150,12 +140,32 @@
       "siteUrl": "https://www.moople.in/blog/",
       "articles": [
         {
+          "id": "https://www.moople.in/blog/?p=18451",
+          "author": "Farhat Jabeen",
+          "description": "Yes, A BCA degree course is worth it for an IT career, provided you use those years to build skills an employer can test, not just marks on a transcript. The degree opens the door. Your projects, internships and one sharp specialisation decide how far you walk through it. Here is the reasoning, the numbers […]\nThe post Is a BCA Degree Course Worth It for a Career in IT? appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/is-a-bca-degree-course-worth-it-for-a-career-in-it/",
+          "publishedOn": "2026-11-26T06:38:13.000Z",
+          "wordCount": 2800,
+          "title": "Is a BCA Degree Course Worth It for a Career in IT?",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/bca-degree-course-1024x536.png"
+        },
+        {
+          "id": "https://www.moople.in/blog/?p=18427",
+          "author": "Farhat Jabeen",
+          "description": "The best colleges for BBA in digital marketing are the ones that make you run campaigns, not just memorise definitions. If you are choosing after Class 12, judge every option on four things: how early digital marketing appears in the syllabus, which tools you actually use, whether faculty have worked in the field, and how […]\nThe post Best Colleges for BBA in Digital Marketing to Become a Digital Marketing Professional appeared first on Moople-Institute of Animation  Design.",
+          "link": "https://www.moople.in/blog/best-colleges-for-bba-in-digital-marketing-to-build-your-career/",
+          "publishedOn": "2026-11-25T08:36:18.000Z",
+          "wordCount": 3024,
+          "title": "Best Colleges for BBA in Digital Marketing to Become a Digital Marketing Professional",
+          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/bba-in-digital-marketing-1024x536.png"
+        },
+        {
           "id": "https://www.moople.in/blog/?p=18418",
           "author": "Farhat Jabeen",
           "description": "A video editing full course should take you from importing your first clip to delivering a finished, multi-camera project. Multicam editing is the best test of that journey. Interviews, live events, podcasts, college fests and music performances are usually shot with two or more cameras, and cutting between them cleanly is a skill clients pay […]\nThe post Video Editing Full Course to Master Multicam Editing Step by Step appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/video-editing-full-course-to-master-multicam-editing-step-by-step/",
           "publishedOn": "2026-11-24T11:20:05.000Z",
-          "wordCount": 2995,
+          "wordCount": 2999,
           "title": "Video Editing Full Course to Master Multicam Editing Step by Step",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/ff7fb149-455d-4f58-bb4e-9266d58f52a0-1024x536.png"
         },
@@ -165,7 +175,7 @@
           "description": "Strong graphic design courses after 12th don’t teach Adobe software as a list of separate tools. They teach Adobe Creative Cloud as one connected workflow: you draw a logo in Illustrator, place it in a Photoshop mockup, build the brochure in InDesign, and animate it in After Effects, all from the same shared assets. That […]\nThe post How Graphic Design Courses After 12th Integrate Adobe Creative Cloud appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/how-graphic-design-courses-after-12th-integrate-adobe-creative-cloud/",
           "publishedOn": "2026-11-23T07:30:35.000Z",
-          "wordCount": 2759,
+          "wordCount": 2763,
           "title": "How Graphic Design Courses After 12th Integrate Adobe Creative Cloud",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/graphic-design-course-1024x537.png"
         },
@@ -175,7 +185,7 @@
           "description": "Yes, for the right student, a ui ux design & ai course is a good career move. Companies still need people who can make apps and websites easy to use. AI tools now speed up much of the routine design work, so employers increasingly prefer designers who can work with those tools rather than avoid […]\nThe post Is UI UX Design & AI a Good Career appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/ui-ux-design-ai-courses/",
           "publishedOn": "2026-11-20T10:21:09.000Z",
-          "wordCount": 2835,
+          "wordCount": 2839,
           "title": "Is UI UX Design & AI a Good Career",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/ui-ux-design-ai-courses-1024x537.png"
         },
@@ -185,7 +195,7 @@
           "description": "Workflow automation is important in digital marketing because it hands repetitive, rule-based work to software, so marketers can spend their time on strategy, creativity and analysis. It also makes campaigns faster, more consistent and easier to measure. For anyone weighing a BBA in digital marketing course in Kolkata, this is one of the practical skills […]\nThe post Why Is Workflow Automation Important in Digital Marketing Strategy? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/why-is-workflow-automation-important-in-digital-marketing-strategy/",
           "publishedOn": "2026-11-18T07:47:48.000Z",
-          "wordCount": 2977,
+          "wordCount": 2995,
           "title": "Why Is Workflow Automation Important in Digital Marketing Strategy?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/why-is-workflow-automation-important-in-digital-marketing-strategy-1024x538.png"
         },
@@ -195,7 +205,7 @@
           "description": "3D animation and visual effects courses teach you to build digital characters, environments and film-grade effects, then carry a shot from an empty viewport to a finished frame. If you’re 18 to 30 and weighing this as a career in Kolkata, it’s realistic. The condition is that you pick a course covering the whole production […]\nThe post 3D Animation and Visual Effects Courses: From Digital Sculpting to Final Rendering appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/3d-animation-vfx-courses-in-kolkata/",
           "publishedOn": "2026-11-16T07:07:32.000Z",
-          "wordCount": 2876,
+          "wordCount": 2880,
           "title": "3D Animation and Visual Effects Courses: From Digital Sculpting to Final Rendering",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/3d-animation-and-visual-effects-courses-1024x538.png"
         },
@@ -205,7 +215,7 @@
           "description": "Plenty of students finish Class 12 with a sketchbook full of characters and no idea whether drawing can pay the bills. An animation bachelor degree is the long-form answer to that doubt. It gives you four years to move from basic drawing to a finished short film and a portfolio, instead of a few months […]\nThe post Animation Bachelor Degree: From Digital Storytelling to VFX Production appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/animation-bachelor-degree-from-digital-storytelling-to-vfx-production/",
           "publishedOn": "2026-11-12T09:09:05.000Z",
-          "wordCount": 2770,
+          "wordCount": 2774,
           "title": "Animation Bachelor Degree: From Digital Storytelling to VFX Production",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/Animation-degree-1024x538.png"
         },
@@ -215,7 +225,7 @@
           "description": "yes, a BCA degree course is still worth it, provided you treat it as a foundation rather than a finish line. AI tools can now draft boilerplate code in seconds, which has made a passive, notes-and-exams BCA less valuable. But someone still has to design the system, check the output, secure the data and explain […]\nThe post Is a BCA Degree Course Worth It in the AI Era? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/is-a-bca-degree-course-worth-it-in-the-ai-era/",
           "publishedOn": "2026-11-06T10:47:57.000Z",
-          "wordCount": 2956,
+          "wordCount": 2975,
           "title": "Is a BCA Degree Course Worth It in the AI Era?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/Untitled-Design-2026-11-06T160409.106-1024x537.png"
         },
@@ -225,7 +235,7 @@
           "description": "Most people who love games have, at some point, wondered whether those hours of play could turn into a profession. They can, but studios hire for what you can build, not what you have played. That is the logic behind the Advanced Diploma in Game Design & Development with AI at Moople Institute, an 18-month […]\nThe post Why an Advanced Diploma in Game Design & Development with AI Is the Smartest Career Move Right Now appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/advanced-diploma-in-game-design-development-with-ai/",
           "publishedOn": "2026-11-05T09:56:32.000Z",
-          "wordCount": 2831,
+          "wordCount": 2835,
           "title": "Why an Advanced Diploma in Game Design & Development with AI Is the Smartest Career Move Right Now",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/Advanced-Diploma-in-Game-Design-Development-with-AI-1-1024x537.png"
         },
@@ -235,7 +245,7 @@
           "description": "No, AI is unlikely to replace graphic designers entirely. It is already replacing some tasks: quick background removal, resizing banners, generating rough mood images. The people who struggle will be those who only knew how to push buttons. Designers who can judge, direct and refine will do fine, and a structured graphic design certificate course […]\nThe post Can AI Replace Graphic Designers? Why a Graphic Design Certificate Course Matters appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/can-ai-replace-graphic-designers-why-a-graphic-design-certificate-course-matters/",
           "publishedOn": "2026-11-03T09:08:15.000Z",
-          "wordCount": 3047,
+          "wordCount": 3051,
           "title": "Can AI Replace Graphic Designers? Why a Graphic Design Certificate Course Matters",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/11/f9e5d2e6-3dff-4c59-bb71-4b67b308399c.png"
         },
@@ -245,7 +255,7 @@
           "description": "The average BCA course fees in Kolkata work out to roughly ₹1 lakh to ₹5 lakh for the full degree. Most private colleges sit between ₹1.2 lakh and ₹3.5 lakh, government-aided colleges cost far less, and premium private universities cost more. These figures come from 2026 listings on public college portals and Moople’s own course […]\nThe post What Is the Average BCA Course Fees in Kolkata? appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/average-bca-course-fees-in-kolkata/",
           "publishedOn": "2026-10-31T07:13:59.000Z",
-          "wordCount": 2846,
+          "wordCount": 2850,
           "title": "What Is the Average BCA Course Fees in Kolkata?",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/10/Untitled-Design-2026-10-31T123058.661-1024x539.png"
         },
@@ -255,19 +265,9 @@
           "description": "A cyber security course that only explains firewalls on slides won’t prepare you for the job. The useful ones put you in front of a Kali Linux terminal, give you a deliberately vulnerable lab, and ask you to find what’s broken before an attacker does. If you’re between 18 and 30 and comparing options in […]\nThe post Cyber Security Course with Hands-On Penetration Testing and Vulnerability Assessment appeared first on Moople-Institute of Animation  Design.",
           "link": "https://www.moople.in/blog/cyber-security-course-penetration-testing-vulnerability-assessment/",
           "publishedOn": "2026-10-29T09:41:37.000Z",
-          "wordCount": 2929,
+          "wordCount": 2933,
           "title": "Cyber Security Course with Hands-On Penetration Testing and Vulnerability Assessment",
           "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/10/Untitled-Design-2026-10-29T145721.713-1024x538.png"
-        },
-        {
-          "id": "https://www.moople.in/blog/?p=18038",
-          "author": "Farhat Jabeen",
-          "description": "A rotoscope artist can spend days tracing one actor frame by frame so a compositor can drop them into a new background. Machine-learning tools now produce a usable first matte in minutes. The artist still has to fix what the software gets wrong, and that is the real story of AI in visual effects: less […]\nThe post How AI Is Changing VFX: What You Learn in a Diploma in VFX with AI appeared first on Moople-Institute of Animation  Design.",
-          "link": "https://www.moople.in/blog/how-ai-is-changing-vfx-what-you-learn-in-a-diploma-in-vfx-with-ai/",
-          "publishedOn": "2026-10-27T10:18:13.000Z",
-          "wordCount": 2960,
-          "title": "How AI Is Changing VFX: What You Learn in a Diploma in VFX with AI",
-          "imageUrl": "https://www.moople.in/blog/wp-content/uploads/2026/10/Untitled-Design-2026-10-27T152745.073-1024x538.png"
         }
       ]
     },
@@ -277,14 +277,154 @@
       "siteUrl": "https://www.blog.creativeitinstitute.com",
       "articles": [
         {
+          "id": "https://www.blog.creativeitinstitute.com/ai-search-seo-visibility-guide",
+          "author": null,
+          "description": "AI search is shifting SEO beyond traditional blue links and click-throughs, as users now get direct answers inside AI summaries. Winning visibility requires optimizing for Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO): publishing clear, concise answers, structured data, original research, and earning trusted brand mentions so AI models cite your content as an authoritative source.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-search-seo-visibility-guide",
+          "publishedOn": "2026-11-25T09:42:08.000Z",
+          "wordCount": 4477,
+          "title": "The Future of AI Search SEO: Winning Visibility Beyond Blue Links",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b06ad6fc0026.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/ai-search-changing-future-of-seo",
+          "author": null,
+          "description": "Discover how AI is transforming the future of SEO and changing the way people search for information online. Explore AI Search SEO, Generative Engine Optimization (GEO), and Answer Engine Optimization (AEO), while understanding their impact on website traffic, brand visibility, and digital marketing. Learn practical strategies to create valuable content, improve online presence, and stay ahead in the evolving world of AI-powered search.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-search-changing-future-of-seo",
+          "publishedOn": "2026-11-25T09:13:54.000Z",
+          "wordCount": 3897,
+          "title": "AI Search SEO: The Future of Digital Discovery",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b06a6d298a38.webp"
+        },
+        {
           "id": "https://www.blog.creativeitinstitute.com/discover-how-seo-helps-small-businesses-improve-online-visibility-attract-potential-customers-boost-google-rankings-and-generate-consistent-organic-traffic-for-long-term-growth",
           "author": null,
           "description": "Discover 7 practical SEO strategies for small businesses in 2026. Learn how to choose the right keywords, create valuable content, optimize website pages, and strengthen local SEO to improve Google rankings, attract potential customers, increase organic traffic, and grow your business consistently.",
           "link": "https://www.blog.creativeitinstitute.com/discover-how-seo-helps-small-businesses-improve-online-visibility-attract-potential-customers-boost-google-rankings-and-generate-consistent-organic-traffic-for-long-term-growth",
           "publishedOn": "2026-11-24T19:30:00.000Z",
-          "wordCount": 4485,
+          "wordCount": 4564,
           "title": "SEO for Small Business to Attract Customers Every Day",
           "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b05eb8caee1c.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-ai-search-changing-future-seo",
+          "author": null,
+          "description": "How AI Search Is Changing the Future of SEO is reshaping how people discover information online. This guide explains how AI-powered search differs from traditional search, how it affects website visibility, and what its benefits and challenges mean for businesses and content creators. Learn practical ways to adapt your SEO strategy with helpful, trustworthy content, relevant information, clear answers, search intent, and a better user experience to stay competitive in 2026.",
+          "link": "https://www.blog.creativeitinstitute.com/how-ai-search-changing-future-seo",
+          "publishedOn": "2026-11-24T12:08:52.000Z",
+          "wordCount": 6386,
+          "title": "How AI Search Is Changing the Future of SEO in 2026",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b057e5483ec0.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/beyond-google-ai-search-seo",
+          "author": null,
+          "description": "AI search has not made traditional SEO useless; it has changed its purpose. Businesses must combine SEO, AEO, and GEO to improve their online visibility, build authority, earn AI citations, and attract potential customers. The future of digital marketing belongs to brands that provide reliable information and establish trust across both traditional search engines and AI-powered platforms.",
+          "link": "https://www.blog.creativeitinstitute.com/beyond-google-ai-search-seo",
+          "publishedOn": "2026-11-24T11:53:08.000Z",
+          "wordCount": 3369,
+          "title": "Beyond Google: How AI Search Is Reshaping the Future of SEO",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b057aa4bce2c.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-seo",
+          "author": null,
+          "description": "The rise of Retrieval-Augmented Generation (RAG) and AI Overviews is dismantling the traditional ten-blue-links model. Discover how to pivot from lexical keyword matching to Generative Engine Optimization (GEO) and verifiable E-E-A-T to future-proof your organic search strategy.",
+          "link": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-seo",
+          "publishedOn": "2026-11-24T11:49:49.000Z",
+          "wordCount": 4470,
+          "title": "Beyond Google: How AI Search Is Changing the Future of SEO",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0579dcefda5.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-2",
+          "author": null,
+          "description": "This blog explores how artificial intelligence is transforming the future of Search Engine Optimization (SEO) and digital marketing. It highlights the rise of AI-powered search engines, the importance of Generative Engine Optimization (GEO), and how businesses and digital marketers can adapt their strategies to stay visible and competitive in the evolving digital landscape.",
+          "link": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-2",
+          "publishedOn": "2026-11-24T11:49:00.000Z",
+          "wordCount": 4220,
+          "title": "How AI Search Is Changing the Future of SEO: Adapting to a New Era of Digital Discovery",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0579ac28f7c.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo",
+          "author": null,
+          "description": "AI search is changing SEO by providing direct answers instead of only showing website links. Traditional SEO remains important, but businesses must focus on helpful content, search intent, original information, trust, and user experience. By combining SEO, AEO, and GEO strategies, businesses can improve their visibility in both traditional and AI-powered search.",
+          "link": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo",
+          "publishedOn": "2026-11-24T11:48:46.000Z",
+          "wordCount": 7203,
+          "title": "AI Search SEO: How AI Is Changing the Future of SEO",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b05799e48e91.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/ai-search-future-of-seo",
+          "author": null,
+          "description": "AI Search is transforming SEO by changing how people discover information. The future of SEO depends on helpful content, credibility, visibility and adapting to AI-powered search.",
+          "link": "https://www.blog.creativeitinstitute.com/ai-search-future-of-seo",
+          "publishedOn": "2026-11-24T11:48:00.000Z",
+          "wordCount": 4544,
+          "title": "Beyond Google: How AI Search Is Changing the Future of SEO",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b05797011b17.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-3",
+          "author": null,
+          "description": "AI Overviews and ChatGPT now answer questions before anyone clicks, and top Google results are losing more than half their clicks. But SEO isn't dying. It's evolving. Learn how AI search works, what the latest data shows, and how to become the source that AI tools quote.",
+          "link": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-3",
+          "publishedOn": "2026-11-24T11:47:00.000Z",
+          "wordCount": 4326,
+          "title": "Beyond Google: How AI Search Is Changing the Future of SEO",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b057ac3000bf.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/blogfuture-of-seo-ai-search",
+          "author": null,
+          "description": "AI-powered search is changing how people find information, but it does not make SEO obsolete. Businesses can prepare by creating useful, trustworthy content, answering customer questions clearly and maintaining an accessible website. This guide explains AI search, AEO, GEO and practical SEO steps for small businesses in Bangladesh, with a Dhaka clothing-shop example. The Google-versus-AI worksheet is a template; add your own test results before presenting it as research.",
+          "link": "https://www.blog.creativeitinstitute.com/blogfuture-of-seo-ai-search",
+          "publishedOn": "2026-11-24T11:45:00.000Z",
+          "wordCount": 5166,
+          "title": "The Future of SEO: How AI Search Is Changing SEO in 2026",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b057a641b16c.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/beyond-google-ai-search-seo-2",
+          "author": null,
+          "description": "AI search SEO means making your content findable and trustworthy beyond Google, in ChatGPT, Perplexity, Gemini and social video too. Google still sends most traffic, but AI answers cut clicks and often cite communities and video. To win, answer questions first, publish original proof, allow the right crawlers and build a visible brand.",
+          "link": "https://www.blog.creativeitinstitute.com/beyond-google-ai-search-seo-2",
+          "publishedOn": "2026-11-24T11:40:00.000Z",
+          "wordCount": 6055,
+          "title": "Beyond Google: How AI Search Is Changing the Future of SEO",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b06b22582a8a.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-ai-is-changing-the-future-of-seo",
+          "author": null,
+          "description": "Discover how AI Search SEO is transforming digital marketing through smarter keyword research, improved search visibility, and AI-powered search engines. Learn about AEO, GEO, and effective strategies to prepare your website for the future of SEO",
+          "link": "https://www.blog.creativeitinstitute.com/how-ai-is-changing-the-future-of-seo",
+          "publishedOn": "2026-11-24T11:19:00.000Z",
+          "wordCount": 4810,
+          "title": "AI Search SEO: How AI Is Changing the Future of SEO",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b057a777df21.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-in-2026",
+          "author": null,
+          "description": "Learn how AI search is changing the future of SEO in simple words. Search tools now give direct answers instead of just a list of links. This means fewer people click on websites. But smart site owners can still win. In this guide, you will learn what AI search is, how it works, and what you must do now. You will also see a simple review of the top AI search tools. At the end, you will find ways to earn money from these new changes. Read on, and get ready for the new era of search. It is easy.",
+          "link": "https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-in-2026",
+          "publishedOn": "2026-11-24T11:11:00.000Z",
+          "wordCount": 5434,
+          "title": "How AI Search Is Changing the Future of SEO in 2026",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0579211a253.webp"
+        },
+        {
+          "id": "https://www.blog.creativeitinstitute.com/small-business-digital-marketing-ai-brand-building",
+          "author": null,
+          "description": "No ad budget and no marketing team? Learn how small businesses can use AI and small business digital marketing to build a brand from zero and reach customers worldwide. This step-by-step guide covers brand basics, AI tools, SEO, automation and a 30-day starter plan.",
+          "link": "https://www.blog.creativeitinstitute.com/small-business-digital-marketing-ai-brand-building",
+          "publishedOn": "2026-11-24T10:20:00.000Z",
+          "wordCount": 5375,
+          "title": "Zero to Global: 6 Steps to Build a Brand With AI &amp; Small Business Digital Marketing",
+          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0563f2a628e.webp"
         },
         {
           "id": "https://www.blog.creativeitinstitute.com/seo-for-small-business-5",
@@ -292,7 +432,7 @@
           "description": "Small business SEO made simple: learn 7 practical steps to get found on Google, attract the right customers, and grow your brand in 2026, even on a small budget.",
           "link": "https://www.blog.creativeitinstitute.com/seo-for-small-business-5",
           "publishedOn": "2026-11-24T10:14:00.000Z",
-          "wordCount": 4340,
+          "wordCount": 4462,
           "title": "7 Ways to Grow Your Brand in 2026",
           "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0563f112fe9.webp"
         },
@@ -302,7 +442,7 @@
           "description": "Your customers are already online. Is your business easy to find? Discover practical ways to strengthen your digital presence, connect with the right audience, build customer trust, and create a more recognizable small business brand.",
           "link": "https://www.blog.creativeitinstitute.com/how-seo-for-small-businesses-helps-small-brands-grow-online",
           "publishedOn": "2026-11-23T17:59:00.000Z",
-          "wordCount": 3755,
+          "wordCount": 3748,
           "title": "How (SEO) for Small Businesses Helps Small Brands Grow Online",
           "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b047f75ee047.webp"
         },
@@ -312,7 +452,7 @@
           "description": "AI and digital marketing help small businesses build strong brands, reach more customers, and grow online. With the right tools, clear branding, and good customer service, even a small local business can reach a global audience.",
           "link": "https://www.blog.creativeitinstitute.com/build-a-brand-using-ai-and-digital-marketing",
           "publishedOn": "2026-11-23T16:13:20.000Z",
-          "wordCount": 4229,
+          "wordCount": 4222,
           "title": "From Zero to Global: How Small Businesses Can Build a Brand Using AI &amp; Digital Marketing",
           "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b04661f47d96.webp"
         },
@@ -322,7 +462,7 @@
           "description": "A small business doesn't need a massive marketing budget to make a big digital impression. Discover how smart SEO practices can turn everyday searches into new opportunities, help your brand stand out online, and connect your business with the customers who are already looking for what you offer.",
           "link": "https://www.blog.creativeitinstitute.com/seo-for-small-business-growth",
           "publishedOn": "2026-11-23T16:01:47.000Z",
-          "wordCount": 4196,
+          "wordCount": 4189,
           "title": "How SEO for Small Businesses Helps Small Brands Grow Online",
           "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b04636b54319.webp"
         },
@@ -332,149 +472,9 @@
           "description": "Learn how small businesses can Get More Traffic and Sales  through SEO in 2026. Discover 10 simple strategies to improve Google visibility, attract customers, and increase website traffic.",
           "link": "https://www.blog.creativeitinstitute.com/seo-for-small-business-4",
           "publishedOn": "2026-11-23T14:00:25.000Z",
-          "wordCount": 4204,
+          "wordCount": 4226,
           "title": "SEO for Small Business: Get More Traffic and Sales",
           "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0440e0aaf18.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/seo-for-small-business-3",
-          "author": null,
-          "description": "How to boost 2026 sales for Small Business through effective low cost SEO\nThis guide shows how small businesses can implement a number of low-cost methods in order to increase their online visibility. Furthermore, many people tend to search for local services and currently not enough small businesses are utilizing SEO. Therefore, by continuously applying strategies, you can gain an advantage.",
-          "link": "https://www.blog.creativeitinstitute.com/seo-for-small-business-3",
-          "publishedOn": "2026-11-23T13:30:00.000Z",
-          "wordCount": 4308,
-          "title": "SEO for Small Business: A Simple Guide to More Sales in 2026",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b043ce53ae12.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/seo-for-small-business-2",
-          "author": null,
-          "description": "Discover how SEO for Small Business can improve online visibility, attract potential customers, increase organic traffic, and support sustainable business growth beyond Facebook Ads.",
-          "link": "https://www.blog.creativeitinstitute.com/seo-for-small-business-2",
-          "publishedOn": "2026-11-23T10:45:33.000Z",
-          "wordCount": 4595,
-          "title": "SEO for Small Business: Proven Strategies to Build Online Visibility and Sustainable Growth",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b04194ce5d9e.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/seo-for-small-business",
-          "author": null,
-          "description": "SEO is a simple yet powerful way for small businesses to grow online. Learn 10 practical strategies to improve search visibility, attract local customers, build trust, and grow your business in 2026 - even on a small budget.",
-          "link": "https://www.blog.creativeitinstitute.com/seo-for-small-business",
-          "publishedOn": "2026-11-23T07:00:00.000Z",
-          "wordCount": 3756,
-          "title": "SEO for small business: 10 Simple Ways to Grow Your Site!",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b03e39c15724.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/global-brand-building",
-          "author": null,
-          "description": "Small businesses can reach international customers through websites, social media and digital marketing. AI helps save time with research, content creation and customer communication. Building a global brand requires understanding customer needs, choosing the right market and providing reliable products and services. By using SEO, social media and email marketing, businesses can grow their online presence, build trust and create long-term opportunities.",
-          "link": "https://www.blog.creativeitinstitute.com/global-brand-building",
-          "publishedOn": "2026-11-22T11:54:00.000Z",
-          "wordCount": 4594,
-          "title": "Global Brand Building with AI &amp; Marketing",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b02deb90fa51.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/content-writing-of-human-vs-ai-who-wins",
-          "author": null,
-          "description": "Explore the debate on human vs. AI content writing and who leads the future of digital publishing. AI speeds up research, outlines, and rough drafts, while human writers deliver lived experience, emotional connection, cultural context, and genuine trust. Includes 2026 SEO findings, common AI mistakes like hallucinations and unedited drafts, and how a hybrid workflow pairing AI efficiency with human E-E-A-T and originality builds lasting rankings and loyal readers.",
-          "link": "https://www.blog.creativeitinstitute.com/content-writing-of-human-vs-ai-who-wins",
-          "publishedOn": "2026-11-21T14:30:00.000Z",
-          "wordCount": 5834,
-          "title": "Content Writing of Human vs AI: Who Wins the Future?",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b02fa5679a23.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-4",
-          "author": null,
-          "description": "AI vs human creativity in content marketing is changing the world faster than ever before. From business operations to education.",
-          "link": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-4",
-          "publishedOn": "2026-11-21T14:30:00.000Z",
-          "wordCount": 7414,
-          "title": "AI vs Human Creativity in Content Marketing: Who Will Win the Future?",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01abd160337.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-3",
-          "author": null,
-          "description": "The internet is experiencing an unprecedented flood of AI-generated material. Because virtually every business has access to similar large language models, publishing high volumes of generic articles no longer creates a competitive advantage. Instead, audiences quickly tune out repetitive \"AI trash,\" while search engines enforce stricter quality standards. Under Google’s helpful content approach and E-E-A-T principles—Experience.",
-          "link": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-3",
-          "publishedOn": "2026-11-21T14:26:00.000Z",
-          "wordCount": 3843,
-          "title": "AI vs Human Creativity: Who Wins the Future of Content Marketing!",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01aaed2859d.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-2",
-          "author": null,
-          "description": "AI vs Human Creativity: Who Wins the Future Artificial intelligence can help businesses write their own posts and analyze their customers’ data.",
-          "link": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-2",
-          "publishedOn": "2026-11-21T14:25:00.000Z",
-          "wordCount": 5440,
-          "title": "AI vs Human Creativity: Who Wins the Future of Content Marketing?",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01aa494c7da.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/seo-for-small-businesses",
-          "author": null,
-          "description": "Learn how SEO for small businesses can boost visibility, attract local customers, and drive steady growth. Practical steps you can start today.",
-          "link": "https://www.blog.creativeitinstitute.com/seo-for-small-businesses",
-          "publishedOn": "2026-11-21T14:20:00.000Z",
-          "wordCount": 5017,
-          "title": "How Small Businesses Can Grow Through Search Engine Optimization (SEO)",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01a8869d462.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity",
-          "author": null,
-          "description": "In the world of content marketing, time is extremely valuable.AI vs human creativity in content marketing Businesses need to publish fresh and engaging content regularly to remain visible in search engines and stay connected with their audiences.",
-          "link": "https://www.blog.creativeitinstitute.com/ai-vs-human-creativity",
-          "publishedOn": "2026-11-21T14:19:00.000Z",
-          "wordCount": 7354,
-          "title": "AI vs Human Creativity in Content Marketing: Who Will Win the Future?",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b01a9969ad4b.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/the-future-of-digital-marketing-careers-what-skills-will-marketers-need-in-the-ai-era",
-          "author": null,
-          "description": "Still wondering which AI skills to learn as a marketer? Explore AI literacy, automation, SEO, creativity, and critical thinking to stay competitive. Discover how modern marketers can combine core marketing fundamentals with emerging AI tools to understand customers, build stronger strategies, and future-proof their careers.",
-          "link": "https://www.blog.creativeitinstitute.com/the-future-of-digital-marketing-careers-what-skills-will-marketers-need-in-the-ai-era",
-          "publishedOn": "2026-11-20T19:42:00.000Z",
-          "wordCount": 4089,
-          "title": "The Future of Digital Marketing Careers: What Skills Will Marketers Need in the AI Era?",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b00a3ec5e3ec.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-4",
-          "author": null,
-          "description": "",
-          "link": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-4",
-          "publishedOn": "2026-11-20T18:23:17.000Z",
-          "wordCount": 3539,
-          "title": "AI In Business : Future Trends &amp; Impact",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b0090159ce8d.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business-2",
-          "author": null,
-          "description": "Discover how Artificial Intelligence In Business is transforming modern companies through intelligent automation, business intelligence tools, and smarter decision-making. Explore how AI improves customer experience, powers AI in e-commerce, supports AI for small businesses, and boosts productivity. Learn how human-AI collaboration helps businesses reduce costs, streamline operations, and achieve sustainable growth.",
-          "link": "https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business-2",
-          "publishedOn": "2026-11-20T13:47:21.000Z",
-          "wordCount": 2893,
-          "title": "Artificial Intelligence in Business: How AI Is Reshaping the Future",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b004f696361b.webp"
-        },
-        {
-          "id": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-2",
-          "author": null,
-          "description": "Artificial intelligence is transforming the future of business through automation, smarter decision-making and personalized customer experiences. Discover how AI is reshaping industries, creating new opportunities and helping businesses prepare for the digital future.",
-          "link": "https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-2",
-          "publishedOn": "2026-11-20T13:28:41.000Z",
-          "wordCount": 2469,
-          "title": "How Artificial Intelligence Is Transforming Modern Business",
-          "imageUrl": "https://www.blog.creativeitinstitute.com/images/cms/blog/blog_6b004b09035b4.webp"
         }
       ]
     },
@@ -483,6 +483,16 @@
       "feedUrl": "https://www.karmickinstitute.com/resources/feed/",
       "siteUrl": "https://www.karmickinstitute.com/resources/",
       "articles": [
+        {
+          "id": "https://www.karmickinstitute.com/?post_type=resources&p=8558",
+          "author": "Tanmay Das",
+          "description": "Do I need to be good at coding to become a data analyst? It’s the question that stops half of all beginners before they even start. Here’s the short answer: you need some coding in data analysis, but much less than you fear. The coding part is smaller than you would expect: a bit of […]\nThe post How Much Coding Is Required for a Data Analyst? appeared first on Karmick Institute.",
+          "link": "https://www.karmickinstitute.com/resources/how-much-coding-is-required-for-a-data-analyst/",
+          "publishedOn": "2026-11-25T12:36:09.000Z",
+          "wordCount": 7486,
+          "title": "How Much Coding Is Required for a Data Analyst?",
+          "imageUrl": "https://www.karmickinstitute.com/wp-content/uploads/2026/11/How-Much-Coding-Is-Required-for-a-Data-Analyst.webp"
+        },
         {
           "id": "https://www.karmickinstitute.com/?post_type=resources&p=8554",
           "author": "Tanmay Das",
@@ -540,6 +550,16 @@
       "feedUrl": "https://99eedu.com/feed/",
       "siteUrl": "https://99eedu.com/",
       "articles": [
+        {
+          "id": "https://99eedu.com/?p=6031",
+          "author": "Yeash",
+          "description": "Your first real website just lost half its clicks, and now you’re doubting everything you learned. Breathe. Google’s November 2026 core update started on 10 November, and plenty of student blogs and portfolios are swinging right now. At 99Eedu Institute, we wrote this Google core update recovery checklist for students, graduates and freshers. Seven steps. […]\nThe post Google November 2026 Core Update: 7-Step Recovery Checklist appeared first on 99EEDU.",
+          "link": "https://99eedu.com/google-november-2026-core-update-7-step-recovery-checklist/",
+          "publishedOn": "2026-11-24T12:44:24.000Z",
+          "wordCount": 7243,
+          "title": "Google November 2026 Core Update: 7-Step Recovery Checklist",
+          "imageUrl": "https://99eedu.com/wp-content/uploads/2026/11/Google-core-update-recovery-1024x576.webp"
+        },
         {
           "id": "https://99eedu.com/?p=6014",
           "author": "Yeash",

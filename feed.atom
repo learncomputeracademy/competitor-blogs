@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-25T07:10:13.940Z</id>
+    <id>urn:2026-11-26T06:59:46.417Z</id>
     <title>Blogs</title>
-    <updated>2026-11-25T07:10:13.940Z</updated>
+    <updated>2026-11-26T06:59:46.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Hostinger is retiring its cPanel reseller hosting – what are the best alternatives?]]></title>
-        <id>https://www.w3webschool.com/blog/?p=48141</id>
-        <link href="https://www.w3webschool.com/blog/hostinger-is-retiring-its-cpanel-reseller-hosting/"/>
-        <updated>2026-11-25T06:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Web Hosting Guide Hostinger Is Retiring Its cPanel Reseller Hosting – What Are the Best Alternatives? Hostinger’s decision to discontinue its cPanel reseller hosting service means that many web designers, freelancers, and hosting businesses need another place for their customers’ sites to live. Hosting Guide November 2026 5 min read The May announcement gave time ... Read more
-The post Hostinger is retiring its cPanel reseller hosting – what are the best alternatives? appeared first on W3webschool Blog.]]></summary>
+        <title type="html"><![CDATA[Is a BCA Degree Course Worth It for a Career in IT?]]></title>
+        <id>https://www.moople.in/blog/?p=18451</id>
+        <link href="https://www.moople.in/blog/is-a-bca-degree-course-worth-it-for-a-career-in-it/"/>
+        <updated>2026-11-26T06:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Yes, A BCA degree course is worth it for an IT career, provided you use those years to build skills an employer can test, not just marks on a transcript. The degree opens the door. Your projects, internships and one sharp specialisation decide how far you walk through it. Here is the reasoning, the numbers […]
+The post Is a BCA Degree Course Worth It for a Career in IT? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
-            <name>Poulami Dalal</name>
+            <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Coding Is Required for a Data Analyst?]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8558</id>
+        <link href="https://www.karmickinstitute.com/resources/how-much-coding-is-required-for-a-data-analyst/"/>
+        <updated>2026-11-25T12:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Do I need to be good at coding to become a data analyst? It’s the question that stops half of all beginners before they even start. Here’s the short answer: you need some coding in data analysis, but much less than you fear. The coding part is smaller than you would expect: a bit of […]
+The post How Much Coding Is Required for a Data Analyst? appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of AI Search SEO: Winning Visibility Beyond Blue Links]]></title>
+        <id>https://www.blog.creativeitinstitute.com/ai-search-seo-visibility-guide</id>
+        <link href="https://www.blog.creativeitinstitute.com/ai-search-seo-visibility-guide"/>
+        <updated>2026-11-25T09:42:08.000Z</updated>
+        <summary type="html"><![CDATA[AI search is shifting SEO beyond traditional blue links and click-throughs, as users now get direct answers inside AI summaries. Winning visibility requires optimizing for Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO): publishing clear, concise answers, structured data, original research, and earning trusted brand mentions so AI models cite your content as an authoritative source.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Search SEO: The Future of Digital Discovery]]></title>
+        <id>https://www.blog.creativeitinstitute.com/ai-search-changing-future-of-seo</id>
+        <link href="https://www.blog.creativeitinstitute.com/ai-search-changing-future-of-seo"/>
+        <updated>2026-11-25T09:13:54.000Z</updated>
+        <summary type="html"><![CDATA[Discover how AI is transforming the future of SEO and changing the way people search for information online. Explore AI Search SEO, Generative Engine Optimization (GEO), and Answer Engine Optimization (AEO), while understanding their impact on website traffic, brand visibility, and digital marketing. Learn practical strategies to create valuable content, improve online presence, and stay ahead in the evolving world of AI-powered search.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Colleges for BBA in Digital Marketing to Become a Digital Marketing Professional]]></title>
+        <id>https://www.moople.in/blog/?p=18427</id>
+        <link href="https://www.moople.in/blog/best-colleges-for-bba-in-digital-marketing-to-build-your-career/"/>
+        <updated>2026-11-25T08:36:18.000Z</updated>
+        <summary type="html"><![CDATA[The best colleges for BBA in digital marketing are the ones that make you run campaigns, not just memorise definitions. If you are choosing after Class 12, judge every option on four things: how early digital marketing appears in the syllabus, which tools you actually use, whether faculty have worked in the field, and how […]
+The post Best Colleges for BBA in Digital Marketing to Become a Digital Marketing Professional appeared first on Moople-Institute of Animation  Design.]]></summary>
+        <author>
+            <name>Farhat Jabeen</name>
         </author>
     </entry>
     <entry>
@@ -38,6 +80,107 @@ The post Digital Marketing Course Duration (2026): How Long Does It Take to Comp
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google November 2026 Core Update: 7-Step Recovery Checklist]]></title>
+        <id>https://99eedu.com/?p=6031</id>
+        <link href="https://99eedu.com/google-november-2026-core-update-7-step-recovery-checklist/"/>
+        <updated>2026-11-24T12:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Your first real website just lost half its clicks, and now you’re doubting everything you learned. Breathe. Google’s November 2026 core update started on 10 November, and plenty of student blogs and portfolios are swinging right now. At 99Eedu Institute, we wrote this Google core update recovery checklist for students, graduates and freshers. Seven steps. […]
+The post Google November 2026 Core Update: 7-Step Recovery Checklist appeared first on 99EEDU.]]></summary>
+        <author>
+            <name>Yeash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Search Is Changing the Future of SEO in 2026]]></title>
+        <id>https://www.blog.creativeitinstitute.com/how-ai-search-changing-future-seo</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-ai-search-changing-future-seo"/>
+        <updated>2026-11-24T12:08:52.000Z</updated>
+        <summary type="html"><![CDATA[How AI Search Is Changing the Future of SEO is reshaping how people discover information online. This guide explains how AI-powered search differs from traditional search, how it affects website visibility, and what its benefits and challenges mean for businesses and content creators. Learn practical ways to adapt your SEO strategy with helpful, trustworthy content, relevant information, clear answers, search intent, and a better user experience to stay competitive in 2026.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Google: How AI Search Is Reshaping the Future of SEO]]></title>
+        <id>https://www.blog.creativeitinstitute.com/beyond-google-ai-search-seo</id>
+        <link href="https://www.blog.creativeitinstitute.com/beyond-google-ai-search-seo"/>
+        <updated>2026-11-24T11:53:08.000Z</updated>
+        <summary type="html"><![CDATA[AI search has not made traditional SEO useless; it has changed its purpose. Businesses must combine SEO, AEO, and GEO to improve their online visibility, build authority, earn AI citations, and attract potential customers. The future of digital marketing belongs to brands that provide reliable information and establish trust across both traditional search engines and AI-powered platforms.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Google: How AI Search Is Changing the Future of SEO]]></title>
+        <id>https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-seo</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-seo"/>
+        <updated>2026-11-24T11:49:49.000Z</updated>
+        <summary type="html"><![CDATA[The rise of Retrieval-Augmented Generation (RAG) and AI Overviews is dismantling the traditional ten-blue-links model. Discover how to pivot from lexical keyword matching to Generative Engine Optimization (GEO) and verifiable E-E-A-T to future-proof your organic search strategy.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Search Is Changing the Future of SEO: Adapting to a New Era of Digital Discovery]]></title>
+        <id>https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-2</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-2"/>
+        <updated>2026-11-24T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog explores how artificial intelligence is transforming the future of Search Engine Optimization (SEO) and digital marketing. It highlights the rise of AI-powered search engines, the importance of Generative Engine Optimization (GEO), and how businesses and digital marketers can adapt their strategies to stay visible and competitive in the evolving digital landscape.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Search SEO: How AI Is Changing the Future of SEO]]></title>
+        <id>https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo"/>
+        <updated>2026-11-24T11:48:46.000Z</updated>
+        <summary type="html"><![CDATA[AI search is changing SEO by providing direct answers instead of only showing website links. Traditional SEO remains important, but businesses must focus on helpful content, search intent, original information, trust, and user experience. By combining SEO, AEO, and GEO strategies, businesses can improve their visibility in both traditional and AI-powered search.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Google: How AI Search Is Changing the Future of SEO]]></title>
+        <id>https://www.blog.creativeitinstitute.com/ai-search-future-of-seo</id>
+        <link href="https://www.blog.creativeitinstitute.com/ai-search-future-of-seo"/>
+        <updated>2026-11-24T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[AI Search is transforming SEO by changing how people discover information. The future of SEO depends on helpful content, credibility, visibility and adapting to AI-powered search.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Google: How AI Search Is Changing the Future of SEO]]></title>
+        <id>https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-3</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-3"/>
+        <updated>2026-11-24T11:47:00.000Z</updated>
+        <summary type="html"><![CDATA[AI Overviews and ChatGPT now answer questions before anyone clicks, and top Google results are losing more than half their clicks. But SEO isn't dying. It's evolving. Learn how AI search works, what the latest data shows, and how to become the source that AI tools quote.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of SEO: How AI Search Is Changing SEO in 2026]]></title>
+        <id>https://www.blog.creativeitinstitute.com/blogfuture-of-seo-ai-search</id>
+        <link href="https://www.blog.creativeitinstitute.com/blogfuture-of-seo-ai-search"/>
+        <updated>2026-11-24T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered search is changing how people find information, but it does not make SEO obsolete. Businesses can prepare by creating useful, trustworthy content, answering customer questions clearly and maintaining an accessible website. This guide explains AI search, AEO, GEO and practical SEO steps for small businesses in Bangladesh, with a Dhaka clothing-shop example. The Google-versus-AI worksheet is a template; add your own test results before presenting it as research.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Google: How AI Search Is Changing the Future of SEO]]></title>
+        <id>https://www.blog.creativeitinstitute.com/beyond-google-ai-search-seo-2</id>
+        <link href="https://www.blog.creativeitinstitute.com/beyond-google-ai-search-seo-2"/>
+        <updated>2026-11-24T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[AI search SEO means making your content findable and trustworthy beyond Google, in ChatGPT, Perplexity, Gemini and social video too. Google still sends most traffic, but AI answers cut clicks and often cite communities and video. To win, answer questions first, publish original proof, allow the right crawlers and build a visible brand.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Video Editing Full Course to Master Multicam Editing Step by Step]]></title>
         <id>https://www.moople.in/blog/?p=18418</id>
         <link href="https://www.moople.in/blog/video-editing-full-course-to-master-multicam-editing-step-by-step/"/>
@@ -46,6 +189,36 @@ The post Digital Marketing Course Duration (2026): How Long Does It Take to Comp
 The post Video Editing Full Course to Master Multicam Editing Step by Step appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Search SEO: How AI Is Changing the Future of SEO]]></title>
+        <id>https://www.blog.creativeitinstitute.com/how-ai-is-changing-the-future-of-seo</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-ai-is-changing-the-future-of-seo"/>
+        <updated>2026-11-24T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how AI Search SEO is transforming digital marketing through smarter keyword research, improved search visibility, and AI-powered search engines. Learn about AEO, GEO, and effective strategies to prepare your website for the future of SEO]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Search Is Changing the Future of SEO in 2026]]></title>
+        <id>https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-in-2026</id>
+        <link href="https://www.blog.creativeitinstitute.com/how-ai-search-is-changing-the-future-of-seo-in-2026"/>
+        <updated>2026-11-24T11:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how AI search is changing the future of SEO in simple words. Search tools now give direct answers instead of just a list of links. This means fewer people click on websites. But smart site owners can still win. In this guide, you will learn what AI search is, how it works, and what you must do now. You will also see a simple review of the top AI search tools. At the end, you will find ways to earn money from these new changes. Read on, and get ready for the new era of search. It is easy.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero to Global: 6 Steps to Build a Brand With AI &amp; Small Business Digital Marketing]]></title>
+        <id>https://www.blog.creativeitinstitute.com/small-business-digital-marketing-ai-brand-building</id>
+        <link href="https://www.blog.creativeitinstitute.com/small-business-digital-marketing-ai-brand-building"/>
+        <updated>2026-11-24T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[No ad budget and no marketing team? Learn how small businesses can use AI and small business digital marketing to build a brand from zero and reach customers worldwide. This step-by-step guide covers brand basics, AI tools, SEO, automation and a 30-day starter plan.]]></summary>
+        <author>
+            <name>Laravel Blog</name>
         </author>
     </entry>
     <entry>
@@ -99,17 +272,6 @@ The post Video Editing Full Course to Master Multicam Editing Step by Step appea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEO for Small Business: A Simple Guide to More Sales in 2026]]></title>
-        <id>https://www.blog.creativeitinstitute.com/seo-for-small-business-3</id>
-        <link href="https://www.blog.creativeitinstitute.com/seo-for-small-business-3"/>
-        <updated>2026-11-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How to boost 2026 sales for Small Business through effective low cost SEO
-This guide shows how small businesses can implement a number of low-cost methods in order to increase their online visibility. Furthermore, many people tend to search for local services and currently not enough small businesses are utilizing SEO. Therefore, by continuously applying strategies, you can gain an advantage.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Is Agentic Analytics? The Future of Data Analysis]]></title>
         <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8554</id>
         <link href="https://www.karmickinstitute.com/resources/what-is-agentic-analytics-the-future-of-data-analysis/"/>
@@ -132,16 +294,6 @@ The post Digital Marketing Course Syllabus (2026): Complete Modules, AI Tools & 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEO for Small Business: Proven Strategies to Build Online Visibility and Sustainable Growth]]></title>
-        <id>https://www.blog.creativeitinstitute.com/seo-for-small-business-2</id>
-        <link href="https://www.blog.creativeitinstitute.com/seo-for-small-business-2"/>
-        <updated>2026-11-23T10:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Discover how SEO for Small Business can improve online visibility, attract potential customers, increase organic traffic, and support sustainable business growth beyond Facebook Ads.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Graphic Design Courses After 12th Integrate Adobe Creative Cloud]]></title>
         <id>https://www.moople.in/blog/?p=18316</id>
         <link href="https://www.moople.in/blog/how-graphic-design-courses-after-12th-integrate-adobe-creative-cloud/"/>
@@ -161,86 +313,6 @@ The post How Graphic Design Courses After 12th Integrate Adobe Creative Cloud ap
 The post Top 10 UI UX Design Institutes in Kolkata [2026 Updated] appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEO for small business: 10 Simple Ways to Grow Your Site!]]></title>
-        <id>https://www.blog.creativeitinstitute.com/seo-for-small-business</id>
-        <link href="https://www.blog.creativeitinstitute.com/seo-for-small-business"/>
-        <updated>2026-11-23T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SEO is a simple yet powerful way for small businesses to grow online. Learn 10 practical strategies to improve search visibility, attract local customers, build trust, and grow your business in 2026 - even on a small budget.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Brand Building with AI &amp; Marketing]]></title>
-        <id>https://www.blog.creativeitinstitute.com/global-brand-building</id>
-        <link href="https://www.blog.creativeitinstitute.com/global-brand-building"/>
-        <updated>2026-11-22T11:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Small businesses can reach international customers through websites, social media and digital marketing. AI helps save time with research, content creation and customer communication. Building a global brand requires understanding customer needs, choosing the right market and providing reliable products and services. By using SEO, social media and email marketing, businesses can grow their online presence, build trust and create long-term opportunities.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Content Writing of Human vs AI: Who Wins the Future?]]></title>
-        <id>https://www.blog.creativeitinstitute.com/content-writing-of-human-vs-ai-who-wins</id>
-        <link href="https://www.blog.creativeitinstitute.com/content-writing-of-human-vs-ai-who-wins"/>
-        <updated>2026-11-21T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the debate on human vs. AI content writing and who leads the future of digital publishing. AI speeds up research, outlines, and rough drafts, while human writers deliver lived experience, emotional connection, cultural context, and genuine trust. Includes 2026 SEO findings, common AI mistakes like hallucinations and unedited drafts, and how a hybrid workflow pairing AI efficiency with human E-E-A-T and originality builds lasting rankings and loyal readers.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI vs Human Creativity in Content Marketing: Who Will Win the Future?]]></title>
-        <id>https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-4</id>
-        <link href="https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-4"/>
-        <updated>2026-11-21T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[AI vs human creativity in content marketing is changing the world faster than ever before. From business operations to education.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI vs Human Creativity: Who Wins the Future of Content Marketing!]]></title>
-        <id>https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-3</id>
-        <link href="https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-3"/>
-        <updated>2026-11-21T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[The internet is experiencing an unprecedented flood of AI-generated material. Because virtually every business has access to similar large language models, publishing high volumes of generic articles no longer creates a competitive advantage. Instead, audiences quickly tune out repetitive "AI trash," while search engines enforce stricter quality standards. Under Google’s helpful content approach and E-E-A-T principles—Experience.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI vs Human Creativity: Who Wins the Future of Content Marketing?]]></title>
-        <id>https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-2</id>
-        <link href="https://www.blog.creativeitinstitute.com/ai-vs-human-creativity-2"/>
-        <updated>2026-11-21T14:25:00.000Z</updated>
-        <summary type="html"><![CDATA[AI vs Human Creativity: Who Wins the Future Artificial intelligence can help businesses write their own posts and analyze their customers’ data.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Small Businesses Can Grow Through Search Engine Optimization (SEO)]]></title>
-        <id>https://www.blog.creativeitinstitute.com/seo-for-small-businesses</id>
-        <link href="https://www.blog.creativeitinstitute.com/seo-for-small-businesses"/>
-        <updated>2026-11-21T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how SEO for small businesses can boost visibility, attract local customers, and drive steady growth. Practical steps you can start today.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI vs Human Creativity in Content Marketing: Who Will Win the Future?]]></title>
-        <id>https://www.blog.creativeitinstitute.com/ai-vs-human-creativity</id>
-        <link href="https://www.blog.creativeitinstitute.com/ai-vs-human-creativity"/>
-        <updated>2026-11-21T14:19:00.000Z</updated>
-        <summary type="html"><![CDATA[In the world of content marketing, time is extremely valuable.AI vs human creativity in content marketing Businesses need to publish fresh and engaging content regularly to remain visible in search engines and stay connected with their audiences.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
         </author>
     </entry>
     <entry>
@@ -285,45 +357,6 @@ The post Updated UI UX Design Course Syllabus 2026 | Ultimate Guide appeared fir
 The post UI UX Design Roadmap for Beginners: Complete 2026 Guide appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Digital Marketing Careers: What Skills Will Marketers Need in the AI Era?]]></title>
-        <id>https://www.blog.creativeitinstitute.com/the-future-of-digital-marketing-careers-what-skills-will-marketers-need-in-the-ai-era</id>
-        <link href="https://www.blog.creativeitinstitute.com/the-future-of-digital-marketing-careers-what-skills-will-marketers-need-in-the-ai-era"/>
-        <updated>2026-11-20T19:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Still wondering which AI skills to learn as a marketer? Explore AI literacy, automation, SEO, creativity, and critical thinking to stay competitive. Discover how modern marketers can combine core marketing fundamentals with emerging AI tools to understand customers, build stronger strategies, and future-proof their careers.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI In Business : Future Trends &amp; Impact]]></title>
-        <id>https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-4</id>
-        <link href="https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-4"/>
-        <updated>2026-11-20T18:23:17.000Z</updated>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificial Intelligence in Business: How AI Is Reshaping the Future]]></title>
-        <id>https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business-2</id>
-        <link href="https://www.blog.creativeitinstitute.com/artificial-intelligence-in-business-2"/>
-        <updated>2026-11-20T13:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Artificial Intelligence In Business is transforming modern companies through intelligent automation, business intelligence tools, and smarter decision-making. Explore how AI improves customer experience, powers AI in e-commerce, supports AI for small businesses, and boosts productivity. Learn how human-AI collaboration helps businesses reduce costs, streamline operations, and achieve sustainable growth.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Artificial Intelligence Is Transforming Modern Business]]></title>
-        <id>https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-2</id>
-        <link href="https://www.blog.creativeitinstitute.com/how-artificial-intelligence-is-reshaping-the-future-of-business-2"/>
-        <updated>2026-11-20T13:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is transforming the future of business through automation, smarter decision-making and personalized customer experiences. Discover how AI is reshaping industries, creating new opportunities and helping businesses prepare for the digital future.]]></summary>
-        <author>
-            <name>Laravel Blog</name>
         </author>
     </entry>
     <entry>
@@ -597,17 +630,6 @@ The post What Is the Average BCA Course Fees in Kolkata? appeared first on Moopl
         <updated>2026-10-29T09:41:37.000Z</updated>
         <summary type="html"><![CDATA[A cyber security course that only explains firewalls on slides won’t prepare you for the job. The useful ones put you in front of a Kali Linux terminal, give you a deliberately vulnerable lab, and ask you to find what’s broken before an attacker does. If you’re between 18 and 30 and comparing options in […]
 The post Cyber Security Course with Hands-On Penetration Testing and Vulnerability Assessment appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing VFX: What You Learn in a Diploma in VFX with AI]]></title>
-        <id>https://www.moople.in/blog/?p=18038</id>
-        <link href="https://www.moople.in/blog/how-ai-is-changing-vfx-what-you-learn-in-a-diploma-in-vfx-with-ai/"/>
-        <updated>2026-10-27T10:18:13.000Z</updated>
-        <summary type="html"><![CDATA[A rotoscope artist can spend days tracing one actor frame by frame so a compositor can drop them into a new background. Machine-learning tools now produce a usable first matte in minutes. The artist still has to fix what the software gets wrong, and that is the real story of AI in visual effects: less […]
-The post How AI Is Changing VFX: What You Learn in a Diploma in VFX with AI appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
         </author>
