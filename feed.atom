@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-27T06:55:39.463Z</id>
+    <id>urn:2026-11-28T06:29:36.360Z</id>
     <title>Blogs</title>
-    <updated>2026-11-27T06:55:39.463Z</updated>
+    <updated>2026-11-28T06:29:36.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Website Wireframe: Step-by-Step Guide (2026)]]></title>
+        <id>https://www.w3webschool.com/blog/?p=48529</id>
+        <link href="https://www.w3webschool.com/blog/how-to-create-a-website-wireframe/"/>
+        <updated>2026-11-27T12:39:51.000Z</updated>
+        <summary type="html"><![CDATA[How to Create a Website Wireframe: Step-by-Step Guide With Examples Written by Poulami Dalal Reviewed by Bholanath Hore, UI UX Design Trainer Updated 27 November 2026  |  12 min read At a Glance: A website wireframe is a simple black-and-white layout of a web page showing where the header, content, images and buttons go, without ... Read more
+The post How to Create a Website Wireframe: Step-by-Step Guide (2026) appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figma Tutorial For Beginners: Step-by-Step Guide (2026)]]></title>
+        <id>https://www.w3webschool.com/blog/?p=48426</id>
+        <link href="https://www.w3webschool.com/blog/figma-tutorial-for-beginners/"/>
+        <updated>2026-11-27T07:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Figma Tutorial for Beginners: Complete Step-by-Step Guide Written by Poulami Dalal Reviewed by Bholanath Hore, UI UX Design Trainer Updated 27 November 2026  |  11 min read Short answer: Figma tutorial for beginners highlights you how to go from a blank canvas to a clickable prototype in just 7 steps: Install Figma and master the ... Read more
+The post Figma Tutorial For Beginners: Step-by-Step Guide (2026) appeared first on W3webschool Blog.]]></summary>
+        <author>
+            <name>Poulami Dalal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is a Digital Marketing Certificate Enough to Get a Job in 2026?]]></title>
         <id>https://www.w3webschool.com/blog/?p=48362</id>
@@ -36,6 +58,17 @@ The post What to Check Before Joining a Digital Marketing Institute (2026) appea
 The post Is a BCA Degree Course Worth It for a Career in IT? appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Coding Is Required for a Data Analyst?]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8558</id>
+        <link href="https://www.karmickinstitute.com/resources/how-much-coding-is-required-for-a-data-analyst/"/>
+        <updated>2026-11-25T12:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Do I need to be good at coding to become a data analyst? It’s the question that stops half of all beginners before they even start. Here’s the short answer: you need some coding in data analysis, but much less than you fear. The coding part is smaller than you would expect: a bit of […]
+The post How Much Coding Is Required for a Data Analyst? appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
         </author>
     </entry>
     <entry>
@@ -83,6 +116,17 @@ The post Video Editing Full Course to Master Multicam Editing Step by Step appea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Is Agentic Analytics? The Future of Data Analysis]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8554</id>
+        <link href="https://www.karmickinstitute.com/resources/what-is-agentic-analytics-the-future-of-data-analysis/"/>
+        <updated>2026-11-23T12:16:19.000Z</updated>
+        <summary type="html"><![CDATA[You have probably seen the term ‘agentic analytics’ popping up on LinkedIn, in tech news, maybe even in your last team meeting where everyone nodded like they knew exactly what it meant. If you are still thinking ‘what agentic analytics actually is?’, you’re not alone. In simple words, it’s analytics that doesn’t just wait for […]
+The post What Is Agentic Analytics? The Future of Data Analysis appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Digital Marketing Course Syllabus (2026): Complete Modules, AI Tools & Career Skills]]></title>
         <id>https://www.w3webschool.com/blog/?p=4018</id>
         <link href="https://www.w3webschool.com/blog/digital-marketing-course-syllabus/"/>
@@ -120,7 +164,7 @@ The post Top 10 UI UX Design Institutes in Kolkata [2026 Updated] appeared first
         <id>https://www.w3webschool.com/blog/?p=43159</id>
         <link href="https://www.w3webschool.com/blog/mern-stack-roadmap/"/>
         <updated>2026-11-21T12:20:32.000Z</updated>
-        <summary type="html"><![CDATA[Home › MERN Stack Roadmap Complete MERN Stack Roadmap for Beginners in 2026 Written by Poulami Dalal, Digital Marketing Trainer & Blog Specialist · Reviewed by Bidyut Hazra, Backend & MERN Stack Trainer · Last updated 21 November 2026 · Reading time: about 8 minutes Do you want to build modern web applications? Then MERN ... Read more
+        <summary type="html"><![CDATA[Blog › MERN Stack › Roadmap MERN Stack Roadmap for Beginners: What to Learn, in What Order Written byPoulami DalalReviewed byBidyut HazraUpdated 28 Nov 20269 min read Most beginners don’t struggle with MERN because it is hard. They struggle because they learn it in the wrong order: React before JavaScript, or a full e-commerce project ... Read more
 The post MERN Stack Roadmap for 2026 : Complete Developer Guide appeared first on W3webschool Blog.]]></summary>
         <author>
             <name>Poulami Dalal</name>
@@ -193,17 +237,6 @@ The post Digital Marketing Interview Questions for 2026 appeared first on W3webs
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Digital Marketing Institutes in Kolkata: 10 Compared + Checklist]]></title>
-        <id>https://www.w3webschool.com/blog/?p=44824</id>
-        <link href="https://www.w3webschool.com/blog/best-digital-marketing-institute-in-kolkata/"/>
-        <updated>2026-11-20T05:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Best Digital Marketing Institutes in Kolkata: 6 Compared, With a Campaign Test By Poulami Dalal · Reviewed by Ankit Singh · Updated November 2026 · 7 min read Most digital marketing institutes in Kolkata list the same tools. What differs is how much real campaign work you do. This guide compares six institutes students commonly ... Read more
-The post Best Digital Marketing Institutes in Kolkata: 10 Compared + Checklist appeared first on W3webschool Blog.]]></summary>
-        <author>
-            <name>W3 WEB SCHOOL</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meta Tracking Update: 5 Things to Check Before Black Friday]]></title>
         <id>https://99eedu.com/?p=6000</id>
         <link href="https://99eedu.com/meta-tracking-update-5-things-to-check-before-black-friday/"/>
@@ -226,14 +259,14 @@ The post Why Is Workflow Automation Important in Digital Marketing Strategy? app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Best Image to Link Converter Tools (Free & Paid)]]></title>
-        <id>https://www.w3webschool.com/blog/?p=47629</id>
-        <link href="https://www.w3webschool.com/blog/image-to-link-converter-tools/"/>
-        <updated>2026-11-17T11:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Home Blog AI Tools Image to Link Converter 10 Best Image to Link Converter Tools (Free & Paid) Written by Poulami Dalal Digital Marketing Trainer & Content Writer Published on: November 17, 2026 Updated on: November 17, 2026 Reading time: 11 min read On this page What is an Image to Link Converter? Benefits of ... Read more
-The post 10 Best Image to Link Converter Tools (Free & Paid) appeared first on W3webschool Blog.]]></summary>
+        <title type="html"><![CDATA[Power BI vs Tableau for Beginners: A Complete Guide]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8541</id>
+        <link href="https://www.karmickinstitute.com/resources/power-bi-vs-tableau-for-beginners/"/>
+        <updated>2026-11-18T05:21:53.000Z</updated>
+        <summary type="html"><![CDATA[So, you have decided to get into data analytics. Great career move, but when you Google “what data analytics tools to learn first”, two names show up everywhere, i.e. Power BI and Tableau. While Power BI have surpassed over 30 million monthly active users, Tableau has over 1 million users with 500 user groups. On […]
+The post Power BI vs Tableau for Beginners: A Complete Guide appeared first on Karmick Institute.]]></summary>
         <author>
-            <name>Poulami Dalal</name>
+            <name>Tanmay Das</name>
         </author>
     </entry>
     <entry>
@@ -256,6 +289,17 @@ The post Short-Term Courses After Graduation for Better Career Opportunities app
 The post 3D Animation and Visual Effects Courses: From Digital Sculpting to Final Rendering appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8527</id>
+        <link href="https://www.karmickinstitute.com/resources/learn-python-for-data-analytics-step-by-step-roadmap-for-beginners/"/>
+        <updated>2026-11-13T05:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Ever spent half your day fixing one broken formula or pasting the same data again and again? Yeah, spreadsheets can be exhausting because they were never really built for handling large amounts of data.  That’s exactly why so many data professionals have switched to Python for analytics. The job market agrees, too, as the U.S. […]
+The post Learn Python for Data Analytics: Step-by-Step Roadmap for Beginners appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
         </author>
     </entry>
     <entry>
@@ -289,6 +333,17 @@ The post Animation Bachelor Degree: From Digital Storytelling to VFX Production 
 The post Can AI Replace Graphic Designers in 2027? The Honest Answer appeared first on 99EEDU.]]></summary>
         <author>
             <name>Yeash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Data Analytics: 10 Skills Every Future Data Analyst Should Learn]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8522</id>
+        <link href="https://www.karmickinstitute.com/resources/ai-in-data-analytics-10-skills-every-future-data-analyst-should-learn/"/>
+        <updated>2026-11-11T05:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Remember when “data analyst” just meant someone who was good with Excel?  Honestly, those days are long gone. Now, AI can pull the report, tidy the messy spreadsheet, and spot the trend before you’ve even opened your laptop. So the real question that fresh graduates and career-switchers are asking right now isn’t “should I become […]
+The post AI in Data Analytics: 10 Skills Every Future Data Analyst Should Learn appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
         </author>
     </entry>
     <entry>
@@ -336,6 +391,17 @@ The post Why an Advanced Diploma in Game Design & Development with AI Is the Sma
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Performance Marketing Funnel Explained: TOFU, MOFU, BOFU Guide]]></title>
+        <id>https://www.karmickinstitute.com/?post_type=resources&amp;p=8518</id>
+        <link href="https://www.karmickinstitute.com/resources/performance-marketing-funnel-explained-tofu-mofu-bofu-guide/"/>
+        <updated>2026-11-05T06:18:12.000Z</updated>
+        <summary type="html"><![CDATA[A performance marketing funnel is simply the path someone takes from seeing an ad for the first time to finally making the purchase. It has three stages: TOFU (top of funnel, where people first see a brand), MOFU (middle of funnel, where they start weighing it) and BOFU (bottom of funnel, where they make the […]
+The post Performance Marketing Funnel Explained: TOFU, MOFU, BOFU Guide appeared first on Karmick Institute.]]></summary>
+        <author>
+            <name>Tanmay Das</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Python for Machine Learning: How Much Python Do You Need Before Starting?]]></title>
         <id>https://www.webskittersacademy.in/?p=21878</id>
         <link href="https://www.webskittersacademy.in/python-for-machine-learning/"/>
@@ -375,17 +441,6 @@ The post Why Your Google Ads Get Clicks but No Leads (and Fixes) appeared first 
         <updated>2026-10-31T07:13:59.000Z</updated>
         <summary type="html"><![CDATA[The average BCA course fees in Kolkata work out to roughly ₹1 lakh to ₹5 lakh for the full degree. Most private colleges sit between ₹1.2 lakh and ₹3.5 lakh, government-aided colleges cost far less, and premium private universities cost more. These figures come from 2026 listings on public college portals and Moople’s own course […]
 The post What Is the Average BCA Course Fees in Kolkata? appeared first on Moople-Institute of Animation  Design.]]></summary>
-        <author>
-            <name>Farhat Jabeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Security Course with Hands-On Penetration Testing and Vulnerability Assessment]]></title>
-        <id>https://www.moople.in/blog/?p=18057</id>
-        <link href="https://www.moople.in/blog/cyber-security-course-penetration-testing-vulnerability-assessment/"/>
-        <updated>2026-10-29T09:41:37.000Z</updated>
-        <summary type="html"><![CDATA[A cyber security course that only explains firewalls on slides won’t prepare you for the job. The useful ones put you in front of a Kali Linux terminal, give you a deliberately vulnerable lab, and ask you to find what’s broken before an attacker does. If you’re between 18 and 30 and comparing options in […]
-The post Cyber Security Course with Hands-On Penetration Testing and Vulnerability Assessment appeared first on Moople-Institute of Animation  Design.]]></summary>
         <author>
             <name>Farhat Jabeen</name>
         </author>
